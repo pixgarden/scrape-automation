@@ -181,8 +181,8 @@ date,location,iso_code,variable,value
 2021-12-03,Guyana,GUY,7-days average,-4.45
 2021-12-03,Haiti,HTI,20-days average,0.7
 2021-12-03,Haiti,HTI,7-days average,0.7
-2021-12-03,High income,OWID_HIC,20-days average,6064.3
-2021-12-03,High income,OWID_HIC,7-days average,6064.3
+2021-12-03,High income,OWID_HIC,20-days average,6040.2
+2021-12-03,High income,OWID_HIC,7-days average,6040.2
 2021-12-03,Honduras,HND,20-days average,9.6
 2021-12-03,Honduras,HND,7-days average,9.6
 2021-12-03,Hong Kong,HKG,20-days average,-0.2
@@ -311,8 +311,8 @@ date,location,iso_code,variable,value
 2021-12-03,Nigeria,NGA,7-days average,-4.4
 2021-07-23,Niue,NIU,20-days average,0
 2021-07-23,Niue,NIU,7-days average,0
-2021-12-03,North America,OWID_NAM,20-days average,5338.5
-2021-12-03,North America,OWID_NAM,7-days average,5338.5
+2021-12-03,North America,OWID_NAM,20-days average,5314.4
+2021-12-03,North America,OWID_NAM,7-days average,5314.4
 2021-12-03,North Macedonia,MKD,20-days average,-20.4
 2021-12-03,North Macedonia,MKD,7-days average,-20.4
 2021-11-16,Northern Cyprus,OWID_CYN,20-days average,0
@@ -447,8 +447,8 @@ date,location,iso_code,variable,value
 2021-12-03,United Arab Emirates,ARE,7-days average,1.1
 2021-12-03,United Kingdom,GBR,20-days average,551.75
 2021-12-03,United Kingdom,GBR,7-days average,551.75
-2021-12-03,United States,USA,20-days average,5158
-2021-12-03,United States,USA,7-days average,5158
+2021-12-03,United States,USA,20-days average,5133.9
+2021-12-03,United States,USA,7-days average,5133.9
 2021-12-03,Upper middle income,OWID_UMC,20-days average,-1646.2
 2021-12-03,Upper middle income,OWID_UMC,7-days average,-1646.2
 2021-12-03,Uruguay,URY,20-days average,-11.15
@@ -465,8 +465,8 @@ date,location,iso_code,variable,value
 2021-12-03,Vietnam,VNM,7-days average,-1187.75
 2021-11-20,Wallis and Futuna,WLF,20-days average,0
 2021-11-20,Wallis and Futuna,WLF,7-days average,0
-2021-12-03,World,OWID_WRL,20-days average,2268.6
-2021-12-03,World,OWID_WRL,7-days average,2268.6
+2021-12-03,World,OWID_WRL,20-days average,2244.5
+2021-12-03,World,OWID_WRL,7-days average,2244.5
 2021-12-03,Yemen,YEM,20-days average,-0.15
 2021-12-03,Yemen,YEM,7-days average,-0.15
 2021-12-03,Zambia,ZMB,20-days average,7
