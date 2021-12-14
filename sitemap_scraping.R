@@ -30,5 +30,59 @@ speed_data = lapply(speed_data, function(x){
 speed_data = do.call(rbind, speed_data)
 speed_data = reshape2::melt(speed_data, id.var = c('date', 'location', 'iso_code'))
 speed_data = subset(speed_data, variable != 'difference')
-
 write_csv(speed_data, 'speed_data.csv')
+
+speed_data_latest = na.omit(speed_data)
+speed_data_latest = split(speed_data_latest, f = speed_data_latest$location)
+speed_data_latest = lapply(speed_data_latest, function(x){
+  subset(x, date == max(x$date))
+})
+speed_data_latest = do.call(rbind, speed_data_latest)
+write_csv(speed_data_latest, 'speed_data_latest.csv')
+
+
+speed_data_map <- rename(speed_data_latest, iso_a3 = iso_code)
+speed_data_map$tooltip = paste(speed_data_latest$location, 
+                               formatC(speed_data_map$value, big.mark = ','))
+write_csv(speed_data_map, 'speed_data_map.csv')
+
+policy_stringency = oid_data %>% select(location, date,
+                                        stringency_index, 
+                                        new_deaths_per_million) %>%
+  fill(stringency_index) %>% 
+  mutate(stringency_lag = lag(stringency_index, 15)) %>%
+  filter(date == max(date)) 
+
+policy_stringency$new_deaths_per_million[is.na(policy_stringency$new_deaths_per_million)
+] <- 0
+policy_stringency$new_deaths_per_million[policy_stringency$new_deaths_per_million < 0
+] <- 0
+write_csv(policy_stringency, 'policy_stringency.csv')
+
+
+policy_vaxx = oid_data %>% select(location, date,
+                                  people_vaccinated_per_hundred, 
+                                  new_deaths_per_million) %>%
+  fill(people_vaccinated_per_hundred) %>% 
+  mutate(vaxx_lag = lag(people_vaccinated_per_hundred, 15)) %>%
+  filter(date == max(date)) 
+policy_vaxx$new_deaths_per_million[is.na(policy_vaxx$new_deaths_per_million)
+] <- 0
+policy_stringency$new_deaths_per_million[policy_stringency$new_deaths_per_million < 0
+] <- 0
+write_csv(policy_vaxx, 'policy_stringency.csv')
+
+
+third_doses = oid_data %>% select(location, iso_code, date, total_boosters_per_hundred)
+third_doses = split(third_doses, f = third_doses$location)
+third_doses = lapply(third_doses, function(x){
+  x %>% fill(total_boosters_per_hundred)
+})
+third_doses = do.call(rbind, third_doses)
+third_doses = subset(third_doses, date > Sys.Date() - 40)
+third_doses$total_boosters_per_hundred[is.na(third_doses$total_boosters_per_hundred)] <-0
+third_doses = subset(third_doses, date == max(date))
+
+write_csv(third_doses, 'third_doses.csv')
+
+save.image(file = 'tracker_data.RData')
