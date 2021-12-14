@@ -80,7 +80,6 @@ third_doses = lapply(third_doses, function(x){
 })
 third_doses = do.call(rbind, third_doses)
 third_doses = subset(third_doses, date > Sys.Date() - 40)
-third_doses = subset(third_doses, iso_code %in% world$iso_a3)
 third_doses$total_boosters_per_hundred[is.na(third_doses$total_boosters_per_hundred)] <-0
 third_doses = subset(third_doses, date == max(date))
 
