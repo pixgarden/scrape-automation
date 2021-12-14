@@ -1,10 +1,10 @@
 # Hourly scraping
-name: sitemap_scraping
+name: oid_data_collector
 
 # Controls when the action will run.
 on:
   schedule:
-    - cron:  '5 * * * *'
+    - cron:  '*/6 * * * *'
 
 
 jobs: 
