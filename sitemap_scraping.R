@@ -7,7 +7,6 @@ library(sf)
 require(data.table)
 
 oid_data <- fread("https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv")
-world <- ne_countries(scale = "medium", returnclass = "sf") 
 speed_data <- oid_data %>% select(date, iso_code, location, new_cases)
 speed_data$new_cases[is.na(speed_data$new_cases)] <- 0
 speed_data = split(speed_data, f = speed_data$location)
@@ -39,14 +38,13 @@ speed_data_latest = lapply(speed_data_latest, function(x){
   subset(x, date == max(x$date))
 })
 speed_data_latest = do.call(rbind, speed_data_latest)
+write_csv(speed_data_latest, 'speed_data_latest.csv')
 
 
 speed_data_map <- rename(speed_data_latest, iso_a3 = iso_code)
 speed_data_map$tooltip = paste(speed_data_latest$location, 
                                formatC(speed_data_map$value, big.mark = ','))
-world = st_sf(world)
-world = world %>% left_join(speed_data_map, by = 'iso_a3')
-
+write_csv(speed_data_map, 'speed_data_map.csv')
 
 policy_stringency = oid_data %>% select(location, date,
                                         stringency_index, 
@@ -59,6 +57,8 @@ policy_stringency$new_deaths_per_million[is.na(policy_stringency$new_deaths_per_
 ] <- 0
 policy_stringency$new_deaths_per_million[policy_stringency$new_deaths_per_million < 0
 ] <- 0
+write_csv(policy_stringency, 'policy_stringency.csv')
+
 
 policy_vaxx = oid_data %>% select(location, date,
                                   people_vaccinated_per_hundred, 
@@ -70,6 +70,8 @@ policy_vaxx$new_deaths_per_million[is.na(policy_vaxx$new_deaths_per_million)
 ] <- 0
 policy_stringency$new_deaths_per_million[policy_stringency$new_deaths_per_million < 0
 ] <- 0
+write_csv(policy_vaxx, 'policy_stringency.csv')
+
 
 third_doses = oid_data %>% select(location, iso_code, date, total_boosters_per_hundred)
 third_doses = split(third_doses, f = third_doses$location)
@@ -82,27 +84,6 @@ third_doses = subset(third_doses, iso_code %in% world$iso_a3)
 third_doses$total_boosters_per_hundred[is.na(third_doses$total_boosters_per_hundred)] <-0
 third_doses = subset(third_doses, date == max(date))
 
-
-picci = theme_minimal()  + theme(legend.position = 'bottom',
-                                 plot.title = element_text(family = 'Garamond',
-                                                           face = 'bold',
-                                                           size = 18
-                                 ),
-                                 plot.subtitle = element_text(family = 'Garamond',
-                                                              face = 'plain',
-                                                              colour = 'grey27',
-                                                              size = 16
-                                 ),
-                                 text = element_text(family = 'Garamond'),
-                                 axis.text = element_text(face = 'bold'),
-                                 panel.grid.major.y = (element_line(color = 'grey27')),
-                                 panel.grid.minor.y = (element_blank()),
-                                 panel.grid.major.x = (element_blank()),
-                                 panel.grid.minor.x = element_blank(),
-                                 axis.ticks.x = (element_line()),
-                                 plot.background = element_rect(fill =
-                                                                  'white',
-                                                                color = 'white'),
-                                 plot.title.position = 'plot') 
+write_csv(third_doses, 'third_doses.csv')
 
 save.image(file = 'tracker_data.RData')
