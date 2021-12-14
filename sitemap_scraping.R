@@ -4,7 +4,7 @@ library(rvest)
 
 #nse top gainers
 
-url <- 'https://www.rforseo.com/sitemap.xml'
+url <- 'https://www.francescopiccinelli.eu/post-sitemap.xml'
 
 # extract html 
 
