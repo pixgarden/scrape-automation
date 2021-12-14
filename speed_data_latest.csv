@@ -107,8 +107,8 @@ date,location,iso_code,variable,value
 2021-12-03,Curacao,CUW,7-days average,0
 2021-12-03,Cyprus,CYP,20-days average,13.9
 2021-12-03,Cyprus,CYP,7-days average,13.9
-2021-12-03,Czechia,CZE,20-days average,205.65
-2021-12-03,Czechia,CZE,7-days average,205.65
+2021-12-03,Czechia,CZE,20-days average,157.6
+2021-12-03,Czechia,CZE,7-days average,157.6
 2021-12-03,Democratic Republic of Congo,COD,20-days average,-2.6
 2021-12-03,Democratic Republic of Congo,COD,7-days average,-2.6
 2021-12-03,Denmark,DNK,20-days average,177.35
@@ -135,10 +135,10 @@ date,location,iso_code,variable,value
 2021-12-03,Eswatini,SWZ,7-days average,42.95
 2021-12-03,Ethiopia,ETH,20-days average,-3.25
 2021-12-03,Ethiopia,ETH,7-days average,-3.25
-2021-12-03,Europe,OWID_EUR,20-days average,-518.55
-2021-12-03,Europe,OWID_EUR,7-days average,-518.55
-2021-12-03,European Union,OWID_EUN,20-days average,-1038.7
-2021-12-03,European Union,OWID_EUN,7-days average,-1038.7
+2021-12-03,Europe,OWID_EUR,20-days average,-566.6
+2021-12-03,Europe,OWID_EUR,7-days average,-566.6
+2021-12-03,European Union,OWID_EUN,20-days average,-1086.75
+2021-12-03,European Union,OWID_EUN,7-days average,-1086.75
 2021-10-26,Faeroe Islands,FRO,20-days average,0
 2021-10-26,Faeroe Islands,FRO,7-days average,0
 2021-04-04,Falkland Islands,FLK,20-days average,0
@@ -181,8 +181,8 @@ date,location,iso_code,variable,value
 2021-12-03,Guyana,GUY,7-days average,-4.45
 2021-12-03,Haiti,HTI,20-days average,0.7
 2021-12-03,Haiti,HTI,7-days average,0.7
-2021-12-03,High income,OWID_HIC,20-days average,6040.2
-2021-12-03,High income,OWID_HIC,7-days average,6040.2
+2021-12-03,High income,OWID_HIC,20-days average,6111.7
+2021-12-03,High income,OWID_HIC,7-days average,6111.7
 2021-12-03,Honduras,HND,20-days average,9.6
 2021-12-03,Honduras,HND,7-days average,9.6
 2021-12-03,Hong Kong,HKG,20-days average,-0.2
@@ -311,8 +311,8 @@ date,location,iso_code,variable,value
 2021-12-03,Nigeria,NGA,7-days average,-4.4
 2021-07-23,Niue,NIU,20-days average,0
 2021-07-23,Niue,NIU,7-days average,0
-2021-12-03,North America,OWID_NAM,20-days average,5314.4
-2021-12-03,North America,OWID_NAM,7-days average,5314.4
+2021-12-03,North America,OWID_NAM,20-days average,5433.95
+2021-12-03,North America,OWID_NAM,7-days average,5433.95
 2021-12-03,North Macedonia,MKD,20-days average,-20.4
 2021-12-03,North Macedonia,MKD,7-days average,-20.4
 2021-11-16,Northern Cyprus,OWID_CYN,20-days average,0
@@ -447,8 +447,8 @@ date,location,iso_code,variable,value
 2021-12-03,United Arab Emirates,ARE,7-days average,1.1
 2021-12-03,United Kingdom,GBR,20-days average,551.75
 2021-12-03,United Kingdom,GBR,7-days average,551.75
-2021-12-03,United States,USA,20-days average,5133.9
-2021-12-03,United States,USA,7-days average,5133.9
+2021-12-03,United States,USA,20-days average,5253.45
+2021-12-03,United States,USA,7-days average,5253.45
 2021-12-03,Upper middle income,OWID_UMC,20-days average,-1646.2
 2021-12-03,Upper middle income,OWID_UMC,7-days average,-1646.2
 2021-12-03,Uruguay,URY,20-days average,-11.15
@@ -465,8 +465,8 @@ date,location,iso_code,variable,value
 2021-12-03,Vietnam,VNM,7-days average,-1187.75
 2021-11-20,Wallis and Futuna,WLF,20-days average,0
 2021-11-20,Wallis and Futuna,WLF,7-days average,0
-2021-12-03,World,OWID_WRL,20-days average,2244.5
-2021-12-03,World,OWID_WRL,7-days average,2244.5
+2021-12-03,World,OWID_WRL,20-days average,2316
+2021-12-03,World,OWID_WRL,7-days average,2316
 2021-12-03,Yemen,YEM,20-days average,-0.15
 2021-12-03,Yemen,YEM,7-days average,-0.15
 2021-12-03,Zambia,ZMB,20-days average,7
