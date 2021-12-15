@@ -6,7 +6,7 @@ library(rnaturalearthdata)
 library(sf)
 require(data.table)
 
-iso_3 <- read_delim("iso_3.csv", delim = ";", escape_double = FALSE, trim_ws = TRUE)
+iso_3 <- read_delim("https://raw.githubusercontent.com/fpmassam/scrape-automation/main/iso_3.csv", delim = ";", escape_double = FALSE, trim_ws = TRUE)
 iso_3 = iso_3 %>% select(ISO3)
 iso_3 = iso_3$ISO3
 
