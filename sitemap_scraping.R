@@ -24,7 +24,7 @@ speed_data = lapply(speed_data, function(x){
   )
   a = a %>%
     mutate(`20-days average` = zoo::rollmean(difference, k = 20, fill = NA),
-           `7-days average` = zoo::rollmean(difference, k = 20, fill = NA))
+           `7-days average` = zoo::rollmean(difference, k = 7, fill = NA))
   return(a)
 })
 speed_data = do.call(rbind, speed_data)
@@ -70,7 +70,7 @@ policy_vaxx$new_deaths_per_million[is.na(policy_vaxx$new_deaths_per_million)
 ] <- 0
 policy_stringency$new_deaths_per_million[policy_stringency$new_deaths_per_million < 0
 ] <- 0
-write_csv(policy_vaxx, 'policy_stringency.csv')
+write_csv(policy_vaxx, 'policy_vaxx.csv')
 
 
 third_doses = oid_data %>% select(location, iso_code, date, total_boosters_per_hundred)
