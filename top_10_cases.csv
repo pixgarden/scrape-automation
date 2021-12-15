@@ -1,1 +1,11 @@
-
+date,iso_code,location,total_cases
+2021-12-14,OWID_WRL,World,"271,469,226"
+2021-12-14,OWID_HIC,High income,"121,467,981"
+2021-12-14,OWID_UMC,Upper middle income," 84,194,233"
+2021-12-14,OWID_ASI,Asia," 83,238,489"
+2021-12-14,OWID_EUR,Europe," 79,820,318"
+2021-12-14,OWID_LMC,Lower middle income," 64,407,080"
+2021-12-14,OWID_NAM,North America," 59,889,117"
+2021-12-14,OWID_EUN,European Union," 50,299,475"
+2021-12-14,USA,United States," 50,233,338"
+2021-12-14,OWID_SAM,South America," 39,184,775"
