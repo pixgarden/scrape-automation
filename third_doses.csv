@@ -1,5 +1,6 @@
 location,iso_code,date,total_boosters_per_hundred
 Afghanistan,AFG,2021-12-14,0
+Africa,OWID_AFR,2021-12-14,0.05
 Albania,ALB,2021-12-14,3.81
 Algeria,DZA,2021-12-14,0.06
 Andorra,AND,2021-12-14,0
@@ -8,6 +9,7 @@ Antigua and Barbuda,ATG,2021-12-14,0
 Argentina,ARG,2021-12-14,7.28
 Armenia,ARM,2021-12-14,0
 Aruba,ABW,2021-12-14,0
+Asia,OWID_ASI,2021-12-14,3.56
 Australia,AUS,2021-12-14,3.37
 Austria,AUT,2021-12-14,33.14
 Azerbaijan,AZE,2021-12-14,11.56
@@ -43,8 +45,10 @@ Costa Rica,CRI,2021-12-14,1.21
 Cote d'Ivoire,CIV,2021-12-14,0
 Croatia,HRV,2021-12-14,0
 Cuba,CUB,2021-12-14,0
+Curacao,CUW,2021-12-14,0
 Cyprus,CYP,2021-12-14,20.75
 Czechia,CZE,2021-12-14,15.8
+Democratic Republic of Congo,COD,2021-12-14,0
 Denmark,DNK,2021-12-14,23.69
 Djibouti,DJI,2021-12-14,0
 Dominica,DMA,2021-12-14,0
@@ -57,6 +61,8 @@ Eritrea,ERI,2021-12-14,0
 Estonia,EST,2021-12-14,0
 Eswatini,SWZ,2021-12-14,0
 Ethiopia,ETH,2021-12-14,0
+Europe,OWID_EUR,2021-12-14,15.77
+European Union,OWID_EUN,2021-12-14,18.77
 Fiji,FJI,2021-12-14,0
 Finland,FIN,2021-12-14,9.62
 France,FRA,2021-12-14,20.87
@@ -68,19 +74,23 @@ Ghana,GHA,2021-12-14,0
 Greece,GRC,2021-12-14,23.3
 Grenada,GRD,2021-12-14,0
 Guatemala,GTM,2021-12-14,0
+Guernsey,GGY,2021-12-14,0
 Guinea,GIN,2021-12-14,0
 Guinea-Bissau,GNB,2021-12-14,0
 Guyana,GUY,2021-12-14,0.73
 Haiti,HTI,2021-12-14,0
+High income,OWID_HIC,2021-12-14,16.19
 Honduras,HND,2021-12-14,2.11
 Hong Kong,HKG,2021-12-14,0
 Hungary,HUN,2021-12-14,31.43
 Iceland,ISL,2021-12-14,53.95
 India,IND,2021-12-14,0
 Indonesia,IDN,2021-12-14,0
+International,OWID_INT,2021-12-14,0
 Iran,IRN,2021-12-14,1.51
 Iraq,IRQ,2021-12-14,0
 Ireland,IRL,2021-12-14,25.92
+Isle of Man,IMN,2021-12-14,0
 Israel,ISR,2021-12-14,44.51
 Italy,ITA,2021-12-14,20.81
 Jamaica,JAM,2021-12-14,0
@@ -89,6 +99,7 @@ Jordan,JOR,2021-12-14,0
 Kazakhstan,KAZ,2021-12-14,0
 Kenya,KEN,2021-12-14,0
 Kiribati,KIR,2021-12-14,0
+Kosovo,OWID_KOS,2021-12-14,0
 Kuwait,KWT,2021-12-14,2.51
 Kyrgyzstan,KGZ,2021-12-14,0
 Laos,LAO,2021-12-14,0
@@ -99,6 +110,8 @@ Liberia,LBR,2021-12-14,0
 Libya,LBY,2021-12-14,0
 Liechtenstein,LIE,2021-12-14,18.2
 Lithuania,LTU,2021-12-14,17.32
+Low income,OWID_LIC,2021-12-14,0
+Lower middle income,OWID_LMC,2021-12-14,0.26
 Luxembourg,LUX,2021-12-14,19.31
 Madagascar,MDG,2021-12-14,0
 Malawi,MWI,2021-12-14,0
@@ -114,6 +127,7 @@ Micronesia (country),FSM,2021-12-14,0
 Moldova,MDA,2021-12-14,0
 Monaco,MCO,2021-12-14,0
 Mongolia,MNG,2021-12-14,0
+Montenegro,MNE,2021-12-14,0
 Morocco,MAR,2021-12-14,0
 Mozambique,MOZ,2021-12-14,0
 Myanmar,MMR,2021-12-14,0
@@ -124,11 +138,14 @@ New Zealand,NZL,2021-12-14,3.85
 Nicaragua,NIC,2021-12-14,0
 Niger,NER,2021-12-14,0
 Nigeria,NGA,2021-12-14,0
+North America,OWID_NAM,2021-12-14,10.2
 North Macedonia,MKD,2021-12-14,3.03
 Norway,NOR,2021-12-14,19.4
+Oceania,OWID_OCE,2021-12-14,2.46
 Oman,OMN,2021-12-14,0
 Pakistan,PAK,2021-12-14,0
 Palau,PLW,2021-12-14,0
+Palestine,PSE,2021-12-14,0.05
 Panama,PAN,2021-12-14,5.29
 Papua New Guinea,PNG,2021-12-14,0
 Paraguay,PRY,2021-12-14,1.96
@@ -137,6 +154,7 @@ Philippines,PHL,2021-12-14,0.77
 Poland,POL,2021-12-14,13.74
 Portugal,PRT,2021-12-14,20.7
 Qatar,QAT,2021-12-14,0
+Romania,ROU,2021-12-14,0
 Russia,RUS,2021-12-14,3.97
 Rwanda,RWA,2021-12-14,0
 Saint Kitts and Nevis,KNA,2021-12-14,1.8
@@ -147,6 +165,7 @@ San Marino,SMR,2021-12-14,0
 Sao Tome and Principe,STP,2021-12-14,0
 Saudi Arabia,SAU,2021-12-14,0
 Senegal,SEN,2021-12-14,0
+Serbia,SRB,2021-12-14,23.81
 Seychelles,SYC,2021-12-14,0
 Sierra Leone,SLE,2021-12-14,0
 Singapore,SGP,2021-12-14,11.41
@@ -155,7 +174,9 @@ Slovenia,SVN,2021-12-14,17.13
 Solomon Islands,SLB,2021-12-14,0
 Somalia,SOM,2021-12-14,0
 South Africa,ZAF,2021-12-14,0
+South America,OWID_SAM,2021-12-14,8.89
 South Korea,KOR,2021-12-14,15.47
+South Sudan,SSD,2021-12-14,0
 Spain,ESP,2021-12-14,19.7
 Sri Lanka,LKA,2021-12-14,6.7
 Sudan,SDN,2021-12-14,0
@@ -167,6 +188,7 @@ Taiwan,TWN,2021-12-14,0.15
 Tajikistan,TJK,2021-12-14,0
 Tanzania,TZA,2021-12-14,0
 Thailand,THA,2021-12-14,5.93
+Timor,TLS,2021-12-14,0
 Togo,TGO,2021-12-14,0
 Tonga,TON,2021-12-14,0
 Trinidad and Tobago,TTO,2021-12-14,0
@@ -177,12 +199,14 @@ Ukraine,UKR,2021-12-14,0
 United Arab Emirates,ARE,2021-12-14,32.74
 United Kingdom,GBR,2021-12-14,35.3
 United States,USA,2021-12-14,16.57
+Upper middle income,OWID_UMC,2021-12-14,7.17
 Uruguay,URY,2021-12-14,41.58
 Uzbekistan,UZB,2021-12-14,0
 Vanuatu,VUT,2021-12-14,0
 Vatican,VAT,2021-12-14,0
 Venezuela,VEN,2021-12-14,0
 Vietnam,VNM,2021-12-14,0
+World,OWID_WRL,2021-12-14,4.9
 Yemen,YEM,2021-12-14,0
 Zambia,ZMB,2021-12-14,0
 Zimbabwe,ZWE,2021-12-14,0
