@@ -14,6 +14,11 @@ iso_3 = iso_3 %>% select(ISO3)
 iso_3 = iso_3$ISO3
 oid_data = subset(oid_data, iso_code %in% iso_3)
 oid_rest = subset(oid_data, !(iso_code %in% iso_3))
+cases_latest = oid_data %>% select(location, iso_code, new_cases) %>% 
+filter(date = max(date))
+rename(speed_data_latest, iso_a3 = iso_code)
+write_csv(cases_latest, 'cases_lates.csv')
+
 
 #Prepare data for visualization and write the *.csv files
 ##Smoothed approximation of the second derivative of COVID cases
