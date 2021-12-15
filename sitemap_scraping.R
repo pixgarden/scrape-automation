@@ -28,8 +28,9 @@ speed_data = lapply(speed_data, function(x){
     difference = diff
   )
   a = a %>%
-    mutate(`20-days average` = zoo::rollmean(difference, k = 20, fill = NA),
-           `7-days average` = zoo::rollmean(difference, k = 7, fill = NA))
+    mutate(`20-days average` = zoo::rollmean(difference, k = 20, fill = NA)) %>%
+    mutate(`7-days average` = zoo::rollmean(difference, k = 7, fill = NA))
+           
   return(a)
 })
 speed_data = do.call(rbind, speed_data)
