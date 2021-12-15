@@ -12,6 +12,7 @@ oid_data <- fread("https://raw.githubusercontent.com/owid/covid-19-data/master/p
 iso_3 <- read_delim("https://raw.githubusercontent.com/fpmassam/scrape-automation/main/iso_3.csv", delim = ";", escape_double = FALSE, trim_ws = TRUE)
 iso_3 = iso_3 %>% select(ISO3)
 iso_3 = iso_3$ISO3
+oid_data = subset(oid_data, location %in% iso_3)
 
 speed_data <- oid_data %>% select(date, iso_code, location, new_cases)
 speed_data$new_cases[is.na(speed_data$new_cases)] <- 0
