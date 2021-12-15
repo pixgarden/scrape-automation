@@ -1,6 +1,5 @@
 date,location,iso_a3,variable,value,tooltip
 2021-12-04,Afghanistan,AFG,20-days average,-0.25,Afghanistan -0.25
-2021-12-04,Africa,OWID_AFR,20-days average,1704.95,"Africa 1,705"
 2021-12-04,Albania,ALB,20-days average,-11.65,Albania -11.65
 2021-12-04,Algeria,DZA,20-days average,2.5,Algeria 2.5
 2021-12-04,Andorra,AND,20-days average,30.6,Andorra 30.6
@@ -10,7 +9,6 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,Argentina,ARG,20-days average,291.65,Argentina 291.6
 2021-12-04,Armenia,ARM,20-days average,-34.95,Armenia -34.95
 2021-12-04,Aruba,ABW,20-days average,0,Aruba 0
-2021-12-04,Asia,OWID_ASI,20-days average,-579,Asia -579
 2021-12-04,Australia,AUS,20-days average,64.1,Australia 64.1
 2021-12-04,Austria,AUT,20-days average,-625.3,Austria -625.3
 2021-12-04,Azerbaijan,AZE,20-days average,-50.1,Azerbaijan -50.1
@@ -25,7 +23,6 @@ date,location,iso_a3,variable,value,tooltip
 2021-11-30,Bermuda,BMU,20-days average,0,Bermuda 0
 2021-12-04,Bhutan,BTN,20-days average,0,Bhutan 0
 2021-12-04,Bolivia,BOL,20-days average,94.55,Bolivia 94.55
-2021-08-22,Bonaire Sint Eustatius and Saba,BES,20-days average,0,Bonaire Sint Eustatius and Saba 0
 2021-12-04,Bosnia and Herzegovina,BIH,20-days average,-7.05,Bosnia and Herzegovina -7.05
 2021-12-04,Botswana,BWA,20-days average,77.7,Botswana 77.7
 2021-12-04,Brazil,BRA,20-days average,289.3,Brazil 289.3
@@ -51,11 +48,9 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,Cote d'Ivoire,CIV,20-days average,-0.3,Cote d'Ivoire -0.3
 2021-12-04,Croatia,HRV,20-days average,-153.25,Croatia -153.2
 2021-12-04,Cuba,CUB,20-days average,-6.2,Cuba -6.2
-2021-12-04,Curacao,CUW,20-days average,0,Curacao 0
 2021-12-04,Cyprus,CYP,20-days average,11.4,Cyprus 11.4
 2021-12-04,Czechia,CZE,20-days average,-652.6,Czechia -652.6
-2021-12-04,Democratic Republic of Congo,COD,20-days average,-1.55,Democratic Republic of Congo -1.55
-2021-12-04,Denmark,DNK,20-days average,194.65,Denmark 194.7
+2021-12-04,Denmark,DNK,20-days average,194.4,Denmark 194.4
 2021-12-04,Djibouti,DJI,20-days average,0,Djibouti 0
 2021-12-04,Dominica,DMA,20-days average,1.2,Dominica 1.2
 2021-12-04,Dominican Republic,DOM,20-days average,-8.1,Dominican Republic -8.1
@@ -67,9 +62,7 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,Estonia,EST,20-days average,-1.85,Estonia -1.85
 2021-12-04,Eswatini,SWZ,20-days average,60.7,Eswatini 60.7
 2021-12-04,Ethiopia,ETH,20-days average,6.7,Ethiopia 6.7
-2021-12-04,Europe,OWID_EUR,20-days average,-1722.95,"Europe -1,723"
-2021-12-04,European Union,OWID_EUN,20-days average,-2154.15,"European Union -2,154"
-2021-10-26,Faeroe Islands,FRO,20-days average,0,Faeroe Islands 0
+2021-12-04,Faeroe Islands,FRO,20-days average,1.2,Faeroe Islands 1.2
 2021-04-04,Falkland Islands,FLK,20-days average,0,Falkland Islands 0
 2021-12-04,Fiji,FJI,20-days average,-0.3,Fiji -0.3
 2021-12-04,Finland,FIN,20-days average,33.45,Finland 33.45
@@ -82,36 +75,30 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,Ghana,GHA,20-days average,0,Ghana 0
 2021-12-01,Gibraltar,GIB,20-days average,0,Gibraltar 0
 2021-12-04,Greece,GRC,20-days average,-57.65,Greece -57.65
-2021-11-30,Greenland,GRL,20-days average,0,Greenland 0
+2021-12-04,Greenland,GRL,20-days average,-0.95,Greenland -0.95
 2021-12-04,Grenada,GRD,20-days average,-0.1,Grenada -0.1
 2021-12-04,Guatemala,GTM,20-days average,-26.35,Guatemala -26.35
-2021-12-04,Guernsey,GGY,20-days average,0,Guernsey 0
 2021-12-04,Guinea,GIN,20-days average,0.6,Guinea 0.6
 2021-12-04,Guinea-Bissau,GNB,20-days average,0.05,Guinea-Bissau 0.05
 2021-12-04,Guyana,GUY,20-days average,-0.75,Guyana -0.75
 2021-12-04,Haiti,HTI,20-days average,4.15,Haiti 4.15
-2021-12-04,High income,OWID_HIC,20-days average,-572.3,High income -572.3
 2021-12-04,Honduras,HND,20-days average,-9.25,Honduras -9.25
 2021-12-04,Hong Kong,HKG,20-days average,0.2,Hong Kong 0.2
 2021-12-04,Hungary,HUN,20-days average,-453.1,Hungary -453.1
 2021-12-04,Iceland,ISL,20-days average,0.55,Iceland 0.55
 2021-12-04,India,IND,20-days average,-106.75,India -106.8
 2021-12-04,Indonesia,IDN,20-days average,-13.05,Indonesia -13.05
-2021-12-04,International,OWID_INT,20-days average,0,International 0
 2021-12-04,Iran,IRN,20-days average,-101.45,Iran -101.5
 2021-12-04,Iraq,IRQ,20-days average,-15.1,Iraq -15.1
 2021-12-04,Ireland,IRL,20-days average,-1,Ireland -1
-2021-12-04,Isle of Man,IMN,20-days average,0,Isle of Man 0
 2021-12-04,Israel,ISR,20-days average,13.35,Israel 13.35
 2021-12-04,Italy,ITA,20-days average,410.75,Italy 410.8
 2021-12-04,Jamaica,JAM,20-days average,-0.45,Jamaica -0.45
 2021-12-04,Japan,JPN,20-days average,2.75,Japan 2.75
-2021-11-28,Jersey,JEY,20-days average,0,Jersey 0
 2021-12-04,Jordan,JOR,20-days average,-6.6,Jordan -6.6
 2021-12-04,Kazakhstan,KAZ,20-days average,-26.55,Kazakhstan -26.55
 2021-12-04,Kenya,KEN,20-days average,14.8,Kenya 14.8
 2021-12-04,Kiribati,KIR,20-days average,0,Kiribati 0
-2021-12-04,Kosovo,OWID_KOS,20-days average,0.1,Kosovo 0.1
 2021-12-04,Kuwait,KWT,20-days average,2.9,Kuwait 2.9
 2021-12-04,Kyrgyzstan,KGZ,20-days average,-0.35,Kyrgyzstan -0.35
 2021-12-04,Laos,LAO,20-days average,1.1,Laos 1.1
@@ -122,8 +109,6 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,Libya,LBY,20-days average,2.2,Libya 2.2
 2021-12-04,Liechtenstein,LIE,20-days average,1.8,Liechtenstein 1.8
 2021-12-04,Lithuania,LTU,20-days average,-32.55,Lithuania -32.55
-2021-12-04,Low income,OWID_LIC,20-days average,87.85,Low income 87.85
-2021-12-04,Lower middle income,OWID_LMC,20-days average,68.3,Lower middle income 68.3
 2021-12-04,Luxembourg,LUX,20-days average,-17.25,Luxembourg -17.25
 2021-12-03,Macao,MAC,20-days average,0,Macao 0
 2021-12-04,Madagascar,MDG,20-days average,0,Madagascar 0
@@ -140,7 +125,6 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,Moldova,MDA,20-days average,-20.2,Moldova -20.2
 2021-12-04,Monaco,MCO,20-days average,0,Monaco 0
 2021-12-04,Mongolia,MNG,20-days average,-57.7,Mongolia -57.7
-2021-12-04,Montenegro,MNE,20-days average,-5.95,Montenegro -5.95
 2021-11-02,Montserrat,MSR,20-days average,0,Montserrat 0
 2021-12-04,Morocco,MAR,20-days average,4.45,Morocco 4.45
 2021-12-04,Mozambique,MOZ,20-days average,36.25,Mozambique 36.25
@@ -155,15 +139,11 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,Niger,NER,20-days average,-0.9,Niger -0.9
 2021-12-04,Nigeria,NGA,20-days average,55.75,Nigeria 55.75
 2021-07-23,Niue,NIU,20-days average,0,Niue 0
-2021-12-04,North America,OWID_NAM,20-days average,58.95,North America 58.95
 2021-12-04,North Macedonia,MKD,20-days average,-4.4,North Macedonia -4.4
-2021-11-16,Northern Cyprus,OWID_CYN,20-days average,0,Northern Cyprus 0
 2021-12-04,Norway,NOR,20-days average,314.6,Norway 314.6
-2021-12-04,Oceania,OWID_OCE,20-days average,54.8,Oceania 54.8
 2021-12-04,Oman,OMN,20-days average,0.6,Oman 0.6
 2021-12-04,Pakistan,PAK,20-days average,0.35,Pakistan 0.35
 2021-12-04,Palau,PLW,20-days average,0,Palau 0
-2021-12-04,Palestine,PSE,20-days average,7.6,Palestine 7.6
 2021-12-04,Panama,PAN,20-days average,19.45,Panama 19.45
 2021-12-04,Papua New Guinea,PNG,20-days average,-3.85,Papua New Guinea -3.85
 2021-12-04,Paraguay,PRY,20-days average,1.7,Paraguay 1.7
@@ -173,7 +153,6 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,Poland,POL,20-days average,-548.55,Poland -548.5
 2021-12-04,Portugal,PRT,20-days average,-9.1,Portugal -9.1
 2021-12-04,Qatar,QAT,20-days average,1.2,Qatar 1.2
-2021-12-04,Romania,ROU,20-days average,-92.5,Romania -92.5
 2021-12-04,Russia,RUS,20-days average,-232.25,Russia -232.2
 2021-12-04,Rwanda,RWA,20-days average,5.35,Rwanda 5.35
 2021-04-25,Saint Helena,SHN,20-days average,0,Saint Helena 0
@@ -185,19 +164,15 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,Sao Tome and Principe,STP,20-days average,0,Sao Tome and Principe 0
 2021-12-04,Saudi Arabia,SAU,20-days average,1.55,Saudi Arabia 1.55
 2021-12-04,Senegal,SEN,20-days average,-0.05,Senegal -0.05
-2021-12-04,Serbia,SRB,20-days average,-54.2,Serbia -54.2
 2021-12-04,Seychelles,SYC,20-days average,-8,Seychelles -8
 2021-12-04,Sierra Leone,SLE,20-days average,0.05,Sierra Leone 0.05
 2021-12-04,Singapore,SGP,20-days average,-81.85,Singapore -81.85
-2021-11-30,Sint Maarten (Dutch part),SXM,20-days average,0,Sint Maarten (Dutch part) 0
 2021-12-04,Slovakia,SVK,20-days average,-330.45,Slovakia -330.4
 2021-12-04,Slovenia,SVN,20-days average,-71.6,Slovenia -71.6
 2021-12-04,Solomon Islands,SLB,20-days average,0,Solomon Islands 0
 2021-12-04,Somalia,SOM,20-days average,0,Somalia 0
 2021-12-04,South Africa,ZAF,20-days average,1129.1,"South Africa 1,129"
-2021-12-04,South America,OWID_SAM,20-days average,565.25,South America 565.2
 2021-12-04,South Korea,KOR,20-days average,195.3,South Korea 195.3
-2021-12-04,South Sudan,SSD,20-days average,-0.85,South Sudan -0.85
 2021-12-04,Spain,ESP,20-days average,880.45,Spain 880.5
 2021-12-04,Sri Lanka,LKA,20-days average,90,Sri Lanka 90
 2021-12-04,Sudan,SDN,20-days average,8.3,Sudan 8.3
@@ -209,7 +184,6 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,Tajikistan,TJK,20-days average,0,Tajikistan 0
 2021-12-04,Tanzania,TZA,20-days average,0,Tanzania 0
 2021-12-04,Thailand,THA,20-days average,-149.75,Thailand -149.8
-2021-12-04,Timor,TLS,20-days average,0.05,Timor 0.05
 2021-12-04,Togo,TGO,20-days average,0,Togo 0
 2021-10-02,Tokelau,TKL,20-days average,0,Tokelau 0
 2021-12-04,Tonga,TON,20-days average,0,Tonga 0
@@ -224,7 +198,6 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,United Arab Emirates,ARE,20-days average,1.85,United Arab Emirates 1.85
 2021-12-04,United Kingdom,GBR,20-days average,855.85,United Kingdom 855.9
 2021-12-04,United States,USA,20-days average,105.35,United States 105.3
-2021-12-04,Upper middle income,OWID_UMC,20-days average,498.15,Upper middle income 498.1
 2021-12-04,Uruguay,URY,20-days average,12.3,Uruguay 12.3
 2021-12-04,Uzbekistan,UZB,20-days average,-3.5,Uzbekistan -3.5
 2021-12-04,Vanuatu,VUT,20-days average,0.05,Vanuatu 0.05
@@ -232,7 +205,6 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,Venezuela,VEN,20-days average,-18.95,Venezuela -18.95
 2021-12-04,Vietnam,VNM,20-days average,170.45,Vietnam 170.4
 2021-11-20,Wallis and Futuna,WLF,20-days average,0,Wallis and Futuna 0
-2021-12-04,World,OWID_WRL,20-days average,82,World 82
 2021-12-04,Yemen,YEM,20-days average,-0.1,Yemen -0.1
 2021-12-04,Zambia,ZMB,20-days average,23.1,Zambia 23.1
 2021-12-04,Zimbabwe,ZWE,20-days average,239.95,Zimbabwe 239.9
