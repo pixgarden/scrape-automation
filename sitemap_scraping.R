@@ -38,7 +38,7 @@ speed_data = reshape2::melt(speed_data, id.var = c('date', 'location', 'iso_code
 speed_data = subset(speed_data, variable != 'difference')
 write_csv(speed_data, 'speed_data.csv')
 
-speed_data_latest = na.omit(speed_data)
+speed_data_latest = speed_data
 speed_data_latest = split(speed_data_latest, f = speed_data_latest$location)
 speed_data_latest = lapply(speed_data_latest, function(x){
   subset(x, date == max(x$date))
