@@ -19,8 +19,8 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,Argentina,ARG,7-days average,291.65,Argentina 291.6
 2021-12-04,Armenia,ARM,20-days average,-34.95,Armenia -34.95
 2021-12-04,Armenia,ARM,7-days average,-34.95,Armenia -34.95
-2021-12-03,Aruba,ABW,20-days average,0,Aruba 0
-2021-12-03,Aruba,ABW,7-days average,0,Aruba 0
+2021-12-04,Aruba,ABW,20-days average,0,Aruba 0
+2021-12-04,Aruba,ABW,7-days average,0,Aruba 0
 2021-12-04,Asia,OWID_ASI,20-days average,-579,Asia -579
 2021-12-04,Asia,OWID_ASI,7-days average,-579,Asia -579
 2021-12-04,Australia,AUS,20-days average,64.1,Australia 64.1
@@ -103,8 +103,8 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,Croatia,HRV,7-days average,-153.25,Croatia -153.2
 2021-12-04,Cuba,CUB,20-days average,-6.2,Cuba -6.2
 2021-12-04,Cuba,CUB,7-days average,-6.2,Cuba -6.2
-2021-12-03,Curacao,CUW,20-days average,0,Curacao 0
-2021-12-03,Curacao,CUW,7-days average,0,Curacao 0
+2021-12-04,Curacao,CUW,20-days average,0,Curacao 0
+2021-12-04,Curacao,CUW,7-days average,0,Curacao 0
 2021-12-04,Cyprus,CYP,20-days average,11.4,Cyprus 11.4
 2021-12-04,Cyprus,CYP,7-days average,11.4,Cyprus 11.4
 2021-12-04,Czechia,CZE,20-days average,-652.6,Czechia -652.6
@@ -171,8 +171,8 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-04,Grenada,GRD,7-days average,-0.1,Grenada -0.1
 2021-12-04,Guatemala,GTM,20-days average,-26.35,Guatemala -26.35
 2021-12-04,Guatemala,GTM,7-days average,-26.35,Guatemala -26.35
-2021-11-28,Guernsey,GGY,20-days average,0,Guernsey 0
-2021-11-28,Guernsey,GGY,7-days average,0,Guernsey 0
+2021-12-04,Guernsey,GGY,20-days average,0,Guernsey 0
+2021-12-04,Guernsey,GGY,7-days average,0,Guernsey 0
 2021-12-04,Guinea,GIN,20-days average,0.6,Guinea 0.6
 2021-12-04,Guinea,GIN,7-days average,0.6,Guinea 0.6
 2021-12-04,Guinea-Bissau,GNB,20-days average,0.05,Guinea-Bissau 0.05
