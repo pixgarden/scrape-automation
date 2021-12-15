@@ -6,6 +6,10 @@ library(rnaturalearthdata)
 library(sf)
 require(data.table)
 
+iso_3 <- read_delim("iso_3.csv", delim = ";", escape_double = FALSE, trim_ws = TRUE)
+iso_3 = iso_3 %>% select(ISO3)
+iso_3 = iso_3$ISO3
+
 oid_data <- fread("https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv")
 speed_data <- oid_data %>% select(date, iso_code, location, new_cases)
 speed_data$new_cases[is.na(speed_data$new_cases)] <- 0
