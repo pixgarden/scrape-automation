@@ -1,3 +1,3 @@
-# scrape-automation
-Scrape XML Sitemap and store number of urls into a csv using github actions
+# Download data for a Shiny app 
+Repuroposed code from repo scrape-automation
 
