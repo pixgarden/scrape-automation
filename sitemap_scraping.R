@@ -85,4 +85,26 @@ third_doses = subset(third_doses, date == max(date))
 
 write_csv(third_doses, 'third_doses.csv')
 
+
+top_10_cases = oid_data %>% select(date, iso_code, location, total_cases) %>%
+  filter(date == max(date)) %>% slice_max(order_by = total_cases, n = 10)
+top_10_cases$total_cases = format(top_10_cases$total_cases, big.mark = ',')
+write_csv(top_10_cases, 'top_10_cases.csv')
+top_10_deaths = oid_data %>% select(date, iso_code, location, total_deaths) %>%
+  filter(date == max(date)) %>% slice_max(order_by = total_deaths, n = 10)
+top_10_deaths$total_deaths = format(top_10_deaths$total_deaths, big.mark = ',')
+write_csv(top_10_deaths, 'top_10_deaths.csv')
+
+share_cases = oid_data %>% select(date, location, total_cases) %>%
+  filter(date == max(date)) %>% mutate(share_cases = round(total_cases/sum(total_cases,
+                                                                     na.rm = TRUE), 2)
+                                                           )
+share_deaths = oid_data %>% select(date, location, total_deaths) %>%
+  filter(date == max(date))%>% mutate(share_deaths = round(total_deaths/sum(total_deaths, 
+                                                                      na.rm = TRUE), 2))
+shares =  merge(share_cases, share_deaths, by = 'location')
+shares = shares %>% select(location, share_cases, share_deaths)
+shares = reshape2::melt(shares, id.var = 'location')
+write_csv(shares, 'shares.csv')
+
 save.image(file = 'tracker_data.RData')
