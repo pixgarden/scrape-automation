@@ -11,6 +11,7 @@ iso_3 = iso_3 %>% select(ISO3)
 iso_3 = iso_3$ISO3
 
 oid_data <- fread("https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv")
+oid_data = subset(oid_data, iso_code %in% iso_3)
 speed_data <- oid_data %>% select(date, iso_code, location, new_cases)
 speed_data$new_cases[is.na(speed_data$new_cases)] <- 0
 speed_data = split(speed_data, f = speed_data$location)
