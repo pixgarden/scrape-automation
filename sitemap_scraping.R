@@ -38,12 +38,23 @@ speed_data = reshape2::melt(speed_data, id.var = c('date', 'location', 'iso_code
 speed_data = subset(speed_data, variable != 'difference')
 write_csv(speed_data, 'speed_data.csv')
 
-speed_data_latest = speed_data
-speed_data_latest = split(speed_data_latest, f = speed_data_latest$location)
-speed_data_latest = lapply(speed_data_latest, function(x){
+speed_data_latest = na.omit(speed_data)
+speed_data_7 = subset(speed_data_latest, variable == '7-days average')
+speed_data_20 = subset(speed_data_latest, variable == '20-days average')
+speed_data_7 = split(speed_data_7, f = speed_data_7$location)
+speed_data_7 = lapply(speed_data_7, function(x){
   subset(x, date == max(x$date))
 })
-speed_data_latest = do.call(rbind, speed_data_latest)
+speed_data_7 = do.call(rbind, speed_data_7)
+
+speed_data_20 = split(speed_data_20, f = speed_data_20$location)
+speed_data_20 = lapply(speed_data_20, function(x){
+  subset(x, date == max(x$date))
+})
+speed_data_20 = do.call(rbind, speed_data_20)
+speed_data = rbind(speed_data_7, speed_data_20)
+rm(speed_data_20, speed_data_7)
+
 write_csv(speed_data_latest, 'speed_data_latest.csv')
 
 
