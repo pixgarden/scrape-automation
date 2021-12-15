@@ -17,7 +17,7 @@ oid_rest = subset(oid_data, !(iso_code %in% iso_3))
 cases_latest = oid_data %>% select(location, iso_code, new_cases) %>% 
 filter(date = max(date))
 rename(speed_data_latest, iso_a3 = iso_code)
-write_csv(cases_latest, 'cases_lates.csv')
+write_csv(cases_latest, 'new_cases_latest.csv')
 
 
 #Prepare data for visualization and write the *.csv files
