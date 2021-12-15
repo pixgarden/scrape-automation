@@ -5,7 +5,6 @@ library(rnaturalearth)
 library(rnaturalearthdata)
 library(sf)
 require(data.table)
-
 iso_3 <- read_delim("https://raw.githubusercontent.com/fpmassam/scrape-automation/main/iso_3.csv", delim = ";", escape_double = FALSE, trim_ws = TRUE)
 iso_3 = iso_3 %>% select(ISO3)
 iso_3 = iso_3$ISO3
@@ -30,12 +29,12 @@ speed_data = lapply(speed_data, function(x){
   a = a %>%
     mutate(`20-days average` = zoo::rollmean(difference, k = 20, fill = NA)) %>%
     mutate(`7-days average` = zoo::rollmean(difference, k = 7, fill = NA))
-           
+  
   return(a)
 })
 speed_data = do.call(rbind, speed_data)
+speed_data[4] = NULL
 speed_data = reshape2::melt(speed_data, id.var = c('date', 'location', 'iso_code'))
-speed_data = subset(speed_data, variable != 'difference')
 write_csv(speed_data, 'speed_data.csv')
 
 speed_data_latest = na.omit(speed_data)
@@ -52,7 +51,7 @@ speed_data_20 = lapply(speed_data_20, function(x){
   subset(x, date == max(x$date))
 })
 speed_data_20 = do.call(rbind, speed_data_20)
-speed_data = rbind(speed_data_7, speed_data_20)
+speed_data_latest = rbind(speed_data_7, speed_data_20)
 rm(speed_data_20, speed_data_7)
 
 write_csv(speed_data_latest, 'speed_data_latest.csv')
@@ -62,6 +61,7 @@ speed_data_map <- rename(speed_data_latest, iso_a3 = iso_code)
 speed_data_map$tooltip = paste(speed_data_latest$location, 
                                formatC(speed_data_map$value, big.mark = ','))
 write_csv(speed_data_map, 'speed_data_map.csv')
+
 
 policy_stringency = oid_data %>% select(location, date,
                                         stringency_index, 
