@@ -9,8 +9,6 @@ iso_3 <- read_delim("https://raw.githubusercontent.com/fpmassam/scrape-automatio
 iso_3 = iso_3 %>% select(ISO3)
 iso_3 = iso_3$ISO3
 
-oid_data <- fread("https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv")
-oid_data = subset(oid_data, iso_code %in% iso_3)
 speed_data <- oid_data %>% select(date, iso_code, location, new_cases)
 speed_data$new_cases[is.na(speed_data$new_cases)] <- 0
 speed_data = split(speed_data, f = speed_data$location)
@@ -27,33 +25,25 @@ speed_data = lapply(speed_data, function(x){
     difference = diff
   )
   a = a %>%
-    mutate(`20-days average` = zoo::rollmean(difference, k = 20, fill = NA)) %>%
-    mutate(`7-days average` = zoo::rollmean(difference, k = 7, fill = NA))
-  
+    mutate(`20-days average` = zoo::rollmean(difference, k = 20, fill = NA))
   return(a)
 })
 speed_data = do.call(rbind, speed_data)
-speed_data[4] = NULL
 speed_data = reshape2::melt(speed_data, id.var = c('date', 'location', 'iso_code'))
+speed_data = subset(speed_data, variable != 'difference')
 write_csv(speed_data, 'speed_data.csv')
 
-speed_data_latest = na.omit(speed_data)
-speed_data_7 = subset(speed_data_latest, variable == '7-days average')
-speed_data_20 = subset(speed_data_latest, variable == '20-days average')
-speed_data_7 = split(speed_data_7, f = speed_data_7$location)
-speed_data_7 = lapply(speed_data_7, function(x){
+speed_data_latest = speed_data
+speed_data_latest = split(speed_data_latest, f = speed_data_latest$location)
+speed_data_latest = lapply(speed_data_latest, function(x){
   subset(x, date == max(x$date))
 })
-speed_data_7 = do.call(rbind, speed_data_7)
+speed_data_latest = do.call(rbind, speed_data_latest)
 
-speed_data_20 = split(speed_data_20, f = speed_data_20$location)
-speed_data_20 = lapply(speed_data_20, function(x){
-  subset(x, date == max(x$date))
-})
-speed_data_20 = do.call(rbind, speed_data_20)
-speed_data_latest = rbind(speed_data_7, speed_data_20)
-rm(speed_data_20, speed_data_7)
 
+speed_data_map <- rename(speed_data_latest, iso_a3 = iso_code)
+speed_data_map$tooltip = paste(speed_data_latest$location, 
+                               formatC(speed_data_map$value, big.mark = ','))
 write_csv(speed_data_latest, 'speed_data_latest.csv')
 
 
