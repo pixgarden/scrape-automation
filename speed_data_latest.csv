@@ -21,8 +21,8 @@ date,location,iso_code,variable,value
 2021-12-04,Armenia,ARM,7-days average,-34.95
 2021-12-03,Aruba,ABW,20-days average,0
 2021-12-03,Aruba,ABW,7-days average,0
-2021-12-04,Asia,OWID_ASI,20-days average,-928.2
-2021-12-04,Asia,OWID_ASI,7-days average,-928.2
+2021-12-04,Asia,OWID_ASI,20-days average,-579
+2021-12-04,Asia,OWID_ASI,7-days average,-579
 2021-12-04,Australia,AUS,20-days average,64.1
 2021-12-04,Australia,AUS,7-days average,64.1
 2021-12-04,Austria,AUT,20-days average,-625.3
@@ -191,8 +191,8 @@ date,location,iso_code,variable,value
 2021-12-04,Hungary,HUN,7-days average,-453.1
 2021-12-04,Iceland,ISL,20-days average,0.55
 2021-12-04,Iceland,ISL,7-days average,0.55
-2021-12-04,India,IND,20-days average,-455.95
-2021-12-04,India,IND,7-days average,-455.95
+2021-12-04,India,IND,20-days average,-106.75
+2021-12-04,India,IND,7-days average,-106.75
 2021-12-04,Indonesia,IDN,20-days average,-13.05
 2021-12-04,Indonesia,IDN,7-days average,-13.05
 2021-12-04,International,OWID_INT,20-days average,0
@@ -247,8 +247,8 @@ date,location,iso_code,variable,value
 2021-12-04,Lithuania,LTU,7-days average,-32.55
 2021-12-04,Low income,OWID_LIC,20-days average,87.85
 2021-12-04,Low income,OWID_LIC,7-days average,87.85
-2021-12-04,Lower middle income,OWID_LMC,20-days average,-280.9
-2021-12-04,Lower middle income,OWID_LMC,7-days average,-280.9
+2021-12-04,Lower middle income,OWID_LMC,20-days average,68.3
+2021-12-04,Lower middle income,OWID_LMC,7-days average,68.3
 2021-12-04,Luxembourg,LUX,20-days average,-17.25
 2021-12-04,Luxembourg,LUX,7-days average,-17.25
 2021-12-03,Macao,MAC,20-days average,0
@@ -465,8 +465,8 @@ date,location,iso_code,variable,value
 2021-12-04,Vietnam,VNM,7-days average,170.45
 2021-11-20,Wallis and Futuna,WLF,20-days average,0
 2021-11-20,Wallis and Futuna,WLF,7-days average,0
-2021-12-04,World,OWID_WRL,20-days average,-267.2
-2021-12-04,World,OWID_WRL,7-days average,-267.2
+2021-12-04,World,OWID_WRL,20-days average,82
+2021-12-04,World,OWID_WRL,7-days average,82
 2021-12-04,Yemen,YEM,20-days average,-0.1
 2021-12-04,Yemen,YEM,7-days average,-0.1
 2021-12-04,Zambia,ZMB,20-days average,23.1
