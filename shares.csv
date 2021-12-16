@@ -7,6 +7,7 @@ Angola,share_cases,0
 Antigua and Barbuda,share_cases,0
 Argentina,share_cases,0.02
 Armenia,share_cases,0
+Aruba,share_cases,NA
 Australia,share_cases,0
 Austria,share_cases,0
 Azerbaijan,share_cases,0
@@ -65,6 +66,7 @@ Gambia,share_cases,0
 Georgia,share_cases,0
 Germany,share_cases,0.02
 Ghana,share_cases,0
+Gibraltar,share_cases,NA
 Greece,share_cases,0
 Greenland,share_cases,0
 Grenada,share_cases,0
@@ -101,6 +103,7 @@ Libya,share_cases,0
 Liechtenstein,share_cases,0
 Lithuania,share_cases,0
 Luxembourg,share_cases,0
+Macao,share_cases,NA
 Madagascar,share_cases,0
 Malawi,share_cases,0
 Malaysia,share_cases,0.01
@@ -195,6 +198,7 @@ Angola,share_deaths,0
 Antigua and Barbuda,share_deaths,0
 Argentina,share_deaths,0.02
 Armenia,share_deaths,0
+Aruba,share_deaths,NA
 Australia,share_deaths,0
 Austria,share_deaths,0
 Azerbaijan,share_deaths,0
@@ -253,6 +257,7 @@ Gambia,share_deaths,0
 Georgia,share_deaths,0
 Germany,share_deaths,0.02
 Ghana,share_deaths,0
+Gibraltar,share_deaths,NA
 Greece,share_deaths,0
 Greenland,share_deaths,NA
 Grenada,share_deaths,0
@@ -289,6 +294,7 @@ Libya,share_deaths,0
 Liechtenstein,share_deaths,0
 Lithuania,share_deaths,0
 Luxembourg,share_deaths,0
+Macao,share_deaths,NA
 Madagascar,share_deaths,0
 Malawi,share_deaths,0
 Malaysia,share_deaths,0.01

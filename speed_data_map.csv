@@ -8,7 +8,7 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-05,Antigua and Barbuda,ATG,20-days average,-0.15,Antigua and Barbuda -0.15
 2021-12-05,Argentina,ARG,20-days average,127.95,Argentina 128
 2021-12-05,Armenia,ARM,20-days average,-19,Armenia -19
-2021-12-04,Aruba,ABW,20-days average,0,Aruba 0
+2021-12-05,Aruba,ABW,20-days average,0,Aruba 0
 2021-12-05,Australia,AUS,20-days average,89.8,Australia 89.8
 2021-12-05,Austria,AUT,20-days average,-468.4,Austria -468.4
 2021-12-05,Azerbaijan,AZE,20-days average,-36.2,Azerbaijan -36.2
@@ -73,7 +73,7 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-05,Georgia,GEO,20-days average,-52.65,Georgia -52.65
 2021-12-05,Germany,DEU,20-days average,-883.85,Germany -883.9
 2021-12-05,Ghana,GHA,20-days average,14.65,Ghana 14.65
-2021-12-01,Gibraltar,GIB,20-days average,0,Gibraltar 0
+2021-12-05,Gibraltar,GIB,20-days average,0,Gibraltar 0
 2021-12-05,Greece,GRC,20-days average,-88.75,Greece -88.75
 2021-12-05,Greenland,GRL,20-days average,2.05,Greenland 2.05
 2021-12-05,Grenada,GRD,20-days average,0,Grenada 0
@@ -110,7 +110,7 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-05,Liechtenstein,LIE,20-days average,0.2,Liechtenstein 0.2
 2021-12-05,Lithuania,LTU,20-days average,12.55,Lithuania 12.55
 2021-12-05,Luxembourg,LUX,20-days average,14.5,Luxembourg 14.5
-2021-12-03,Macao,MAC,20-days average,0,Macao 0
+2021-12-05,Macao,MAC,20-days average,0,Macao 0
 2021-12-05,Madagascar,MDG,20-days average,0,Madagascar 0
 2021-12-05,Malawi,MWI,20-days average,15.65,Malawi 15.65
 2021-12-05,Malaysia,MYS,20-days average,-112.2,Malaysia -112.2
