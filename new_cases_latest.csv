@@ -2,29 +2,23 @@ date,location,iso_a3,new_cases
 2021-12-16,Afghanistan,AFG,60
 2021-12-16,Albania,ALB,301
 2021-12-16,Algeria,DZA,212
-2021-12-16,Andorra,AND,413
 2021-12-16,Angola,AGO,83
-2021-12-16,Antigua and Barbuda,ATG,1
 2021-12-16,Argentina,ARG,5301
 2021-12-16,Armenia,ARM,180
-2021-12-16,Aruba,ABW,NA
 2021-12-16,Australia,AUS,3802
 2021-12-16,Austria,AUT,3046
 2021-12-16,Azerbaijan,AZE,984
-2021-12-16,Bahamas,BHS,21
 2021-12-16,Bahrain,BHR,55
 2021-12-16,Bangladesh,BGD,257
 2021-12-16,Barbados,BRB,44
 2021-12-16,Belarus,BLR,1596
 2021-12-16,Belgium,BEL,0
-2021-12-16,Belize,BLZ,30
 2021-12-16,Benin,BEN,0
 2021-12-16,Bhutan,BTN,0
 2021-12-16,Bolivia,BOL,1800
 2021-12-16,Bosnia and Herzegovina,BIH,675
 2021-12-16,Botswana,BWA,2220
 2021-12-16,Brazil,BRA,0
-2021-12-16,Brunei,BRN,4
 2021-12-16,Bulgaria,BGR,1443
 2021-12-16,Burkina Faso,BFA,0
 2021-12-16,Burundi,BDI,279
@@ -45,9 +39,9 @@ date,location,iso_a3,new_cases
 2021-12-16,Cuba,CUB,72
 2021-12-16,Cyprus,CYP,632
 2021-12-16,Czechia,CZE,11652
+2021-12-16,Democratic Republic of Congo,COD,1456
 2021-12-16,Denmark,DNK,9999
 2021-12-16,Djibouti,DJI,0
-2021-12-16,Dominica,DMA,0
 2021-12-16,Dominican Republic,DOM,88
 2021-12-16,Ecuador,ECU,1238
 2021-12-16,Egypt,EGY,901
@@ -57,7 +51,6 @@ date,location,iso_a3,new_cases
 2021-12-16,Estonia,EST,645
 2021-12-16,Eswatini,SWZ,1642
 2021-12-16,Ethiopia,ETH,542
-2021-12-16,Faeroe Islands,FRO,0
 2021-12-16,Fiji,FJI,0
 2021-12-16,Finland,FIN,1981
 2021-12-16,France,FRA,60905
@@ -67,8 +60,6 @@ date,location,iso_a3,new_cases
 2021-12-16,Germany,DEU,51400
 2021-12-16,Ghana,GHA,71
 2021-12-16,Greece,GRC,4696
-2021-12-16,Greenland,GRL,20
-2021-12-16,Grenada,GRD,0
 2021-12-16,Guatemala,GTM,329
 2021-12-16,Guinea,GIN,0
 2021-12-16,Guinea-Bissau,GNB,3
@@ -90,7 +81,6 @@ date,location,iso_a3,new_cases
 2021-12-16,Jordan,JOR,3812
 2021-12-16,Kazakhstan,KAZ,546
 2021-12-16,Kenya,KEN,943
-2021-12-16,Kiribati,KIR,0
 2021-12-16,Kuwait,KWT,44
 2021-12-16,Kyrgyzstan,KGZ,39
 2021-12-16,Laos,LAO,1493
@@ -99,24 +89,20 @@ date,location,iso_a3,new_cases
 2021-12-16,Lesotho,LSO,425
 2021-12-16,Liberia,LBR,0
 2021-12-16,Libya,LBY,648
-2021-12-16,Liechtenstein,LIE,41
 2021-12-16,Lithuania,LTU,1957
 2021-12-16,Luxembourg,LUX,537
-2021-12-16,Macao,MAC,NA
 2021-12-16,Madagascar,MDG,0
 2021-12-16,Malawi,MWI,475
 2021-12-16,Malaysia,MYS,4262
 2021-12-16,Maldives,MDV,97
 2021-12-16,Mali,MLI,83
 2021-12-16,Malta,MLT,167
-2021-12-16,Marshall Islands,MHL,0
 2021-12-16,Mauritania,MRT,40
 2021-12-16,Mauritius,MUS,59
 2021-12-16,Mexico,MEX,0
-2021-12-16,Micronesia (country),FSM,0
 2021-12-16,Moldova,MDA,459
-2021-12-16,Monaco,MCO,0
 2021-12-16,Mongolia,MNG,285
+2021-12-16,Montenegro,MNE,187
 2021-12-16,Morocco,MAR,205
 2021-12-16,Mozambique,MOZ,1234
 2021-12-16,Myanmar,MMR,211
@@ -131,7 +117,7 @@ date,location,iso_a3,new_cases
 2021-12-16,Norway,NOR,4520
 2021-12-16,Oman,OMN,22
 2021-12-16,Pakistan,PAK,277
-2021-12-16,Palau,PLW,0
+2021-12-16,Palestine,PSE,0
 2021-12-16,Panama,PAN,386
 2021-12-16,Papua New Guinea,PNG,0
 2021-12-16,Paraguay,PRY,0
@@ -140,16 +126,13 @@ date,location,iso_a3,new_cases
 2021-12-16,Poland,POL,22096
 2021-12-16,Portugal,PRT,5137
 2021-12-16,Qatar,QAT,169
+2021-12-16,Romania,ROU,812
 2021-12-16,Russia,RUS,28158
 2021-12-16,Rwanda,RWA,142
-2021-12-16,Saint Kitts and Nevis,KNA,1
-2021-12-16,Saint Lucia,LCA,12
-2021-12-16,Saint Vincent and the Grenadines,VCT,0
-2021-12-16,Samoa,WSM,0
-2021-12-16,San Marino,SMR,108
 2021-12-16,Sao Tome and Principe,STP,2
 2021-12-16,Saudi Arabia,SAU,85
 2021-12-16,Senegal,SEN,10
+2021-12-16,Serbia,SRB,1325
 2021-12-16,Seychelles,SYC,87
 2021-12-16,Sierra Leone,SLE,0
 2021-12-16,Singapore,SGP,355
@@ -159,6 +142,7 @@ date,location,iso_a3,new_cases
 2021-12-16,Somalia,SOM,0
 2021-12-16,South Africa,ZAF,24785
 2021-12-16,South Korea,KOR,7434
+2021-12-16,South Sudan,SSD,80
 2021-12-16,Spain,ESP,28900
 2021-12-16,Sri Lanka,LKA,758
 2021-12-16,Sudan,SDN,0
@@ -170,8 +154,8 @@ date,location,iso_a3,new_cases
 2021-12-16,Tajikistan,TJK,0
 2021-12-16,Tanzania,TZA,0
 2021-12-16,Thailand,THA,7221
+2021-12-16,Timor,TLS,0
 2021-12-16,Togo,TGO,24
-2021-12-16,Tonga,TON,0
 2021-12-16,Trinidad and Tobago,TTO,567
 2021-12-16,Tunisia,TUN,375
 2021-12-16,Turkey,TUR,0
@@ -183,7 +167,6 @@ date,location,iso_a3,new_cases
 2021-12-16,Uruguay,URY,289
 2021-12-16,Uzbekistan,UZB,219
 2021-12-16,Vanuatu,VUT,0
-2021-12-16,Vatican,VAT,0
 2021-12-16,Venezuela,VEN,491
 2021-12-16,Vietnam,VNM,34062
 2021-12-16,Yemen,YEM,5
