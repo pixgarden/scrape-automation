@@ -20,8 +20,8 @@ jobs:
     # Set-up R
     - name: Install packages
       run: |
+        R -3 'install.packages(c("tidyverse","ggiraph"))
         R -e 'install.packages("tidyverse")'
-        R -e 'install.packages("ggiraph")'
         R -e 'install.packages("rnaturalearth")'
         R -e 'install.packages("rnaturalearthdata")'
         R -e 'install.packages("sf")'
