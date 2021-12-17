@@ -9,7 +9,7 @@ require(data.table)
 
 #Download data and exclude suff
 oid_data <- fread("https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv")
-iso_3 <- read_delim("https://raw.githubusercontent.com/fpmassam/scrape-automation/main/iso_3.csv", delim = ";", escape_double = FALSE, trim_ws = TRUE)
+iso_3 <- fread("https://raw.githubusercontent.com/fpmassam/scrape-automation/main/iso_3.csv")
 iso_3 = iso_3 %>% select(ISO3)
 iso_3 = iso_3$ISO3
 oid_data = subset(oid_data, iso_code %in% iso_3)
