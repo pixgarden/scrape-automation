@@ -7,6 +7,7 @@ date,location,iso_a3,new_cases
 2021-12-16,Antigua and Barbuda,ATG,1
 2021-12-16,Argentina,ARG,5301
 2021-12-16,Armenia,ARM,180
+2021-12-16,Aruba,ABW,NA
 2021-12-16,Australia,AUS,3802
 2021-12-16,Austria,AUT,3046
 2021-12-16,Azerbaijan,AZE,984
@@ -101,6 +102,7 @@ date,location,iso_a3,new_cases
 2021-12-16,Liechtenstein,LIE,41
 2021-12-16,Lithuania,LTU,1957
 2021-12-16,Luxembourg,LUX,537
+2021-12-16,Macao,MAC,NA
 2021-12-16,Madagascar,MDG,0
 2021-12-16,Malawi,MWI,475
 2021-12-16,Malaysia,MYS,4262
