@@ -84,6 +84,21 @@ policy_stringency$new_deaths_per_million[policy_stringency$new_deaths_per_millio
 ] <- 0
 write_csv(policy_vaxx, 'policy_vaxx.csv')
 
+#Total case by regime type 
+Vdem <- read_csv("https://github.com/fpmassam/scrape-automation/blob/main/Vdem.csv")
+cases_total_per_capita = oid_data %>% select(date, location, iso_code, total_cases_per_million) %>%
+  filter(date == max(date))
+
+impact_regime = merge(Vdem, cases_total_per_capita, by.y = 'iso_code',
+      by.x = 'country_text_id')
+
+impact_regime$label = paste(impact_regime$location, format(round(impact_regime$total_cases_per_million,
+                                                                 1), big.mark = ','),
+                            sep = ':')
+
+write_csv(impact_regime, 'impact_regime.csv')
+
+
 #Share boosters percent
 third_doses = oid_data %>% select(location, iso_code, date, total_boosters_per_hundred)
 third_doses = split(third_doses, f = third_doses$location)
