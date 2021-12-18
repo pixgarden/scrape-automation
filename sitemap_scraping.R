@@ -1,9 +1,6 @@
 library(readr)
 library(tidyverse)
 library(ggiraph)
-library(rnaturalearth)
-library(rnaturalearthdata)
-library(sf)
 require(data.table)
 
 
