@@ -20,9 +20,11 @@ jobs:
     # Set-up R
     - name: Install packages
       run: |
-        R --vanilla 'install.packages(c("tidyverse","ggiraph", "rnaturalearth", "rnaturalearthdata", "sf",
-        "data.table", "zoo", "reshape2"))'
-        
+        R -e 'install.packages("tidyverse")'
+        R -e 'install.packages("ggiraph")'
+        R -e 'install.packages("data.table")'
+        R -e 'install.packages("zoo")'
+        R -e 'install.packages("reshape2")'
     # Run R script
     - name: Scrape
       run: Rscript sitemap_scraping.R
