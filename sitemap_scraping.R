@@ -126,13 +126,13 @@ write_csv(top_10_deaths, 'top_10_deaths.csv')
 trends_top_10_c = oid_data %>% select(location, 
                                       date, 
                                       total_cases) %>% 
-  filter(location %in% top_ten_cases$Country)
+  filter(location %in% top_ten_cases$location)
   mutate(variable = 'New cases') %>% rename(value = total_cases)
 trends_top_10_d = oid_data %>% select(location, 
                                       date, 
                                       total_deaths) %>% 
   mutate(variable = 'Deaths') %>% rename(value = total_deaths) %>%
-  filter(location %in% top_ten_deaths$Country)
+  filter(location %in% top_ten_deaths$location)
 
 trends = rbind(trends_top_10_c, trends_top_10_d)
 write_csv(trends, 'trends.csv')
