@@ -85,7 +85,7 @@ policy_stringency$new_deaths_per_million[policy_stringency$new_deaths_per_millio
 write_csv(policy_vaxx, 'policy_vaxx.csv')
 
 #Total case by regime type 
-Vdem <- read_csv("https://github.com/fpmassam/scrape-automation/blob/main/Vdem.csv")
+Vdem <- read_csv("https://raw.githubusercontent.com/fpmassam/scrape-automation/main/Vdem.csv")
 cases_total_per_capita = oid_data %>% select(date, location, iso_code, total_cases_per_million) %>%
   filter(date == max(date))
 
