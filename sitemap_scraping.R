@@ -151,5 +151,48 @@ shares = shares %>% select(location, share_cases, share_deaths)
 shares = reshape2::melt(shares, id.var = 'location')
 write_csv(shares, 'shares.csv')
 
+#Difference-in-difference dataviz 
+did_dataset = oid_data %>% select(date, iso_code, location, new_deaths_per_million, 
+                                  total_boosters_per_hundred) %>%
+  fill(total_boosters_per_hundred)
+
+did_dataset = subset(did_dataset, date > '2021-11-01')
+
+did_dataset$time = ifelse(did_dataset$date > '2021-11-26', 1, 0)
+did_dataset$treated = ifelse(did_dataset$total_boosters_per_hundred > 10, 1, 0)
+did_dataset$treatment = ifelse(did_dataset$treated == 1, 'Higher vaccinations', 
+                               'Lower vaccinations')
+did_dataset$omicron = ifelse(did_dataset$time == 1, 'After omicron', 
+                               'Before omicron')
+
+did_dataset = aggregate(new_deaths_per_million ~ treatment + omicron + date, data = did_dataset, 
+                        FUN = mean)
+did_plot = subset(did_dataset, date == '2021-11-26')
+did_plot_1 = subset(did_dataset, date == max(did_dataset$date))
+did_plot = rbind(did_plot, did_plot_1)
+did_plot$To = ifelse(did_plot$date == '2021-11-26', 'Discovery of Omicron',
+                     'Latest available data')
+
+did_plot_2 = subset(did_dataset, date == '2021-11-11')
+did_plot_2$To = 'Before Omicron'
+did_plot = rbind(did_plot, did_plot_2)
+write_csv(did_plot, 'did_plot.csv)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Backup data in an R tracker 
 save.image(file = 'tracker_data.RData')
