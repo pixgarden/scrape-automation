@@ -90,7 +90,7 @@ cases_total_per_capita = oid_data %>% select(date, location, iso_code, total_cas
   filter(date == max(date))
 
 impact_regime = merge(Vdem, cases_total_per_capita, by.y = 'iso_code',
-      by.x = 'country_text_id')
+                      by.x = 'country_text_id')
 
 impact_regime$label = paste(impact_regime$location, format(round(impact_regime$total_cases_per_million,
                                                                  1), big.mark = ','),
@@ -126,13 +126,15 @@ write_csv(top_10_deaths, 'top_10_deaths.csv')
 trends_top_10_c = oid_data %>% select(location, 
                                       date, 
                                       total_cases) %>% 
-  filter(location %in% top_ten_cases$location)
-  mutate(variable = 'New cases') %>% rename(value = total_cases)
+  filter(location %in% top_10_cases$location) %>%
+mutate(variable = 'New cases') %>% rename(value = total_cases)
+
 trends_top_10_d = oid_data %>% select(location, 
                                       date, 
                                       total_deaths) %>% 
-  mutate(variable = 'Deaths') %>% rename(value = total_deaths) %>%
-  filter(location %in% top_ten_deaths$location)
+  filter(location %in% top_10_deaths$location) %>%
+  mutate(variable = 'Deaths') %>% rename(value = total_deaths)
+  
 
 trends = rbind(trends_top_10_c, trends_top_10_d)
 write_csv(trends, 'trends.csv')
@@ -141,11 +143,11 @@ write_csv(trends, 'trends.csv')
 ##Share of cases and deaths per country
 share_cases = oid_data %>% select(date, location, total_cases) %>%
   filter(date == max(date)) %>% mutate(share_cases = round(total_cases/sum(total_cases,
-                                                                     na.rm = TRUE), 2)
-                                                           )
+                                                                           na.rm = TRUE), 2)
+  )
 share_deaths = oid_data %>% select(date, location, total_deaths) %>%
   filter(date == max(date))%>% mutate(share_deaths = round(total_deaths/sum(total_deaths, 
-                                                                      na.rm = TRUE), 2))
+                                                                            na.rm = TRUE), 2))
 shares =  merge(share_cases, share_deaths, by = 'location')
 shares = shares %>% select(location, share_cases, share_deaths)
 shares = reshape2::melt(shares, id.var = 'location')
@@ -163,7 +165,7 @@ did_dataset$treated = ifelse(did_dataset$total_boosters_per_hundred > 10, 1, 0)
 did_dataset$treatment = ifelse(did_dataset$treated == 1, 'Higher vaccinations', 
                                'Lower vaccinations')
 did_dataset$omicron = ifelse(did_dataset$time == 1, 'After omicron', 
-                               'Before omicron')
+                             'Before omicron')
 
 did_dataset = aggregate(new_deaths_per_million ~ treatment + omicron + date, data = did_dataset, 
                         FUN = mean)
@@ -176,22 +178,7 @@ did_plot$To = ifelse(did_plot$date == '2021-11-26', 'Discovery of Omicron',
 did_plot_2 = subset(did_dataset, date == '2021-11-11')
 did_plot_2$To = 'Before Omicron'
 did_plot = rbind(did_plot, did_plot_2)
-write_csv(did_plot, 'did_plot.csv)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+write_csv(did_plot, 'did_plot.csv')
 
 
 #Backup data in an R tracker 
