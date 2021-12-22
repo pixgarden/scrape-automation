@@ -5,9 +5,9 @@ Algeria,DZA,2021-12-21,0.06
 Angola,AGO,2021-12-21,0
 Argentina,ARG,2021-12-21,9.05
 Armenia,ARM,2021-12-21,0
-Australia,AUS,2021-12-21,5.86
+Australia,AUS,2021-12-21,6.47
 Austria,AUT,2021-12-21,37.47
-Azerbaijan,AZE,2021-12-21,12.56
+Azerbaijan,AZE,2021-12-21,12.78
 Bahrain,BHR,2021-12-21,0
 Bangladesh,BGD,2021-12-21,0
 Barbados,BRB,2021-12-21,0
@@ -18,13 +18,13 @@ Bhutan,BTN,2021-12-21,0
 Bolivia,BOL,2021-12-21,4.06
 Bosnia and Herzegovina,BIH,2021-12-21,0.69
 Botswana,BWA,2021-12-21,0
-Brazil,BRA,2021-12-21,10.9
-Bulgaria,BGR,2021-12-21,3.28
+Brazil,BRA,2021-12-21,11.11
+Bulgaria,BGR,2021-12-21,3.42
 Burkina Faso,BFA,2021-12-21,0
 Burundi,BDI,2021-12-21,0
 Cambodia,KHM,2021-12-21,18.09
 Cameroon,CMR,2021-12-21,0
-Canada,CAN,2021-12-21,12.02
+Canada,CAN,2021-12-21,13.03
 Cape Verde,CPV,2021-12-21,0
 Central African Republic,CAF,2021-12-21,0
 Chad,TCD,2021-12-21,0
@@ -33,19 +33,19 @@ China,CHN,2021-12-21,8.35
 Colombia,COL,2021-12-21,5.27
 Comoros,COM,2021-12-21,0
 Congo,COG,2021-12-21,0
-Costa Rica,CRI,2021-12-21,1.21
+Costa Rica,CRI,2021-12-21,3.91
 Cote d'Ivoire,CIV,2021-12-21,0
 Croatia,HRV,2021-12-21,0
 Cuba,CUB,2021-12-21,0
 Cyprus,CYP,2021-12-21,27.47
-Czechia,CZE,2021-12-21,18.9
+Czechia,CZE,2021-12-21,19.56
 Democratic Republic of Congo,COD,2021-12-21,0
 Denmark,DNK,2021-12-21,37.19
 Djibouti,DJI,2021-12-21,0
 Dominican Republic,DOM,2021-12-21,12.81
 Ecuador,ECU,2021-12-21,4.09
 Egypt,EGY,2021-12-21,0
-El Salvador,SLV,2021-12-21,13.36
+El Salvador,SLV,2021-12-21,13.77
 Equatorial Guinea,GNQ,2021-12-21,0
 Eritrea,ERI,2021-12-21,0
 Estonia,EST,2021-12-21,0
@@ -59,41 +59,41 @@ Gambia,GMB,2021-12-21,0
 Georgia,GEO,2021-12-21,0
 Germany,DEU,2021-12-21,32.32
 Ghana,GHA,2021-12-21,0
-Greece,GRC,2021-12-21,27.98
+Greece,GRC,2021-12-21,28.79
 Guatemala,GTM,2021-12-21,0
 Guinea,GIN,2021-12-21,0
 Guinea-Bissau,GNB,2021-12-21,0
 Guyana,GUY,2021-12-21,0.73
 Haiti,HTI,2021-12-21,0
 Honduras,HND,2021-12-21,2.11
-Hong Kong,HKG,2021-12-21,4.17
-Hungary,HUN,2021-12-21,32.32
-Iceland,ISL,2021-12-21,55.24
+Hong Kong,HKG,2021-12-21,4.25
+Hungary,HUN,2021-12-21,32.43
+Iceland,ISL,2021-12-21,56.84
 India,IND,2021-12-21,0
 Indonesia,IDN,2021-12-21,0
 Iran,IRN,2021-12-21,4.44
 Iraq,IRQ,2021-12-21,0
 Ireland,IRL,2021-12-21,32.83
-Israel,ISR,2021-12-21,44.82
-Italy,ITA,2021-12-21,25.5
+Israel,ISR,2021-12-21,44.89
+Italy,ITA,2021-12-21,26.28
 Jamaica,JAM,2021-12-21,0
-Japan,JPN,2021-12-21,0.2
+Japan,JPN,2021-12-21,0.23
 Jordan,JOR,2021-12-21,0
 Kazakhstan,KAZ,2021-12-21,0
 Kenya,KEN,2021-12-21,0
 Kuwait,KWT,2021-12-21,2.51
 Kyrgyzstan,KGZ,2021-12-21,0
 Laos,LAO,2021-12-21,0
-Latvia,LVA,2021-12-21,10.57
+Latvia,LVA,2021-12-21,11.05
 Lebanon,LBN,2021-12-21,0
 Lesotho,LSO,2021-12-21,0
 Liberia,LBR,2021-12-21,0
 Libya,LBY,2021-12-21,0
-Lithuania,LTU,2021-12-21,19.8
+Lithuania,LTU,2021-12-21,20.3
 Luxembourg,LUX,2021-12-21,24.65
 Madagascar,MDG,2021-12-21,0
 Malawi,MWI,2021-12-21,0
-Malaysia,MYS,2021-12-21,12.74
+Malaysia,MYS,2021-12-21,13.23
 Maldives,MDV,2021-12-21,4.13
 Mali,MLI,2021-12-21,0
 Malta,MLT,2021-12-21,33.98
@@ -109,7 +109,7 @@ Myanmar,MMR,2021-12-21,0
 Namibia,"NAM",2021-12-21,0
 Nepal,NPL,2021-12-21,0
 Netherlands,NLD,2021-12-21,8.66
-New Zealand,NZL,2021-12-21,4.94
+New Zealand,NZL,2021-12-21,5.19
 Nicaragua,NIC,2021-12-21,0
 Niger,NER,2021-12-21,0
 Nigeria,NGA,2021-12-21,0
@@ -118,7 +118,7 @@ Norway,NOR,2021-12-21,24.29
 Oman,OMN,2021-12-21,0.62
 Pakistan,PAK,2021-12-21,0
 Palestine,PSE,2021-12-21,0.05
-Panama,PAN,2021-12-21,5.67
+Panama,PAN,2021-12-21,5.91
 Papua New Guinea,PNG,2021-12-21,0
 Paraguay,PRY,2021-12-21,2.41
 Peru,PER,2021-12-21,6.54
@@ -127,7 +127,7 @@ Poland,POL,2021-12-21,15.88
 Portugal,PRT,2021-12-21,22.87
 Qatar,QAT,2021-12-21,0
 Romania,ROU,2021-12-21,0
-Russia,RUS,2021-12-21,4.1
+Russia,RUS,2021-12-21,4.45
 Rwanda,RWA,2021-12-21,0
 Sao Tome and Principe,STP,2021-12-21,0
 Saudi Arabia,SAU,2021-12-21,0
@@ -141,30 +141,30 @@ Slovenia,SVN,2021-12-21,19.11
 Solomon Islands,SLB,2021-12-21,0
 Somalia,SOM,2021-12-21,0
 South Africa,ZAF,2021-12-21,0
-South Korea,KOR,2021-12-21,24.13
+South Korea,KOR,2021-12-21,25.5
 South Sudan,SSD,2021-12-21,0
 Spain,ESP,2021-12-21,24.34
-Sri Lanka,LKA,2021-12-21,11.65
+Sri Lanka,LKA,2021-12-21,12.37
 Sudan,SDN,2021-12-21,0
 Suriname,SUR,2021-12-21,0
-Sweden,SWE,2021-12-21,19.83
+Sweden,SWE,2021-12-21,21.67
 Switzerland,CHE,2021-12-21,18.65
 Syria,SYR,2021-12-21,0
-Taiwan,TWN,2021-12-21,0.27
+Taiwan,TWN,2021-12-21,0.29
 Tajikistan,TJK,2021-12-21,0
 Tanzania,TZA,2021-12-21,0
 Thailand,THA,2021-12-21,6.79
 Timor,TLS,2021-12-21,0
 Togo,TGO,2021-12-21,0
-Trinidad and Tobago,TTO,2021-12-21,3.98
+Trinidad and Tobago,TTO,2021-12-21,4.29
 Tunisia,TUN,2021-12-21,5.88
-Turkey,TUR,2021-12-21,20.02
+Turkey,TUR,2021-12-21,20.94
 Uganda,UGA,2021-12-21,0
 Ukraine,UKR,2021-12-21,0
 United Arab Emirates,ARE,2021-12-21,32.74
 United Kingdom,GBR,2021-12-21,43.8
-United States,USA,2021-12-21,18.29
-Uruguay,URY,2021-12-21,42.42
+United States,USA,2021-12-21,18.71
+Uruguay,URY,2021-12-21,42.59
 Uzbekistan,UZB,2021-12-21,0
 Vanuatu,VUT,2021-12-21,0
 Venezuela,VEN,2021-12-21,0
