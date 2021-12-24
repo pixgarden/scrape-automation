@@ -69,7 +69,7 @@ date,location,iso_a3,new_cases
 2021-12-23,Hong Kong,HKG,2
 2021-12-23,Hungary,HUN,3586
 2021-12-23,Iceland,ISL,500
-2021-12-23,India,IND,0
+2021-12-23,India,IND,6650
 2021-12-23,Indonesia,IDN,136
 2021-12-23,Iran,IRN,1932
 2021-12-23,Iraq,IRQ,312
@@ -163,7 +163,7 @@ date,location,iso_a3,new_cases
 2021-12-23,Ukraine,UKR,7533
 2021-12-23,United Arab Emirates,ARE,1002
 2021-12-23,United Kingdom,GBR,122760
-2021-12-23,United States,USA,261331
+2021-12-23,United States,USA,261339
 2021-12-23,Uruguay,URY,446
 2021-12-23,Uzbekistan,UZB,187
 2021-12-23,Vanuatu,VUT,0
