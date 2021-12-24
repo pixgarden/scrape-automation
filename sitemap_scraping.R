@@ -180,6 +180,25 @@ did_plot_2$To = 'Before Omicron'
 did_plot = rbind(did_plot, did_plot_2)
 write_csv(did_plot, 'did_plot.csv')
 
+#Prevalence of the several variants in Europe according to teh ECDC 
+variants = read_csv('https://opendata.ecdc.europa.eu/covid19/virusvariant/csv/data.csv')
+variants = subset(variants, source == 'TESSy')
+variants = split(
+  variants, f = variants$country
+)
+
+variants = do.call(rbind, lapply(variants, function(x){
+    subset(x, year_week == max(x$year_week))
+  }))
+
+unique(variants$variant)
+variants$Variant[variants$variant == 'B.1.351'] <- 'Beta'
+variants$Variant[variants$variant == 'P.1'] <- 'Gamma'
+variants$Variant[variants$variant == 'B.1.617.2'] <- 'Delta'
+variants$Variant[variants$variant == 'B.1.1.529'] <- 'Omicron'
+variants$Variant[is.na(variants$Variant)] <- 'Other'
+variants$percent_variant[is.na(variants$percent_variant)] <- 0
+write_csv(variants, 'variants.csv')
 
 #Backup data in an R tracker 
 save.image(file = 'tracker_data.RData')
