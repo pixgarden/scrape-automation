@@ -1,41 +1,174 @@
 location,iso_code,date,total_boosters_per_hundred
+Afghanistan,AFG,2021-12-24,0
+Albania,ALB,2021-12-24,4.54
+Algeria,DZA,2021-12-24,0.06
+Angola,AGO,2021-12-24,0
+Argentina,ARG,2021-12-24,9.72
 Armenia,ARM,2021-12-24,0
+Australia,AUS,2021-12-24,7.7
 Austria,AUT,2021-12-24,38.71
+Azerbaijan,AZE,2021-12-24,13.2
 Bahrain,BHR,2021-12-24,45.12
 Bangladesh,BGD,2021-12-24,0
+Barbados,BRB,2021-12-24,0
+Belarus,BLR,2021-12-24,1.21
+Belgium,BEL,2021-12-24,32.76
+Benin,BEN,2021-12-24,0
 Bhutan,BTN,2021-12-24,0
+Bolivia,BOL,2021-12-24,4.06
 Bosnia and Herzegovina,BIH,2021-12-24,0.69
+Botswana,BWA,2021-12-24,0
+Brazil,BRA,2021-12-24,11.54
+Bulgaria,BGR,2021-12-24,3.63
+Burkina Faso,BFA,2021-12-24,0
+Burundi,BDI,2021-12-24,0
+Cambodia,KHM,2021-12-24,19.08
+Cameroon,CMR,2021-12-24,0
 Canada,CAN,2021-12-24,15.13
+Cape Verde,CPV,2021-12-24,0
+Central African Republic,CAF,2021-12-24,0
+Chad,TCD,2021-12-24,0
 Chile,CHL,2021-12-24,52.68
+China,CHN,2021-12-24,8.35
+Colombia,COL,2021-12-24,5.27
+Comoros,COM,2021-12-24,0
+Congo,COG,2021-12-24,0
+Costa Rica,CRI,2021-12-24,3.91
+Cote d'Ivoire,CIV,2021-12-24,0
 Croatia,HRV,2021-12-24,0
+Cuba,CUB,2021-12-24,8.19
+Cyprus,CYP,2021-12-24,28.25
+Czechia,CZE,2021-12-24,20.38
+Democratic Republic of Congo,COD,2021-12-24,0
 Denmark,DNK,2021-12-24,40.83
+Djibouti,DJI,2021-12-24,0
+Dominican Republic,DOM,2021-12-24,12.89
+Ecuador,ECU,2021-12-24,4.09
+Egypt,EGY,2021-12-24,0
+El Salvador,SLV,2021-12-24,14.27
 Equatorial Guinea,GNQ,2021-12-24,0
+Eritrea,ERI,2021-12-24,0
+Estonia,EST,2021-12-24,0
+Eswatini,SWZ,2021-12-24,0
+Ethiopia,ETH,2021-12-24,0
+Fiji,FJI,2021-12-24,0
 Finland,FIN,2021-12-24,9.66
+France,FRA,2021-12-24,29.11
+Gabon,GAB,2021-12-24,0
+Gambia,GMB,2021-12-24,0
+Georgia,GEO,2021-12-24,0
 Germany,DEU,2021-12-24,34.66
+Ghana,GHA,2021-12-24,0
 Greece,GRC,2021-12-24,30.33
+Guatemala,GTM,2021-12-24,0.38
+Guinea,GIN,2021-12-24,0
+Guinea-Bissau,GNB,2021-12-24,0
+Guyana,GUY,2021-12-24,1.07
+Haiti,HTI,2021-12-24,0
+Honduras,HND,2021-12-24,2.93
+Hong Kong,HKG,2021-12-24,4.39
+Hungary,HUN,2021-12-24,32.55
+Iceland,ISL,2021-12-24,57.91
 India,IND,2021-12-24,0
 Indonesia,IDN,2021-12-24,0
 Iran,IRN,2021-12-24,4.44
+Iraq,IRQ,2021-12-24,0
 Ireland,IRL,2021-12-24,37.52
 Israel,ISR,2021-12-24,45.02
+Italy,ITA,2021-12-24,27.81
+Jamaica,JAM,2021-12-24,0
+Japan,JPN,2021-12-24,0.31
+Jordan,JOR,2021-12-24,0
+Kazakhstan,KAZ,2021-12-24,0
+Kenya,KEN,2021-12-24,0
+Kuwait,KWT,2021-12-24,2.51
+Kyrgyzstan,KGZ,2021-12-24,0
+Laos,LAO,2021-12-24,0
+Latvia,LVA,2021-12-24,11.9
+Lebanon,LBN,2021-12-24,3.98
+Lesotho,LSO,2021-12-24,0
+Liberia,LBR,2021-12-24,0
+Libya,LBY,2021-12-24,0
+Lithuania,LTU,2021-12-24,20.83
+Luxembourg,LUX,2021-12-24,24.65
+Madagascar,MDG,2021-12-24,0
+Malawi,MWI,2021-12-24,0
 Malaysia,MYS,2021-12-24,14.26
+Maldives,MDV,2021-12-24,4.19
+Mali,MLI,2021-12-24,0
 Malta,MLT,2021-12-24,35.12
+Mauritania,MRT,2021-12-24,0
+Mauritius,MUS,2021-12-24,0
+Mexico,MEX,2021-12-24,0
+Moldova,MDA,2021-12-24,0
 Mongolia,MNG,2021-12-24,26.34
+Montenegro,MNE,2021-12-24,11.14
 Morocco,MAR,2021-12-24,0
+Mozambique,MOZ,2021-12-24,0
+Myanmar,MMR,2021-12-24,0
+Namibia,"NAM",2021-12-24,0
 Nepal,NPL,2021-12-24,0
 Netherlands,NLD,2021-12-24,11.39
 New Zealand,NZL,2021-12-24,5.72
+Nicaragua,NIC,2021-12-24,0
+Niger,NER,2021-12-24,0
+Nigeria,NGA,2021-12-24,0
+North Macedonia,MKD,2021-12-24,4.28
+Norway,NOR,2021-12-24,26
+Oman,OMN,2021-12-24,0.62
 Pakistan,PAK,2021-12-24,0
+Palestine,PSE,2021-12-24,0.05
+Panama,PAN,2021-12-24,6.25
+Papua New Guinea,PNG,2021-12-24,0
+Paraguay,PRY,2021-12-24,2.41
+Peru,PER,2021-12-24,7.5
+Philippines,PHL,2021-12-24,1.04
 Poland,POL,2021-12-24,16.47
+Portugal,PRT,2021-12-24,25.38
+Qatar,QAT,2021-12-24,0
 Romania,ROU,2021-12-24,0
+Russia,RUS,2021-12-24,4.67
 Rwanda,RWA,2021-12-24,0
+Sao Tome and Principe,STP,2021-12-24,0
+Saudi Arabia,SAU,2021-12-24,3.27
 Senegal,SEN,2021-12-24,0
 Serbia,SRB,2021-12-24,24.56
+Seychelles,SYC,2021-12-24,0
+Sierra Leone,SLE,2021-12-24,0
+Singapore,SGP,2021-12-24,11.41
+Slovakia,SVK,2021-12-24,15.81
+Slovenia,SVN,2021-12-24,20.52
+Solomon Islands,SLB,2021-12-24,0
+Somalia,SOM,2021-12-24,0
 South Africa,ZAF,2021-12-24,0
+South Korea,KOR,2021-12-24,27.88
+South Sudan,SSD,2021-12-24,0
+Spain,ESP,2021-12-24,26.22
 Sri Lanka,LKA,2021-12-24,13.99
+Sudan,SDN,2021-12-24,0
+Suriname,SUR,2021-12-24,0
+Sweden,SWE,2021-12-24,22.82
+Switzerland,CHE,2021-12-24,20.55
+Syria,SYR,2021-12-24,0
 Taiwan,TWN,2021-12-24,0.35
+Tajikistan,TJK,2021-12-24,0
+Tanzania,TZA,2021-12-24,0
+Thailand,THA,2021-12-24,7.85
+Timor,TLS,2021-12-24,0
+Togo,TGO,2021-12-24,0
+Trinidad and Tobago,TTO,2021-12-24,4.51
+Tunisia,TUN,2021-12-24,6.05
 Turkey,TUR,2021-12-24,22.59
+Uganda,UGA,2021-12-24,0
 Ukraine,UKR,2021-12-24,0
 United Arab Emirates,ARE,2021-12-24,34.3
+United Kingdom,GBR,2021-12-24,46.45
 United States,USA,2021-12-24,19.39
+Uruguay,URY,2021-12-24,42.88
+Uzbekistan,UZB,2021-12-24,0
+Vanuatu,VUT,2021-12-24,0
+Venezuela,VEN,2021-12-24,0
+Vietnam,VNM,2021-12-24,0
+Yemen,YEM,2021-12-24,0
 Zambia,ZMB,2021-12-24,0
+Zimbabwe,ZWE,2021-12-24,0
