@@ -3,7 +3,7 @@ Afghanistan,share_cases,0
 Albania,share_cases,0
 Algeria,share_cases,0
 Angola,share_cases,0
-Argentina,share_cases,0.03
+Argentina,share_cases,0.02
 Armenia,share_cases,0
 Australia,share_cases,0
 Austria,share_cases,0.01
@@ -14,7 +14,7 @@ Barbados,share_cases,0
 Belarus,share_cases,0
 Benin,share_cases,0
 Bhutan,share_cases,0
-Brazil,share_cases,0.11
+Brazil,share_cases,0.09
 Bulgaria,share_cases,0
 Cambodia,share_cases,0
 Cameroon,share_cases,0
@@ -24,7 +24,7 @@ Central African Republic,share_cases,0
 Chad,share_cases,0
 Chile,share_cases,0.01
 China,share_cases,0
-Colombia,share_cases,0.03
+Colombia,share_cases,0.02
 Comoros,share_cases,0
 Cote d'Ivoire,share_cases,0
 Croatia,share_cases,0
@@ -40,11 +40,11 @@ Eritrea,share_cases,0
 Estonia,share_cases,0
 Eswatini,share_cases,0
 Ethiopia,share_cases,0
-France,share_cases,0.05
+France,share_cases,0.04
 Gambia,share_cases,0
 Georgia,share_cases,0
 Germany,share_cases,0.03
-Greece,share_cases,0.01
+Greece,share_cases,0
 Guatemala,share_cases,0
 Guinea,share_cases,0
 Guinea-Bissau,share_cases,0
@@ -52,12 +52,12 @@ Guyana,share_cases,0
 Haiti,share_cases,0
 Honduras,share_cases,0
 Hong Kong,share_cases,0
-India,share_cases,NA
+India,share_cases,0.15
 Indonesia,share_cases,0.02
 Iran,share_cases,0.03
 Iraq,share_cases,0.01
 Israel,share_cases,0.01
-Italy,share_cases,0.03
+Italy,share_cases,0.02
 Jamaica,share_cases,0
 Japan,share_cases,0.01
 Kazakhstan,share_cases,NA
@@ -86,7 +86,7 @@ Mozambique,share_cases,0
 Myanmar,share_cases,0
 Namibia,share_cases,0
 Nepal,share_cases,0
-Netherlands,share_cases,0.02
+Netherlands,share_cases,0.01
 New Zealand,share_cases,0
 Nicaragua,share_cases,0
 Niger,share_cases,0
@@ -102,7 +102,7 @@ Poland,share_cases,0.02
 Portugal,share_cases,0.01
 Qatar,share_cases,0
 Romania,share_cases,0.01
-Russia,share_cases,0.05
+Russia,share_cases,0.04
 Rwanda,share_cases,0
 Sao Tome and Principe,share_cases,0
 Saudi Arabia,share_cases,0
@@ -114,7 +114,7 @@ Singapore,share_cases,0
 Slovakia,share_cases,0.01
 Slovenia,share_cases,0
 Solomon Islands,share_cases,0
-South Africa,share_cases,0.02
+South Africa,share_cases,0.01
 South Korea,share_cases,0
 Sri Lanka,share_cases,0
 Sudan,share_cases,0
@@ -132,7 +132,7 @@ Turkey,share_cases,NA
 Uganda,share_cases,0
 Ukraine,share_cases,0.02
 United Arab Emirates,share_cases,0
-United States,share_cases,0.26
+United States,share_cases,0.22
 Uruguay,share_cases,0
 Uzbekistan,share_cases,0
 Vanuatu,share_cases,0
@@ -144,7 +144,7 @@ Afghanistan,share_deaths,0
 Albania,share_deaths,0
 Algeria,share_deaths,0
 Angola,share_deaths,0
-Argentina,share_deaths,0.03
+Argentina,share_deaths,0.02
 Armenia,share_deaths,0
 Australia,share_deaths,0
 Austria,share_deaths,0
@@ -155,7 +155,7 @@ Barbados,share_deaths,0
 Belarus,share_deaths,0
 Benin,share_deaths,0
 Bhutan,share_deaths,0
-Brazil,share_deaths,0.14
+Brazil,share_deaths,0.13
 Bulgaria,share_deaths,0.01
 Cambodia,share_deaths,0
 Cameroon,share_deaths,0
@@ -184,7 +184,7 @@ Ethiopia,share_deaths,0
 France,share_deaths,0.03
 Gambia,share_deaths,0
 Georgia,share_deaths,0
-Germany,share_deaths,0.03
+Germany,share_deaths,0.02
 Greece,share_deaths,0
 Guatemala,share_deaths,0
 Guinea,share_deaths,0
@@ -193,7 +193,7 @@ Guyana,share_deaths,0
 Haiti,share_deaths,0
 Honduras,share_deaths,0
 Hong Kong,share_deaths,0
-India,share_deaths,NA
+India,share_deaths,0.1
 Indonesia,share_deaths,0.03
 Iran,share_deaths,0.03
 Iraq,share_deaths,0.01
@@ -218,7 +218,7 @@ Mali,share_deaths,0
 Malta,share_deaths,0
 Mauritania,share_deaths,0
 Mauritius,share_deaths,0
-Mexico,share_deaths,0.07
+Mexico,share_deaths,0.06
 Moldova,share_deaths,0
 Mongolia,share_deaths,NA
 Montenegro,share_deaths,0
@@ -237,13 +237,13 @@ Oman,share_deaths,0
 Pakistan,share_deaths,0.01
 Panama,share_deaths,0
 Papua New Guinea,share_deaths,0
-Peru,share_deaths,0.05
+Peru,share_deaths,0.04
 Philippines,share_deaths,0.01
 Poland,share_deaths,0.02
 Portugal,share_deaths,0
 Qatar,share_deaths,0
 Romania,share_deaths,0.01
-Russia,share_deaths,0.07
+Russia,share_deaths,0.06
 Rwanda,share_deaths,0
 Sao Tome and Principe,share_deaths,0
 Saudi Arabia,share_deaths,0
@@ -273,7 +273,7 @@ Turkey,share_deaths,NA
 Uganda,share_deaths,0
 Ukraine,share_deaths,0.02
 United Arab Emirates,share_deaths,0
-United States,share_deaths,0.19
+United States,share_deaths,0.17
 Uruguay,share_deaths,0
 Uzbekistan,share_deaths,0
 Vanuatu,share_deaths,0

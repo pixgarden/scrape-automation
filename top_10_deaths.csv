@@ -1,6 +1,7 @@
 date,iso_code,location,total_deaths
 2021-12-25,USA,United States,"816,463"
 2021-12-25,BRA,Brazil,"618,686"
+2021-12-25,IND,India,"479,682"
 2021-12-25,MEX,Mexico,"298,759"
 2021-12-25,RUS,Russia,"297,223"
 2021-12-25,PER,Peru,"202,488"
@@ -8,4 +9,3 @@ date,iso_code,location,total_deaths
 2021-12-25,ITA,Italy,"136,530"
 2021-12-25,IRN,Iran,"131,348"
 2021-12-25,COL,Colombia,"129,729"
-2021-12-25,FRA,France,"122,608"
