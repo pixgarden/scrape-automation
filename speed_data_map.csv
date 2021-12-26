@@ -69,7 +69,7 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-25,Hong Kong,HKG,20-days average,0.8,Hong Kong 0.8
 2021-12-23,Hungary,HUN,20-days average,-327.85,Hungary -327.9
 2021-12-23,Iceland,ISL,20-days average,18.25,Iceland 18.25
-2021-12-24,India,IND,20-days average,359.45,India 359.4
+2021-12-25,India,IND,20-days average,-860.05,India -860
 2021-12-25,Indonesia,IDN,20-days average,2.95,Indonesia 2.95
 2021-12-25,Iran,IRN,20-days average,-99.4,Iran -99.4
 2021-12-25,Iraq,IRQ,20-days average,-15.05,Iraq -15.05
@@ -79,7 +79,7 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-25,Jamaica,JAM,20-days average,5.5,Jamaica 5.5
 2021-12-25,Japan,JPN,20-days average,7.95,Japan 7.95
 2021-12-24,Jordan,JOR,20-days average,-387.3,Jordan -387.3
-2021-12-24,Kazakhstan,KAZ,20-days average,-39.5,Kazakhstan -39.5
+2021-12-25,Kazakhstan,KAZ,20-days average,-32.65,Kazakhstan -32.65
 2021-12-25,Kenya,KEN,20-days average,186,Kenya 186
 2021-12-25,Kuwait,KWT,20-days average,6.15,Kuwait 6.15
 2021-12-25,Kyrgyzstan,KGZ,20-days average,-2.1,Kyrgyzstan -2.1
@@ -101,7 +101,7 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-25,Mauritius,MUS,20-days average,-4.45,Mauritius -4.45
 2021-12-25,Mexico,MEX,20-days average,-44.75,Mexico -44.75
 2021-12-25,Moldova,MDA,20-days average,6.75,Moldova 6.75
-2021-12-24,Mongolia,MNG,20-days average,5.45,Mongolia 5.45
+2021-12-25,Mongolia,MNG,20-days average,-6.95,Mongolia -6.95
 2021-12-25,Montenegro,MNE,20-days average,14.05,Montenegro 14.05
 2021-12-25,Morocco,MAR,20-days average,32.2,Morocco 32.2
 2021-12-25,Mozambique,MOZ,20-days average,42.1,Mozambique 42.1
@@ -158,7 +158,7 @@ date,location,iso_a3,variable,value,tooltip
 2021-12-25,Togo,TGO,20-days average,28.7,Togo 28.7
 2021-12-25,Trinidad and Tobago,TTO,20-days average,-9.05,Trinidad and Tobago -9.05
 2021-12-25,Tunisia,TUN,20-days average,9.35,Tunisia 9.35
-2021-12-24,Turkey,TUR,20-days average,-73.2,Turkey -73.2
+2021-12-25,Turkey,TUR,20-days average,-967.85,Turkey -967.9
 2021-08-29,Turkmenistan,TKM,20-days average,0,Turkmenistan 0
 2021-12-25,Uganda,UGA,20-days average,62.35,Uganda 62.35
 2021-12-25,Ukraine,UKR,20-days average,-88,Ukraine -88

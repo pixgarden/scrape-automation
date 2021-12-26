@@ -52,6 +52,7 @@ Guyana,share_cases,0
 Haiti,share_cases,0
 Honduras,share_cases,0
 Hong Kong,share_cases,0
+India,share_cases,NA
 Indonesia,share_cases,0.02
 Iran,share_cases,0.03
 Iraq,share_cases,0.01
@@ -59,6 +60,7 @@ Israel,share_cases,0.01
 Italy,share_cases,0.03
 Jamaica,share_cases,0
 Japan,share_cases,0.01
+Kazakhstan,share_cases,NA
 Kenya,share_cases,0
 Kuwait,share_cases,0
 Kyrgyzstan,share_cases,0
@@ -77,6 +79,7 @@ Mauritania,share_cases,0
 Mauritius,share_cases,0
 Mexico,share_cases,0.02
 Moldova,share_cases,0
+Mongolia,share_cases,NA
 Montenegro,share_cases,0
 Morocco,share_cases,0
 Mozambique,share_cases,0
@@ -125,6 +128,7 @@ Timor,share_cases,0
 Togo,share_cases,0
 Trinidad and Tobago,share_cases,0
 Tunisia,share_cases,0
+Turkey,share_cases,NA
 Uganda,share_cases,0
 Ukraine,share_cases,0.02
 United Arab Emirates,share_cases,0
@@ -189,6 +193,7 @@ Guyana,share_deaths,0
 Haiti,share_deaths,0
 Honduras,share_deaths,0
 Hong Kong,share_deaths,0
+India,share_deaths,NA
 Indonesia,share_deaths,0.03
 Iran,share_deaths,0.03
 Iraq,share_deaths,0.01
@@ -196,6 +201,7 @@ Israel,share_deaths,0
 Italy,share_deaths,0.03
 Jamaica,share_deaths,0
 Japan,share_deaths,0
+Kazakhstan,share_deaths,NA
 Kenya,share_deaths,0
 Kuwait,share_deaths,0
 Kyrgyzstan,share_deaths,0
@@ -214,6 +220,7 @@ Mauritania,share_deaths,0
 Mauritius,share_deaths,0
 Mexico,share_deaths,0.07
 Moldova,share_deaths,0
+Mongolia,share_deaths,NA
 Montenegro,share_deaths,0
 Morocco,share_deaths,0
 Mozambique,share_deaths,0
@@ -262,6 +269,7 @@ Timor,share_deaths,0
 Togo,share_deaths,0
 Trinidad and Tobago,share_deaths,0
 Tunisia,share_deaths,0.01
+Turkey,share_deaths,NA
 Uganda,share_deaths,0
 Ukraine,share_deaths,0.02
 United Arab Emirates,share_deaths,0

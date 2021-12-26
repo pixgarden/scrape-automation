@@ -50,12 +50,14 @@ HND,Honduras,2020,0.23,1,Electoral autocracy,2021-12-25,Honduras,37670.002,"Hond
 HRV,Croatia,2020,0.641,2,Electoral democracy,2021-12-25,Croatia,169808.977,"Croatia:169,809.0"
 HTI,Haiti,2020,0.235,1,Electoral autocracy,2021-12-25,Haiti,2248.372,"Haiti:  2,248.4"
 IDN,Indonesia,2020,0.448,2,Electoral democracy,2021-12-25,Indonesia,15420.609,"Indonesia: 15,420.6"
+IND,India,2020,0.34,1,Electoral autocracy,2021-12-25,India,NA,India:       NA
 IRN,Iran,2020,0.142,1,Electoral autocracy,2021-12-25,Iran,72715.455,"Iran: 72,715.5"
 IRQ,Iraq,2020,0.22,1,Electoral autocracy,2021-12-25,Iraq,50809.737,"Iraq: 50,809.7"
 ISR,Israel,2020,0.648,3,Liberal democracy,2021-12-25,Israel,146778.388,"Israel:146,778.4"
 ITA,Italy,2020,0.785,3,Liberal democracy,2021-12-25,Italy,93136.766,"Italy: 93,136.8"
 JAM,Jamaica,2020,0.698,2,Electoral democracy,2021-12-25,Jamaica,31112.891,"Jamaica: 31,112.9"
 JPN,Japan,2020,0.731,3,Liberal democracy,2021-12-25,Japan,13727.379,"Japan: 13,727.4"
+KAZ,Kazakhstan,2020,0.129,1,Electoral autocracy,2021-12-25,Kazakhstan,NA,Kazakhstan:       NA
 KEN,Kenya,2020,0.367,1,Electoral autocracy,2021-12-25,Kenya,5116.93,"Kenya:  5,116.9"
 KGZ,Kyrgyzstan,2020,0.291,1,Electoral autocracy,2021-12-25,Kyrgyzstan,27825.791,"Kyrgyzstan: 27,825.8"
 KHM,Cambodia,2020,0.066,1,Electoral autocracy,2021-12-25,Cambodia,7107.39,"Cambodia:  7,107.4"
@@ -77,6 +79,7 @@ MLI,Mali,2020,0.317,1,Electoral autocracy,2021-12-25,Mali,959.497,Mali:    959.5
 MLT,Malta,2020,0.612,2,Electoral democracy,2021-12-25,Malta,88506.103,"Malta: 88,506.1"
 MMR,Burma/Myanmar,2020,0.271,1,Electoral autocracy,2021-12-25,Myanmar,9661.403,"Myanmar:  9,661.4"
 MNE,Montenegro,2020,0.347,1,Electoral autocracy,2021-12-25,Montenegro,259259.2,"Montenegro:259,259.2"
+MNG,Mongolia,2020,0.503,2,Electoral democracy,2021-12-25,Mongolia,NA,Mongolia:       NA
 MOZ,Mozambique,2020,0.254,1,Electoral autocracy,2021-12-25,Mozambique,5315.883,"Mozambique:  5,315.9"
 MRT,Mauritania,2020,0.185,1,Electoral autocracy,2021-12-25,Mauritania,8471.637,"Mauritania:  8,471.6"
 MUS,Mauritius,2020,0.504,2,Electoral democracy,2021-12-25,Mauritius,18143.939,"Mauritius: 18,143.9"
@@ -123,6 +126,7 @@ TJK,Tajikistan,2020,0.047,1,Electoral autocracy,2021-12-25,Tajikistan,1794.223,"
 TLS,Timor-Leste,2020,0.464,2,Electoral democracy,2021-12-25,Timor,14758.069,"Timor: 14,758.1"
 TTO,Trinidad and Tobago,2020,0.643,2,Electoral democracy,2021-12-25,Trinidad and Tobago,63677.965,"Trinidad and Tobago: 63,678.0"
 TUN,Tunisia,2020,0.644,2,Electoral democracy,2021-12-25,Tunisia,60557.079,"Tunisia: 60,557.1"
+TUR,Turkey,2020,0.111,1,Electoral autocracy,2021-12-25,Turkey,NA,Turkey:       NA
 TWN,Taiwan,2020,0.718,3,Liberal democracy,2021-12-25,Taiwan,708.069,Taiwan:    708.1
 TZA,Tanzania,2020,0.327,1,Electoral autocracy,2021-12-25,Tanzania,430.629,Tanzania:    430.6
 UGA,Uganda,2020,0.23,1,Electoral autocracy,2021-12-25,Uganda,2827.292,"Uganda:  2,827.3"
