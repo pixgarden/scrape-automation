@@ -40,6 +40,7 @@ date,location,iso_a3,new_cases
 2021-12-26,Estonia,EST,432
 2021-12-26,Eswatini,SWZ,62
 2021-12-26,Ethiopia,ETH,2946
+2021-12-26,Finland,FIN,NA
 2021-12-26,France,FRA,27697
 2021-12-26,Gambia,GMB,0
 2021-12-26,Georgia,GEO,1661
@@ -52,12 +53,16 @@ date,location,iso_a3,new_cases
 2021-12-26,Guyana,GUY,21
 2021-12-26,Haiti,HTI,0
 2021-12-26,Hong Kong,HKG,9
+2021-12-26,India,IND,NA
+2021-12-26,Indonesia,IDN,NA
 2021-12-26,Iran,IRN,1857
 2021-12-26,Iraq,IRQ,172
 2021-12-26,Israel,ISR,1241
 2021-12-26,Italy,ITA,24882
 2021-12-26,Jamaica,JAM,192
 2021-12-26,Japan,JPN,225
+2021-12-26,Jordan,JOR,NA
+2021-12-26,Kazakhstan,KAZ,NA
 2021-12-26,Kenya,KEN,1196
 2021-12-26,Kuwait,KWT,240
 2021-12-26,Kyrgyzstan,KGZ,67

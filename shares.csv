@@ -40,6 +40,7 @@ Eritrea,share_cases,0
 Estonia,share_cases,0
 Eswatini,share_cases,0
 Ethiopia,share_cases,0
+Finland,share_cases,NA
 France,share_cases,0.05
 Gambia,share_cases,0
 Georgia,share_cases,0
@@ -52,12 +53,16 @@ Guinea-Bissau,share_cases,0
 Guyana,share_cases,0
 Haiti,share_cases,0
 Hong Kong,share_cases,0
+India,share_cases,NA
+Indonesia,share_cases,NA
 Iran,share_cases,0.03
 Iraq,share_cases,0.01
 Israel,share_cases,0.01
 Italy,share_cases,0.03
 Jamaica,share_cases,0
 Japan,share_cases,0.01
+Jordan,share_cases,NA
+Kazakhstan,share_cases,NA
 Kenya,share_cases,0
 Kuwait,share_cases,0
 Kyrgyzstan,share_cases,0
@@ -178,6 +183,7 @@ Eritrea,share_deaths,0
 Estonia,share_deaths,0
 Eswatini,share_deaths,0
 Ethiopia,share_deaths,0
+Finland,share_deaths,NA
 France,share_deaths,0.03
 Gambia,share_deaths,0
 Georgia,share_deaths,0
@@ -190,12 +196,16 @@ Guinea-Bissau,share_deaths,0
 Guyana,share_deaths,0
 Haiti,share_deaths,0
 Hong Kong,share_deaths,0
+India,share_deaths,NA
+Indonesia,share_deaths,NA
 Iran,share_deaths,0.03
 Iraq,share_deaths,0.01
 Israel,share_deaths,0
 Italy,share_deaths,0.04
 Jamaica,share_deaths,0
 Japan,share_deaths,0
+Jordan,share_deaths,NA
+Kazakhstan,share_deaths,NA
 Kenya,share_deaths,0
 Kuwait,share_deaths,0
 Kyrgyzstan,share_deaths,0
