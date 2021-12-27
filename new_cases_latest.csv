@@ -31,6 +31,7 @@ date,location,iso_a3,new_cases
 2021-12-26,Cuba,CUB,122
 2021-12-26,Cyprus,CYP,912
 2021-12-26,Czechia,CZE,1093
+2021-12-26,Denmark,DNK,NA
 2021-12-26,Djibouti,DJI,4
 2021-12-26,Dominican Republic,DOM,339
 2021-12-26,Egypt,EGY,823
@@ -53,6 +54,8 @@ date,location,iso_a3,new_cases
 2021-12-26,Guyana,GUY,21
 2021-12-26,Haiti,HTI,0
 2021-12-26,Hong Kong,HKG,9
+2021-12-26,Hungary,HUN,NA
+2021-12-26,Iceland,ISL,NA
 2021-12-26,India,IND,6531
 2021-12-26,Indonesia,IDN,NA
 2021-12-26,Iran,IRN,1857
@@ -96,8 +99,10 @@ date,location,iso_a3,new_cases
 2021-12-26,North Macedonia,MKD,279
 2021-12-26,Oman,OMN,121
 2021-12-26,Pakistan,PAK,275
+2021-12-26,Palestine,PSE,NA
 2021-12-26,Panama,PAN,563
 2021-12-26,Papua New Guinea,PNG,0
+2021-12-26,Paraguay,PRY,NA
 2021-12-26,Philippines,PHL,259
 2021-12-26,Poland,POL,6253
 2021-12-26,Portugal,PRT,3732
@@ -121,6 +126,7 @@ date,location,iso_a3,new_cases
 2021-12-26,Sri Lanka,LKA,398
 2021-12-26,Sudan,SDN,0
 2021-12-26,Suriname,SUR,0
+2021-12-26,Switzerland,CHE,NA
 2021-12-26,Syria,SYR,38
 2021-12-26,Taiwan,TWN,24
 2021-12-26,Tajikistan,TJK,0

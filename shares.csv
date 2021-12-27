@@ -31,6 +31,7 @@ Croatia,share_cases,0
 Cuba,share_cases,0
 Cyprus,share_cases,0
 Czechia,share_cases,0.01
+Denmark,share_cases,NA
 Djibouti,share_cases,0
 Dominican Republic,share_cases,0
 Egypt,share_cases,0
@@ -53,6 +54,8 @@ Guinea-Bissau,share_cases,0
 Guyana,share_cases,0
 Haiti,share_cases,0
 Hong Kong,share_cases,0
+Hungary,share_cases,NA
+Iceland,share_cases,NA
 India,share_cases,0.15
 Indonesia,share_cases,NA
 Iran,share_cases,0.03
@@ -96,8 +99,10 @@ Nigeria,share_cases,0
 North Macedonia,share_cases,0
 Oman,share_cases,0
 Pakistan,share_cases,0.01
+Palestine,share_cases,NA
 Panama,share_cases,0
 Papua New Guinea,share_cases,0
+Paraguay,share_cases,NA
 Philippines,share_cases,0.01
 Poland,share_cases,0.02
 Portugal,share_cases,0.01
@@ -121,6 +126,7 @@ South Sudan,share_cases,0
 Sri Lanka,share_cases,0
 Sudan,share_cases,0
 Suriname,share_cases,0
+Switzerland,share_cases,NA
 Syria,share_cases,0
 Taiwan,share_cases,0
 Tajikistan,share_cases,0
@@ -174,6 +180,7 @@ Croatia,share_deaths,0
 Cuba,share_deaths,0
 Cyprus,share_deaths,0
 Czechia,share_deaths,0.01
+Denmark,share_deaths,NA
 Djibouti,share_deaths,0
 Dominican Republic,share_deaths,0
 Egypt,share_deaths,0.01
@@ -196,6 +203,8 @@ Guinea-Bissau,share_deaths,0
 Guyana,share_deaths,0
 Haiti,share_deaths,0
 Hong Kong,share_deaths,0
+Hungary,share_deaths,NA
+Iceland,share_deaths,NA
 India,share_deaths,0.11
 Indonesia,share_deaths,NA
 Iran,share_deaths,0.03
@@ -239,8 +248,10 @@ Nigeria,share_deaths,0
 North Macedonia,share_deaths,0
 Oman,share_deaths,0
 Pakistan,share_deaths,0.01
+Palestine,share_deaths,NA
 Panama,share_deaths,0
 Papua New Guinea,share_deaths,0
+Paraguay,share_deaths,NA
 Philippines,share_deaths,0.01
 Poland,share_deaths,0.02
 Portugal,share_deaths,0
@@ -264,6 +275,7 @@ South Sudan,share_deaths,0
 Sri Lanka,share_deaths,0
 Sudan,share_deaths,0
 Suriname,share_deaths,0
+Switzerland,share_deaths,NA
 Syria,share_deaths,0
 Taiwan,share_deaths,0
 Tajikistan,share_deaths,0
