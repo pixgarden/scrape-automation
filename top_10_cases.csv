@@ -1,5 +1,6 @@
 date,iso_code,location,total_cases
 2021-12-26,USA,United States,"52,280,854"
+2021-12-26,IND,India,"34,793,333"
 2021-12-26,BRA,Brazil,"22,243,266"
 2021-12-26,RUS,Russia,"10,213,265"
 2021-12-26,TUR,Turkey," 9,309,094"
@@ -8,4 +9,3 @@ date,iso_code,location,total_cases
 2021-12-26,IRN,Iran," 6,184,762"
 2021-12-26,ITA,Italy," 5,647,313"
 2021-12-26,ARG,Argentina," 5,460,042"
-2021-12-26,COL,Colombia," 5,124,690"
