@@ -1,174 +1,44 @@
 country_text_id,country_name,year,v2x_libdem,v2x_regime,Regime,date,location,total_cases_per_million,label
-AFG,Afghanistan,2020,0.192,1,Electoral autocracy,2021-12-28,Afghanistan,3966.268,"Afghanistan:  3,966.3"
-AGO,Angola,2020,0.212,1,Electoral autocracy,2021-12-28,Angola,2262.86,"Angola:  2,262.9"
-ALB,Albania,2020,0.403,2,Electoral democracy,2021-12-28,Albania,72522.376,"Albania: 72,522.4"
-ARE,United Arab Emirates,2020,0.091,0,Closed autocracy,2021-12-28,United Arab Emirates,75558.475,"United Arab Emirates: 75,558.5"
-ARG,Argentina,2020,0.67,2,Electoral democracy,2021-12-28,Argentina,120910.152,"Argentina:120,910.2"
-ARM,Armenia,2020,0.597,1,Electoral autocracy,2021-12-28,Armenia,116116.623,"Armenia:116,116.6"
-AUS,Australia,2020,0.787,3,Liberal democracy,2021-12-28,Australia,13182.493,"Australia: 13,182.5"
-AUT,Austria,2020,0.758,3,Liberal democracy,2021-12-28,Austria,140275.229,"Austria:140,275.2"
-AZE,Azerbaijan,2020,0.066,1,Electoral autocracy,2021-12-28,Azerbaijan,60186.96,"Azerbaijan: 60,187.0"
-BDI,Burundi,2020,0.053,1,Electoral autocracy,2021-12-28,Burundi,2203.024,"Burundi:  2,203.0"
-BEL,Belgium,2020,0.821,3,Liberal democracy,2021-12-28,Belgium,177336.38,"Belgium:177,336.4"
-BEN,Benin,2020,0.295,1,Electoral autocracy,2021-12-28,Benin,2002.645,"Benin:  2,002.6"
-BFA,Burkina Faso,2020,0.506,2,Electoral democracy,2021-12-28,Burkina Faso,820.204,Burkina Faso:    820.2
-BGD,Bangladesh,2020,0.097,1,Electoral autocracy,2021-12-28,Bangladesh,9524.893,"Bangladesh:  9,524.9"
-BGR,Bulgaria,2020,0.491,2,Electoral democracy,2021-12-28,Bulgaria,106897.184,"Bulgaria:106,897.2"
-BHR,Bahrain,2020,0.048,0,Closed autocracy,2021-12-28,Bahrain,160431.735,"Bahrain:160,431.7"
-BIH,Bosnia and Herzegovina,2020,0.34,2,Electoral democracy,2021-12-28,Bosnia and Herzegovina,88518.348,"Bosnia and Herzegovina: 88,518.3"
-BLR,Belarus,2020,0.076,1,Electoral autocracy,2021-12-28,Belarus,73571.618,"Belarus: 73,571.6"
-BOL,Bolivia,2020,0.23,1,Electoral autocracy,2021-12-28,Bolivia,49074.042,"Bolivia: 49,074.0"
-BRA,Brazil,2020,0.511,2,Electoral democracy,2021-12-28,Brazil,104018.468,"Brazil:104,018.5"
-BRB,Barbados,2020,0.684,3,Liberal democracy,2021-12-28,Barbados,96750.872,"Barbados: 96,750.9"
-BTN,Bhutan,2020,0.458,2,Electoral democracy,2021-12-28,Bhutan,3410.694,"Bhutan:  3,410.7"
-BWA,Botswana,2020,0.481,2,Electoral democracy,2021-12-28,Botswana,88636.098,"Botswana: 88,636.1"
-CAF,Central African Republic,2020,0.214,1,Electoral autocracy,2021-12-28,Central African Republic,2472.161,"Central African Republic:  2,472.2"
-CAN,Canada,2020,0.736,3,Liberal democracy,2021-12-28,Canada,53367.149,"Canada: 53,367.1"
-CHE,Switzerland,2020,0.847,3,Liberal democracy,2021-12-28,Switzerland,146515.619,"Switzerland:146,515.6"
-CHL,Chile,2020,0.758,2,Electoral democracy,2021-12-28,Chile,93783.107,"Chile: 93,783.1"
-CHN,China,2020,0.043,0,Closed autocracy,2021-12-28,China,70.407,China:     70.4
-CIV,Ivory Coast,2020,0.312,1,Electoral autocracy,2021-12-28,Cote d'Ivoire,2405.075,"Cote d'Ivoire:  2,405.1"
-CMR,Cameroon,2020,0.124,1,Electoral autocracy,2021-12-28,Cameroon,4017.262,"Cameroon:  4,017.3"
-COD,Democratic Republic of the Congo,2020,0.157,1,Electoral autocracy,2021-12-28,Democratic Republic of Congo,783.184,Democratic Republic of Congo:    783.2
-COG,Republic of the Congo,2020,0.119,1,Electoral autocracy,2021-12-28,Congo,3551.165,"Congo:  3,551.2"
-COL,Colombia,2020,0.447,2,Electoral democracy,2021-12-28,Colombia,100111.047,"Colombia:100,111.0"
-COM,Comoros,2020,0.173,1,Electoral autocracy,2021-12-28,Comoros,6603.591,"Comoros:  6,603.6"
-CPV,Cape Verde,2020,0.69,2,Electoral democracy,2021-12-28,Cape Verde,70021.231,"Cape Verde: 70,021.2"
-CRI,Costa Rica,2020,0.849,3,Liberal democracy,2021-12-28,Costa Rica,111023.568,"Costa Rica:111,023.6"
-CUB,Cuba,2020,0.085,0,Closed autocracy,2021-12-28,Cuba,85266.372,"Cuba: 85,266.4"
-CYP,Cyprus,2020,0.724,3,Liberal democracy,2021-12-28,Cyprus,172907.517,"Cyprus:172,907.5"
-CZE,Czech Republic,2020,0.708,2,Electoral democracy,2021-12-28,Czechia,228880.868,"Czechia:228,880.9"
-DEU,Germany,2020,0.833,3,Liberal democracy,2021-12-28,Germany,84140.124,"Germany: 84,140.1"
-DJI,Djibouti,2020,0.125,1,Electoral autocracy,2021-12-28,Djibouti,13573.18,"Djibouti: 13,573.2"
-DNK,Denmark,2020,0.878,3,Liberal democracy,2021-12-28,Denmark,127134.458,"Denmark:127,134.5"
-DOM,Dominican Republic,2020,0.344,2,Electoral democracy,2021-12-28,Dominican Republic,37919.467,"Dominican Republic: 37,919.5"
-DZA,Algeria,2020,0.147,1,Electoral autocracy,2021-12-28,Algeria,4869.597,"Algeria:  4,869.6"
-ECU,Ecuador,2020,0.485,2,Electoral democracy,2021-12-28,Ecuador,30352.505,"Ecuador: 30,352.5"
-EGY,Egypt,2020,0.122,1,Electoral autocracy,2021-12-28,Egypt,3673.596,"Egypt:  3,673.6"
-ERI,Eritrea,2020,0.012,0,Closed autocracy,2021-12-28,Eritrea,2202.161,"Eritrea:  2,202.2"
-ESP,Spain,2020,0.8,3,Liberal democracy,2021-12-28,Spain,129046.31,"Spain:129,046.3"
-EST,Estonia,2020,0.832,3,Liberal democracy,2021-12-28,Estonia,179656.773,"Estonia:179,656.8"
-ETH,Ethiopia,2020,0.163,1,Electoral autocracy,2021-12-28,Ethiopia,3442.128,"Ethiopia:  3,442.1"
-FIN,Finland,2020,0.837,3,Liberal democracy,2021-12-28,Finland,42671.16,"Finland: 42,671.2"
-FJI,Fiji,2020,0.279,1,Electoral autocracy,2021-12-28,Fiji,58725.284,"Fiji: 58,725.3"
-FRA,France,2020,0.796,3,Liberal democracy,2021-12-28,France,138700.243,"France:138,700.2"
-GAB,Gabon,2020,0.207,1,Electoral autocracy,2021-12-28,Gabon,17513.381,"Gabon: 17,513.4"
-GBR,United Kingdom,2020,0.797,3,Liberal democracy,2021-12-28,United Kingdom,181246.534,"United Kingdom:181,246.5"
-GEO,Georgia,2020,0.506,2,Electoral democracy,2021-12-28,Georgia,233186.667,"Georgia:233,186.7"
-GHA,Ghana,2020,0.596,3,Liberal democracy,2021-12-28,Ghana,4418.897,"Ghana:  4,418.9"
-GIN,Guinea,2020,0.137,1,Electoral autocracy,2021-12-28,Guinea,2314.4,"Guinea:  2,314.4"
-GMB,The Gambia,2020,0.419,2,Electoral democracy,2021-12-28,Gambia,4075.696,"Gambia:  4,075.7"
-GNB,Guinea-Bissau,2020,0.347,2,Electoral democracy,2021-12-28,Guinea-Bissau,3212.122,"Guinea-Bissau:  3,212.1"
-GNQ,Equatorial Guinea,2020,0.056,1,Electoral autocracy,2021-12-28,Equatorial Guinea,9405.535,"Equatorial Guinea:  9,405.5"
-GRC,Greece,2020,0.744,3,Liberal democracy,2021-12-28,Greece,106635.038,"Greece:106,635.0"
-GTM,Guatemala,2020,0.405,2,Electoral democracy,2021-12-28,Guatemala,34293.618,"Guatemala: 34,293.6"
-GUY,Guyana,2020,0.404,2,Electoral democracy,2021-12-28,Guyana,49537.598,"Guyana: 49,537.6"
-HKG,Hong Kong,2020,0.253,0,Closed autocracy,2021-12-28,Hong Kong,1668.785,"Hong Kong:  1,668.8"
-HND,Honduras,2020,0.23,1,Electoral autocracy,2021-12-28,Honduras,37702.696,"Honduras: 37,702.7"
-HRV,Croatia,2020,0.641,2,Electoral democracy,2021-12-28,Croatia,170997.22,"Croatia:170,997.2"
-HTI,Haiti,2020,0.235,1,Electoral autocracy,2021-12-28,Haiti,2250.625,"Haiti:  2,250.6"
-HUN,Hungary,2020,0.368,1,Electoral autocracy,2021-12-28,Hungary,129402.952,"Hungary:129,403.0"
-IDN,Indonesia,2020,0.448,2,Electoral democracy,2021-12-28,Indonesia,15422.382,"Indonesia: 15,422.4"
-IND,India,2020,0.34,1,Electoral autocracy,2021-12-28,India,24981.097,"India: 24,981.1"
-IRL,Ireland,2020,0.817,3,Liberal democracy,2021-12-28,Ireland,146795.323,"Ireland:146,795.3"
-IRN,Iran,2020,0.142,1,Electoral autocracy,2021-12-28,Iran,72785.455,"Iran: 72,785.5"
-IRQ,Iraq,2020,0.22,1,Electoral autocracy,2021-12-28,Iraq,50823.409,"Iraq: 50,823.4"
-ISL,Iceland,2020,0.79,3,Liberal democracy,2021-12-28,Iceland,73724.371,"Iceland: 73,724.4"
-ISR,Israel,2020,0.648,3,Liberal democracy,2021-12-28,Israel,147562.157,"Israel:147,562.2"
-ITA,Italy,2020,0.785,3,Liberal democracy,2021-12-28,Italy,95356.189,"Italy: 95,356.2"
-JAM,Jamaica,2020,0.698,2,Electoral democracy,2021-12-28,Jamaica,31259.858,"Jamaica: 31,259.9"
-JOR,Jordan,2020,0.242,0,Closed autocracy,2021-12-28,Jordan,102049.932,"Jordan:102,049.9"
-JPN,Japan,2020,0.731,3,Liberal democracy,2021-12-28,Japan,13732.94,"Japan: 13,732.9"
-KAZ,Kazakhstan,2020,0.129,1,Electoral autocracy,2021-12-28,Kazakhstan,56385.226,"Kazakhstan: 56,385.2"
-KEN,Kenya,2020,0.367,1,Electoral autocracy,2021-12-28,Kenya,5195.06,"Kenya:  5,195.1"
-KGZ,Kyrgyzstan,2020,0.291,1,Electoral autocracy,2021-12-28,Kyrgyzstan,27842.839,"Kyrgyzstan: 27,842.8"
-KHM,Cambodia,2020,0.066,1,Electoral autocracy,2021-12-28,Cambodia,7108.806,"Cambodia:  7,108.8"
-KOR,South Korea,2020,0.792,3,Liberal democracy,2021-12-28,South Korea,12102.832,"South Korea: 12,102.8"
-KWT,Kuwait,2020,0.288,0,Closed autocracy,2021-12-28,Kuwait,96031.63,"Kuwait: 96,031.6"
-LAO,Laos,2020,0.09,0,Closed autocracy,2021-12-28,Laos,14600.186,"Laos: 14,600.2"
-LBN,Lebanon,2020,0.286,1,Electoral autocracy,2021-12-28,Lebanon,105766.587,"Lebanon:105,766.6"
-LBR,Liberia,2020,0.477,2,Electoral democracy,2021-12-28,Liberia,1202.268,"Liberia:  1,202.3"
-LBY,Libya,2020,0.153,0,Closed autocracy,2021-12-28,Libya,55597.598,"Libya: 55,597.6"
-LKA,Sri Lanka,2020,0.379,2,Electoral democracy,2021-12-28,Sri Lanka,27193.454,"Sri Lanka: 27,193.5"
-LSO,Lesotho,2020,0.497,2,Electoral democracy,2021-12-28,Lesotho,13026.923,"Lesotho: 13,026.9"
-LTU,Lithuania,2020,0.76,2,Electoral democracy,2021-12-28,Lithuania,191024.67,"Lithuania:191,024.7"
-LUX,Luxembourg,2020,0.783,3,Liberal democracy,2021-12-28,Luxembourg,157846.235,"Luxembourg:157,846.2"
-LVA,Latvia,2020,0.736,3,Liberal democracy,2021-12-28,Latvia,146203.347,"Latvia:146,203.3"
-MAR,Morocco,2020,0.257,0,Closed autocracy,2021-12-28,Morocco,25641.972,"Morocco: 25,642.0"
-MDA,Moldova,2020,0.467,2,Electoral democracy,2021-12-28,Moldova,93206.429,"Moldova: 93,206.4"
-MDG,Madagascar,2020,0.269,1,Electoral autocracy,2021-12-28,Madagascar,1744.448,"Madagascar:  1,744.4"
-MDV,Maldives,2020,0.439,2,Electoral democracy,2021-12-28,Maldives,175162.798,"Maldives:175,162.8"
-MEX,Mexico,2020,0.407,2,Electoral democracy,2021-12-28,Mexico,30338.39,"Mexico: 30,338.4"
-MKD,North Macedonia,2020,0.428,2,Electoral democracy,2021-12-28,North Macedonia,107429.39,"North Macedonia:107,429.4"
-MLI,Mali,2020,0.317,1,Electoral autocracy,2021-12-28,Mali,972.731,Mali:    972.7
-MLT,Malta,2020,0.612,2,Electoral democracy,2021-12-28,Malta,93741.523,"Malta: 93,741.5"
-MMR,Burma/Myanmar,2020,0.271,1,Electoral autocracy,2021-12-28,Myanmar,9670.472,"Myanmar:  9,670.5"
-MNE,Montenegro,2020,0.347,1,Electoral autocracy,2021-12-28,Montenegro,262835.343,"Montenegro:262,835.3"
-MNG,Mongolia,2020,0.503,2,Electoral democracy,2021-12-28,Mongolia,116768.42,"Mongolia:116,768.4"
-MOZ,Mozambique,2020,0.254,1,Electoral autocracy,2021-12-28,Mozambique,5461.174,"Mozambique:  5,461.2"
-MRT,Mauritania,2020,0.185,1,Electoral autocracy,2021-12-28,Mauritania,8531.112,"Mauritania:  8,531.1"
-MUS,Mauritius,2020,0.504,2,Electoral democracy,2021-12-28,Mauritius,18224.823,"Mauritius: 18,224.8"
-MWI,Malawi,2020,0.449,2,Electoral democracy,2021-12-28,Malawi,3671.426,"Malawi:  3,671.4"
-MYS,Malaysia,2020,0.284,1,Electoral autocracy,2021-12-28,Malaysia,83805.732,"Malaysia: 83,805.7"
-"NAM",Namibia,2020,0.524,2,Electoral democracy,2021-12-28,Namibia,56605.925,"Namibia: 56,605.9"
-NER,Niger,2020,0.389,2,Electoral democracy,2021-12-28,Niger,290.759,Niger:    290.8
-NGA,Nigeria,2020,0.359,2,Electoral democracy,2021-12-28,Nigeria,1130.644,"Nigeria:  1,130.6"
-NIC,Nicaragua,2020,0.062,1,Electoral autocracy,2021-12-28,Nicaragua,2609.074,"Nicaragua:  2,609.1"
-NLD,Netherlands,2020,0.825,3,Liberal democracy,2021-12-28,Netherlands,179961.747,"Netherlands:179,961.7"
-NOR,Norway,2020,0.855,3,Liberal democracy,2021-12-28,Norway,70035.672,"Norway: 70,035.7"
-NPL,Nepal,2020,0.446,2,Electoral democracy,2021-12-28,Nepal,27894.363,"Nepal: 27,894.4"
-NZL,New Zealand,2020,0.846,3,Liberal democracy,2021-12-28,New Zealand,2730.254,"New Zealand:  2,730.3"
-OMN,Oman,2020,0.139,0,Closed autocracy,2021-12-28,Oman,58439.791,"Oman: 58,439.8"
-PAK,Pakistan,2020,0.25,1,Electoral autocracy,2021-12-28,Pakistan,5747.688,"Pakistan:  5,747.7"
-PAN,Panama,2020,0.558,2,Electoral democracy,2021-12-28,Panama,111762.119,"Panama:111,762.1"
-PER,Peru,2020,0.691,2,Electoral democracy,2021-12-28,Peru,68325.509,"Peru: 68,325.5"
-PHL,Philippines,2020,0.28,1,Electoral autocracy,2021-12-28,Philippines,25566.772,"Philippines: 25,566.8"
-PNG,Papua New Guinea,2020,0.336,1,Electoral autocracy,2021-12-28,Papua New Guinea,3962.055,"Papua New Guinea:  3,962.1"
-POL,Poland,2020,0.487,2,Electoral democracy,2021-12-28,Poland,107540.678,"Poland:107,540.7"
-PRT,Portugal,2020,0.792,2,Electoral democracy,2021-12-28,Portugal,128176.718,"Portugal:128,176.7"
-PRY,Paraguay,2020,0.426,2,Electoral democracy,2021-12-28,Paraguay,64485.755,"Paraguay: 64,485.8"
-PSE,Palestine/West Bank,2020,0.164,1,Electoral autocracy,2021-12-28,Palestine,89885.876,"Palestine: 89,885.9"
-QAT,Qatar,2020,0.095,0,Closed autocracy,2021-12-28,Qatar,84900.175,"Qatar: 84,900.2"
-ROU,Romania,2020,0.552,2,Electoral democracy,2021-12-28,Romania,94336.915,"Romania: 94,336.9"
-RUS,Russia,2020,0.104,1,Electoral autocracy,2021-12-28,Russia,70302.994,"Russia: 70,303.0"
-RWA,Rwanda,2020,0.107,1,Electoral autocracy,2021-12-28,Rwanda,8058.364,"Rwanda:  8,058.4"
-SAU,Saudi Arabia,2020,0.047,0,Closed autocracy,2021-12-28,Saudi Arabia,15673.75,"Saudi Arabia: 15,673.8"
-SDN,Sudan,2020,0.086,0,Closed autocracy,2021-12-28,Sudan,1030.788,"Sudan:  1,030.8"
-SEN,Senegal,2020,0.583,2,Electoral democracy,2021-12-28,Senegal,4333.256,"Senegal:  4,333.3"
-SGP,Singapore,2020,0.307,1,Electoral autocracy,2021-12-28,Singapore,51050.499,"Singapore: 51,050.5"
-SLB,Solomon Islands,2020,0.485,2,Electoral democracy,2021-12-28,Solomon Islands,31.25,Solomon Islands:     31.2
-SLE,Sierra Leone,2020,0.435,2,Electoral democracy,2021-12-28,Sierra Leone,837.577,Sierra Leone:    837.6
-SLV,El Salvador,2020,0.383,2,Electoral democracy,2021-12-28,El Salvador,18676.229,"El Salvador: 18,676.2"
-SOM,Somalia,2020,0.097,0,Closed autocracy,2021-12-28,Somalia,1438.43,"Somalia:  1,438.4"
-SRB,Serbia,2020,0.239,1,Electoral autocracy,2021-12-28,Serbia,188224.573,"Serbia:188,224.6"
-SSD,South Sudan,2020,0.07,0,Closed autocracy,2021-12-28,South Sudan,1305.642,"South Sudan:  1,305.6"
-STP,Sao Tome and Principe,2020,0.587,2,Electoral democracy,2021-12-28,Sao Tome and Principe,16967.819,"Sao Tome and Principe: 16,967.8"
-SUR,Suriname,2020,0.595,2,Electoral democracy,2021-12-28,Suriname,87514.659,"Suriname: 87,514.7"
-SVK,Slovakia,2020,0.756,2,Electoral democracy,2021-12-28,Slovakia,248531.972,"Slovakia:248,532.0"
-SVN,Slovenia,2020,0.651,2,Electoral democracy,2021-12-28,Slovenia,220600.821,"Slovenia:220,600.8"
-SWE,Sweden,2020,0.873,3,Liberal democracy,2021-12-28,Sweden,127415.329,"Sweden:127,415.3"
-SWZ,Eswatini,2020,0.12,0,Closed autocracy,2021-12-28,Eswatini,55334.967,"Eswatini: 55,335.0"
-SYC,Seychelles,2020,0.471,2,Electoral democracy,2021-12-28,Seychelles,247204.529,"Seychelles:247,204.5"
-SYR,Syria,2020,0.037,0,Closed autocracy,2021-12-28,Syria,2745.011,"Syria:  2,745.0"
-TCD,Chad,2020,0.093,1,Electoral autocracy,2021-12-28,Chad,337.157,Chad:    337.2
-TGO,Togo,2020,0.2,1,Electoral autocracy,2021-12-28,Togo,3411.674,"Togo:  3,411.7"
-THA,Thailand,2020,0.175,0,Closed autocracy,2021-12-28,Thailand,31660.976,"Thailand: 31,661.0"
-TJK,Tajikistan,2020,0.047,1,Electoral autocracy,2021-12-28,Tajikistan,1794.223,"Tajikistan:  1,794.2"
-TLS,Timor-Leste,2020,0.464,2,Electoral democracy,2021-12-28,Timor,14758.069,"Timor: 14,758.1"
-TTO,Trinidad and Tobago,2020,0.643,2,Electoral democracy,2021-12-28,Trinidad and Tobago,64390.533,"Trinidad and Tobago: 64,390.5"
-TUN,Tunisia,2020,0.644,2,Electoral democracy,2021-12-28,Tunisia,60665.744,"Tunisia: 60,665.7"
-TUR,Turkey,2020,0.111,1,Electoral autocracy,2021-12-28,Turkey,110148.961,"Turkey:110,149.0"
-TWN,Taiwan,2020,0.718,3,Liberal democracy,2021-12-28,Taiwan,710.543,Taiwan:    710.5
-TZA,Tanzania,2020,0.327,1,Electoral autocracy,2021-12-28,Tanzania,430.629,Tanzania:    430.6
-UGA,Uganda,2020,0.23,1,Electoral autocracy,2021-12-28,Uganda,2887.411,"Uganda:  2,887.4"
-UKR,Ukraine,2020,0.348,2,Electoral democracy,2021-12-28,Ukraine,88074.9,"Ukraine: 88,074.9"
-URY,Uruguay,2020,0.795,3,Liberal democracy,2021-12-28,Uruguay,117324.582,"Uruguay:117,324.6"
-USA,United States of America,2020,0.728,3,Liberal democracy,2021-12-28,United States,159711.666,"United States:159,711.7"
-UZB,Uzbekistan,2020,0.105,0,Closed autocracy,2021-12-28,Uzbekistan,5848.903,"Uzbekistan:  5,848.9"
-VEN,Venezuela,2020,0.073,1,Electoral autocracy,2021-12-28,Venezuela,15467.125,"Venezuela: 15,467.1"
-VNM,Vietnam,2020,0.107,0,Closed autocracy,2021-12-28,Vietnam,17123.409,"Vietnam: 17,123.4"
-VUT,Vanuatu,2020,0.64,2,Electoral democracy,2021-12-28,Vanuatu,22.26,Vanuatu:     22.3
-YEM,Yemen,2020,0.037,0,Closed autocracy,2021-12-28,Yemen,332.004,Yemen:    332.0
-ZAF,South Africa,2020,0.577,2,Electoral democracy,2021-12-28,South Africa,57035.646,"South Africa: 57,035.6"
-ZMB,Zambia,2020,0.27,1,Electoral autocracy,2021-12-28,Zambia,12599.087,"Zambia: 12,599.1"
-ZWE,Zimbabwe,2020,0.192,1,Electoral autocracy,2021-12-28,Zimbabwe,13752.031,"Zimbabwe: 13,752.0"
+AUS,Australia,2020,0.787,3,Liberal democracy,2021-12-29,Australia,NA,Australia:NA
+AZE,Azerbaijan,2020,0.066,1,Electoral autocracy,2021-12-29,Azerbaijan,NA,Azerbaijan:NA
+BGR,Bulgaria,2020,0.491,2,Electoral democracy,2021-12-29,Bulgaria,NA,Bulgaria:NA
+BHR,Bahrain,2020,0.048,0,Closed autocracy,2021-12-29,Bahrain,NA,Bahrain:NA
+BRA,Brazil,2020,0.511,2,Electoral democracy,2021-12-29,Brazil,NA,Brazil:NA
+CAN,Canada,2020,0.736,3,Liberal democracy,2021-12-29,Canada,NA,Canada:NA
+DEU,Germany,2020,0.833,3,Liberal democracy,2021-12-29,Germany,NA,Germany:NA
+DNK,Denmark,2020,0.878,3,Liberal democracy,2021-12-29,Denmark,NA,Denmark:NA
+FIN,Finland,2020,0.837,3,Liberal democracy,2021-12-29,Finland,NA,Finland:NA
+GNQ,Equatorial Guinea,2020,0.056,1,Electoral autocracy,2021-12-29,Equatorial Guinea,NA,Equatorial Guinea:NA
+GRC,Greece,2020,0.744,3,Liberal democracy,2021-12-29,Greece,NA,Greece:NA
+HKG,Hong Kong,2020,0.253,0,Closed autocracy,2021-12-29,Hong Kong,NA,Hong Kong:NA
+HND,Honduras,2020,0.23,1,Electoral autocracy,2021-12-29,Honduras,NA,Honduras:NA
+IDN,Indonesia,2020,0.448,2,Electoral democracy,2021-12-29,Indonesia,NA,Indonesia:NA
+IND,India,2020,0.34,1,Electoral autocracy,2021-12-29,India,NA,India:NA
+ISR,Israel,2020,0.648,3,Liberal democracy,2021-12-29,Israel,NA,Israel:NA
+ITA,Italy,2020,0.785,3,Liberal democracy,2021-12-29,Italy,NA,Italy:NA
+KAZ,Kazakhstan,2020,0.129,1,Electoral autocracy,2021-12-29,Kazakhstan,NA,Kazakhstan:NA
+KGZ,Kyrgyzstan,2020,0.291,1,Electoral autocracy,2021-12-29,Kyrgyzstan,NA,Kyrgyzstan:NA
+KOR,South Korea,2020,0.792,3,Liberal democracy,2021-12-29,South Korea,NA,South Korea:NA
+LBN,Lebanon,2020,0.286,1,Electoral autocracy,2021-12-29,Lebanon,NA,Lebanon:NA
+LKA,Sri Lanka,2020,0.379,2,Electoral democracy,2021-12-29,Sri Lanka,NA,Sri Lanka:NA
+LVA,Latvia,2020,0.736,3,Liberal democracy,2021-12-29,Latvia,NA,Latvia:NA
+MNE,Montenegro,2020,0.347,1,Electoral autocracy,2021-12-29,Montenegro,NA,Montenegro:NA
+MNG,Mongolia,2020,0.503,2,Electoral democracy,2021-12-29,Mongolia,NA,Mongolia:NA
+MYS,Malaysia,2020,0.284,1,Electoral autocracy,2021-12-29,Malaysia,NA,Malaysia:NA
+NIC,Nicaragua,2020,0.062,1,Electoral autocracy,2021-12-29,Nicaragua,NA,Nicaragua:NA
+NZL,New Zealand,2020,0.846,3,Liberal democracy,2021-12-29,New Zealand,NA,New Zealand:NA
+PAK,Pakistan,2020,0.25,1,Electoral autocracy,2021-12-29,Pakistan,NA,Pakistan:NA
+PAN,Panama,2020,0.558,2,Electoral democracy,2021-12-29,Panama,NA,Panama:NA
+PRT,Portugal,2020,0.792,2,Electoral democracy,2021-12-29,Portugal,NA,Portugal:NA
+PRY,Paraguay,2020,0.426,2,Electoral democracy,2021-12-29,Paraguay,NA,Paraguay:NA
+RUS,Russia,2020,0.104,1,Electoral autocracy,2021-12-29,Russia,NA,Russia:NA
+RWA,Rwanda,2020,0.107,1,Electoral autocracy,2021-12-29,Rwanda,NA,Rwanda:NA
+SAU,Saudi Arabia,2020,0.047,0,Closed autocracy,2021-12-29,Saudi Arabia,NA,Saudi Arabia:NA
+SVK,Slovakia,2020,0.756,2,Electoral democracy,2021-12-29,Slovakia,NA,Slovakia:NA
+TTO,Trinidad and Tobago,2020,0.643,2,Electoral democracy,2021-12-29,Trinidad and Tobago,NA,Trinidad and Tobago:NA
+TUR,Turkey,2020,0.111,1,Electoral autocracy,2021-12-29,Turkey,NA,Turkey:NA
+UKR,Ukraine,2020,0.348,2,Electoral democracy,2021-12-29,Ukraine,NA,Ukraine:NA
+URY,Uruguay,2020,0.795,3,Liberal democracy,2021-12-29,Uruguay,NA,Uruguay:NA
+USA,United States of America,2020,0.728,3,Liberal democracy,2021-12-29,United States,NA,United States:NA
+UZB,Uzbekistan,2020,0.105,0,Closed autocracy,2021-12-29,Uzbekistan,NA,Uzbekistan:NA
+ZMB,Zambia,2020,0.27,1,Electoral autocracy,2021-12-29,Zambia,NA,Zambia:NA
