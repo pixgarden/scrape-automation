@@ -3,12 +3,12 @@ Afghanistan,AFG,2022-01-01,0
 Albania,ALB,2022-01-01,5.01
 Algeria,DZA,2022-01-01,0.06
 Angola,AGO,2022-01-01,0
-Argentina,ARG,2022-01-01,12.22
+Argentina,ARG,2022-01-01,12.26
 Armenia,ARM,2022-01-01,0.02
 Australia,AUS,2022-01-01,9.23
-Austria,AUT,2022-01-01,40.71
+Austria,AUT,2022-01-01,40.73
 Azerbaijan,AZE,2022-01-01,14.67
-Bahrain,BHR,2022-01-01,48.34
+Bahrain,BHR,2022-01-01,48.51
 Bangladesh,BGD,2022-01-01,0
 Barbados,BRB,2022-01-01,0
 Belarus,BLR,2022-01-01,1.21
@@ -42,7 +42,7 @@ Czechia,CZE,2022-01-01,22.43
 Democratic Republic of Congo,COD,2022-01-01,0
 Denmark,DNK,2022-01-01,48.2
 Djibouti,DJI,2022-01-01,0
-Dominican Republic,DOM,2022-01-01,13.2
+Dominican Republic,DOM,2022-01-01,13.22
 Ecuador,ECU,2022-01-01,5.8
 Egypt,EGY,2022-01-01,0
 El Salvador,SLV,2022-01-01,14.27
@@ -52,7 +52,7 @@ Estonia,EST,2022-01-01,0
 Eswatini,SWZ,2022-01-01,0
 Ethiopia,ETH,2022-01-01,0
 Fiji,FJI,2022-01-01,0
-Finland,FIN,2022-01-01,20.41
+Finland,FIN,2022-01-01,21.9
 France,FRA,2022-01-01,32.91
 Gabon,GAB,2022-01-01,0
 Gambia,GMB,2022-01-01,0
@@ -66,7 +66,7 @@ Guinea-Bissau,GNB,2022-01-01,0
 Guyana,GUY,2022-01-01,1.32
 Haiti,HTI,2022-01-01,0
 Honduras,HND,2022-01-01,3.75
-Hong Kong,HKG,2022-01-01,5.12
+Hong Kong,HKG,2022-01-01,5.23
 Hungary,HUN,2022-01-01,32.97
 Iceland,ISL,2022-01-01,58.51
 India,IND,2022-01-01,0
@@ -75,7 +75,7 @@ Iran,IRN,2022-01-01,4.44
 Iraq,IRQ,2022-01-01,0
 Ireland,IRL,2022-01-01,43.38
 Israel,ISR,2022-01-01,45.64
-Italy,ITA,2022-01-01,32.41
+Italy,ITA,2022-01-01,32.52
 Jamaica,JAM,2022-01-01,0.16
 Japan,JPN,2022-01-01,0.42
 Jordan,JOR,2022-01-01,0
@@ -85,7 +85,7 @@ Kuwait,KWT,2022-01-01,8.8
 Kyrgyzstan,KGZ,2022-01-01,0
 Laos,LAO,2022-01-01,0
 Latvia,LVA,2022-01-01,13.63
-Lebanon,LBN,2022-01-01,4.36
+Lebanon,LBN,2022-01-01,4.37
 Lesotho,LSO,2022-01-01,0
 Liberia,LBR,2022-01-01,0
 Libya,LBY,2022-01-01,0
@@ -93,23 +93,23 @@ Lithuania,LTU,2022-01-01,24.22
 Luxembourg,LUX,2022-01-01,28.87
 Madagascar,MDG,2022-01-01,0
 Malawi,MWI,2022-01-01,0
-Malaysia,MYS,2022-01-01,19.18
+Malaysia,MYS,2022-01-01,19.31
 Maldives,MDV,2022-01-01,4.71
 Mali,MLI,2022-01-01,0
-Malta,MLT,2022-01-01,42.82
+Malta,MLT,2022-01-01,43.44
 Mauritania,MRT,2022-01-01,0
 Mauritius,MUS,2022-01-01,0
 Mexico,MEX,2022-01-01,0
 Moldova,MDA,2022-01-01,0
-Mongolia,MNG,2022-01-01,27.36
-Montenegro,MNE,2022-01-01,12.38
+Mongolia,MNG,2022-01-01,27.52
+Montenegro,MNE,2022-01-01,12.49
 Morocco,MAR,2022-01-01,0
 Mozambique,MOZ,2022-01-01,0
 Myanmar,MMR,2022-01-01,0
 Namibia,"NAM",2022-01-01,0
 Nepal,NPL,2022-01-01,0
 Netherlands,NLD,2022-01-01,11.39
-New Zealand,NZL,2022-01-01,6.67
+New Zealand,NZL,2022-01-01,6.95
 Nicaragua,NIC,2022-01-01,0
 Niger,NER,2022-01-01,0
 Nigeria,NGA,2022-01-01,0
@@ -118,19 +118,19 @@ Norway,NOR,2022-01-01,27.96
 Oman,OMN,2022-01-01,0.62
 Pakistan,PAK,2022-01-01,0
 Palestine,PSE,2022-01-01,0.05
-Panama,PAN,2022-01-01,9.03
+Panama,PAN,2022-01-01,9.09
 Papua New Guinea,PNG,2022-01-01,0
 Paraguay,PRY,2022-01-01,5.76
 Peru,PER,2022-01-01,10.87
 Philippines,PHL,2022-01-01,1.61
-Poland,POL,2022-01-01,18.16
+Poland,POL,2022-01-01,18.17
 Portugal,PRT,2022-01-01,29.32
 Qatar,QAT,2022-01-01,0
 Romania,ROU,2022-01-01,0
 Russia,RUS,2022-01-01,5.06
 Rwanda,RWA,2022-01-01,0
 Sao Tome and Principe,STP,2022-01-01,0
-Saudi Arabia,SAU,2022-01-01,7.63
+Saudi Arabia,SAU,2022-01-01,7.97
 Senegal,SEN,2022-01-01,0
 Serbia,SRB,2022-01-01,25.08
 Seychelles,SYC,2022-01-01,0
@@ -141,10 +141,10 @@ Slovenia,SVN,2022-01-01,22.46
 Solomon Islands,SLB,2022-01-01,0
 Somalia,SOM,2022-01-01,0
 South Africa,ZAF,2022-01-01,0
-South Korea,KOR,2022-01-01,35.89
+South Korea,KOR,2022-01-01,36.01
 South Sudan,SSD,2022-01-01,0
 Spain,ESP,2022-01-01,28.69
-Sri Lanka,LKA,2022-01-01,18.64
+Sri Lanka,LKA,2022-01-01,18.85
 Sudan,SDN,2022-01-01,0
 Suriname,SUR,2022-01-01,0
 Sweden,SWE,2022-01-01,24.3
@@ -156,7 +156,7 @@ Tanzania,TZA,2022-01-01,0
 Thailand,THA,2022-01-01,8.9
 Timor,TLS,2022-01-01,0
 Togo,TGO,2022-01-01,0
-Trinidad and Tobago,TTO,2022-01-01,5.43
+Trinidad and Tobago,TTO,2022-01-01,5.45
 Tunisia,TUN,2022-01-01,7.09
 Turkey,TUR,2022-01-01,27.19
 Uganda,UGA,2022-01-01,0
