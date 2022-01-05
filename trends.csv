@@ -6278,10 +6278,10 @@ United Kingdom,2021-12-21,11564723,New cases
 United Kingdom,2021-12-22,11670349,New cases
 United Kingdom,2021-12-23,11793109,New cases
 United Kingdom,2021-12-24,11914919,New cases
-United Kingdom,2021-12-25,11914919,New cases
-United Kingdom,2021-12-26,11914919,New cases
-United Kingdom,2021-12-27,12233618,New cases
-United Kingdom,2021-12-28,12362303,New cases
+United Kingdom,2021-12-25,12036780,New cases
+United Kingdom,2021-12-26,12155725,New cases
+United Kingdom,2021-12-27,12263424,New cases
+United Kingdom,2021-12-28,12401449,New cases
 United Kingdom,2021-12-29,12585924,New cases
 United Kingdom,2021-12-30,12774849,New cases
 United Kingdom,2021-12-31,12965393,New cases
@@ -6997,9 +6997,9 @@ United States,2021-12-26,52283306,New cases
 United States,2021-12-27,52827635,New cases
 United States,2021-12-28,53182318,New cases
 United States,2021-12-29,53679320,New cases
-United States,2021-12-30,54269896,New cases
+United States,2021-12-30,54269867,New cases
 United States,2021-12-31,54742382,New cases
-United States,2022-01-01,54858366,New cases
+United States,2022-01-01,54858824,New cases
 United States,2022-01-02,55106998,New cases
 United States,2022-01-03,56189547,New cases
 United States,2022-01-04,57058734,New cases
@@ -13322,10 +13322,10 @@ United Kingdom,2021-12-21,147544,Deaths
 United Kingdom,2021-12-22,147685,Deaths
 United Kingdom,2021-12-23,147832,Deaths
 United Kingdom,2021-12-24,147969,Deaths
-United Kingdom,2021-12-25,147969,Deaths
-United Kingdom,2021-12-26,147969,Deaths
-United Kingdom,2021-12-27,148115,Deaths
-United Kingdom,2021-12-28,148133,Deaths
+United Kingdom,2021-12-25,147979,Deaths
+United Kingdom,2021-12-26,147982,Deaths
+United Kingdom,2021-12-27,148125,Deaths
+United Kingdom,2021-12-28,148144,Deaths
 United Kingdom,2021-12-29,148202,Deaths
 United Kingdom,2021-12-30,148534,Deaths
 United Kingdom,2021-12-31,148737,Deaths
@@ -14041,7 +14041,7 @@ United States,2021-12-26,817329,Deaths
 United States,2021-12-27,819096,Deaths
 United States,2021-12-28,821375,Deaths
 United States,2021-12-29,823559,Deaths
-United States,2021-12-30,824968,Deaths
+United States,2021-12-30,824966,Deaths
 United States,2021-12-31,825549,Deaths
 United States,2022-01-01,825816,Deaths
 United States,2022-01-02,826060,Deaths
