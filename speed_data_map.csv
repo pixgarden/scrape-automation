@@ -69,7 +69,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-01-08,Hong Kong,HKG,20-days average,0.65,Hong Kong 0.65
 2022-01-08,Hungary,HUN,20-days average,0,Hungary 0
 2022-01-08,Iceland,ISL,20-days average,0,Iceland 0
-2022-01-08,India,IND,20-days average,-682.2,India -682.2
+2022-01-08,India,IND,20-days average,7299.4,"India 7,299"
 2022-01-08,Indonesia,IDN,20-days average,15.75,Indonesia 15.75
 2022-01-08,Iran,IRN,20-days average,-63.35,Iran -63.35
 2022-01-08,Iraq,IRQ,20-days average,2.2,Iraq 2.2
@@ -99,7 +99,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-01-08,Malta,MLT,20-days average,24,Malta 24
 2022-01-08,Mauritania,MRT,20-days average,50.65,Mauritania 50.65
 2022-01-08,Mauritius,MUS,20-days average,5.35,Mauritius 5.35
-2022-01-08,Mexico,MEX,20-days average,-126.5,Mexico -126.5
+2022-01-08,Mexico,MEX,20-days average,1407.05,"Mexico 1,407"
 2022-01-08,Moldova,MDA,20-days average,14.15,Moldova 14.15
 2022-01-08,Mongolia,MNG,20-days average,-16.45,Mongolia -16.45
 2022-01-08,Montenegro,MNE,20-days average,102.1,Montenegro 102.1
