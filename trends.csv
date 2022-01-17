@@ -689,6 +689,7 @@ Brazil,2022-01-12,22724232,New cases
 Brazil,2022-01-13,22822177,New cases
 Brazil,2022-01-14,22933289,New cases
 Brazil,2022-01-15,22981851,New cases
+Brazil,2022-01-16,23015128,New cases
 France,2020-01-24,2,New cases
 France,2020-01-25,3,New cases
 France,2020-01-26,3,New cases
@@ -1412,6 +1413,7 @@ France,2022-01-12,12981799,New cases
 France,2022-01-13,13290020,New cases
 France,2022-01-14,13619391,New cases
 France,2022-01-15,13943971,New cases
+France,2022-01-16,14222100,New cases
 Germany,2020-01-27,1,New cases
 Germany,2020-01-28,4,New cases
 Germany,2020-01-29,4,New cases
@@ -2132,6 +2134,7 @@ Germany,2022-01-12,7776864,New cases
 Germany,2022-01-13,7866784,New cases
 Germany,2022-01-14,7943959,New cases
 Germany,2022-01-15,7988210,New cases
+Germany,2022-01-16,8021339,New cases
 India,2020-01-30,1,New cases
 India,2020-01-31,1,New cases
 India,2020-02-01,1,New cases
@@ -2849,6 +2852,7 @@ India,2022-01-12,36317927,New cases
 India,2022-01-13,36317927,New cases
 India,2022-01-14,36850962,New cases
 India,2022-01-15,37122164,New cases
+India,2022-01-16,37122164,New cases
 Italy,2020-01-31,2,New cases
 Italy,2020-02-01,2,New cases
 Italy,2020-02-02,2,New cases
@@ -3565,6 +3569,7 @@ Italy,2022-01-12,7971068,New cases
 Italy,2022-01-13,8155645,New cases
 Italy,2022-01-14,8356514,New cases
 Italy,2022-01-15,8549450,New cases
+Italy,2022-01-16,8706915,New cases
 Russia,2020-01-31,2,New cases
 Russia,2020-02-01,2,New cases
 Russia,2020-02-02,2,New cases
@@ -4281,6 +4286,7 @@ Russia,2022-01-12,10520898,New cases
 Russia,2022-01-13,10541870,New cases
 Russia,2022-01-14,10565484,New cases
 Russia,2022-01-15,10592433,New cases
+Russia,2022-01-16,10621410,New cases
 Spain,2020-02-01,1,New cases
 Spain,2020-02-02,1,New cases
 Spain,2020-02-03,1,New cases
@@ -4996,6 +5002,7 @@ Spain,2022-01-12,7771367,New cases
 Spain,2022-01-13,7930528,New cases
 Spain,2022-01-14,8093036,New cases
 Spain,2022-01-15,8093036,New cases
+Spain,2022-01-16,8093036,New cases
 Turkey,2020-03-11,1,New cases
 Turkey,2020-03-12,1,New cases
 Turkey,2020-03-13,5,New cases
@@ -5672,6 +5679,7 @@ Turkey,2022-01-12,10197606,New cases
 Turkey,2022-01-13,10273170,New cases
 Turkey,2022-01-14,10273170,New cases
 Turkey,2022-01-15,10404994,New cases
+Turkey,2022-01-16,10459094,New cases
 United Kingdom,2020-01-31,2,New cases
 United Kingdom,2020-02-01,2,New cases
 United Kingdom,2020-02-02,2,New cases
@@ -6388,6 +6396,7 @@ United Kingdom,2022-01-12,14897264,New cases
 United Kingdom,2022-01-13,15003349,New cases
 United Kingdom,2022-01-14,15102298,New cases
 United Kingdom,2022-01-15,15183023,New cases
+United Kingdom,2022-01-16,15253183,New cases
 United States,2020-01-22,1,New cases
 United States,2020-01-23,1,New cases
 United States,2020-01-24,2,New cases
@@ -7113,6 +7122,7 @@ United States,2022-01-12,63285605,New cases
 United States,2022-01-13,64062060,New cases
 United States,2022-01-14,64920604,New cases
 United States,2022-01-15,65445397,New cases
+United States,2022-01-16,65699947,New cases
 Brazil,2020-02-26,NA,Deaths
 Brazil,2020-02-27,NA,Deaths
 Brazil,2020-02-28,NA,Deaths
@@ -7803,6 +7813,7 @@ Brazil,2022-01-12,620641,Deaths
 Brazil,2022-01-13,620830,Deaths
 Brazil,2022-01-14,621063,Deaths
 Brazil,2022-01-15,621233,Deaths
+Brazil,2022-01-16,621327,Deaths
 India,2020-01-30,NA,Deaths
 India,2020-01-31,NA,Deaths
 India,2020-02-01,NA,Deaths
@@ -8520,6 +8531,7 @@ India,2022-01-12,485035,Deaths
 India,2022-01-13,485131,Deaths
 India,2022-01-14,485752,Deaths
 India,2022-01-15,486066,Deaths
+India,2022-01-16,486066,Deaths
 Indonesia,2020-03-02,NA,Deaths
 Indonesia,2020-03-03,NA,Deaths
 Indonesia,2020-03-04,NA,Deaths
@@ -9205,6 +9217,7 @@ Indonesia,2022-01-12,144150,Deaths
 Indonesia,2022-01-13,144155,Deaths
 Indonesia,2022-01-14,144163,Deaths
 Indonesia,2022-01-15,144167,Deaths
+Indonesia,2022-01-16,144170,Deaths
 Iran,2020-02-19,2,Deaths
 Iran,2020-02-20,2,Deaths
 Iran,2020-02-21,4,Deaths
@@ -9902,6 +9915,7 @@ Iran,2022-01-12,131972,Deaths
 Iran,2022-01-13,132002,Deaths
 Iran,2022-01-14,132026,Deaths
 Iran,2022-01-15,132044,Deaths
+Iran,2022-01-16,132075,Deaths
 Italy,2020-01-31,NA,Deaths
 Italy,2020-02-01,NA,Deaths
 Italy,2020-02-02,NA,Deaths
@@ -10618,6 +10632,7 @@ Italy,2022-01-12,139872,Deaths
 Italy,2022-01-13,140188,Deaths
 Italy,2022-01-14,140548,Deaths
 Italy,2022-01-15,140856,Deaths
+Italy,2022-01-16,141104,Deaths
 Mexico,2020-01-01,NA,Deaths
 Mexico,2020-01-02,NA,Deaths
 Mexico,2020-01-03,NA,Deaths
@@ -11364,6 +11379,7 @@ Mexico,2022-01-12,300764,Deaths
 Mexico,2022-01-13,300912,Deaths
 Mexico,2022-01-14,300912,Deaths
 Mexico,2022-01-15,301334,Deaths
+Mexico,2022-01-16,301334,Deaths
 Peru,2020-01-01,NA,Deaths
 Peru,2020-01-02,NA,Deaths
 Peru,2020-01-03,NA,Deaths
@@ -12110,6 +12126,7 @@ Peru,2022-01-12,203193,Deaths
 Peru,2022-01-13,203255,Deaths
 Peru,2022-01-14,203255,Deaths
 Peru,2022-01-15,203265,Deaths
+Peru,2022-01-16,203376,Deaths
 Russia,2020-01-31,NA,Deaths
 Russia,2020-02-01,NA,Deaths
 Russia,2020-02-02,NA,Deaths
@@ -12826,6 +12843,7 @@ Russia,2022-01-12,312010,Deaths
 Russia,2022-01-13,312733,Deaths
 Russia,2022-01-14,313458,Deaths
 Russia,2022-01-15,314166,Deaths
+Russia,2022-01-16,314838,Deaths
 United Kingdom,2020-01-31,NA,Deaths
 United Kingdom,2020-02-01,NA,Deaths
 United Kingdom,2020-02-02,NA,Deaths
@@ -13542,6 +13560,7 @@ United Kingdom,2022-01-12,151129,Deaths
 United Kingdom,2022-01-13,151464,Deaths
 United Kingdom,2022-01-14,151734,Deaths
 United Kingdom,2022-01-15,152021,Deaths
+United Kingdom,2022-01-16,152109,Deaths
 United States,2020-01-22,NA,Deaths
 United States,2020-01-23,NA,Deaths
 United States,2020-01-24,NA,Deaths
@@ -14267,3 +14286,4 @@ United States,2022-01-12,844588,Deaths
 United States,2022-01-13,846463,Deaths
 United States,2022-01-14,849256,Deaths
 United States,2022-01-15,850060,Deaths
+United States,2022-01-16,850605,Deaths
