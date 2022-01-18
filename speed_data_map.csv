@@ -24,7 +24,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-01-17,Burundi,BDI,20-days average,-18.9,Burundi -18.9
 2022-01-17,Cambodia,KHM,20-days average,1.2,Cambodia 1.2
 2022-01-17,Cameroon,CMR,20-days average,-34.55,Cameroon -34.55
-2022-01-17,Canada,CAN,20-days average,1559.9,"Canada 1,560"
+2022-01-17,Canada,CAN,20-days average,1593.9,"Canada 1,594"
 2022-01-17,Cape Verde,CPV,20-days average,10.4,Cape Verde 10.4
 2022-01-17,Central African Republic,CAF,20-days average,0,Central African Republic 0
 2022-01-17,Chad,TCD,20-days average,16.45,Chad 16.45
@@ -53,7 +53,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-01-17,Ethiopia,ETH,20-days average,-215.2,Ethiopia -215.2
 2022-01-17,Fiji,FJI,20-days average,18.35,Fiji 18.35
 2022-01-17,Finland,FIN,20-days average,-135.7,Finland -135.7
-2022-01-17,France,FRA,20-days average,-8763.3,"France -8,763"
+2022-01-17,France,FRA,20-days average,-8337.05,"France -8,337"
 2022-01-17,Gabon,GAB,20-days average,12.65,Gabon 12.65
 2022-01-17,Gambia,GMB,20-days average,22.5,Gambia 22.5
 2022-01-17,Georgia,GEO,20-days average,49,Georgia 49
@@ -98,7 +98,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-01-17,Mali,MLI,20-days average,0.15,Mali 0.15
 2022-01-17,Malta,MLT,20-days average,-50.5,Malta -50.5
 2022-01-17,Mauritania,MRT,20-days average,14.05,Mauritania 14.05
-2022-01-17,Mauritius,MUS,20-days average,-2.1,Mauritius -2.1
+2022-01-17,Mauritius,MUS,20-days average,0.55,Mauritius 0.55
 2022-01-17,Mexico,MEX,20-days average,807.9,Mexico 807.9
 2022-01-17,Moldova,MDA,20-days average,74.05,Moldova 74.05
 2022-01-17,Mongolia,MNG,20-days average,106.75,Mongolia 106.8
@@ -164,7 +164,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-01-17,Ukraine,UKR,20-days average,146.1,Ukraine 146.1
 2022-01-17,United Arab Emirates,ARE,20-days average,57.15,United Arab Emirates 57.15
 2022-01-17,United Kingdom,GBR,20-days average,-2447.3,"United Kingdom -2,447"
-2022-01-17,United States,USA,20-days average,20843.45,United States 2.084e+04
+2022-01-17,United States,USA,20-days average,23443.25,United States 2.344e+04
 2022-01-17,Uruguay,URY,20-days average,353.4,Uruguay 353.4
 2022-01-17,Uzbekistan,UZB,20-days average,46.85,Uzbekistan 46.85
 2022-01-17,Vanuatu,VUT,20-days average,0,Vanuatu 0

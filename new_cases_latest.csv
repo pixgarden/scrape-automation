@@ -24,7 +24,7 @@ date,location,iso_a3,new_cases
 2022-01-17,Burundi,BDI,397
 2022-01-17,Cambodia,KHM,29
 2022-01-17,Cameroon,CMR,0
-2022-01-17,Canada,CAN,48964
+2022-01-17,Canada,CAN,49644
 2022-01-17,Cape Verde,CPV,380
 2022-01-17,Central African Republic,CAF,NA
 2022-01-17,Chad,TCD,329
@@ -53,7 +53,7 @@ date,location,iso_a3,new_cases
 2022-01-17,Ethiopia,ETH,881
 2022-01-17,Fiji,FJI,367
 2022-01-17,Finland,FIN,NA
-2022-01-17,France,FRA,4542
+2022-01-17,France,FRA,13067
 2022-01-17,Gabon,GAB,253
 2022-01-17,Gambia,GMB,450
 2022-01-17,Georgia,GEO,3656
@@ -98,7 +98,7 @@ date,location,iso_a3,new_cases
 2022-01-17,Mali,MLI,170
 2022-01-17,Malta,MLT,288
 2022-01-17,Mauritania,MRT,404
-2022-01-17,Mauritius,MUS,NA
+2022-01-17,Mauritius,MUS,53
 2022-01-17,Mexico,MEX,17101
 2022-01-17,Moldova,MDA,1783
 2022-01-17,Mongolia,MNG,2135
@@ -163,7 +163,7 @@ date,location,iso_a3,new_cases
 2022-01-17,Ukraine,UKR,5341
 2022-01-17,United Arab Emirates,ARE,2989
 2022-01-17,United Kingdom,GBR,89079
-2022-01-17,United States,USA,773409
+2022-01-17,United States,USA,825405
 2022-01-17,Uruguay,URY,7981
 2022-01-17,Uzbekistan,UZB,1037
 2022-01-17,Vanuatu,VUT,0

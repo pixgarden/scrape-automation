@@ -24,7 +24,7 @@ date,location,iso_code,variable,value
 2022-01-17,Burundi,BDI,20-days average,-18.9
 2022-01-17,Cambodia,KHM,20-days average,1.2
 2022-01-17,Cameroon,CMR,20-days average,-34.55
-2022-01-17,Canada,CAN,20-days average,1559.9
+2022-01-17,Canada,CAN,20-days average,1593.9
 2022-01-17,Cape Verde,CPV,20-days average,10.4
 2022-01-17,Central African Republic,CAF,20-days average,0
 2022-01-17,Chad,TCD,20-days average,16.45
@@ -53,7 +53,7 @@ date,location,iso_code,variable,value
 2022-01-17,Ethiopia,ETH,20-days average,-215.2
 2022-01-17,Fiji,FJI,20-days average,18.35
 2022-01-17,Finland,FIN,20-days average,-135.7
-2022-01-17,France,FRA,20-days average,-8763.3
+2022-01-17,France,FRA,20-days average,-8337.05
 2022-01-17,Gabon,GAB,20-days average,12.65
 2022-01-17,Gambia,GMB,20-days average,22.5
 2022-01-17,Georgia,GEO,20-days average,49
@@ -98,7 +98,7 @@ date,location,iso_code,variable,value
 2022-01-17,Mali,MLI,20-days average,0.15
 2022-01-17,Malta,MLT,20-days average,-50.5
 2022-01-17,Mauritania,MRT,20-days average,14.05
-2022-01-17,Mauritius,MUS,20-days average,-2.1
+2022-01-17,Mauritius,MUS,20-days average,0.55
 2022-01-17,Mexico,MEX,20-days average,807.9
 2022-01-17,Moldova,MDA,20-days average,74.05
 2022-01-17,Mongolia,MNG,20-days average,106.75
@@ -164,7 +164,7 @@ date,location,iso_code,variable,value
 2022-01-17,Ukraine,UKR,20-days average,146.1
 2022-01-17,United Arab Emirates,ARE,20-days average,57.15
 2022-01-17,United Kingdom,GBR,20-days average,-2447.3
-2022-01-17,United States,USA,20-days average,20843.45
+2022-01-17,United States,USA,20-days average,23443.25
 2022-01-17,Uruguay,URY,20-days average,353.4
 2022-01-17,Uzbekistan,UZB,20-days average,46.85
 2022-01-17,Vanuatu,VUT,20-days average,0
