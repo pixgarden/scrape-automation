@@ -99,7 +99,7 @@ date,location,iso_a3,new_cases
 2022-01-19,Malta,MLT,342
 2022-01-19,Mauritania,MRT,438
 2022-01-19,Mauritius,MUS,0
-2022-01-19,Mexico,MEX,49343
+2022-01-19,Mexico,MEX,109895
 2022-01-19,Moldova,MDA,3255
 2022-01-19,Mongolia,MNG,3119
 2022-01-19,Montenegro,MNE,1495
@@ -163,7 +163,7 @@ date,location,iso_a3,new_cases
 2022-01-19,Ukraine,UKR,13143
 2022-01-19,United Arab Emirates,ARE,2902
 2022-01-19,United Kingdom,GBR,107819
-2022-01-19,United States,USA,979570
+2022-01-19,United States,USA,979920
 2022-01-19,Uruguay,URY,11714
 2022-01-19,Uzbekistan,UZB,1214
 2022-01-19,Vanuatu,VUT,0
