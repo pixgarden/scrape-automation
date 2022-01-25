@@ -69,7 +69,7 @@ date,location,iso_a3,new_cases
 2022-01-24,Hong Kong,HKG,70
 2022-01-24,Hungary,HUN,39928
 2022-01-24,Iceland,ISL,3830
-2022-01-24,India,IND,35219
+2022-01-24,India,IND,255874
 2022-01-24,Indonesia,IDN,2927
 2022-01-24,Iran,IRN,7691
 2022-01-24,Iraq,IRQ,5756
@@ -99,7 +99,7 @@ date,location,iso_a3,new_cases
 2022-01-24,Malta,MLT,202
 2022-01-24,Mauritania,MRT,96
 2022-01-24,Mauritius,MUS,NA
-2022-01-24,Mexico,MEX,NA
+2022-01-24,Mexico,MEX,17938
 2022-01-24,Moldova,MDA,2834
 2022-01-24,Mongolia,MNG,1978
 2022-01-24,Montenegro,MNE,756
