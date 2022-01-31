@@ -99,7 +99,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-01-30,Malta,MLT,20-days average,-12.3,Malta -12.3
 2022-01-30,Mauritania,MRT,20-days average,-29.9,Mauritania -29.9
 2022-01-30,Mauritius,MUS,20-days average,0,Mauritius 0
-2022-01-30,Mexico,MEX,20-days average,0,Mexico 0
+2022-01-30,Mexico,MEX,20-days average,696.3,Mexico 696.3
 2022-01-30,Moldova,MDA,20-days average,-34.75,Moldova -34.75
 2022-01-30,Mongolia,MNG,20-days average,-0.1,Mongolia -0.1
 2022-01-30,Montenegro,MNE,20-days average,-61.3,Montenegro -61.3
@@ -164,7 +164,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-01-30,Ukraine,UKR,20-days average,1165.6,"Ukraine 1,166"
 2022-01-30,United Arab Emirates,ARE,20-days average,-13.55,United Arab Emirates -13.55
 2022-01-30,United Kingdom,GBR,20-days average,-4073.4,"United Kingdom -4,073"
-2022-01-30,United States,USA,20-days average,-63629.55,United States -6.363e+04
+2022-01-30,United States,USA,20-days average,-63599.3,United States -6.36e+04
 2022-01-30,Uruguay,URY,20-days average,41.55,Uruguay 41.55
 2022-01-30,Uzbekistan,UZB,20-days average,35.75,Uzbekistan 35.75
 2022-01-30,Vanuatu,VUT,20-days average,0,Vanuatu 0
