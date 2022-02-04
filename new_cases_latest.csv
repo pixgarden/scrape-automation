@@ -69,7 +69,7 @@ date,location,iso_a3,new_cases
 2022-02-03,Hong Kong,HKG,101
 2022-02-03,Hungary,HUN,17894
 2022-02-03,Iceland,ISL,1415
-2022-02-03,India,IND,NA
+2022-02-03,India,IND,149394
 2022-02-03,Indonesia,IDN,NA
 2022-02-03,Iran,IRN,37395
 2022-02-03,Iraq,IRQ,6949
@@ -163,7 +163,7 @@ date,location,iso_a3,new_cases
 2022-02-03,Ukraine,UKR,40745
 2022-02-03,United Arab Emirates,ARE,2232
 2022-02-03,United Kingdom,GBR,93053
-2022-02-03,United States,USA,281474
+2022-02-03,United States,USA,281518
 2022-02-03,Uruguay,URY,10015
 2022-02-03,Uzbekistan,UZB,926
 2022-02-03,Vanuatu,VUT,0
