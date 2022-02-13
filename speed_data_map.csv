@@ -69,7 +69,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-02-12,Hong Kong,HKG,20-days average,1.7,Hong Kong 1.7
 2022-02-12,Hungary,HUN,20-days average,0,Hungary 0
 2022-02-12,Iceland,ISL,20-days average,0,Iceland 0
-2022-02-12,India,IND,20-days average,-15303.2,India -1.53e+04
+2022-02-12,India,IND,20-days average,-13059.35,India -1.306e+04
 2022-02-12,Indonesia,IDN,20-days average,-146.25,Indonesia -146.2
 2022-02-12,Iran,IRN,20-days average,672.7,Iran 672.7
 2022-02-12,Iraq,IRQ,20-days average,-145.85,Iraq -145.8
@@ -121,7 +121,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-02-12,Panama,PAN,20-days average,-795.6,Panama -795.6
 2022-02-12,Papua New Guinea,PNG,20-days average,12.95,Papua New Guinea 12.95
 2022-02-12,Paraguay,PRY,20-days average,0,Paraguay 0
-2022-02-12,Peru,PER,20-days average,-2596.8,"Peru -2,597"
+2022-02-12,Peru,PER,20-days average,-2053.85,"Peru -2,054"
 2022-02-12,Philippines,PHL,20-days average,-1298.05,"Philippines -1,298"
 2022-02-12,Poland,POL,20-days average,-298.4,Poland -298.4
 2022-02-12,Portugal,PRT,20-days average,-1306.65,"Portugal -1,307"
