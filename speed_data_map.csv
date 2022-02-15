@@ -1,175 +1,175 @@
 date,location,iso_a3,variable,value,tooltip
-2022-02-13,Afghanistan,AFG,20-days average,10.25,Afghanistan 10.25
-2022-02-13,Albania,ALB,20-days average,22.85,Albania 22.85
-2022-02-13,Algeria,DZA,20-days average,-84.45,Algeria -84.45
-2022-02-13,Angola,AGO,20-days average,-34.05,Angola -34.05
-2022-02-13,Argentina,ARG,20-days average,-3591.6,"Argentina -3,592"
-2022-02-14,Armenia,ARM,20-days average,-66.6,Armenia -66.6
-2022-02-14,Australia,AUS,20-days average,-2646,"Australia -2,646"
-2022-02-14,Austria,AUT,20-days average,-1247.3,"Austria -1,247"
-2022-02-13,Azerbaijan,AZE,20-days average,304.2,Azerbaijan 304.2
-2022-02-14,Bahrain,BHR,20-days average,-218,Bahrain -218
-2022-02-14,Bangladesh,BGD,20-days average,-801.65,Bangladesh -801.6
-2022-02-13,Barbados,BRB,20-days average,-9.2,Barbados -9.2
-2022-02-13,Belarus,BLR,20-days average,348.85,Belarus 348.9
-2022-02-13,Belgium,BEL,20-days average,-6674,"Belgium -6,674"
-2022-02-13,Benin,BEN,20-days average,0,Benin 0
-2022-02-14,Bhutan,BTN,20-days average,-7,Bhutan -7
-2022-02-13,Bolivia,BOL,20-days average,-758.65,Bolivia -758.6
-2022-02-13,Bosnia and Herzegovina,BIH,20-days average,-228.6,Bosnia and Herzegovina -228.6
-2022-02-13,Botswana,BWA,20-days average,-97.9,Botswana -97.9
-2022-02-13,Brazil,BRA,20-days average,-1450.45,"Brazil -1,450"
-2022-02-13,Bulgaria,BGR,20-days average,-475.5,Bulgaria -475.5
-2022-02-13,Burkina Faso,BFA,20-days average,0.55,Burkina Faso 0.55
-2022-02-13,Burundi,BDI,20-days average,-8.7,Burundi -8.7
-2022-02-14,Cambodia,KHM,20-days average,-1.4,Cambodia -1.4
-2022-02-13,Cameroon,CMR,20-days average,0,Cameroon 0
-2022-02-14,Canada,CAN,20-days average,-1428.15,"Canada -1,428"
-2022-02-13,Cape Verde,CPV,20-days average,-4.65,Cape Verde -4.65
-2022-02-13,Central African Republic,CAF,20-days average,0,Central African Republic 0
-2022-02-13,Chad,TCD,20-days average,-9.2,Chad -9.2
-2022-02-14,Chile,CHL,20-days average,-857.8,Chile -857.8
-2022-02-13,China,CHN,20-days average,1.95,China 1.95
-2022-02-13,Colombia,COL,20-days average,-784.35,Colombia -784.4
-2022-02-13,Comoros,COM,20-days average,0.25,Comoros 0.25
-2022-02-13,Congo,COG,20-days average,0,Congo 0
-2022-02-13,Costa Rica,CRI,20-days average,0,Costa Rica 0
-2022-02-13,Cote d'Ivoire,CIV,20-days average,-3.65,Cote d'Ivoire -3.65
-2022-02-14,Croatia,HRV,20-days average,-423.55,Croatia -423.6
-2022-02-13,Cuba,CUB,20-days average,-120.45,Cuba -120.5
-2022-02-13,Cyprus,CYP,20-days average,-38.4,Cyprus -38.4
-2022-02-13,Czechia,CZE,20-days average,-96.75,Czechia -96.75
-2022-02-13,Democratic Republic of Congo,COD,20-days average,-11.8,Democratic Republic of Congo -11.8
-2022-02-14,Denmark,DNK,20-days average,-2329.5,"Denmark -2,330"
-2022-02-13,Djibouti,DJI,20-days average,-1.75,Djibouti -1.75
-2022-02-13,Dominican Republic,DOM,20-days average,-102.7,Dominican Republic -102.7
-2022-02-13,Ecuador,ECU,20-days average,-134.3,Ecuador -134.3
-2022-02-13,Egypt,EGY,20-days average,-82.55,Egypt -82.55
-2022-02-13,El Salvador,SLV,20-days average,0,El Salvador 0
-2022-02-13,Equatorial Guinea,GNQ,20-days average,-2.1,Equatorial Guinea -2.1
-2022-02-13,Eritrea,ERI,20-days average,-1.55,Eritrea -1.55
-2022-02-13,Estonia,EST,20-days average,-21.5,Estonia -21.5
-2022-02-13,Eswatini,SWZ,20-days average,-1.15,Eswatini -1.15
-2022-02-13,Ethiopia,ETH,20-days average,-15.4,Ethiopia -15.4
-2022-02-13,Fiji,FJI,20-days average,-48.35,Fiji -48.35
-2022-02-14,Finland,FIN,20-days average,-358.4,Finland -358.4
-2022-02-13,France,FRA,20-days average,-1095.95,"France -1,096"
-2022-02-13,Gabon,GAB,20-days average,-14.45,Gabon -14.45
-2022-02-13,Gambia,GMB,20-days average,0,Gambia 0
-2022-02-13,Georgia,GEO,20-days average,388.25,Georgia 388.2
-2022-02-14,Germany,DEU,20-days average,-8958.45,"Germany -8,958"
-2022-02-13,Ghana,GHA,20-days average,-8.45,Ghana -8.45
-2022-02-13,Greece,GRC,20-days average,-411,Greece -411
-2022-02-13,Guatemala,GTM,20-days average,24,Guatemala 24
-2022-02-13,Guinea,GIN,20-days average,-2.55,Guinea -2.55
-2022-02-13,Guinea-Bissau,GNB,20-days average,-0.45,Guinea-Bissau -0.45
-2022-02-13,Guyana,GUY,20-days average,-8.65,Guyana -8.65
-2022-02-13,Haiti,HTI,20-days average,-3,Haiti -3
-2022-02-13,Honduras,HND,20-days average,0,Honduras 0
-2022-02-13,Hong Kong,HKG,20-days average,12.85,Hong Kong 12.85
-2022-02-14,Hungary,HUN,20-days average,-485.85,Hungary -485.9
-2022-02-13,Iceland,ISL,20-days average,-191.5,Iceland -191.5
-2022-02-13,India,IND,20-days average,-11088.05,India -1.109e+04
+2022-02-14,Afghanistan,AFG,20-days average,14.3,Afghanistan 14.3
+2022-02-14,Albania,ALB,20-days average,-24.65,Albania -24.65
+2022-02-14,Algeria,DZA,20-days average,-105.4,Algeria -105.4
+2022-02-14,Angola,AGO,20-days average,-16.55,Angola -16.55
+2022-02-14,Argentina,ARG,20-days average,-4390.65,"Argentina -4,391"
+2022-02-14,Armenia,ARM,20-days average,-31.85,Armenia -31.85
+2022-02-14,Australia,AUS,20-days average,-1100.35,"Australia -1,100"
+2022-02-14,Austria,AUT,20-days average,-19.05,Austria -19.05
+2022-02-14,Azerbaijan,AZE,20-days average,14.05,Azerbaijan 14.05
+2022-02-14,Bahrain,BHR,20-days average,22.9,Bahrain 22.9
+2022-02-14,Bangladesh,BGD,20-days average,-567.05,Bangladesh -567
+2022-02-14,Barbados,BRB,20-days average,-32.6,Barbados -32.6
+2022-02-14,Belarus,BLR,20-days average,260.1,Belarus 260.1
+2022-02-14,Belgium,BEL,20-days average,-1051.75,"Belgium -1,052"
+2022-02-14,Benin,BEN,20-days average,0,Benin 0
+2022-02-14,Bhutan,BTN,20-days average,4.85,Bhutan 4.85
+2022-02-14,Bolivia,BOL,20-days average,-301.35,Bolivia -301.4
+2022-02-14,Bosnia and Herzegovina,BIH,20-days average,-22.8,Bosnia and Herzegovina -22.8
+2022-02-14,Botswana,BWA,20-days average,41.8,Botswana 41.8
+2022-02-14,Brazil,BRA,20-days average,-7046.35,"Brazil -7,046"
+2022-02-14,Bulgaria,BGR,20-days average,-313.45,Bulgaria -313.4
+2022-02-14,Burkina Faso,BFA,20-days average,0.25,Burkina Faso 0.25
+2022-02-14,Burundi,BDI,20-days average,-2.5,Burundi -2.5
+2022-02-14,Cambodia,KHM,20-days average,24.2,Cambodia 24.2
+2022-02-14,Cameroon,CMR,20-days average,0,Cameroon 0
+2022-02-14,Canada,CAN,20-days average,-802.2,Canada -802.2
+2022-02-14,Cape Verde,CPV,20-days average,-3.4,Cape Verde -3.4
+2022-02-14,Central African Republic,CAF,20-days average,-9.8,Central African Republic -9.8
+2022-02-14,Chad,TCD,20-days average,-0.1,Chad -0.1
+2022-02-14,Chile,CHL,20-days average,706.5,Chile 706.5
+2022-02-14,China,CHN,20-days average,1.8,China 1.8
+2022-02-14,Colombia,COL,20-days average,-817.5,Colombia -817.5
+2022-02-14,Comoros,COM,20-days average,0,Comoros 0
+2022-02-14,Congo,COG,20-days average,0.7,Congo 0.7
+2022-02-14,Costa Rica,CRI,20-days average,-438.05,Costa Rica -438.1
+2022-02-14,Cote d'Ivoire,CIV,20-days average,-0.95,Cote d'Ivoire -0.95
+2022-02-14,Croatia,HRV,20-days average,-400.95,Croatia -400.9
+2022-02-14,Cuba,CUB,20-days average,-98.6,Cuba -98.6
+2022-02-14,Cyprus,CYP,20-days average,146.5,Cyprus 146.5
+2022-02-14,Czechia,CZE,20-days average,-1161.3,"Czechia -1,161"
+2022-02-14,Democratic Republic of Congo,COD,20-days average,-11.2,Democratic Republic of Congo -11.2
+2022-02-14,Denmark,DNK,20-days average,-855.8,Denmark -855.8
+2022-02-14,Djibouti,DJI,20-days average,-1.15,Djibouti -1.15
+2022-02-14,Dominican Republic,DOM,20-days average,-100.8,Dominican Republic -100.8
+2022-02-14,Ecuador,ECU,20-days average,492,Ecuador 492
+2022-02-14,Egypt,EGY,20-days average,122.55,Egypt 122.5
+2022-02-14,El Salvador,SLV,20-days average,633.85,El Salvador 633.9
+2022-02-14,Equatorial Guinea,GNQ,20-days average,0,Equatorial Guinea 0
+2022-02-14,Eritrea,ERI,20-days average,-2.55,Eritrea -2.55
+2022-02-14,Estonia,EST,20-days average,-112.35,Estonia -112.3
+2022-02-14,Eswatini,SWZ,20-days average,-1.3,Eswatini -1.3
+2022-02-14,Ethiopia,ETH,20-days average,-22.8,Ethiopia -22.8
+2022-02-14,Fiji,FJI,20-days average,-1.85,Fiji -1.85
+2022-02-14,Finland,FIN,20-days average,262.1,Finland 262.1
+2022-02-14,France,FRA,20-days average,-23801.6,France -2.38e+04
+2022-02-14,Gabon,GAB,20-days average,1,Gabon 1
+2022-02-14,Gambia,GMB,20-days average,0,Gambia 0
+2022-02-14,Georgia,GEO,20-days average,-586.7,Georgia -586.7
+2022-02-14,Germany,DEU,20-days average,-231.5,Germany -231.5
+2022-02-14,Ghana,GHA,20-days average,8.3,Ghana 8.3
+2022-02-14,Greece,GRC,20-days average,124.05,Greece 124
+2022-02-14,Guatemala,GTM,20-days average,-110.6,Guatemala -110.6
+2022-02-14,Guinea,GIN,20-days average,-2.15,Guinea -2.15
+2022-02-14,Guinea-Bissau,GNB,20-days average,-9.55,Guinea-Bissau -9.55
+2022-02-14,Guyana,GUY,20-days average,-13.15,Guyana -13.15
+2022-02-14,Haiti,HTI,20-days average,0.7,Haiti 0.7
+2022-02-14,Honduras,HND,20-days average,-181.5,Honduras -181.5
+2022-02-14,Hong Kong,HKG,20-days average,68.55,Hong Kong 68.55
+2022-02-14,Hungary,HUN,20-days average,568.2,Hungary 568.2
+2022-02-14,Iceland,ISL,20-days average,223,Iceland 223
+2022-02-14,India,IND,20-days average,-12925.25,India -1.293e+04
 2022-02-14,Indonesia,IDN,20-days average,-243.9,Indonesia -243.9
-2022-02-14,Iran,IRN,20-days average,-468.9,Iran -468.9
-2022-02-13,Iraq,IRQ,20-days average,-186,Iraq -186
-2022-02-14,Ireland,IRL,20-days average,-200.3,Ireland -200.3
-2022-02-14,Israel,ISR,20-days average,-4032.15,"Israel -4,032"
-2022-02-14,Italy,ITA,20-days average,-10563.85,Italy -1.056e+04
-2022-02-13,Jamaica,JAM,20-days average,-47.45,Jamaica -47.45
-2022-02-13,Japan,JPN,20-days average,1635.85,"Japan 1,636"
-2022-02-13,Jordan,JOR,20-days average,303.6,Jordan 303.6
-2022-02-13,Kazakhstan,KAZ,20-days average,-383.2,Kazakhstan -383.2
-2022-02-13,Kenya,KEN,20-days average,-6.65,Kenya -6.65
-2022-02-13,Kuwait,KWT,20-days average,-145.4,Kuwait -145.4
-2022-02-13,Kyrgyzstan,KGZ,20-days average,-19,Kyrgyzstan -19
-2022-02-14,Laos,LAO,20-days average,-28,Laos -28
-2022-02-14,Latvia,LVA,20-days average,-304.85,Latvia -304.9
-2022-02-13,Lebanon,LBN,20-days average,138.9,Lebanon 138.9
-2022-02-13,Lesotho,LSO,20-days average,0,Lesotho 0
-2022-02-13,Liberia,LBR,20-days average,-1.75,Liberia -1.75
-2022-02-13,Libya,LBY,20-days average,65.75,Libya 65.75
-2022-02-13,Lithuania,LTU,20-days average,202.9,Lithuania 202.9
-2022-02-13,Luxembourg,LUX,20-days average,-274.85,Luxembourg -274.9
-2022-02-13,Madagascar,MDG,20-days average,0,Madagascar 0
-2022-02-13,Malawi,MWI,20-days average,-4.4,Malawi -4.4
-2022-02-13,Malaysia,MYS,20-days average,892.9,Malaysia 892.9
-2022-02-13,Maldives,MDV,20-days average,-83.85,Maldives -83.85
-2022-02-13,Mali,MLI,20-days average,-2.95,Mali -2.95
-2022-02-14,Malta,MLT,20-days average,-16.15,Malta -16.15
-2022-02-13,Mauritania,MRT,20-days average,-4.5,Mauritania -4.5
-2022-02-13,Mauritius,MUS,20-days average,0,Mauritius 0
-2022-02-13,Mexico,MEX,20-days average,-896.9,Mexico -896.9
-2022-02-13,Moldova,MDA,20-days average,-58,Moldova -58
-2022-02-14,Mongolia,MNG,20-days average,-243.55,Mongolia -243.6
-2022-02-13,Montenegro,MNE,20-days average,-21.55,Montenegro -21.55
-2022-02-13,Morocco,MAR,20-days average,-105.8,Morocco -105.8
-2022-02-13,Mozambique,MOZ,20-days average,-0.3,Mozambique -0.3
-2022-02-14,Myanmar,MMR,20-days average,-11,Myanmar -11
-2022-02-13,Namibia,"NAM",20-days average,0,Namibia 0
-2022-02-14,Nepal,NPL,20-days average,-471.6,Nepal -471.6
-2022-02-14,Netherlands,NLD,20-days average,-2712.2,"Netherlands -2,712"
-2022-02-14,New Zealand,NZL,20-days average,-2.9,New Zealand -2.9
-2022-02-13,Nicaragua,NIC,20-days average,0,Nicaragua 0
-2022-02-13,Niger,NER,20-days average,-2.4,Niger -2.4
-2022-02-13,Nigeria,NGA,20-days average,-10.15,Nigeria -10.15
-2022-02-13,North Macedonia,MKD,20-days average,10.25,North Macedonia 10.25
-2022-02-13,Norway,NOR,20-days average,-358.4,Norway -358.4
-2022-02-13,Oman,OMN,20-days average,152.7,Oman 152.7
-2022-02-14,Pakistan,PAK,20-days average,-259.8,Pakistan -259.8
-2022-02-13,Palestine,PSE,20-days average,-219.8,Palestine -219.8
-2022-02-13,Panama,PAN,20-days average,60.15,Panama 60.15
-2022-02-13,Papua New Guinea,PNG,20-days average,-1.7,Papua New Guinea -1.7
-2022-02-13,Paraguay,PRY,20-days average,-1103.3,"Paraguay -1,103"
-2022-02-13,Peru,PER,20-days average,-1009.1,"Peru -1,009"
-2022-02-13,Philippines,PHL,20-days average,-1096.4,"Philippines -1,096"
-2022-02-14,Poland,POL,20-days average,-1852.25,"Poland -1,852"
-2022-02-14,Portugal,PRT,20-days average,-2882.85,"Portugal -2,883"
-2022-02-13,Qatar,QAT,20-days average,-106.75,Qatar -106.8
-2022-02-14,Romania,ROU,20-days average,-984.25,Romania -984.2
-2022-02-14,Russia,RUS,20-days average,-3360.95,"Russia -3,361"
-2022-02-14,Rwanda,RWA,20-days average,-8.65,Rwanda -8.65
-2022-02-13,Sao Tome and Principe,STP,20-days average,-0.2,Sao Tome and Principe -0.2
-2022-02-13,Saudi Arabia,SAU,20-days average,-135.1,Saudi Arabia -135.1
-2022-02-14,Senegal,SEN,20-days average,-3.95,Senegal -3.95
-2022-02-13,Serbia,SRB,20-days average,-450.5,Serbia -450.5
-2022-02-13,Seychelles,SYC,20-days average,-40.55,Seychelles -40.55
-2022-02-13,Sierra Leone,SLE,20-days average,-0.15,Sierra Leone -0.15
-2022-02-14,Singapore,SGP,20-days average,-299.8,Singapore -299.8
-2022-02-13,Slovakia,SVK,20-days average,748.85,Slovakia 748.9
-2022-02-13,Slovenia,SVN,20-days average,-219.7,Slovenia -219.7
-2022-02-13,Solomon Islands,SLB,20-days average,9.35,Solomon Islands 9.35
-2022-02-13,Somalia,SOM,20-days average,-53.3,Somalia -53.3
-2022-02-13,South Africa,ZAF,20-days average,15.85,South Africa 15.85
-2022-02-14,South Korea,KOR,20-days average,-650.2,South Korea -650.2
-2022-02-13,South Sudan,SSD,20-days average,-2.1,South Sudan -2.1
-2022-02-13,Spain,ESP,20-days average,-15271.6,Spain -1.527e+04
-2022-02-13,Sri Lanka,LKA,20-days average,13.65,Sri Lanka 13.65
-2022-02-13,Sudan,SDN,20-days average,-59.5,Sudan -59.5
-2022-02-13,Suriname,SUR,20-days average,-40.1,Suriname -40.1
+2022-02-14,Iran,IRN,20-days average,978.9,Iran 978.9
+2022-02-14,Iraq,IRQ,20-days average,-234.1,Iraq -234.1
+2022-02-14,Ireland,IRL,20-days average,437.95,Ireland 437.9
+2022-02-14,Israel,ISR,20-days average,-2760.65,"Israel -2,761"
+2022-02-14,Italy,ITA,20-days average,-9125.05,"Italy -9,125"
+2022-02-14,Jamaica,JAM,20-days average,-32.25,Jamaica -32.25
+2022-02-14,Japan,JPN,20-days average,-121.8,Japan -121.8
+2022-02-14,Jordan,JOR,20-days average,515,Jordan 515
+2022-02-14,Kazakhstan,KAZ,20-days average,-541.65,Kazakhstan -541.6
+2022-02-14,Kenya,KEN,20-days average,-8.05,Kenya -8.05
+2022-02-14,Kuwait,KWT,20-days average,-159,Kuwait -159
+2022-02-14,Kyrgyzstan,KGZ,20-days average,-20.6,Kyrgyzstan -20.6
+2022-02-14,Laos,LAO,20-days average,-17.2,Laos -17.2
+2022-02-14,Latvia,LVA,20-days average,-97.65,Latvia -97.65
+2022-02-14,Lebanon,LBN,20-days average,-176.65,Lebanon -176.7
+2022-02-14,Lesotho,LSO,20-days average,3.1,Lesotho 3.1
+2022-02-14,Liberia,LBR,20-days average,0.05,Liberia 0.05
+2022-02-14,Libya,LBY,20-days average,-13.15,Libya -13.15
+2022-02-14,Lithuania,LTU,20-days average,-51.15,Lithuania -51.15
+2022-02-14,Luxembourg,LUX,20-days average,-13.85,Luxembourg -13.85
+2022-02-14,Madagascar,MDG,20-days average,0,Madagascar 0
+2022-02-14,Malawi,MWI,20-days average,-3.9,Malawi -3.9
+2022-02-14,Malaysia,MYS,20-days average,1013.7,"Malaysia 1,014"
+2022-02-14,Maldives,MDV,20-days average,-79.7,Maldives -79.7
+2022-02-14,Mali,MLI,20-days average,-5.75,Mali -5.75
+2022-02-14,Malta,MLT,20-days average,-12.55,Malta -12.55
+2022-02-14,Mauritania,MRT,20-days average,-8.1,Mauritania -8.1
+2022-02-14,Mauritius,MUS,20-days average,-11.1,Mauritius -11.1
+2022-02-14,Mexico,MEX,20-days average,-1802.4,"Mexico -1,802"
+2022-02-14,Moldova,MDA,20-days average,-204.55,Moldova -204.6
+2022-02-14,Mongolia,MNG,20-days average,262.15,Mongolia 262.1
+2022-02-14,Montenegro,MNE,20-days average,-44.8,Montenegro -44.8
+2022-02-14,Morocco,MAR,20-days average,-299.65,Morocco -299.6
+2022-02-14,Mozambique,MOZ,20-days average,-11.2,Mozambique -11.2
+2022-02-14,Myanmar,MMR,20-days average,68.3,Myanmar 68.3
+2022-02-14,Namibia,"NAM",20-days average,-6.2,Namibia -6.2
+2022-02-14,Nepal,NPL,20-days average,-447.5,Nepal -447.5
+2022-02-14,Netherlands,NLD,20-days average,39,Netherlands 39
+2022-02-14,New Zealand,NZL,20-days average,34.85,New Zealand 34.85
+2022-02-14,Nicaragua,NIC,20-days average,-2.3,Nicaragua -2.3
+2022-02-14,Niger,NER,20-days average,-0.5,Niger -0.5
+2022-02-14,Nigeria,NGA,20-days average,-12.5,Nigeria -12.5
+2022-02-14,North Macedonia,MKD,20-days average,-93.35,North Macedonia -93.35
+2022-02-14,Norway,NOR,20-days average,-518.55,Norway -518.5
+2022-02-14,Oman,OMN,20-days average,-5,Oman -5
+2022-02-14,Pakistan,PAK,20-days average,-129.95,Pakistan -129.9
+2022-02-14,Palestine,PSE,20-days average,504.9,Palestine 504.9
+2022-02-14,Panama,PAN,20-days average,-272.75,Panama -272.8
+2022-02-14,Papua New Guinea,PNG,20-days average,6.1,Papua New Guinea 6.1
+2022-02-14,Paraguay,PRY,20-days average,-199.2,Paraguay -199.2
+2022-02-14,Peru,PER,20-days average,-2224.8,"Peru -2,225"
+2022-02-14,Philippines,PHL,20-days average,-746.4,Philippines -746.4
+2022-02-14,Poland,POL,20-days average,-1240.6,"Poland -1,241"
+2022-02-14,Portugal,PRT,20-days average,-2459.7,"Portugal -2,460"
+2022-02-14,Qatar,QAT,20-days average,-97.5,Qatar -97.5
+2022-02-14,Romania,ROU,20-days average,-380.8,Romania -380.8
+2022-02-14,Russia,RUS,20-days average,5578.3,"Russia 5,578"
+2022-02-14,Rwanda,RWA,20-days average,-8,Rwanda -8
+2022-02-14,Sao Tome and Principe,STP,20-days average,-0.65,Sao Tome and Principe -0.65
+2022-02-14,Saudi Arabia,SAU,20-days average,-115.7,Saudi Arabia -115.7
+2022-02-14,Senegal,SEN,20-days average,-2.55,Senegal -2.55
+2022-02-14,Serbia,SRB,20-days average,-643.55,Serbia -643.5
+2022-02-14,Seychelles,SYC,20-days average,-8.2,Seychelles -8.2
+2022-02-14,Sierra Leone,SLE,20-days average,-0.7,Sierra Leone -0.7
+2022-02-14,Singapore,SGP,20-days average,154.3,Singapore 154.3
+2022-02-14,Slovakia,SVK,20-days average,-116.85,Slovakia -116.8
+2022-02-14,Slovenia,SVN,20-days average,-459.75,Slovenia -459.8
+2022-02-14,Solomon Islands,SLB,20-days average,-1.15,Solomon Islands -1.15
+2022-02-14,Somalia,SOM,20-days average,0,Somalia 0
+2022-02-14,South Africa,ZAF,20-days average,-105.15,South Africa -105.2
+2022-02-14,South Korea,KOR,20-days average,2208.55,"South Korea 2,209"
+2022-02-14,South Sudan,SSD,20-days average,-0.3,South Sudan -0.3
+2022-02-14,Spain,ESP,20-days average,-2308.55,"Spain -2,309"
+2022-02-14,Sri Lanka,LKA,20-days average,17,Sri Lanka 17
+2022-02-14,Sudan,SDN,20-days average,-20.6,Sudan -20.6
+2022-02-14,Suriname,SUR,20-days average,-26.25,Suriname -26.25
 2022-02-14,Sweden,SWE,20-days average,-6949.25,"Sweden -6,949"
-2022-02-13,Switzerland,CHE,20-days average,-4364.05,"Switzerland -4,364"
-2022-02-13,Syria,SYR,20-days average,4.05,Syria 4.05
-2022-02-14,Taiwan,TWN,20-days average,-1.75,Taiwan -1.75
-2022-02-13,Tajikistan,TJK,20-days average,-4.25,Tajikistan -4.25
-2022-02-13,Tanzania,TZA,20-days average,0,Tanzania 0
-2022-02-13,Thailand,THA,20-days average,409.1,Thailand 409.1
-2022-02-13,Timor,TLS,20-days average,3.7,Timor 3.7
-2022-02-13,Togo,TGO,20-days average,0.3,Togo 0.3
-2022-02-13,Trinidad and Tobago,TTO,20-days average,-0.35,Trinidad and Tobago -0.35
-2022-02-13,Tunisia,TUN,20-days average,-252.45,Tunisia -252.4
-2022-02-13,Turkey,TUR,20-days average,338.2,Turkey 338.2
+2022-02-14,Switzerland,CHE,20-days average,616.4,Switzerland 616.4
+2022-02-14,Syria,SYR,20-days average,4.2,Syria 4.2
+2022-02-14,Taiwan,TWN,20-days average,0.95,Taiwan 0.95
+2022-02-14,Tajikistan,TJK,20-days average,-1.15,Tajikistan -1.15
+2022-02-14,Tanzania,TZA,20-days average,-26.35,Tanzania -26.35
+2022-02-14,Thailand,THA,20-days average,339.3,Thailand 339.3
+2022-02-14,Timor,TLS,20-days average,5.75,Timor 5.75
+2022-02-14,Togo,TGO,20-days average,-1.95,Togo -1.95
+2022-02-14,Trinidad and Tobago,TTO,20-days average,-4.6,Trinidad and Tobago -4.6
+2022-02-14,Tunisia,TUN,20-days average,-141.7,Tunisia -141.7
+2022-02-14,Turkey,TUR,20-days average,14.55,Turkey 14.55
 2021-08-29,Turkmenistan,TKM,20-days average,0,Turkmenistan 0
-2022-02-13,Uganda,UGA,20-days average,-8.15,Uganda -8.15
-2022-02-14,Ukraine,UKR,20-days average,-985.4,Ukraine -985.4
-2022-02-14,United Arab Emirates,ARE,20-days average,-125.2,United Arab Emirates -125.2
-2022-02-13,United Kingdom,GBR,20-days average,-2723.65,"United Kingdom -2,724"
-2022-02-13,United States,USA,20-days average,-43523.5,United States -4.352e+04
-2022-02-13,Uruguay,URY,20-days average,-265.6,Uruguay -265.6
-2022-02-13,Uzbekistan,UZB,20-days average,-42.85,Uzbekistan -42.85
-2022-02-13,Vanuatu,VUT,20-days average,0,Vanuatu 0
-2022-02-13,Venezuela,VEN,20-days average,77.85,Venezuela 77.85
-2022-02-14,Vietnam,VNM,20-days average,-787.15,Vietnam -787.1
-2022-02-13,Yemen,YEM,20-days average,0.35,Yemen 0.35
-2022-02-14,Zambia,ZMB,20-days average,-32.25,Zambia -32.25
-2022-02-13,Zimbabwe,ZWE,20-days average,-10.25,Zimbabwe -10.25
+2022-02-14,Uganda,UGA,20-days average,-4,Uganda -4
+2022-02-14,Ukraine,UKR,20-days average,-52.2,Ukraine -52.2
+2022-02-14,United Arab Emirates,ARE,20-days average,-65.65,United Arab Emirates -65.65
+2022-02-14,United Kingdom,GBR,20-days average,-2623.75,"United Kingdom -2,624"
+2022-02-14,United States,USA,20-days average,-18787.95,United States -1.879e+04
+2022-02-14,Uruguay,URY,20-days average,-283.95,Uruguay -283.9
+2022-02-14,Uzbekistan,UZB,20-days average,-40.05,Uzbekistan -40.05
+2022-02-14,Vanuatu,VUT,20-days average,0,Vanuatu 0
+2022-02-14,Venezuela,VEN,20-days average,-29.75,Venezuela -29.75
+2022-02-14,Vietnam,VNM,20-days average,683.5,Vietnam 683.5
+2022-02-14,Yemen,YEM,20-days average,0.4,Yemen 0.4
+2022-02-14,Zambia,ZMB,20-days average,-28.4,Zambia -28.4
+2022-02-14,Zimbabwe,ZWE,20-days average,-0.65,Zimbabwe -0.65
