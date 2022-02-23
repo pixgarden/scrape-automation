@@ -1,15 +1,174 @@
 location,iso_code,date,total_boosters_per_hundred
+Afghanistan,AFG,2022-02-22,0
+Albania,ALB,2022-02-22,7.98
+Algeria,DZA,2022-02-22,0.84
+Angola,AGO,2022-02-22,0.41
+Argentina,ARG,2022-02-22,35.23
+Armenia,ARM,2022-02-22,0.52
+Australia,AUS,2022-02-22,42.42
 Austria,AUT,2022-02-22,54.64
+Azerbaijan,AZE,2022-02-22,25.29
+Bahrain,BHR,2022-02-22,54.38
+Bangladesh,BGD,2022-02-22,1.87
+Barbados,BRB,2022-02-22,0
+Belarus,BLR,2022-02-22,2.92
+Belgium,BEL,2022-02-22,60.04
+Benin,BEN,2022-02-22,0
+Bhutan,BTN,2022-02-22,45.13
+Bolivia,BOL,2022-02-22,8.52
+Bosnia and Herzegovina,BIH,2022-02-22,3.69
+Botswana,BWA,2022-02-22,3.61
+Brazil,BRA,2022-02-22,28.64
+Bulgaria,BGR,2022-02-22,9.77
+Burkina Faso,BFA,2022-02-22,0
+Burundi,BDI,2022-02-22,0
+Cambodia,KHM,2022-02-22,42.13
+Cameroon,CMR,2022-02-22,0
 Canada,CAN,2022-02-22,45.05
+Cape Verde,CPV,2022-02-22,0
+Central African Republic,CAF,2022-02-22,0
+Chad,TCD,2022-02-22,0
 Chile,CHL,2022-02-22,70.3
+China,CHN,2022-02-22,31.84
+Colombia,COL,2022-02-22,15.36
+Comoros,COM,2022-02-22,0
+Congo,COG,2022-02-22,0
+Costa Rica,CRI,2022-02-22,13.6
+Cote d'Ivoire,CIV,2022-02-22,0
+Croatia,HRV,2022-02-22,14.57
+Cuba,CUB,2022-02-22,51.76
+Cyprus,CYP,2022-02-22,48.51
+Czechia,CZE,2022-02-22,37.08
+Democratic Republic of Congo,COD,2022-02-22,0
 Denmark,DNK,2022-02-22,62.32
+Djibouti,DJI,2022-02-22,0
+Dominican Republic,DOM,2022-02-22,20.03
+Ecuador,ECU,2022-02-22,21.07
+Egypt,EGY,2022-02-22,0.78
+El Salvador,SLV,2022-02-22,20.31
+Equatorial Guinea,GNQ,2022-02-22,0
+Eritrea,ERI,2022-02-22,0
+Estonia,EST,2022-02-22,33.08
+Eswatini,SWZ,2022-02-22,0
+Ethiopia,ETH,2022-02-22,0
+Fiji,FJI,2022-02-22,0
+Finland,FIN,2022-02-22,49.34
+France,FRA,2022-02-22,52.22
+Gabon,GAB,2022-02-22,0
+Gambia,GMB,2022-02-22,0
+Georgia,GEO,2022-02-22,2.03
 Germany,DEU,2022-02-22,55.85
+Ghana,GHA,2022-02-22,0.32
+Greece,GRC,2022-02-22,50.3
+Guatemala,GTM,2022-02-22,8.59
+Guinea,GIN,2022-02-22,0
+Guinea-Bissau,GNB,2022-02-22,0
+Guyana,GUY,2022-02-22,6.07
+Haiti,HTI,2022-02-22,0
+Honduras,HND,2022-02-22,10.47
+Hong Kong,HKG,2022-02-22,19.29
+Hungary,HUN,2022-02-22,39.37
+Iceland,ISL,2022-02-22,66.85
+India,IND,2022-02-22,1.29
+Indonesia,IDN,2022-02-22,3.15
+Iran,IRN,2022-02-22,26.3
+Iraq,IRQ,2022-02-22,0
+Ireland,IRL,2022-02-22,56.08
 Israel,ISR,2022-02-22,55.78
 Italy,ITA,2022-02-22,61.28
+Jamaica,JAM,2022-02-22,0.88
+Japan,JPN,2022-02-22,15.38
+Jordan,JOR,2022-02-22,0
+Kazakhstan,KAZ,2022-02-22,12.59
+Kenya,KEN,2022-02-22,0.44
+Kuwait,KWT,2022-02-22,8.8
+Kyrgyzstan,KGZ,2022-02-22,0
+Laos,LAO,2022-02-22,0
+Latvia,LVA,2022-02-22,26.22
+Lebanon,LBN,2022-02-22,7.52
+Lesotho,LSO,2022-02-22,0
+Liberia,LBR,2022-02-22,0
+Libya,LBY,2022-02-22,0.72
+Lithuania,LTU,2022-02-22,33.68
+Luxembourg,LUX,2022-02-22,56.64
+Madagascar,MDG,2022-02-22,0
+Malawi,MWI,2022-02-22,0
 Malaysia,MYS,2022-02-22,42.95
+Maldives,MDV,2022-02-22,21.78
+Mali,MLI,2022-02-22,0
+Malta,MLT,2022-02-22,65.99
+Mauritania,MRT,2022-02-22,0.61
+Mauritius,MUS,2022-02-22,32.42
+Mexico,MEX,2022-02-22,0
+Moldova,MDA,2022-02-22,2.06
+Mongolia,MNG,2022-02-22,30.59
+Montenegro,MNE,2022-02-22,14.93
+Morocco,MAR,2022-02-22,14.03
+Mozambique,MOZ,2022-02-22,0.32
+Myanmar,MMR,2022-02-22,0
+Namibia,"NAM",2022-02-22,0
+Nepal,NPL,2022-02-22,3.05
 Netherlands,NLD,2022-02-22,51.81
+New Zealand,NZL,2022-02-22,43.51
+Nicaragua,NIC,2022-02-22,0
+Niger,NER,2022-02-22,0
+Nigeria,NGA,2022-02-22,0
+North Macedonia,MKD,2022-02-22,6.52
+Norway,NOR,2022-02-22,52.38
+Oman,OMN,2022-02-22,0.62
+Pakistan,PAK,2022-02-22,1.82
+Palestine,PSE,2022-02-22,0.05
+Panama,PAN,2022-02-22,25.36
+Papua New Guinea,PNG,2022-02-22,0
+Paraguay,PRY,2022-02-22,14.5
+Peru,PER,2022-02-22,27.71
+Philippines,PHL,2022-02-22,8.81
+Poland,POL,2022-02-22,29.5
 Portugal,PRT,2022-02-22,59.91
+Qatar,QAT,2022-02-22,39.13
+Romania,ROU,2022-02-22,0
 Russia,RUS,2022-02-22,8.96
+Rwanda,RWA,2022-02-22,10.16
+Sao Tome and Principe,STP,2022-02-22,1.46
+Saudi Arabia,SAU,2022-02-22,28.03
+Senegal,SEN,2022-02-22,0
 Serbia,SRB,2022-02-22,27.01
+Seychelles,SYC,2022-02-22,28.05
+Sierra Leone,SLE,2022-02-22,0
 Singapore,SGP,2022-02-22,60.09
+Slovakia,SVK,2022-02-22,29.62
+Slovenia,SVN,2022-02-22,30.03
+Solomon Islands,SLB,2022-02-22,0
+Somalia,SOM,2022-02-22,0
+South Africa,ZAF,2022-02-22,1.47
+South Korea,KOR,2022-02-22,59.7
+South Sudan,SSD,2022-02-22,0
+Spain,ESP,2022-02-22,50.97
+Sri Lanka,LKA,2022-02-22,30.19
+Sudan,SDN,2022-02-22,0
+Suriname,SUR,2022-02-22,7.48
 Sweden,SWE,2022-02-22,46.93
+Switzerland,CHE,2022-02-22,41.03
+Syria,SYR,2022-02-22,0
+Taiwan,TWN,2022-02-22,37.1
+Tajikistan,TJK,2022-02-22,0.02
+Tanzania,TZA,2022-02-22,0
+Thailand,THA,2022-02-22,27.63
+Timor,TLS,2022-02-22,0
+Togo,TGO,2022-02-22,0
+Trinidad and Tobago,TTO,2022-02-22,9.23
+Tunisia,TUN,2022-02-22,9.36
+Turkey,TUR,2022-02-22,40.72
+Uganda,UGA,2022-02-22,0
+Ukraine,UKR,2022-02-22,1.63
+United Arab Emirates,ARE,2022-02-22,46.72
+United Kingdom,GBR,2022-02-22,55.75
+United States,USA,2022-02-22,27.91
+Uruguay,URY,2022-02-22,54.8
+Uzbekistan,UZB,2022-02-22,0
+Vanuatu,VUT,2022-02-22,0
+Venezuela,VEN,2022-02-22,1.43
+Vietnam,VNM,2022-02-22,35.96
+Yemen,YEM,2022-02-22,0
+Zambia,ZMB,2022-02-22,0.12
+Zimbabwe,ZWE,2022-02-22,0.75
