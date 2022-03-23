@@ -99,7 +99,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-03-22,Malta,MLT,20-days average,11.95,Malta 11.95
 2022-03-22,Mauritania,MRT,20-days average,0,Mauritania 0
 2022-03-22,Mauritius,MUS,20-days average,0,Mauritius 0
-2022-03-22,Mexico,MEX,20-days average,33.55,Mexico 33.55
+2022-03-22,Mexico,MEX,20-days average,61.25,Mexico 61.25
 2022-03-22,Moldova,MDA,20-days average,-14.85,Moldova -14.85
 2022-03-22,Mongolia,MNG,20-days average,-61.1,Mongolia -61.1
 2022-03-22,Montenegro,MNE,20-days average,-1.1,Montenegro -1.1
@@ -121,7 +121,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-03-22,Panama,PAN,20-days average,13.4,Panama 13.4
 2022-03-22,Papua New Guinea,PNG,20-days average,-2.25,Papua New Guinea -2.25
 2022-03-22,Paraguay,PRY,20-days average,-11.45,Paraguay -11.45
-2022-03-22,Peru,PER,20-days average,-94.15,Peru -94.15
+2022-03-22,Peru,PER,20-days average,-63.75,Peru -63.75
 2022-03-22,Philippines,PHL,20-days average,-28.6,Philippines -28.6
 2022-03-22,Poland,POL,20-days average,-228.7,Poland -228.7
 2022-03-22,Portugal,PRT,20-days average,-441.65,Portugal -441.6
