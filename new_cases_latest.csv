@@ -69,7 +69,7 @@ date,location,iso_a3,new_cases
 2022-03-25,Hong Kong,HKG,10405
 2022-03-25,Hungary,HUN,2439
 2022-03-25,Iceland,ISL,1370
-2022-03-25,India,IND,NA
+2022-03-25,India,IND,1660
 2022-03-25,Indonesia,IDN,NA
 2022-03-25,Iran,IRN,1530
 2022-03-25,Iraq,IRQ,370
@@ -99,7 +99,7 @@ date,location,iso_a3,new_cases
 2022-03-25,Malta,MLT,465
 2022-03-25,Mauritania,MRT,0
 2022-03-25,Mauritius,MUS,NA
-2022-03-25,Mexico,MEX,3658
+2022-03-25,Mexico,MEX,6736
 2022-03-25,Moldova,MDA,385
 2022-03-25,Mongolia,MNG,153
 2022-03-25,Montenegro,MNE,65
@@ -121,7 +121,7 @@ date,location,iso_a3,new_cases
 2022-03-25,Panama,PAN,290
 2022-03-25,Papua New Guinea,PNG,1543
 2022-03-25,Paraguay,PRY,90
-2022-03-25,Peru,PER,NA
+2022-03-25,Peru,PER,548
 2022-03-25,Philippines,PHL,409
 2022-03-25,Poland,POL,8231
 2022-03-25,Portugal,PRT,75276
