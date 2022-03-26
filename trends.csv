@@ -757,6 +757,7 @@ Brazil,2022-03-21,29650082,New cases
 Brazil,2022-03-22,29691641,New cases
 Brazil,2022-03-23,29738362,New cases
 Brazil,2022-03-24,29775568,New cases
+Brazil,2022-03-25,29809769,New cases
 France,2020-01-24,2,New cases
 France,2020-01-25,3,New cases
 France,2020-01-26,3,New cases
@@ -1548,6 +1549,7 @@ France,2022-03-21,24214159,New cases
 France,2022-03-22,24394936,New cases
 France,2022-03-23,24548990,New cases
 France,2022-03-24,24689131,New cases
+France,2022-03-25,24832702,New cases
 Germany,2020-01-27,1,New cases
 Germany,2020-01-28,4,New cases
 Germany,2020-01-29,4,New cases
@@ -2336,6 +2338,7 @@ Germany,2022-03-21,18810035,New cases
 Germany,2022-03-22,19058757,New cases
 Germany,2022-03-23,19217142,New cases
 Germany,2022-03-24,19365628,New cases
+Germany,2022-03-25,19487710,New cases
 India,2020-01-30,1,New cases
 India,2020-01-31,1,New cases
 India,2020-02-01,1,New cases
@@ -3121,6 +3124,7 @@ India,2022-03-21,43010971,New cases
 India,2022-03-22,43012749,New cases
 India,2022-03-23,43014687,New cases
 India,2022-03-24,43016372,New cases
+India,2022-03-25,43016372,New cases
 Italy,2020-01-31,2,New cases
 Italy,2020-02-01,2,New cases
 Italy,2020-02-02,2,New cases
@@ -3905,6 +3909,7 @@ Italy,2022-03-21,13895188,New cases
 Italy,2022-03-22,13992092,New cases
 Italy,2022-03-23,14070450,New cases
 Italy,2022-03-24,14153098,New cases
+Italy,2022-03-25,14229495,New cases
 Russia,2020-01-31,2,New cases
 Russia,2020-02-01,2,New cases
 Russia,2020-02-02,2,New cases
@@ -4689,789 +4694,801 @@ Russia,2022-03-21,17356036,New cases
 Russia,2022-03-22,17382051,New cases
 Russia,2022-03-23,17408475,New cases
 Russia,2022-03-24,17433393,New cases
-Spain,2020-02-01,1,New cases
-Spain,2020-02-02,1,New cases
-Spain,2020-02-03,1,New cases
-Spain,2020-02-04,1,New cases
-Spain,2020-02-05,1,New cases
-Spain,2020-02-06,1,New cases
-Spain,2020-02-07,1,New cases
-Spain,2020-02-08,1,New cases
-Spain,2020-02-09,2,New cases
-Spain,2020-02-10,2,New cases
-Spain,2020-02-11,2,New cases
-Spain,2020-02-12,2,New cases
-Spain,2020-02-13,2,New cases
-Spain,2020-02-14,2,New cases
-Spain,2020-02-15,2,New cases
-Spain,2020-02-16,2,New cases
-Spain,2020-02-17,2,New cases
-Spain,2020-02-18,2,New cases
-Spain,2020-02-19,2,New cases
-Spain,2020-02-20,2,New cases
-Spain,2020-02-21,2,New cases
-Spain,2020-02-22,2,New cases
-Spain,2020-02-23,2,New cases
-Spain,2020-02-24,2,New cases
-Spain,2020-02-25,6,New cases
-Spain,2020-02-26,13,New cases
-Spain,2020-02-27,15,New cases
-Spain,2020-02-28,32,New cases
-Spain,2020-02-29,45,New cases
-Spain,2020-03-01,84,New cases
-Spain,2020-03-02,120,New cases
-Spain,2020-03-03,165,New cases
-Spain,2020-03-04,222,New cases
-Spain,2020-03-05,259,New cases
-Spain,2020-03-06,400,New cases
-Spain,2020-03-07,500,New cases
-Spain,2020-03-08,673,New cases
-Spain,2020-03-09,1073,New cases
-Spain,2020-03-10,1695,New cases
-Spain,2020-03-11,2277,New cases
-Spain,2020-03-12,2277,New cases
-Spain,2020-03-13,5232,New cases
-Spain,2020-03-14,6391,New cases
-Spain,2020-03-15,7798,New cases
-Spain,2020-03-16,9942,New cases
-Spain,2020-03-17,11748,New cases
-Spain,2020-03-18,13910,New cases
-Spain,2020-03-19,17963,New cases
-Spain,2020-03-20,20410,New cases
-Spain,2020-03-21,25374,New cases
-Spain,2020-03-22,28768,New cases
-Spain,2020-03-23,35136,New cases
-Spain,2020-03-24,39885,New cases
-Spain,2020-03-25,49515,New cases
-Spain,2020-03-26,57786,New cases
-Spain,2020-03-27,65719,New cases
-Spain,2020-03-28,73235,New cases
-Spain,2020-03-29,80110,New cases
-Spain,2020-03-30,87956,New cases
-Spain,2020-03-31,95923,New cases
-Spain,2020-04-01,104118,New cases
-Spain,2020-04-02,112065,New cases
-Spain,2020-04-03,119199,New cases
-Spain,2020-04-04,126168,New cases
-Spain,2020-04-05,131646,New cases
-Spain,2020-04-06,136675,New cases
-Spain,2020-04-07,141942,New cases
-Spain,2020-04-08,148220,New cases
-Spain,2020-04-09,153222,New cases
-Spain,2020-04-10,158273,New cases
-Spain,2020-04-11,163027,New cases
-Spain,2020-04-12,166831,New cases
-Spain,2020-04-13,170099,New cases
-Spain,2020-04-14,172541,New cases
-Spain,2020-04-15,177644,New cases
-Spain,2020-04-16,184948,New cases
-Spain,2020-04-17,190839,New cases
-Spain,2020-04-18,191726,New cases
-Spain,2020-04-19,198674,New cases
-Spain,2020-04-20,200210,New cases
-Spain,2020-04-21,204178,New cases
-Spain,2020-04-22,208389,New cases
-Spain,2020-04-23,213024,New cases
-Spain,2020-04-24,202990,New cases
-Spain,2020-04-25,205905,New cases
-Spain,2020-04-26,207634,New cases
-Spain,2020-04-27,209465,New cases
-Spain,2020-04-28,210773,New cases
-Spain,2020-04-29,212917,New cases
-Spain,2020-04-30,213435,New cases
-Spain,2020-05-01,215216,New cases
-Spain,2020-05-02,216582,New cases
-Spain,2020-05-03,217466,New cases
-Spain,2020-05-04,218011,New cases
-Spain,2020-05-05,219329,New cases
-Spain,2020-05-06,220325,New cases
-Spain,2020-05-07,221447,New cases
-Spain,2020-05-08,222857,New cases
-Spain,2020-05-09,223578,New cases
-Spain,2020-05-10,224350,New cases
-Spain,2020-05-11,227436,New cases
-Spain,2020-05-12,228030,New cases
-Spain,2020-05-13,228691,New cases
-Spain,2020-05-14,229540,New cases
-Spain,2020-05-15,230183,New cases
-Spain,2020-05-16,230698,New cases
-Spain,2020-05-17,230698,New cases
-Spain,2020-05-18,231606,New cases
-Spain,2020-05-19,232037,New cases
-Spain,2020-05-20,232555,New cases
-Spain,2020-05-21,233037,New cases
-Spain,2020-05-22,234824,New cases
-Spain,2020-05-23,235290,New cases
-Spain,2020-05-24,235772,New cases
-Spain,2020-05-25,235400,New cases
-Spain,2020-05-26,236259,New cases
-Spain,2020-05-27,236259,New cases
-Spain,2020-05-28,237906,New cases
-Spain,2020-05-29,238564,New cases
-Spain,2020-05-30,239228,New cases
-Spain,2020-05-31,239479,New cases
-Spain,2020-06-01,239638,New cases
-Spain,2020-06-02,239932,New cases
-Spain,2020-06-03,240326,New cases
-Spain,2020-06-04,240660,New cases
-Spain,2020-06-05,240978,New cases
-Spain,2020-06-06,241310,New cases
-Spain,2020-06-07,241550,New cases
-Spain,2020-06-08,241717,New cases
-Spain,2020-06-09,241966,New cases
-Spain,2020-06-10,242280,New cases
-Spain,2020-06-11,242707,New cases
-Spain,2020-06-12,243209,New cases
-Spain,2020-06-13,243605,New cases
-Spain,2020-06-14,243928,New cases
-Spain,2020-06-15,244109,New cases
-Spain,2020-06-16,244328,New cases
-Spain,2020-06-17,244683,New cases
-Spain,2020-06-18,245268,New cases
-Spain,2020-06-19,245575,New cases
-Spain,2020-06-20,245938,New cases
-Spain,2020-06-21,246272,New cases
-Spain,2020-06-22,246504,New cases
-Spain,2020-06-23,246752,New cases
-Spain,2020-06-24,247086,New cases
-Spain,2020-06-25,247486,New cases
-Spain,2020-06-26,247905,New cases
-Spain,2020-06-27,248469,New cases
-Spain,2020-06-28,248770,New cases
-Spain,2020-06-29,248970,New cases
-Spain,2020-06-30,249271,New cases
-Spain,2020-07-01,249659,New cases
-Spain,2020-07-02,250103,New cases
-Spain,2020-07-03,250545,New cases
-Spain,2020-07-04,250545,New cases
-Spain,2020-07-05,250545,New cases
-Spain,2020-07-06,251789,New cases
-Spain,2020-07-07,252130,New cases
-Spain,2020-07-08,252513,New cases
-Spain,2020-07-09,253056,New cases
-Spain,2020-07-10,253908,New cases
-Spain,2020-07-11,253908,New cases
-Spain,2020-07-12,253908,New cases
-Spain,2020-07-13,255953,New cases
-Spain,2020-07-14,256619,New cases
-Spain,2020-07-15,257494,New cases
-Spain,2020-07-16,258855,New cases
-Spain,2020-07-17,260255,New cases
-Spain,2020-07-18,260255,New cases
-Spain,2020-07-19,260255,New cases
-Spain,2020-07-20,264836,New cases
-Spain,2020-07-21,266194,New cases
-Spain,2020-07-22,267551,New cases
-Spain,2020-07-23,270166,New cases
-Spain,2020-07-24,272421,New cases
-Spain,2020-07-25,272421,New cases
-Spain,2020-07-26,272421,New cases
-Spain,2020-07-27,278782,New cases
-Spain,2020-07-28,280610,New cases
-Spain,2020-07-29,282641,New cases
-Spain,2020-07-30,285430,New cases
-Spain,2020-07-31,288522,New cases
-Spain,2020-08-01,288522,New cases
-Spain,2020-08-02,288522,New cases
-Spain,2020-08-03,297054,New cases
-Spain,2020-08-04,302814,New cases
-Spain,2020-08-05,305767,New cases
-Spain,2020-08-06,309855,New cases
-Spain,2020-08-07,314362,New cases
-Spain,2020-08-08,314362,New cases
-Spain,2020-08-09,314362,New cases
-Spain,2020-08-10,322980,New cases
-Spain,2020-08-11,326612,New cases
-Spain,2020-08-12,329784,New cases
-Spain,2020-08-13,337334,New cases
-Spain,2020-08-14,342813,New cases
-Spain,2020-08-15,342813,New cases
-Spain,2020-08-16,342813,New cases
-Spain,2020-08-17,359082,New cases
-Spain,2020-08-18,364196,New cases
-Spain,2020-08-19,370867,New cases
-Spain,2020-08-20,377906,New cases
-Spain,2020-08-21,386054,New cases
-Spain,2020-08-22,386054,New cases
-Spain,2020-08-23,386054,New cases
-Spain,2020-08-24,405436,New cases
-Spain,2020-08-25,412553,New cases
-Spain,2020-08-26,419849,New cases
-Spain,2020-08-27,429507,New cases
-Spain,2020-08-28,439286,New cases
-Spain,2020-08-29,439286,New cases
-Spain,2020-08-30,439286,New cases
-Spain,2020-08-31,462858,New cases
-Spain,2020-09-01,470973,New cases
-Spain,2020-09-02,479554,New cases
-Spain,2020-09-03,488513,New cases
-Spain,2020-09-04,498989,New cases
-Spain,2020-09-05,498989,New cases
-Spain,2020-09-06,498989,New cases
-Spain,2020-09-07,525549,New cases
-Spain,2020-09-08,534513,New cases
-Spain,2020-09-09,543379,New cases
-Spain,2020-09-10,554143,New cases
-Spain,2020-09-11,566326,New cases
-Spain,2020-09-12,566326,New cases
-Spain,2020-09-13,566326,New cases
-Spain,2020-09-14,593730,New cases
-Spain,2020-09-15,603167,New cases
-Spain,2020-09-16,614360,New cases
-Spain,2020-09-17,625651,New cases
-Spain,2020-09-18,640040,New cases
-Spain,2020-09-19,640040,New cases
-Spain,2020-09-20,640040,New cases
-Spain,2020-09-21,671468,New cases
-Spain,2020-09-22,682267,New cases
-Spain,2020-09-23,693556,New cases
-Spain,2020-09-24,704209,New cases
-Spain,2020-09-25,716481,New cases
-Spain,2020-09-26,716481,New cases
-Spain,2020-09-27,716481,New cases
-Spain,2020-09-28,748266,New cases
-Spain,2020-09-29,748266,New cases
-Spain,2020-09-30,769188,New cases
-Spain,2020-10-01,778607,New cases
-Spain,2020-10-02,789932,New cases
-Spain,2020-10-03,789932,New cases
-Spain,2020-10-04,789932,New cases
-Spain,2020-10-05,813412,New cases
-Spain,2020-10-06,825410,New cases
-Spain,2020-10-07,835901,New cases
-Spain,2020-10-08,848324,New cases
-Spain,2020-10-09,861112,New cases
-Spain,2020-10-10,861112,New cases
-Spain,2020-10-11,861112,New cases
-Spain,2020-10-12,888968,New cases
-Spain,2020-10-13,896086,New cases
-Spain,2020-10-14,908056,New cases
-Spain,2020-10-15,921374,New cases
-Spain,2020-10-16,936560,New cases
-Spain,2020-10-17,936560,New cases
-Spain,2020-10-18,936560,New cases
-Spain,2020-10-19,974449,New cases
-Spain,2020-10-20,988322,New cases
-Spain,2020-10-21,1005295,New cases
-Spain,2020-10-22,1026281,New cases
-Spain,2020-10-23,1046132,New cases
-Spain,2020-10-24,1046132,New cases
-Spain,2020-10-25,1046132,New cases
-Spain,2020-10-26,1098320,New cases
-Spain,2020-10-27,1116738,New cases
-Spain,2020-10-28,1136503,New cases
-Spain,2020-10-29,1160083,New cases
-Spain,2020-10-30,1185678,New cases
-Spain,2020-10-31,1185678,New cases
-Spain,2020-11-01,1185678,New cases
-Spain,2020-11-02,1240697,New cases
-Spain,2020-11-03,1259366,New cases
-Spain,2020-11-04,1284408,New cases
-Spain,2020-11-05,1306316,New cases
-Spain,2020-11-06,1328832,New cases
-Spain,2020-11-07,1328832,New cases
-Spain,2020-11-08,1328832,New cases
-Spain,2020-11-09,1381218,New cases
-Spain,2020-11-10,1381218,New cases
-Spain,2020-11-11,1417709,New cases
-Spain,2020-11-12,1437220,New cases
-Spain,2020-11-13,1458591,New cases
-Spain,2020-11-14,1458591,New cases
-Spain,2020-11-15,1458591,New cases
-Spain,2020-11-16,1496864,New cases
-Spain,2020-11-17,1510023,New cases
-Spain,2020-11-18,1525341,New cases
-Spain,2020-11-19,1541574,New cases
-Spain,2020-11-20,1556730,New cases
-Spain,2020-11-21,1556730,New cases
-Spain,2020-11-22,1556730,New cases
-Spain,2020-11-23,1582616,New cases
-Spain,2020-11-24,1594844,New cases
-Spain,2020-11-25,1605066,New cases
-Spain,2020-11-26,1617355,New cases
-Spain,2020-11-27,1628208,New cases
-Spain,2020-11-28,1628208,New cases
-Spain,2020-11-29,1628208,New cases
-Spain,2020-11-30,1648187,New cases
-Spain,2020-12-01,1656444,New cases
-Spain,2020-12-02,1665775,New cases
-Spain,2020-12-03,1675902,New cases
-Spain,2020-12-04,1684647,New cases
-Spain,2020-12-05,1684647,New cases
-Spain,2020-12-06,1684647,New cases
-Spain,2020-12-07,1702328,New cases
-Spain,2020-12-08,1702328,New cases
-Spain,2020-12-09,1712101,New cases
-Spain,2020-12-10,1720056,New cases
-Spain,2020-12-11,1730575,New cases
-Spain,2020-12-12,1730575,New cases
-Spain,2020-12-13,1730575,New cases
-Spain,2020-12-14,1751884,New cases
-Spain,2020-12-15,1762212,New cases
-Spain,2020-12-16,1773290,New cases
-Spain,2020-12-17,1785421,New cases
-Spain,2020-12-18,1797236,New cases
-Spain,2020-12-19,1797236,New cases
-Spain,2020-12-20,1797236,New cases
-Spain,2020-12-21,1819249,New cases
-Spain,2020-12-22,1829903,New cases
-Spain,2020-12-23,1842289,New cases
-Spain,2020-12-24,1854951,New cases
-Spain,2020-12-25,1854951,New cases
-Spain,2020-12-26,1854951,New cases
-Spain,2020-12-27,1854951,New cases
-Spain,2020-12-28,1879413,New cases
-Spain,2020-12-29,1893502,New cases
-Spain,2020-12-30,1910218,New cases
-Spain,2020-12-31,1928265,New cases
-Spain,2021-01-01,1928265,New cases
-Spain,2021-01-02,1928265,New cases
-Spain,2021-01-03,1928265,New cases
-Spain,2021-01-04,1958844,New cases
-Spain,2021-01-05,1982544,New cases
-Spain,2021-01-06,1982544,New cases
-Spain,2021-01-07,2024904,New cases
-Spain,2021-01-08,2050360,New cases
-Spain,2021-01-09,2050360,New cases
-Spain,2021-01-10,2050360,New cases
-Spain,2021-01-11,2111782,New cases
-Spain,2021-01-12,2137220,New cases
-Spain,2021-01-13,2176089,New cases
-Spain,2021-01-14,2211967,New cases
-Spain,2021-01-15,2252164,New cases
-Spain,2021-01-16,2252164,New cases
-Spain,2021-01-17,2252164,New cases
-Spain,2021-01-18,2336451,New cases
-Spain,2021-01-19,2370742,New cases
-Spain,2021-01-20,2412318,New cases
-Spain,2021-01-21,2456675,New cases
-Spain,2021-01-22,2499560,New cases
-Spain,2021-01-23,2499560,New cases
-Spain,2021-01-24,2499560,New cases
-Spain,2021-01-25,2593382,New cases
-Spain,2021-01-26,2629817,New cases
-Spain,2021-01-27,2670102,New cases
-Spain,2021-01-28,2705001,New cases
-Spain,2021-01-29,2743119,New cases
-Spain,2021-01-30,2743119,New cases
-Spain,2021-01-31,2743119,New cases
-Spain,2021-02-01,2822805,New cases
-Spain,2021-02-02,2851869,New cases
-Spain,2021-02-03,2883465,New cases
-Spain,2021-02-04,2913425,New cases
-Spain,2021-02-05,2941990,New cases
-Spain,2021-02-06,2941990,New cases
-Spain,2021-02-07,2941990,New cases
-Spain,2021-02-08,2989085,New cases
-Spain,2021-02-09,3005487,New cases
-Spain,2021-02-10,3023601,New cases
-Spain,2021-02-11,3041454,New cases
-Spain,2021-02-12,3056035,New cases
-Spain,2021-02-13,3056035,New cases
-Spain,2021-02-14,3056035,New cases
-Spain,2021-02-15,3086286,New cases
-Spain,2021-02-16,3096343,New cases
-Spain,2021-02-17,3107172,New cases
-Spain,2021-02-18,3121687,New cases
-Spain,2021-02-19,3133122,New cases
-Spain,2021-02-20,3133122,New cases
-Spain,2021-02-21,3133122,New cases
-Spain,2021-02-22,3153971,New cases
-Spain,2021-02-23,3161432,New cases
-Spain,2021-02-24,3170644,New cases
-Spain,2021-02-25,3180212,New cases
-Spain,2021-02-26,3188553,New cases
-Spain,2021-02-27,3188553,New cases
-Spain,2021-02-28,3188553,New cases
-Spain,2021-03-01,3204531,New cases
-Spain,2021-03-02,3130184,New cases
-Spain,2021-03-03,3136321,New cases
-Spain,2021-03-04,3142358,New cases
-Spain,2021-03-05,3149012,New cases
-Spain,2021-03-06,3149012,New cases
-Spain,2021-03-07,3149012,New cases
-Spain,2021-03-08,3160970,New cases
-Spain,2021-03-09,3164982,New cases
-Spain,2021-03-10,3172101,New cases
-Spain,2021-03-11,3178356,New cases
-Spain,2021-03-12,3183704,New cases
-Spain,2021-03-13,3183704,New cases
-Spain,2021-03-14,3183704,New cases
-Spain,2021-03-15,3195062,New cases
-Spain,2021-03-16,3200024,New cases
-Spain,2021-03-17,3206116,New cases
-Spain,2021-03-18,3212332,New cases
-Spain,2021-03-19,3212332,New cases
-Spain,2021-03-20,3212332,New cases
-Spain,2021-03-21,3212332,New cases
-Spain,2021-03-22,3228803,New cases
-Spain,2021-03-23,3234319,New cases
-Spain,2021-03-24,3234319,New cases
-Spain,2021-03-25,3247738,New cases
-Spain,2021-03-26,3255324,New cases
-Spain,2021-03-27,3255324,New cases
-Spain,2021-03-28,3255324,New cases
-Spain,2021-03-29,3270825,New cases
-Spain,2021-03-30,3275819,New cases
-Spain,2021-03-31,3284353,New cases
-Spain,2021-04-01,3291394,New cases
-Spain,2021-04-02,3291394,New cases
-Spain,2021-04-03,3300965,New cases
-Spain,2021-04-04,3300965,New cases
-Spain,2021-04-05,3311325,New cases
-Spain,2021-04-06,3317948,New cases
-Spain,2021-04-07,3326736,New cases
-Spain,2021-04-08,3336637,New cases
-Spain,2021-04-09,3347512,New cases
-Spain,2021-04-10,3347512,New cases
-Spain,2021-04-11,3347512,New cases
-Spain,2021-04-12,3370256,New cases
-Spain,2021-04-13,3376548,New cases
-Spain,2021-04-14,3387022,New cases
-Spain,2021-04-15,3396685,New cases
-Spain,2021-04-16,3407283,New cases
-Spain,2021-04-17,3407283,New cases
-Spain,2021-04-18,3407283,New cases
-Spain,2021-04-19,3428354,New cases
-Spain,2021-04-20,3428354,New cases
-Spain,2021-04-21,3446072,New cases
-Spain,2021-04-22,3456886,New cases
-Spain,2021-04-23,3468617,New cases
-Spain,2021-04-24,3468617,New cases
-Spain,2021-04-25,3468617,New cases
-Spain,2021-04-26,3488469,New cases
-Spain,2021-04-27,3496134,New cases
-Spain,2021-04-28,3504799,New cases
-Spain,2021-04-29,3514942,New cases
-Spain,2021-04-30,3524077,New cases
-Spain,2021-05-01,3524077,New cases
-Spain,2021-05-02,3524077,New cases
-Spain,2021-05-03,3540430,New cases
-Spain,2021-05-04,3544945,New cases
-Spain,2021-05-05,3551262,New cases
-Spain,2021-05-06,3559222,New cases
-Spain,2021-05-07,3567408,New cases
-Spain,2021-05-08,3567408,New cases
-Spain,2021-05-09,3567408,New cases
-Spain,2021-05-10,3581392,New cases
-Spain,2021-05-11,3586333,New cases
-Spain,2021-05-12,3592751,New cases
-Spain,2021-05-13,3598452,New cases
-Spain,2021-05-14,3604799,New cases
-Spain,2021-05-15,3604799,New cases
-Spain,2021-05-16,3604799,New cases
-Spain,2021-05-17,3615860,New cases
-Spain,2021-05-18,3619848,New cases
-Spain,2021-05-19,3625928,New cases
-Spain,2021-05-20,3631661,New cases
-Spain,2021-05-21,3636453,New cases
-Spain,2021-05-22,3636453,New cases
-Spain,2021-05-23,3636453,New cases
-Spain,2021-05-24,3647520,New cases
-Spain,2021-05-25,3652879,New cases
-Spain,2021-05-26,3657886,New cases
-Spain,2021-05-27,3663176,New cases
-Spain,2021-05-28,3668658,New cases
-Spain,2021-05-29,3668658,New cases
-Spain,2021-05-30,3668658,New cases
-Spain,2021-05-31,3678390,New cases
-Spain,2021-06-01,3682778,New cases
-Spain,2021-06-02,3687762,New cases
-Spain,2021-06-03,3693012,New cases
-Spain,2021-06-04,3697981,New cases
-Spain,2021-06-05,3697981,New cases
-Spain,2021-06-06,3697981,New cases
-Spain,2021-06-07,3707523,New cases
-Spain,2021-06-08,3711027,New cases
-Spain,2021-06-09,3715454,New cases
-Spain,2021-06-10,3729458,New cases
-Spain,2021-06-11,3733600,New cases
-Spain,2021-06-12,3733600,New cases
-Spain,2021-06-13,3733600,New cases
-Spain,2021-06-14,3741767,New cases
-Spain,2021-06-15,3745199,New cases
-Spain,2021-06-16,3749031,New cases
-Spain,2021-06-17,3753228,New cases
-Spain,2021-06-18,3757442,New cases
-Spain,2021-06-19,3757442,New cases
-Spain,2021-06-20,3757442,New cases
-Spain,2021-06-21,3764651,New cases
-Spain,2021-06-22,3768691,New cases
-Spain,2021-06-23,3773032,New cases
-Spain,2021-06-24,3777539,New cases
-Spain,2021-06-25,3782463,New cases
-Spain,2021-06-26,3782463,New cases
-Spain,2021-06-27,3782463,New cases
-Spain,2021-06-28,3792642,New cases
-Spain,2021-06-29,3799733,New cases
-Spain,2021-06-30,3808960,New cases
-Spain,2021-07-01,3821305,New cases
-Spain,2021-07-02,3833868,New cases
-Spain,2021-07-03,3833868,New cases
-Spain,2021-07-04,3833868,New cases
-Spain,2021-07-05,3866475,New cases
-Spain,2021-07-06,3880612,New cases
-Spain,2021-07-07,3897996,New cases
-Spain,2021-07-08,3915313,New cases
-Spain,2021-07-09,3937192,New cases
-Spain,2021-07-10,3937192,New cases
-Spain,2021-07-11,3937192,New cases
-Spain,2021-07-12,3971124,New cases
-Spain,2021-07-13,4015084,New cases
-Spain,2021-07-14,4041474,New cases
-Spain,2021-07-15,4069162,New cases
-Spain,2021-07-16,4100222,New cases
-Spain,2021-07-17,4100222,New cases
-Spain,2021-07-18,4100222,New cases
-Spain,2021-07-19,4161850,New cases
-Spain,2021-07-20,4189136,New cases
-Spain,2021-07-21,4219723,New cases
-Spain,2021-07-22,4249258,New cases
-Spain,2021-07-23,4280429,New cases
-Spain,2021-07-24,4280429,New cases
-Spain,2021-07-25,4280429,New cases
-Spain,2021-07-26,4342054,New cases
-Spain,2021-07-27,4368453,New cases
-Spain,2021-07-28,4395602,New cases
-Spain,2021-07-29,4422291,New cases
-Spain,2021-07-30,4447044,New cases
-Spain,2021-07-31,4447044,New cases
-Spain,2021-08-01,4447044,New cases
-Spain,2021-08-02,4502983,New cases
-Spain,2021-08-03,4523310,New cases
-Spain,2021-08-04,4545184,New cases
-Spain,2021-08-05,4566571,New cases
-Spain,2021-08-06,4588132,New cases
-Spain,2021-08-07,4588132,New cases
-Spain,2021-08-08,4588132,New cases
-Spain,2021-08-09,4627770,New cases
-Spain,2021-08-10,4643450,New cases
-Spain,2021-08-11,4660473,New cases
-Spain,2021-08-12,4677883,New cases
-Spain,2021-08-13,4693540,New cases
-Spain,2021-08-14,4693540,New cases
-Spain,2021-08-15,4693540,New cases
-Spain,2021-08-16,4719266,New cases
-Spain,2021-08-17,4733602,New cases
-Spain,2021-08-18,4745558,New cases
-Spain,2021-08-19,4758003,New cases
-Spain,2021-08-20,4770453,New cases
-Spain,2021-08-21,4770453,New cases
-Spain,2021-08-22,4770453,New cases
-Spain,2021-08-23,4794352,New cases
-Spain,2021-08-24,4804424,New cases
-Spain,2021-08-25,4815205,New cases
-Spain,2021-08-26,4822320,New cases
-Spain,2021-08-27,4831809,New cases
-Spain,2021-08-28,4831809,New cases
-Spain,2021-08-29,4831809,New cases
-Spain,2021-08-30,4847298,New cases
-Spain,2021-08-31,4855065,New cases
-Spain,2021-09-01,4861883,New cases
-Spain,2021-09-02,4871444,New cases
-Spain,2021-09-03,4877755,New cases
-Spain,2021-09-04,4877755,New cases
-Spain,2021-09-05,4877755,New cases
-Spain,2021-09-06,4887112,New cases
-Spain,2021-09-07,4892640,New cases
-Spain,2021-09-08,4898258,New cases
-Spain,2021-09-09,4903021,New cases
-Spain,2021-09-10,4907461,New cases
-Spain,2021-09-11,4907461,New cases
-Spain,2021-09-12,4907461,New cases
-Spain,2021-09-13,4915265,New cases
-Spain,2021-09-14,4918526,New cases
-Spain,2021-09-15,4922249,New cases
-Spain,2021-09-16,4926324,New cases
-Spain,2021-09-17,4929546,New cases
-Spain,2021-09-18,4929546,New cases
-Spain,2021-09-19,4929546,New cases
-Spain,2021-09-20,4935534,New cases
-Spain,2021-09-21,4937984,New cases
-Spain,2021-09-22,4940824,New cases
-Spain,2021-09-23,4943855,New cases
-Spain,2021-09-24,4946601,New cases
-Spain,2021-09-25,4946601,New cases
-Spain,2021-09-26,4946601,New cases
-Spain,2021-09-27,4951640,New cases
-Spain,2021-09-28,4953930,New cases
-Spain,2021-09-29,4956691,New cases
-Spain,2021-09-30,4959091,New cases
-Spain,2021-10-01,4961128,New cases
-Spain,2021-10-02,4961128,New cases
-Spain,2021-10-03,4961128,New cases
-Spain,2021-10-04,4965399,New cases
-Spain,2021-10-05,4967200,New cases
-Spain,2021-10-06,4969503,New cases
-Spain,2021-10-07,4971310,New cases
-Spain,2021-10-08,4973619,New cases
-Spain,2021-10-09,4973619,New cases
-Spain,2021-10-10,4973619,New cases
-Spain,2021-10-11,4977448,New cases
-Spain,2021-10-12,4977448,New cases
-Spain,2021-10-13,4980206,New cases
-Spain,2021-10-14,4982138,New cases
-Spain,2021-10-15,4984386,New cases
-Spain,2021-10-16,4984386,New cases
-Spain,2021-10-17,4984386,New cases
-Spain,2021-10-18,4988878,New cases
-Spain,2021-10-19,4990767,New cases
-Spain,2021-10-20,4993295,New cases
-Spain,2021-10-21,4995176,New cases
-Spain,2021-10-22,4997732,New cases
-Spain,2021-10-23,4997732,New cases
-Spain,2021-10-24,4997732,New cases
-Spain,2021-10-25,5002217,New cases
-Spain,2021-10-26,5004143,New cases
-Spain,2021-10-27,5006675,New cases
-Spain,2021-10-28,5008887,New cases
-Spain,2021-10-29,5011148,New cases
-Spain,2021-10-30,5011148,New cases
-Spain,2021-10-31,5011148,New cases
-Spain,2021-11-01,5011148,New cases
-Spain,2021-11-02,5016968,New cases
-Spain,2021-11-03,5019255,New cases
-Spain,2021-11-04,5022546,New cases
-Spain,2021-11-05,5025639,New cases
-Spain,2021-11-06,5025639,New cases
-Spain,2021-11-07,5025639,New cases
-Spain,2021-11-08,5032056,New cases
-Spain,2021-11-09,5032056,New cases
-Spain,2021-11-10,5038517,New cases
-Spain,2021-11-11,5042803,New cases
-Spain,2021-11-12,5047156,New cases
-Spain,2021-11-13,5047156,New cases
-Spain,2021-11-14,5047156,New cases
-Spain,2021-11-15,5056954,New cases
-Spain,2021-11-16,5061045,New cases
-Spain,2021-11-17,5067712,New cases
-Spain,2021-11-18,5074027,New cases
-Spain,2021-11-19,5080663,New cases
-Spain,2021-11-20,5080663,New cases
-Spain,2021-11-21,5080663,New cases
-Spain,2021-11-22,5096538,New cases
-Spain,2021-11-23,5103315,New cases
-Spain,2021-11-24,5111842,New cases
-Spain,2021-11-25,5121100,New cases
-Spain,2021-11-26,5131012,New cases
-Spain,2021-11-27,5131012,New cases
-Spain,2021-11-28,5131012,New cases
-Spain,2021-11-29,5153923,New cases
-Spain,2021-11-30,5164184,New cases
-Spain,2021-12-01,5174720,New cases
-Spain,2021-12-02,5189220,New cases
-Spain,2021-12-03,5202958,New cases
-Spain,2021-12-04,5202958,New cases
-Spain,2021-12-05,5202958,New cases
-Spain,2021-12-06,5202958,New cases
-Spain,2021-12-07,5246766,New cases
-Spain,2021-12-08,5246766,New cases
-Spain,2021-12-09,5273178,New cases
-Spain,2021-12-10,5290273,New cases
-Spain,2021-12-11,5290190,New cases
-Spain,2021-12-12,5290190,New cases
-Spain,2021-12-13,5339992,New cases
-Spain,2021-12-14,5366128,New cases
-Spain,2021-12-15,5393268,New cases
-Spain,2021-12-16,5422168,New cases
-Spain,2021-12-17,5455527,New cases
-Spain,2021-12-18,5455527,New cases
-Spain,2021-12-19,5455527,New cases
-Spain,2021-12-20,5535231,New cases
-Spain,2021-12-21,5585054,New cases
-Spain,2021-12-22,5645095,New cases
-Spain,2021-12-23,5718007,New cases
-Spain,2021-12-24,5718007,New cases
-Spain,2021-12-25,5718007,New cases
-Spain,2021-12-26,5718007,New cases
-Spain,2021-12-27,5932626,New cases
-Spain,2021-12-28,6032297,New cases
-Spain,2021-12-29,6133057,New cases
-Spain,2021-12-30,6294745,New cases
-Spain,2021-12-31,6294745,New cases
-Spain,2022-01-01,6294745,New cases
-Spain,2022-01-02,6294745,New cases
-Spain,2022-01-03,6667511,New cases
-Spain,2022-01-04,6785286,New cases
-Spain,2022-01-05,6922466,New cases
-Spain,2022-01-06,6922466,New cases
-Spain,2022-01-07,7164906,New cases
-Spain,2022-01-08,7164906,New cases
-Spain,2022-01-09,7164906,New cases
-Spain,2022-01-10,7457300,New cases
-Spain,2022-01-11,7592242,New cases
-Spain,2022-01-12,7771367,New cases
-Spain,2022-01-13,7930528,New cases
-Spain,2022-01-14,8093036,New cases
-Spain,2022-01-15,8093036,New cases
-Spain,2022-01-16,8093036,New cases
-Spain,2022-01-17,8424503,New cases
-Spain,2022-01-18,8518975,New cases
-Spain,2022-01-19,8676916,New cases
-Spain,2022-01-20,8834363,New cases
-Spain,2022-01-21,8975458,New cases
-Spain,2022-01-22,8975458,New cases
-Spain,2022-01-23,8975458,New cases
-Spain,2022-01-24,9280890,New cases
-Spain,2022-01-25,9395767,New cases
-Spain,2022-01-26,9529320,New cases
-Spain,2022-01-27,9660208,New cases
-Spain,2022-01-28,9779130,New cases
-Spain,2022-01-29,9779130,New cases
-Spain,2022-01-30,9779130,New cases
-Spain,2022-01-31,9961253,New cases
-Spain,2022-02-01,10039126,New cases
-Spain,2022-02-02,10125348,New cases
-Spain,2022-02-03,10199716,New cases
-Spain,2022-02-04,10199716,New cases
-Spain,2022-02-05,10199716,New cases
-Spain,2022-02-06,10199716,New cases
-Spain,2022-02-07,10395471,New cases
-Spain,2022-02-08,10439302,New cases
-Spain,2022-02-09,10502141,New cases
-Spain,2022-02-10,10555196,New cases
-Spain,2022-02-11,10604200,New cases
-Spain,2022-02-12,10604200,New cases
-Spain,2022-02-13,10604200,New cases
-Spain,2022-02-14,10672906,New cases
-Spain,2022-02-15,10707286,New cases
-Spain,2022-02-16,10744394,New cases
-Spain,2022-02-17,10778607,New cases
-Spain,2022-02-18,10809222,New cases
-Spain,2022-02-19,10809222,New cases
-Spain,2022-02-20,10809222,New cases
-Spain,2022-02-21,10858000,New cases
-Spain,2022-02-22,10880193,New cases
-Spain,2022-02-23,10914105,New cases
-Spain,2022-02-24,10949997,New cases
-Spain,2022-02-25,10977524,New cases
-Spain,2022-02-26,10977524,New cases
-Spain,2022-02-27,10977524,New cases
-Spain,2022-02-28,10977524,New cases
-Spain,2022-03-01,11036085,New cases
-Spain,2022-03-02,11054888,New cases
-Spain,2022-03-03,11078028,New cases
-Spain,2022-03-04,11100428,New cases
-Spain,2022-03-05,11100428,New cases
-Spain,2022-03-06,11100428,New cases
-Spain,2022-03-07,11136425,New cases
-Spain,2022-03-08,11159574,New cases
-Spain,2022-03-09,11181510,New cases
-Spain,2022-03-10,11204125,New cases
-Spain,2022-03-11,11223974,New cases
-Spain,2022-03-12,11223974,New cases
-Spain,2022-03-13,11223974,New cases
-Spain,2022-03-14,11223974,New cases
-Spain,2022-03-15,11260040,New cases
-Spain,2022-03-16,11260040,New cases
-Spain,2022-03-17,11260040,New cases
-Spain,2022-03-18,11324637,New cases
-Spain,2022-03-19,11324637,New cases
-Spain,2022-03-20,11324637,New cases
-Spain,2022-03-21,11324637,New cases
-Spain,2022-03-22,11378784,New cases
-Spain,2022-03-23,11378784,New cases
-Spain,2022-03-24,11378784,New cases
+Russia,2022-03-25,17458275,New cases
+South Korea,2020-01-22,1,New cases
+South Korea,2020-01-23,1,New cases
+South Korea,2020-01-24,2,New cases
+South Korea,2020-01-25,2,New cases
+South Korea,2020-01-26,3,New cases
+South Korea,2020-01-27,4,New cases
+South Korea,2020-01-28,4,New cases
+South Korea,2020-01-29,4,New cases
+South Korea,2020-01-30,4,New cases
+South Korea,2020-01-31,11,New cases
+South Korea,2020-02-01,12,New cases
+South Korea,2020-02-02,15,New cases
+South Korea,2020-02-03,15,New cases
+South Korea,2020-02-04,16,New cases
+South Korea,2020-02-05,19,New cases
+South Korea,2020-02-06,23,New cases
+South Korea,2020-02-07,24,New cases
+South Korea,2020-02-08,24,New cases
+South Korea,2020-02-09,25,New cases
+South Korea,2020-02-10,27,New cases
+South Korea,2020-02-11,28,New cases
+South Korea,2020-02-12,28,New cases
+South Korea,2020-02-13,28,New cases
+South Korea,2020-02-14,28,New cases
+South Korea,2020-02-15,28,New cases
+South Korea,2020-02-16,29,New cases
+South Korea,2020-02-17,30,New cases
+South Korea,2020-02-18,31,New cases
+South Korea,2020-02-19,31,New cases
+South Korea,2020-02-20,104,New cases
+South Korea,2020-02-21,204,New cases
+South Korea,2020-02-22,433,New cases
+South Korea,2020-02-23,602,New cases
+South Korea,2020-02-24,833,New cases
+South Korea,2020-02-25,977,New cases
+South Korea,2020-02-26,1261,New cases
+South Korea,2020-02-27,1766,New cases
+South Korea,2020-02-28,2337,New cases
+South Korea,2020-02-29,3150,New cases
+South Korea,2020-03-01,3736,New cases
+South Korea,2020-03-02,4335,New cases
+South Korea,2020-03-03,5186,New cases
+South Korea,2020-03-04,5621,New cases
+South Korea,2020-03-05,6088,New cases
+South Korea,2020-03-06,6593,New cases
+South Korea,2020-03-07,7041,New cases
+South Korea,2020-03-08,7314,New cases
+South Korea,2020-03-09,7478,New cases
+South Korea,2020-03-10,7513,New cases
+South Korea,2020-03-11,7755,New cases
+South Korea,2020-03-12,7869,New cases
+South Korea,2020-03-13,7979,New cases
+South Korea,2020-03-14,8086,New cases
+South Korea,2020-03-15,8162,New cases
+South Korea,2020-03-16,8236,New cases
+South Korea,2020-03-17,8320,New cases
+South Korea,2020-03-18,8413,New cases
+South Korea,2020-03-19,8565,New cases
+South Korea,2020-03-20,8652,New cases
+South Korea,2020-03-21,8799,New cases
+South Korea,2020-03-22,8961,New cases
+South Korea,2020-03-23,8961,New cases
+South Korea,2020-03-24,9037,New cases
+South Korea,2020-03-25,9137,New cases
+South Korea,2020-03-26,9241,New cases
+South Korea,2020-03-27,9332,New cases
+South Korea,2020-03-28,9478,New cases
+South Korea,2020-03-29,9583,New cases
+South Korea,2020-03-30,9661,New cases
+South Korea,2020-03-31,9786,New cases
+South Korea,2020-04-01,9887,New cases
+South Korea,2020-04-02,9976,New cases
+South Korea,2020-04-03,10062,New cases
+South Korea,2020-04-04,10156,New cases
+South Korea,2020-04-05,10237,New cases
+South Korea,2020-04-06,10284,New cases
+South Korea,2020-04-07,10331,New cases
+South Korea,2020-04-08,10384,New cases
+South Korea,2020-04-09,10423,New cases
+South Korea,2020-04-10,10450,New cases
+South Korea,2020-04-11,10480,New cases
+South Korea,2020-04-12,10512,New cases
+South Korea,2020-04-13,10537,New cases
+South Korea,2020-04-14,10564,New cases
+South Korea,2020-04-15,10591,New cases
+South Korea,2020-04-16,10613,New cases
+South Korea,2020-04-17,10635,New cases
+South Korea,2020-04-18,10653,New cases
+South Korea,2020-04-19,10661,New cases
+South Korea,2020-04-20,10674,New cases
+South Korea,2020-04-21,10683,New cases
+South Korea,2020-04-22,10694,New cases
+South Korea,2020-04-23,10708,New cases
+South Korea,2020-04-24,10718,New cases
+South Korea,2020-04-25,10728,New cases
+South Korea,2020-04-26,10738,New cases
+South Korea,2020-04-27,10752,New cases
+South Korea,2020-04-28,10761,New cases
+South Korea,2020-04-29,10765,New cases
+South Korea,2020-04-30,10774,New cases
+South Korea,2020-05-01,10780,New cases
+South Korea,2020-05-02,10793,New cases
+South Korea,2020-05-03,10801,New cases
+South Korea,2020-05-04,10804,New cases
+South Korea,2020-05-05,10806,New cases
+South Korea,2020-05-06,10810,New cases
+South Korea,2020-05-07,10822,New cases
+South Korea,2020-05-08,10840,New cases
+South Korea,2020-05-09,10874,New cases
+South Korea,2020-05-10,10909,New cases
+South Korea,2020-05-11,10936,New cases
+South Korea,2020-05-12,10962,New cases
+South Korea,2020-05-13,10991,New cases
+South Korea,2020-05-14,11018,New cases
+South Korea,2020-05-15,11037,New cases
+South Korea,2020-05-16,11050,New cases
+South Korea,2020-05-17,11065,New cases
+South Korea,2020-05-18,11078,New cases
+South Korea,2020-05-19,11110,New cases
+South Korea,2020-05-20,11122,New cases
+South Korea,2020-05-21,11142,New cases
+South Korea,2020-05-22,11165,New cases
+South Korea,2020-05-23,11190,New cases
+South Korea,2020-05-24,11206,New cases
+South Korea,2020-05-25,11225,New cases
+South Korea,2020-05-26,11265,New cases
+South Korea,2020-05-27,11344,New cases
+South Korea,2020-05-28,11402,New cases
+South Korea,2020-05-29,11441,New cases
+South Korea,2020-05-30,11468,New cases
+South Korea,2020-05-31,11503,New cases
+South Korea,2020-06-01,11541,New cases
+South Korea,2020-06-02,11590,New cases
+South Korea,2020-06-03,11629,New cases
+South Korea,2020-06-04,11668,New cases
+South Korea,2020-06-05,11719,New cases
+South Korea,2020-06-06,11776,New cases
+South Korea,2020-06-07,11814,New cases
+South Korea,2020-06-08,11852,New cases
+South Korea,2020-06-09,11902,New cases
+South Korea,2020-06-10,11947,New cases
+South Korea,2020-06-11,12003,New cases
+South Korea,2020-06-12,12051,New cases
+South Korea,2020-06-13,12085,New cases
+South Korea,2020-06-14,12121,New cases
+South Korea,2020-06-15,12155,New cases
+South Korea,2020-06-16,12198,New cases
+South Korea,2020-06-17,12257,New cases
+South Korea,2020-06-18,12306,New cases
+South Korea,2020-06-19,12373,New cases
+South Korea,2020-06-20,12421,New cases
+South Korea,2020-06-21,12438,New cases
+South Korea,2020-06-22,12484,New cases
+South Korea,2020-06-23,12535,New cases
+South Korea,2020-06-24,12563,New cases
+South Korea,2020-06-25,12602,New cases
+South Korea,2020-06-26,12653,New cases
+South Korea,2020-06-27,12715,New cases
+South Korea,2020-06-28,12757,New cases
+South Korea,2020-06-29,12800,New cases
+South Korea,2020-06-30,12850,New cases
+South Korea,2020-07-01,12904,New cases
+South Korea,2020-07-02,12967,New cases
+South Korea,2020-07-03,13030,New cases
+South Korea,2020-07-04,13091,New cases
+South Korea,2020-07-05,13137,New cases
+South Korea,2020-07-06,13181,New cases
+South Korea,2020-07-07,13244,New cases
+South Korea,2020-07-08,13293,New cases
+South Korea,2020-07-09,13338,New cases
+South Korea,2020-07-10,13373,New cases
+South Korea,2020-07-11,13417,New cases
+South Korea,2020-07-12,13479,New cases
+South Korea,2020-07-13,13512,New cases
+South Korea,2020-07-14,13551,New cases
+South Korea,2020-07-15,13612,New cases
+South Korea,2020-07-16,13672,New cases
+South Korea,2020-07-17,13711,New cases
+South Korea,2020-07-18,13745,New cases
+South Korea,2020-07-19,13771,New cases
+South Korea,2020-07-20,13816,New cases
+South Korea,2020-07-21,13879,New cases
+South Korea,2020-07-22,13938,New cases
+South Korea,2020-07-23,13979,New cases
+South Korea,2020-07-24,14092,New cases
+South Korea,2020-07-25,14150,New cases
+South Korea,2020-07-26,14175,New cases
+South Korea,2020-07-27,14203,New cases
+South Korea,2020-07-28,14251,New cases
+South Korea,2020-07-29,14269,New cases
+South Korea,2020-07-30,14305,New cases
+South Korea,2020-07-31,14336,New cases
+South Korea,2020-08-01,14366,New cases
+South Korea,2020-08-02,14389,New cases
+South Korea,2020-08-03,14423,New cases
+South Korea,2020-08-04,14456,New cases
+South Korea,2020-08-05,14499,New cases
+South Korea,2020-08-06,14519,New cases
+South Korea,2020-08-07,14562,New cases
+South Korea,2020-08-08,14598,New cases
+South Korea,2020-08-09,14626,New cases
+South Korea,2020-08-10,14660,New cases
+South Korea,2020-08-11,14714,New cases
+South Korea,2020-08-12,14770,New cases
+South Korea,2020-08-13,14873,New cases
+South Korea,2020-08-14,15039,New cases
+South Korea,2020-08-15,15318,New cases
+South Korea,2020-08-16,15515,New cases
+South Korea,2020-08-17,15761,New cases
+South Korea,2020-08-18,16058,New cases
+South Korea,2020-08-19,16346,New cases
+South Korea,2020-08-20,16670,New cases
+South Korea,2020-08-21,17002,New cases
+South Korea,2020-08-22,17399,New cases
+South Korea,2020-08-23,17665,New cases
+South Korea,2020-08-24,17945,New cases
+South Korea,2020-08-25,18265,New cases
+South Korea,2020-08-26,18706,New cases
+South Korea,2020-08-27,19077,New cases
+South Korea,2020-08-28,19400,New cases
+South Korea,2020-08-29,19699,New cases
+South Korea,2020-08-30,19947,New cases
+South Korea,2020-08-31,20182,New cases
+South Korea,2020-09-01,20449,New cases
+South Korea,2020-09-02,20644,New cases
+South Korea,2020-09-03,20842,New cases
+South Korea,2020-09-04,21010,New cases
+South Korea,2020-09-05,21177,New cases
+South Korea,2020-09-06,21296,New cases
+South Korea,2020-09-07,21432,New cases
+South Korea,2020-09-08,21588,New cases
+South Korea,2020-09-09,21743,New cases
+South Korea,2020-09-10,21919,New cases
+South Korea,2020-09-11,22055,New cases
+South Korea,2020-09-12,22176,New cases
+South Korea,2020-09-13,22285,New cases
+South Korea,2020-09-14,22391,New cases
+South Korea,2020-09-15,22504,New cases
+South Korea,2020-09-16,22657,New cases
+South Korea,2020-09-17,22783,New cases
+South Korea,2020-09-18,22893,New cases
+South Korea,2020-09-19,22975,New cases
+South Korea,2020-09-20,23045,New cases
+South Korea,2020-09-21,23106,New cases
+South Korea,2020-09-22,23216,New cases
+South Korea,2020-09-23,23341,New cases
+South Korea,2020-09-24,23455,New cases
+South Korea,2020-09-25,23516,New cases
+South Korea,2020-09-26,23611,New cases
+South Korea,2020-09-27,23661,New cases
+South Korea,2020-09-28,23699,New cases
+South Korea,2020-09-29,23812,New cases
+South Korea,2020-09-30,23889,New cases
+South Korea,2020-10-01,23952,New cases
+South Korea,2020-10-02,24027,New cases
+South Korea,2020-10-03,24091,New cases
+South Korea,2020-10-04,24164,New cases
+South Korea,2020-10-05,24239,New cases
+South Korea,2020-10-06,24353,New cases
+South Korea,2020-10-07,24422,New cases
+South Korea,2020-10-08,24476,New cases
+South Korea,2020-10-09,24548,New cases
+South Korea,2020-10-10,24606,New cases
+South Korea,2020-10-11,24703,New cases
+South Korea,2020-10-12,24805,New cases
+South Korea,2020-10-13,24889,New cases
+South Korea,2020-10-14,24988,New cases
+South Korea,2020-10-15,25035,New cases
+South Korea,2020-10-16,25108,New cases
+South Korea,2020-10-17,25199,New cases
+South Korea,2020-10-18,25275,New cases
+South Korea,2020-10-19,25333,New cases
+South Korea,2020-10-20,25424,New cases
+South Korea,2020-10-21,25543,New cases
+South Korea,2020-10-22,25698,New cases
+South Korea,2020-10-23,25775,New cases
+South Korea,2020-10-24,25836,New cases
+South Korea,2020-10-25,25955,New cases
+South Korea,2020-10-26,26043,New cases
+South Korea,2020-10-27,26146,New cases
+South Korea,2020-10-28,26271,New cases
+South Korea,2020-10-29,26385,New cases
+South Korea,2020-10-30,26511,New cases
+South Korea,2020-10-31,26635,New cases
+South Korea,2020-11-01,26732,New cases
+South Korea,2020-11-02,26807,New cases
+South Korea,2020-11-03,26925,New cases
+South Korea,2020-11-04,27050,New cases
+South Korea,2020-11-05,27195,New cases
+South Korea,2020-11-06,27284,New cases
+South Korea,2020-11-07,27427,New cases
+South Korea,2020-11-08,27553,New cases
+South Korea,2020-11-09,27653,New cases
+South Korea,2020-11-10,27799,New cases
+South Korea,2020-11-11,27942,New cases
+South Korea,2020-11-12,28133,New cases
+South Korea,2020-11-13,28338,New cases
+South Korea,2020-11-14,28546,New cases
+South Korea,2020-11-15,28769,New cases
+South Korea,2020-11-16,28998,New cases
+South Korea,2020-11-17,29311,New cases
+South Korea,2020-11-18,29654,New cases
+South Korea,2020-11-19,30017,New cases
+South Korea,2020-11-20,30403,New cases
+South Korea,2020-11-21,30733,New cases
+South Korea,2020-11-22,31004,New cases
+South Korea,2020-11-23,31353,New cases
+South Korea,2020-11-24,31735,New cases
+South Korea,2020-11-25,32318,New cases
+South Korea,2020-11-26,32887,New cases
+South Korea,2020-11-27,33375,New cases
+South Korea,2020-11-28,33824,New cases
+South Korea,2020-11-29,34201,New cases
+South Korea,2020-11-30,34652,New cases
+South Korea,2020-12-01,35163,New cases
+South Korea,2020-12-02,35703,New cases
+South Korea,2020-12-03,36332,New cases
+South Korea,2020-12-04,36915,New cases
+South Korea,2020-12-05,37546,New cases
+South Korea,2020-12-06,38161,New cases
+South Korea,2020-12-07,38755,New cases
+South Korea,2020-12-08,39432,New cases
+South Korea,2020-12-09,40098,New cases
+South Korea,2020-12-10,40786,New cases
+South Korea,2020-12-11,41736,New cases
+South Korea,2020-12-12,42766,New cases
+South Korea,2020-12-13,43484,New cases
+South Korea,2020-12-14,44364,New cases
+South Korea,2020-12-15,45442,New cases
+South Korea,2020-12-16,46453,New cases
+South Korea,2020-12-17,47515,New cases
+South Korea,2020-12-18,48570,New cases
+South Korea,2020-12-19,49665,New cases
+South Korea,2020-12-20,50591,New cases
+South Korea,2020-12-21,51460,New cases
+South Korea,2020-12-22,52550,New cases
+South Korea,2020-12-23,53533,New cases
+South Korea,2020-12-24,54770,New cases
+South Korea,2020-12-25,55902,New cases
+South Korea,2020-12-26,56872,New cases
+South Korea,2020-12-27,57680,New cases
+South Korea,2020-12-28,58725,New cases
+South Korea,2020-12-29,59773,New cases
+South Korea,2020-12-30,60740,New cases
+South Korea,2020-12-31,61769,New cases
+South Korea,2021-01-01,62593,New cases
+South Korea,2021-01-02,63244,New cases
+South Korea,2021-01-03,64264,New cases
+South Korea,2021-01-04,64979,New cases
+South Korea,2021-01-05,65818,New cases
+South Korea,2021-01-06,66686,New cases
+South Korea,2021-01-07,67358,New cases
+South Korea,2021-01-08,67999,New cases
+South Korea,2021-01-09,68664,New cases
+South Korea,2021-01-10,69114,New cases
+South Korea,2021-01-11,69651,New cases
+South Korea,2021-01-12,70212,New cases
+South Korea,2021-01-13,70728,New cases
+South Korea,2021-01-14,71241,New cases
+South Korea,2021-01-15,71820,New cases
+South Korea,2021-01-16,72340,New cases
+South Korea,2021-01-17,72729,New cases
+South Korea,2021-01-18,73115,New cases
+South Korea,2021-01-19,73518,New cases
+South Korea,2021-01-20,73918,New cases
+South Korea,2021-01-21,74262,New cases
+South Korea,2021-01-22,74692,New cases
+South Korea,2021-01-23,75084,New cases
+South Korea,2021-01-24,75521,New cases
+South Korea,2021-01-25,75875,New cases
+South Korea,2021-01-26,76429,New cases
+South Korea,2021-01-27,76926,New cases
+South Korea,2021-01-28,77395,New cases
+South Korea,2021-01-29,77850,New cases
+South Korea,2021-01-30,78205,New cases
+South Korea,2021-01-31,78508,New cases
+South Korea,2021-02-01,78844,New cases
+South Korea,2021-02-02,79311,New cases
+South Korea,2021-02-03,79762,New cases
+South Korea,2021-02-04,80131,New cases
+South Korea,2021-02-05,80524,New cases
+South Korea,2021-02-06,80896,New cases
+South Korea,2021-02-07,81185,New cases
+South Korea,2021-02-08,81487,New cases
+South Korea,2021-02-09,81930,New cases
+South Korea,2021-02-10,82434,New cases
+South Korea,2021-02-11,82837,New cases
+South Korea,2021-02-12,83199,New cases
+South Korea,2021-02-13,83525,New cases
+South Korea,2021-02-14,83869,New cases
+South Korea,2021-02-15,84325,New cases
+South Korea,2021-02-16,84946,New cases
+South Korea,2021-02-17,85567,New cases
+South Korea,2021-02-18,86128,New cases
+South Korea,2021-02-19,86574,New cases
+South Korea,2021-02-20,86992,New cases
+South Korea,2021-02-21,87324,New cases
+South Korea,2021-02-22,87681,New cases
+South Korea,2021-02-23,88120,New cases
+South Korea,2021-02-24,88516,New cases
+South Korea,2021-02-25,88922,New cases
+South Korea,2021-02-26,89321,New cases
+South Korea,2021-02-27,89676,New cases
+South Korea,2021-02-28,90031,New cases
+South Korea,2021-03-01,90372,New cases
+South Korea,2021-03-02,90816,New cases
+South Korea,2021-03-03,91240,New cases
+South Korea,2021-03-04,91638,New cases
+South Korea,2021-03-05,92055,New cases
+South Korea,2021-03-06,92471,New cases
+South Korea,2021-03-07,92817,New cases
+South Korea,2021-03-08,93263,New cases
+South Korea,2021-03-09,93733,New cases
+South Korea,2021-03-10,94198,New cases
+South Korea,2021-03-11,94686,New cases
+South Korea,2021-03-12,95176,New cases
+South Korea,2021-03-13,95635,New cases
+South Korea,2021-03-14,96017,New cases
+South Korea,2021-03-15,96380,New cases
+South Korea,2021-03-16,96849,New cases
+South Korea,2021-03-17,97294,New cases
+South Korea,2021-03-18,97757,New cases
+South Korea,2021-03-19,98209,New cases
+South Korea,2021-03-20,98665,New cases
+South Korea,2021-03-21,99075,New cases
+South Korea,2021-03-22,99421,New cases
+South Korea,2021-03-23,99846,New cases
+South Korea,2021-03-24,100276,New cases
+South Korea,2021-03-25,100770,New cases
+South Korea,2021-03-26,101275,New cases
+South Korea,2021-03-27,101757,New cases
+South Korea,2021-03-28,102141,New cases
+South Korea,2021-03-29,102582,New cases
+South Korea,2021-03-30,103088,New cases
+South Korea,2021-03-31,103639,New cases
+South Korea,2021-04-01,104194,New cases
+South Korea,2021-04-02,104736,New cases
+South Korea,2021-04-03,105279,New cases
+South Korea,2021-04-04,105752,New cases
+South Korea,2021-04-05,106230,New cases
+South Korea,2021-04-06,106898,New cases
+South Korea,2021-04-07,107598,New cases
+South Korea,2021-04-08,108269,New cases
+South Korea,2021-04-09,108945,New cases
+South Korea,2021-04-10,109559,New cases
+South Korea,2021-04-11,110146,New cases
+South Korea,2021-04-12,110688,New cases
+South Korea,2021-04-13,111419,New cases
+South Korea,2021-04-14,112117,New cases
+South Korea,2021-04-15,112789,New cases
+South Korea,2021-04-16,113444,New cases
+South Korea,2021-04-17,114115,New cases
+South Korea,2021-04-18,114646,New cases
+South Korea,2021-04-19,115195,New cases
+South Korea,2021-04-20,115926,New cases
+South Korea,2021-04-21,116661,New cases
+South Korea,2021-04-22,117458,New cases
+South Korea,2021-04-23,118243,New cases
+South Korea,2021-04-24,118887,New cases
+South Korea,2021-04-25,119387,New cases
+South Korea,2021-04-26,119898,New cases
+South Korea,2021-04-27,120673,New cases
+South Korea,2021-04-28,121351,New cases
+South Korea,2021-04-29,122007,New cases
+South Korea,2021-04-30,122634,New cases
+South Korea,2021-05-01,123240,New cases
+South Korea,2021-05-02,123728,New cases
+South Korea,2021-05-03,124269,New cases
+South Korea,2021-05-04,124945,New cases
+South Korea,2021-05-05,125519,New cases
+South Korea,2021-05-06,126044,New cases
+South Korea,2021-05-07,126745,New cases
+South Korea,2021-05-08,127309,New cases
+South Korea,2021-05-09,127772,New cases
+South Korea,2021-05-10,128283,New cases
+South Korea,2021-05-11,128918,New cases
+South Korea,2021-05-12,129633,New cases
+South Korea,2021-05-13,130380,New cases
+South Korea,2021-05-14,131061,New cases
+South Korea,2021-05-15,131671,New cases
+South Korea,2021-05-16,132290,New cases
+South Korea,2021-05-17,132818,New cases
+South Korea,2021-05-18,133471,New cases
+South Korea,2021-05-19,134117,New cases
+South Korea,2021-05-20,134678,New cases
+South Korea,2021-05-21,135344,New cases
+South Korea,2021-05-22,135929,New cases
+South Korea,2021-05-23,136467,New cases
+South Korea,2021-05-24,136983,New cases
+South Korea,2021-05-25,137682,New cases
+South Korea,2021-05-26,138311,New cases
+South Korea,2021-05-27,138898,New cases
+South Korea,2021-05-28,139431,New cases
+South Korea,2021-05-29,139910,New cases
+South Korea,2021-05-30,140340,New cases
+South Korea,2021-05-31,140799,New cases
+South Korea,2021-06-01,141476,New cases
+South Korea,2021-06-02,142157,New cases
+South Korea,2021-06-03,142852,New cases
+South Korea,2021-06-04,143596,New cases
+South Korea,2021-06-05,144152,New cases
+South Korea,2021-06-06,144637,New cases
+South Korea,2021-06-07,145091,New cases
+South Korea,2021-06-08,145692,New cases
+South Korea,2021-06-09,146303,New cases
+South Korea,2021-06-10,146859,New cases
+South Korea,2021-06-11,147422,New cases
+South Korea,2021-06-12,147874,New cases
+South Korea,2021-06-13,148273,New cases
+South Korea,2021-06-14,148647,New cases
+South Korea,2021-06-15,149191,New cases
+South Korea,2021-06-16,149731,New cases
+South Korea,2021-06-17,150238,New cases
+South Korea,2021-06-18,150720,New cases
+South Korea,2021-06-19,151149,New cases
+South Korea,2021-06-20,151506,New cases
+South Korea,2021-06-21,151901,New cases
+South Korea,2021-06-22,152545,New cases
+South Korea,2021-06-23,153155,New cases
+South Korea,2021-06-24,153789,New cases
+South Korea,2021-06-25,154457,New cases
+South Korea,2021-06-26,155071,New cases
+South Korea,2021-06-27,155572,New cases
+South Korea,2021-06-28,156167,New cases
+South Korea,2021-06-29,156961,New cases
+South Korea,2021-06-30,157723,New cases
+South Korea,2021-07-01,158549,New cases
+South Korea,2021-07-02,159342,New cases
+South Korea,2021-07-03,160084,New cases
+South Korea,2021-07-04,160795,New cases
+South Korea,2021-07-05,161541,New cases
+South Korea,2021-07-06,162753,New cases
+South Korea,2021-07-07,164028,New cases
+South Korea,2021-07-08,165344,New cases
+South Korea,2021-07-09,166722,New cases
+South Korea,2021-07-10,168046,New cases
+South Korea,2021-07-11,169146,New cases
+South Korea,2021-07-12,170296,New cases
+South Korea,2021-07-13,171911,New cases
+South Korea,2021-07-14,173511,New cases
+South Korea,2021-07-15,175046,New cases
+South Korea,2021-07-16,176500,New cases
+South Korea,2021-07-17,177951,New cases
+South Korea,2021-07-18,179203,New cases
+South Korea,2021-07-19,180481,New cases
+South Korea,2021-07-20,182265,New cases
+South Korea,2021-07-21,184103,New cases
+South Korea,2021-07-22,185733,New cases
+South Korea,2021-07-23,187362,New cases
+South Korea,2021-07-24,188848,New cases
+South Korea,2021-07-25,190166,New cases
+South Korea,2021-07-26,191531,New cases
+South Korea,2021-07-27,193427,New cases
+South Korea,2021-07-28,195099,New cases
+South Korea,2021-07-29,196806,New cases
+South Korea,2021-07-30,198345,New cases
+South Korea,2021-07-31,199787,New cases
+South Korea,2021-08-01,201002,New cases
+South Korea,2021-08-02,202203,New cases
+South Korea,2021-08-03,203926,New cases
+South Korea,2021-08-04,205702,New cases
+South Korea,2021-08-05,207406,New cases
+South Korea,2021-08-06,209228,New cases
+South Korea,2021-08-07,210956,New cases
+South Korea,2021-08-08,212448,New cases
+South Korea,2021-08-09,213987,New cases
+South Korea,2021-08-10,216206,New cases
+South Korea,2021-08-11,218192,New cases
+South Korea,2021-08-12,220182,New cases
+South Korea,2021-08-13,222111,New cases
+South Korea,2021-08-14,223928,New cases
+South Korea,2021-08-15,225481,New cases
+South Korea,2021-08-16,226854,New cases
+South Korea,2021-08-17,228657,New cases
+South Korea,2021-08-18,230808,New cases
+South Korea,2021-08-19,232859,New cases
+South Korea,2021-08-20,234739,New cases
+South Korea,2021-08-21,236366,New cases
+South Korea,2021-08-22,237782,New cases
+South Korea,2021-08-23,239287,New cases
+South Korea,2021-08-24,241439,New cases
+South Korea,2021-08-25,243317,New cases
+South Korea,2021-08-26,245158,New cases
+South Korea,2021-08-27,246951,New cases
+South Korea,2021-08-28,248568,New cases
+South Korea,2021-08-29,250051,New cases
+South Korea,2021-08-30,251421,New cases
+South Korea,2021-08-31,253445,New cases
+South Korea,2021-09-01,255401,New cases
+South Korea,2021-09-02,257110,New cases
+South Korea,2021-09-03,258913,New cases
+South Korea,2021-09-04,260404,New cases
+South Korea,2021-09-05,261778,New cases
+South Korea,2021-09-06,263374,New cases
+South Korea,2021-09-07,265423,New cases
+South Korea,2021-09-08,267470,New cases
+South Korea,2021-09-09,269362,New cases
+South Korea,2021-09-10,271227,New cases
+South Korea,2021-09-11,272982,New cases
+South Korea,2021-09-12,274415,New cases
+South Korea,2021-09-13,275910,New cases
+South Korea,2021-09-14,277989,New cases
+South Korea,2021-09-15,279930,New cases
+South Korea,2021-09-16,281938,New cases
+South Korea,2021-09-17,284022,New cases
+South Korea,2021-09-18,285931,New cases
+South Korea,2021-09-19,287536,New cases
+South Korea,2021-09-20,289263,New cases
+South Korea,2021-09-21,290983,New cases
+South Korea,2021-09-22,292699,New cases
+South Korea,2021-09-23,295132,New cases
+South Korea,2021-09-24,298402,New cases
+South Korea,2021-09-25,301172,New cases
+South Korea,2021-09-26,303553,New cases
+South Korea,2021-09-27,305842,New cases
+South Korea,2021-09-28,308725,New cases
+South Korea,2021-09-29,311289,New cases
+South Korea,2021-09-30,313773,New cases
+South Korea,2021-10-01,316020,New cases
+South Korea,2021-10-02,318105,New cases
+South Korea,2021-10-03,319777,New cases
+South Korea,2021-10-04,321352,New cases
+South Korea,2021-10-05,323379,New cases
+South Korea,2021-10-06,325804,New cases
+South Korea,2021-10-07,327976,New cases
+South Korea,2021-10-08,329925,New cases
+South Korea,2021-10-09,331519,New cases
+South Korea,2021-10-10,332816,New cases
+South Korea,2021-10-11,334163,New cases
+South Korea,2021-10-12,335742,New cases
+South Korea,2021-10-13,337679,New cases
+South Korea,2021-10-14,339361,New cases
+South Korea,2021-10-15,340978,New cases
+South Korea,2021-10-16,342396,New cases
+South Korea,2021-10-17,343445,New cases
+South Korea,2021-10-18,344518,New cases
+South Korea,2021-10-19,346088,New cases
+South Korea,2021-10-20,347529,New cases
+South Korea,2021-10-21,348969,New cases
+South Korea,2021-10-22,350476,New cases
+South Korea,2021-10-23,351899,New cases
+South Korea,2021-10-24,353089,New cases
+South Korea,2021-10-25,354355,New cases
+South Korea,2021-10-26,356305,New cases
+South Korea,2021-10-27,358412,New cases
+South Korea,2021-10-28,360536,New cases
+South Korea,2021-10-29,362639,New cases
+South Korea,2021-10-30,364700,New cases
+South Korea,2021-10-31,366386,New cases
+South Korea,2021-11-01,367974,New cases
+South Korea,2021-11-02,370640,New cases
+South Korea,2021-11-03,373120,New cases
+South Korea,2021-11-04,375464,New cases
+South Korea,2021-11-05,377712,New cases
+South Korea,2021-11-06,379935,New cases
+South Korea,2021-11-07,381694,New cases
+South Korea,2021-11-08,383407,New cases
+South Korea,2021-11-09,385831,New cases
+South Korea,2021-11-10,388351,New cases
+South Korea,2021-11-11,390719,New cases
+South Korea,2021-11-12,393042,New cases
+South Korea,2021-11-13,395460,New cases
+South Korea,2021-11-14,397466,New cases
+South Korea,2021-11-15,399591,New cases
+South Korea,2021-11-16,402775,New cases
+South Korea,2021-11-17,406065,New cases
+South Korea,2021-11-18,409099,New cases
+South Korea,2021-11-19,412311,New cases
+South Korea,2021-11-20,415425,New cases
+South Korea,2021-11-21,418252,New cases
+South Korea,2021-11-22,420950,New cases
+South Korea,2021-11-23,425065,New cases
+South Korea,2021-11-24,429002,New cases
+South Korea,2021-11-25,432901,New cases
+South Korea,2021-11-26,436968,New cases
+South Korea,2021-11-27,440896,New cases
+South Korea,2021-11-28,444200,New cases
+South Korea,2021-11-29,447230,New cases
+South Korea,2021-11-30,452350,New cases
+South Korea,2021-12-01,457612,New cases
+South Korea,2021-12-02,462555,New cases
+South Korea,2021-12-03,467907,New cases
+South Korea,2021-12-04,473034,New cases
+South Korea,2021-12-05,477358,New cases
+South Korea,2021-12-06,482310,New cases
+South Korea,2021-12-07,489484,New cases
+South Korea,2021-12-08,496584,New cases
+South Korea,2021-12-09,503606,New cases
+South Korea,2021-12-10,510583,New cases
+South Korea,2021-12-11,517271,New cases
+South Korea,2021-12-12,523088,New cases
+South Korea,2021-12-13,528652,New cases
+South Korea,2021-12-14,536495,New cases
+South Korea,2021-12-15,544117,New cases
+South Korea,2021-12-16,551551,New cases
+South Korea,2021-12-17,558864,New cases
+South Korea,2021-12-18,565098,New cases
+South Korea,2021-12-19,570414,New cases
+South Korea,2021-12-20,575615,New cases
+South Korea,2021-12-21,583065,New cases
+South Korea,2021-12-22,589978,New cases
+South Korea,2021-12-23,596209,New cases
+South Korea,2021-12-24,602045,New cases
+South Korea,2021-12-25,607463,New cases
+South Korea,2021-12-26,611670,New cases
+South Korea,2021-12-27,615532,New cases
+South Korea,2021-12-28,620938,New cases
+South Korea,2021-12-29,625967,New cases
+South Korea,2021-12-30,630838,New cases
+South Korea,2021-12-31,635253,New cases
+South Korea,2022-01-01,639083,New cases
+South Korea,2022-01-02,642207,New cases
+South Korea,2022-01-03,645226,New cases
+South Korea,2022-01-04,649669,New cases
+South Korea,2022-01-05,653792,New cases
+South Korea,2022-01-06,657508,New cases
+South Korea,2022-01-07,661015,New cases
+South Korea,2022-01-08,664391,New cases
+South Korea,2022-01-09,667390,New cases
+South Korea,2022-01-10,670483,New cases
+South Korea,2022-01-11,674868,New cases
+South Korea,2022-01-12,679030,New cases
+South Korea,2022-01-13,683566,New cases
+South Korea,2022-01-14,687984,New cases
+South Korea,2022-01-15,692174,New cases
+South Korea,2022-01-16,696032,New cases
+South Korea,2022-01-17,700102,New cases
+South Korea,2022-01-18,705902,New cases
+South Korea,2022-01-19,712503,New cases
+South Korea,2022-01-20,719269,New cases
+South Korea,2022-01-21,726274,New cases
+South Korea,2022-01-22,733902,New cases
+South Korea,2022-01-23,741413,New cases
+South Korea,2022-01-24,749979,New cases
+South Korea,2022-01-25,762983,New cases
+South Korea,2022-01-26,777497,New cases
+South Korea,2022-01-27,793582,New cases
+South Korea,2022-01-28,811122,New cases
+South Korea,2022-01-29,828637,New cases
+South Korea,2022-01-30,845709,New cases
+South Korea,2022-01-31,864042,New cases
+South Korea,2022-02-01,884310,New cases
+South Korea,2022-02-02,907214,New cases
+South Korea,2022-02-03,934656,New cases
+South Korea,2022-02-04,971018,New cases
+South Korea,2022-02-05,1009688,New cases
+South Korea,2022-02-06,1044963,New cases
+South Korea,2022-02-07,1081681,New cases
+South Korea,2022-02-08,1131239,New cases
+South Korea,2022-02-09,1185361,New cases
+South Korea,2022-02-10,1239287,New cases
+South Korea,2022-02-11,1294205,New cases
+South Korea,2022-02-12,1350630,New cases
+South Korea,2022-02-13,1405246,New cases
+South Korea,2022-02-14,1462421,New cases
+South Korea,2022-02-15,1552851,New cases
+South Korea,2022-02-16,1645978,New cases
+South Korea,2022-02-17,1755806,New cases
+South Korea,2022-02-18,1858009,New cases
+South Korea,2022-02-19,1962837,New cases
+South Korea,2022-02-20,2058184,New cases
+South Korea,2022-02-21,2157734,New cases
+South Korea,2022-02-22,2329182,New cases
+South Korea,2022-02-23,2499188,New cases
+South Korea,2022-02-24,2665077,New cases
+South Korea,2022-02-25,2831283,New cases
+South Korea,2022-02-26,2994841,New cases
+South Korea,2022-02-27,3134456,New cases
+South Korea,2022-02-28,3273449,New cases
+South Korea,2022-03-01,3492686,New cases
+South Korea,2022-03-02,3691488,New cases
+South Korea,2022-03-03,3958326,New cases
+South Korea,2022-03-04,4212652,New cases
+South Korea,2022-03-05,4456264,New cases
+South Korea,2022-03-06,4666977,New cases
+South Korea,2022-03-07,4869691,New cases
+South Korea,2022-03-08,5212118,New cases
+South Korea,2022-03-09,5539650,New cases
+South Korea,2022-03-10,5822626,New cases
+South Korea,2022-03-11,6206277,New cases
+South Korea,2022-03-12,6556453,New cases
+South Korea,2022-03-13,6866222,New cases
+South Korea,2022-03-14,7228550,New cases
+South Korea,2022-03-15,7629275,New cases
+South Korea,2022-03-16,8250592,New cases
+South Korea,2022-03-17,8657609,New cases
+South Korea,2022-03-18,9038938,New cases
+South Korea,2022-03-19,9373646,New cases
+South Korea,2022-03-20,9582815,New cases
+South Korea,2022-03-21,9936540,New cases
+South Korea,2022-03-22,10427247,New cases
+South Korea,2022-03-23,10822836,New cases
+South Korea,2022-03-24,11162232,New cases
+South Korea,2022-03-25,11497711,New cases
 Turkey,2020-03-11,1,New cases
 Turkey,2020-03-12,1,New cases
 Turkey,2020-03-13,5,New cases
@@ -6216,6 +6233,7 @@ Turkey,2022-03-21,14708850,New cases
 Turkey,2022-03-22,14726276,New cases
 Turkey,2022-03-23,14743437,New cases
 Turkey,2022-03-24,14760331,New cases
+Turkey,2022-03-25,14775634,New cases
 United Kingdom,2020-01-31,2,New cases
 United Kingdom,2020-02-01,2,New cases
 United Kingdom,2020-02-02,2,New cases
@@ -7000,6 +7018,7 @@ United Kingdom,2022-03-21,20380278,New cases
 United Kingdom,2022-03-22,20475376,New cases
 United Kingdom,2022-03-23,20578046,New cases
 United Kingdom,2022-03-24,20679094,New cases
+United Kingdom,2022-03-25,20756767,New cases
 United States,2020-01-22,1,New cases
 United States,2020-01-23,1,New cases
 United States,2020-01-24,2,New cases
@@ -7793,6 +7812,7 @@ United States,2022-03-21,79780432,New cases
 United States,2022-03-22,79803443,New cases
 United States,2022-03-23,79844430,New cases
 United States,2022-03-24,79888564,New cases
+United States,2022-03-25,79936777,New cases
 Brazil,2020-02-26,NA,Deaths
 Brazil,2020-02-27,NA,Deaths
 Brazil,2020-02-28,NA,Deaths
@@ -8551,6 +8571,7 @@ Brazil,2022-03-21,657595,Deaths
 Brazil,2022-03-22,658005,Deaths
 Brazil,2022-03-23,658286,Deaths
 Brazil,2022-03-24,658600,Deaths
+Brazil,2022-03-25,658855,Deaths
 France,2020-01-24,NA,Deaths
 France,2020-01-25,NA,Deaths
 France,2020-01-26,NA,Deaths
@@ -9342,6 +9363,7 @@ France,2022-03-21,141154,Deaths
 France,2022-03-22,141287,Deaths
 France,2022-03-23,141401,Deaths
 France,2022-03-24,141512,Deaths
+France,2022-03-25,141633,Deaths
 India,2020-01-30,NA,Deaths
 India,2020-01-31,NA,Deaths
 India,2020-02-01,NA,Deaths
@@ -10127,6 +10149,7 @@ India,2022-03-21,516543,Deaths
 India,2022-03-22,516605,Deaths
 India,2022-03-23,516672,Deaths
 India,2022-03-24,516755,Deaths
+India,2022-03-25,516755,Deaths
 Indonesia,2020-03-02,NA,Deaths
 Indonesia,2020-03-03,NA,Deaths
 Indonesia,2020-03-04,NA,Deaths
@@ -10880,6 +10903,7 @@ Indonesia,2022-03-21,153892,Deaths
 Indonesia,2022-03-22,154062,Deaths
 Indonesia,2022-03-23,154221,Deaths
 Indonesia,2022-03-24,154343,Deaths
+Indonesia,2022-03-25,154343,Deaths
 Italy,2020-01-31,NA,Deaths
 Italy,2020-02-01,NA,Deaths
 Italy,2020-02-02,NA,Deaths
@@ -11664,6 +11688,7 @@ Italy,2022-03-21,157904,Deaths
 Italy,2022-03-22,158101,Deaths
 Italy,2022-03-23,158254,Deaths
 Italy,2022-03-24,158436,Deaths
+Italy,2022-03-25,158582,Deaths
 Mexico,2020-01-01,NA,Deaths
 Mexico,2020-01-02,NA,Deaths
 Mexico,2020-01-03,NA,Deaths
@@ -12478,6 +12503,7 @@ Mexico,2022-03-21,322092,Deaths
 Mexico,2022-03-22,322119,Deaths
 Mexico,2022-03-23,322119,Deaths
 Mexico,2022-03-24,322277,Deaths
+Mexico,2022-03-25,322432,Deaths
 Peru,2020-03-06,1,Deaths
 Peru,2020-03-07,1,Deaths
 Peru,2020-03-08,2,Deaths
@@ -13227,6 +13253,7 @@ Peru,2022-03-21,211924,Deaths
 Peru,2022-03-22,211944,Deaths
 Peru,2022-03-23,211944,Deaths
 Peru,2022-03-24,212022,Deaths
+Peru,2022-03-25,212022,Deaths
 Russia,2020-01-31,NA,Deaths
 Russia,2020-02-01,NA,Deaths
 Russia,2020-02-02,NA,Deaths
@@ -14011,6 +14038,7 @@ Russia,2022-03-21,357634,Deaths
 Russia,2022-03-22,358093,Deaths
 Russia,2022-03-23,358510,Deaths
 Russia,2022-03-24,358919,Deaths
+Russia,2022-03-25,359307,Deaths
 United Kingdom,2020-01-31,NA,Deaths
 United Kingdom,2020-02-01,NA,Deaths
 United Kingdom,2020-02-02,NA,Deaths
@@ -14795,6 +14823,7 @@ United Kingdom,2022-03-21,163826,Deaths
 United Kingdom,2022-03-22,164076,Deaths
 United Kingdom,2022-03-23,164272,Deaths
 United Kingdom,2022-03-24,164431,Deaths
+United Kingdom,2022-03-25,164603,Deaths
 United States,2020-01-22,NA,Deaths
 United States,2020-01-23,NA,Deaths
 United States,2020-01-24,NA,Deaths
@@ -15588,3 +15617,4 @@ United States,2022-03-21,972658,Deaths
 United States,2022-03-22,973213,Deaths
 United States,2022-03-23,974830,Deaths
 United States,2022-03-24,975863,Deaths
+United States,2022-03-25,976505,Deaths
