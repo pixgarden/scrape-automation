@@ -99,7 +99,7 @@ date,location,iso_a3,new_cases
 2022-04-01,Malta,MLT,659
 2022-04-01,Mauritania,MRT,1
 2022-04-01,Mauritius,MUS,NA
-2022-04-01,Mexico,MEX,NA
+2022-04-01,Mexico,MEX,2538
 2022-04-01,Moldova,MDA,315
 2022-04-01,Mongolia,MNG,NA
 2022-04-01,Montenegro,MNE,77
@@ -121,7 +121,7 @@ date,location,iso_a3,new_cases
 2022-04-01,Panama,PAN,295
 2022-04-01,Papua New Guinea,PNG,NA
 2022-04-01,Paraguay,PRY,403
-2022-04-01,Peru,PER,429
+2022-04-01,Peru,PER,910
 2022-04-01,Philippines,PHL,353
 2022-04-01,Poland,POL,4039
 2022-04-01,Portugal,PRT,15338
