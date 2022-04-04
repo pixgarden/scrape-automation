@@ -1,0 +1,180 @@
+country_text_id,country_name,year,v2x_libdem,v2x_regime,Regime
+MEX,Mexico,2020,0.407,2,Electoral democracy
+SUR,Suriname,2020,0.595,2,Electoral democracy
+SWE,Sweden,2020,0.873,3,Liberal democracy
+CHE,Switzerland,2020,0.847,3,Liberal democracy
+GHA,Ghana,2020,0.596,3,Liberal democracy
+ZAF,South Africa,2020,0.577,2,Electoral democracy
+JPN,Japan,2020,0.731,3,Liberal democracy
+MMR,Burma/Myanmar,2020,0.271,1,Electoral autocracy
+RUS,Russia,2020,0.104,1,Electoral autocracy
+ALB,Albania,2020,0.403,2,Electoral democracy
+EGY,Egypt,2020,0.122,1,Electoral autocracy
+YEM,Yemen,2020,0.037,0,Closed autocracy
+COL,Colombia,2020,0.447,2,Electoral democracy
+POL,Poland,2020,0.487,2,Electoral democracy
+BRA,Brazil,2020,0.511,2,Electoral democracy
+USA,United States of America,2020,0.728,3,Liberal democracy
+PRT,Portugal,2020,0.792,2,Electoral democracy
+SLV,El Salvador,2020,0.383,2,Electoral democracy
+BGD,Bangladesh,2020,0.097,1,Electoral autocracy
+BOL,Bolivia,2020,0.23,1,Electoral autocracy
+HTI,Haiti,2020,0.235,1,Electoral autocracy
+HND,Honduras,2020,0.23,1,Electoral autocracy
+MLI,Mali,2020,0.317,1,Electoral autocracy
+PAK,Pakistan,2020,0.25,1,Electoral autocracy
+PER,Peru,2020,0.691,2,Electoral democracy
+SEN,Senegal,2020,0.583,2,Electoral democracy
+SSD,South Sudan,2020,0.07,0,Closed autocracy
+SDN,Sudan,2020,0.086,0,Closed autocracy
+VNM,Vietnam,2020,0.107,0,Closed autocracy
+AFG,Afghanistan,2020,0.192,1,Electoral autocracy
+ARG,Argentina,2020,0.67,2,Electoral democracy
+ETH,Ethiopia,2020,0.163,1,Electoral autocracy
+IND,India,2020,0.34,1,Electoral autocracy
+KEN,Kenya,2020,0.367,1,Electoral autocracy
+PRK,North Korea,2020,0.015,0,Closed autocracy
+KOR,South Korea,2020,0.792,3,Liberal democracy
+XKX,Kosovo,2020,0.43,2,Electoral democracy
+LBN,Lebanon,2020,0.286,1,Electoral autocracy
+NGA,Nigeria,2020,0.359,2,Electoral democracy
+PHL,Philippines,2020,0.28,1,Electoral autocracy
+TZA,Tanzania,2020,0.327,1,Electoral autocracy
+TWN,Taiwan,2020,0.718,3,Liberal democracy
+THA,Thailand,2020,0.175,0,Closed autocracy
+UGA,Uganda,2020,0.23,1,Electoral autocracy
+VEN,Venezuela,2020,0.073,1,Electoral autocracy
+BEN,Benin,2020,0.295,1,Electoral autocracy
+BTN,Bhutan,2020,0.458,2,Electoral democracy
+BFA,Burkina Faso,2020,0.506,2,Electoral democracy
+KHM,Cambodia,2020,0.066,1,Electoral autocracy
+IDN,Indonesia,2020,0.448,2,Electoral democracy
+MOZ,Mozambique,2020,0.254,1,Electoral autocracy
+NPL,Nepal,2020,0.446,2,Electoral democracy
+NIC,Nicaragua,2020,0.062,1,Electoral autocracy
+NER,Niger,2020,0.389,2,Electoral democracy
+ZMB,Zambia,2020,0.27,1,Electoral autocracy
+ZWE,Zimbabwe,2020,0.192,1,Electoral autocracy
+GIN,Guinea,2020,0.137,1,Electoral autocracy
+CIV,Ivory Coast,2020,0.312,1,Electoral autocracy
+MRT,Mauritania,2020,0.185,1,Electoral autocracy
+CAN,Canada,2020,0.736,3,Liberal democracy
+AUS,Australia,2020,0.787,3,Liberal democracy
+BWA,Botswana,2020,0.481,2,Electoral democracy
+BDI,Burundi,2020,0.053,1,Electoral autocracy
+CPV,Cape Verde,2020,0.69,2,Electoral democracy
+CAF,Central African Republic,2020,0.214,1,Electoral autocracy
+CHL,Chile,2020,0.758,2,Electoral democracy
+CRI,Costa Rica,2020,0.849,3,Liberal democracy
+TLS,Timor-Leste,2020,0.464,2,Electoral democracy
+ECU,Ecuador,2020,0.485,2,Electoral democracy
+FRA,France,2020,0.796,3,Liberal democracy
+DEU,Germany,2020,0.833,3,Liberal democracy
+GTM,Guatemala,2020,0.405,2,Electoral democracy
+IRN,Iran,2020,0.142,1,Electoral autocracy
+IRQ,Iraq,2020,0.22,1,Electoral autocracy
+IRL,Ireland,2020,0.817,3,Liberal democracy
+ITA,Italy,2020,0.785,3,Liberal democracy
+JOR,Jordan,2020,0.242,0,Closed autocracy
+LVA,Latvia,2020,0.736,3,Liberal democracy
+LSO,Lesotho,2020,0.497,2,Electoral democracy
+LBR,Liberia,2020,0.477,2,Electoral democracy
+MWI,Malawi,2020,0.449,2,Electoral democracy
+MDV,Maldives,2020,0.439,2,Electoral democracy
+MNG,Mongolia,2020,0.503,2,Electoral democracy
+MAR,Morocco,2020,0.257,0,Closed autocracy
+NLD,Netherlands,2020,0.825,3,Liberal democracy
+PAN,Panama,2020,0.558,2,Electoral democracy
+PNG,Papua New Guinea,2020,0.336,1,Electoral autocracy
+QAT,Qatar,2020,0.095,0,Closed autocracy
+SLE,Sierra Leone,2020,0.435,2,Electoral democracy
+ESP,Spain,2020,0.8,3,Liberal democracy
+SYR,Syria,2020,0.037,0,Closed autocracy
+TUN,Tunisia,2020,0.644,2,Electoral democracy
+TUR,Turkey,2020,0.111,1,Electoral autocracy
+UKR,Ukraine,2020,0.348,2,Electoral democracy
+GBR,United Kingdom,2020,0.797,3,Liberal democracy
+URY,Uruguay,2020,0.795,3,Liberal democracy
+DZA,Algeria,2020,0.147,1,Electoral autocracy
+AGO,Angola,2020,0.212,1,Electoral autocracy
+ARM,Armenia,2020,0.597,1,Electoral autocracy
+AZE,Azerbaijan,2020,0.066,1,Electoral autocracy
+BLR,Belarus,2020,0.076,1,Electoral autocracy
+CMR,Cameroon,2020,0.124,1,Electoral autocracy
+TCD,Chad,2020,0.093,1,Electoral autocracy
+CHN,China,2020,0.043,0,Closed autocracy
+COD,Democratic Republic of the Congo,2020,0.157,1,Electoral autocracy
+COG,Republic of the Congo,2020,0.119,1,Electoral autocracy
+DJI,Djibouti,2020,0.125,1,Electoral autocracy
+DOM,Dominican Republic,2020,0.344,2,Electoral democracy
+ERI,Eritrea,2020,0.012,0,Closed autocracy
+GAB,Gabon,2020,0.207,1,Electoral autocracy
+GMB,The Gambia,2020,0.419,2,Electoral democracy
+GEO,Georgia,2020,0.506,2,Electoral democracy
+GNB,Guinea-Bissau,2020,0.347,2,Electoral democracy
+JAM,Jamaica,2020,0.698,2,Electoral democracy
+KAZ,Kazakhstan,2020,0.129,1,Electoral autocracy
+KGZ,Kyrgyzstan,2020,0.291,1,Electoral autocracy
+LAO,Laos,2020,0.09,0,Closed autocracy
+LBY,Libya,2020,0.153,0,Closed autocracy
+MDG,Madagascar,2020,0.269,1,Electoral autocracy
+MDA,Moldova,2020,0.467,2,Electoral democracy
+"NAM",Namibia,2020,0.524,2,Electoral democracy
+PSE,Palestine/West Bank,2020,0.164,1,Electoral autocracy
+RWA,Rwanda,2020,0.107,1,Electoral autocracy
+SOM,Somalia,2020,0.097,0,Closed autocracy
+LKA,Sri Lanka,2020,0.379,2,Electoral democracy
+SWZ,Eswatini,2020,0.12,0,Closed autocracy
+TJK,Tajikistan,2020,0.047,1,Electoral autocracy
+TGO,Togo,2020,0.2,1,Electoral autocracy
+TTO,Trinidad and Tobago,2020,0.643,2,Electoral democracy
+TKM,Turkmenistan,2020,0.042,1,Electoral autocracy
+PSG,Palestine/Gaza,2020,0.091,0,Closed autocracy
+SML,Somaliland,2020,0.248,1,Electoral autocracy
+UZB,Uzbekistan,2020,0.105,0,Closed autocracy
+AUT,Austria,2020,0.758,3,Liberal democracy
+BHR,Bahrain,2020,0.048,0,Closed autocracy
+BRB,Barbados,2020,0.684,3,Liberal democracy
+BEL,Belgium,2020,0.821,3,Liberal democracy
+BIH,Bosnia and Herzegovina,2020,0.34,2,Electoral democracy
+BGR,Bulgaria,2020,0.491,2,Electoral democracy
+COM,Comoros,2020,0.173,1,Electoral autocracy
+HRV,Croatia,2020,0.641,2,Electoral democracy
+CUB,Cuba,2020,0.085,0,Closed autocracy
+CYP,Cyprus,2020,0.724,3,Liberal democracy
+CZE,Czech Republic,2020,0.708,2,Electoral democracy
+DNK,Denmark,2020,0.878,3,Liberal democracy
+GNQ,Equatorial Guinea,2020,0.056,1,Electoral autocracy
+EST,Estonia,2020,0.832,3,Liberal democracy
+FJI,Fiji,2020,0.279,1,Electoral autocracy
+FIN,Finland,2020,0.837,3,Liberal democracy
+GRC,Greece,2020,0.744,3,Liberal democracy
+GUY,Guyana,2020,0.404,2,Electoral democracy
+HKG,Hong Kong,2020,0.253,0,Closed autocracy
+ISL,Iceland,2020,0.79,3,Liberal democracy
+ISR,Israel,2020,0.648,3,Liberal democracy
+KWT,Kuwait,2020,0.288,0,Closed autocracy
+LTU,Lithuania,2020,0.76,2,Electoral democracy
+LUX,Luxembourg,2020,0.783,3,Liberal democracy
+MKD,North Macedonia,2020,0.428,2,Electoral democracy
+MYS,Malaysia,2020,0.284,1,Electoral autocracy
+MLT,Malta,2020,0.612,2,Electoral democracy
+MUS,Mauritius,2020,0.504,2,Electoral democracy
+MNE,Montenegro,2020,0.347,1,Electoral autocracy
+NZL,New Zealand,2020,0.846,3,Liberal democracy
+NOR,Norway,2020,0.855,3,Liberal democracy
+OMN,Oman,2020,0.139,0,Closed autocracy
+PRY,Paraguay,2020,0.426,2,Electoral democracy
+ROU,Romania,2020,0.552,2,Electoral democracy
+STP,Sao Tome and Principe,2020,0.587,2,Electoral democracy
+SAU,Saudi Arabia,2020,0.047,0,Closed autocracy
+SRB,Serbia,2020,0.239,1,Electoral autocracy
+SYC,Seychelles,2020,0.471,2,Electoral democracy
+SGP,Singapore,2020,0.307,1,Electoral autocracy
+SVK,Slovakia,2020,0.756,2,Electoral democracy
+SVN,Slovenia,2020,0.651,2,Electoral democracy
+SLB,Solomon Islands,2020,0.485,2,Electoral democracy
+VUT,Vanuatu,2020,0.64,2,Electoral democracy
+ARE,United Arab Emirates,2020,0.091,0,Closed autocracy
+HUN,Hungary,2020,0.368,1,Electoral autocracy
+ZZB,Zanzibar,2020,0.185,1,Electoral autocracy
