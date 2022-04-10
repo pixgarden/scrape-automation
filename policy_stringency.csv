@@ -1,174 +1,174 @@
 location,date,stringency_index,new_deaths_per_million,stringency_lag
-Afghanistan,2022-04-08,NA,0,NA
-Albania,2022-04-08,NA,0,NA
-Algeria,2022-04-08,NA,0,NA
-Angola,2022-04-08,NA,0,NA
-Argentina,2022-04-08,NA,0.789,NA
-Armenia,2022-04-08,NA,0,NA
-Australia,2022-04-08,NA,0.931,NA
-Austria,2022-04-08,NA,2.986,NA
-Azerbaijan,2022-04-08,NA,0,NA
-Bahrain,2022-04-08,NA,0,NA
-Bangladesh,2022-04-08,NA,0,NA
-Barbados,2022-04-08,NA,0,NA
-Belarus,2022-04-08,NA,0.424,NA
-Belgium,2022-04-08,NA,0,NA
-Benin,2022-04-08,NA,0,NA
-Bhutan,2022-04-08,NA,1.282,NA
-Bolivia,2022-04-08,NA,0,NA
-Bosnia and Herzegovina,2022-04-08,NA,1.226,NA
-Botswana,2022-04-08,NA,0,NA
-Brazil,2022-04-08,NA,0.696,NA
-Bulgaria,2022-04-08,NA,1.885,NA
-Burkina Faso,2022-04-08,NA,0,NA
-Burundi,2022-04-08,NA,0,NA
-Cambodia,2022-04-08,NA,0,NA
-Cameroon,2022-04-08,NA,0,NA
-Canada,2022-04-08,NA,0,NA
-Cape Verde,2022-04-08,NA,0,NA
-Central African Republic,2022-04-08,NA,0,NA
-Chad,2022-04-08,NA,0,NA
-Chile,2022-04-08,NA,2.238,NA
-China,2022-04-08,NA,0,NA
-Colombia,2022-04-08,NA,0.195,NA
-Comoros,2022-04-08,NA,0,NA
-Congo,2022-04-08,NA,0,NA
-Costa Rica,2022-04-08,NA,0,NA
-Cote d'Ivoire,2022-04-08,NA,0,NA
-Croatia,2022-04-08,NA,1.96,NA
-Cuba,2022-04-08,NA,0,NA
-Cyprus,2022-04-08,NA,24.553,NA
-Czechia,2022-04-08,NA,2.611,NA
-Democratic Republic of Congo,2022-04-08,NA,0,NA
-Denmark,2022-04-08,NA,4.128,NA
-Djibouti,2022-04-08,NA,0,NA
-Dominican Republic,2022-04-08,NA,0,NA
-Ecuador,2022-04-08,NA,0,NA
-Egypt,2022-04-08,NA,0,NA
-El Salvador,2022-04-08,NA,0,NA
-Equatorial Guinea,2022-04-08,NA,0,NA
-Eritrea,2022-04-08,NA,0,NA
-Estonia,2022-04-08,NA,3.773,NA
-Eswatini,2022-04-08,NA,0,NA
-Ethiopia,2022-04-08,NA,0,NA
-Fiji,2022-04-08,NA,0,NA
-Finland,2022-04-08,NA,0,NA
-France,2022-04-08,NA,2.062,NA
-Gabon,2022-04-08,NA,0,NA
-Gambia,2022-04-08,NA,0,NA
-Georgia,2022-04-08,NA,0.251,NA
-Germany,2022-04-08,NA,3.683,NA
-Ghana,2022-04-08,NA,0,NA
-Greece,2022-04-08,NA,5.496,NA
-Guatemala,2022-04-08,NA,0.329,NA
-Guinea,2022-04-08,NA,0,NA
-Guinea-Bissau,2022-04-08,NA,0,NA
-Guyana,2022-04-08,NA,0,NA
-Haiti,2022-04-08,NA,0.087,NA
-Honduras,2022-04-08,NA,0,NA
-Hong Kong,2022-04-08,NA,11.387,NA
-Hungary,2022-04-08,NA,3.841,NA
-Iceland,2022-04-08,NA,8.135,NA
-India,2022-04-08,NA,0.06,NA
-Indonesia,2022-04-08,NA,0.17,NA
-Iran,2022-04-08,NA,0.423,NA
-Iraq,2022-04-08,NA,0.049,NA
-Ireland,2022-04-08,NA,4.014,NA
-Israel,2022-04-08,NA,0,NA
-Italy,2022-04-08,NA,2.385,NA
-Jamaica,2022-04-08,NA,0.336,NA
-Japan,2022-04-08,NA,0.547,NA
-Jordan,2022-04-08,NA,0,NA
-Kazakhstan,2022-04-08,NA,0,NA
-Kenya,2022-04-08,NA,0,NA
-Kuwait,2022-04-08,NA,0,NA
-Kyrgyzstan,2022-04-08,NA,0,NA
-Laos,2022-04-08,NA,0.407,NA
-Latvia,2022-04-08,NA,1.607,NA
-Lebanon,2022-04-08,NA,0.443,NA
-Lesotho,2022-04-08,NA,0,NA
-Liberia,2022-04-08,NA,0,NA
-Libya,2022-04-08,NA,0,NA
-Lithuania,2022-04-08,NA,3.718,NA
-Luxembourg,2022-04-08,NA,4.726,NA
-Madagascar,2022-04-08,NA,0,NA
-Malawi,2022-04-08,NA,0,NA
-Malaysia,2022-04-08,NA,0.946,NA
-Maldives,2022-04-08,NA,0,NA
-Mali,2022-04-08,NA,0,NA
-Malta,2022-04-08,NA,7.75,NA
-Mauritania,2022-04-08,NA,0,NA
-Mauritius,2022-04-08,NA,0,NA
-Mexico,2022-04-08,NA,0.668,NA
-Moldova,2022-04-08,NA,1.243,NA
-Mongolia,2022-04-08,NA,0,NA
-Montenegro,2022-04-08,NA,0,NA
-Morocco,2022-04-08,NA,0,NA
-Mozambique,2022-04-08,NA,0,NA
-Myanmar,2022-04-08,NA,0,NA
-Namibia,2022-04-08,NA,0.386,NA
-Nepal,2022-04-08,NA,0,NA
-Netherlands,2022-04-08,NA,0.757,NA
-New Zealand,2022-04-08,NA,3.706,NA
-Nicaragua,2022-04-08,NA,0,NA
-Niger,2022-04-08,NA,0,NA
-Nigeria,2022-04-08,NA,0,NA
-North Macedonia,2022-04-08,NA,1.921,NA
-Norway,2022-04-08,NA,0,NA
-Oman,2022-04-08,NA,0,NA
-Pakistan,2022-04-08,NA,0,NA
-Palestine,2022-04-08,NA,0,NA
-Panama,2022-04-08,NA,0,NA
-Papua New Guinea,2022-04-08,NA,0,NA
-Paraguay,2022-04-08,NA,0.416,NA
-Peru,2022-04-08,NA,0.54,NA
-Philippines,2022-04-08,NA,0.621,NA
-Poland,2022-04-08,NA,1.535,NA
-Portugal,2022-04-08,NA,4.622,NA
-Qatar,2022-04-08,NA,0,NA
-Romania,2022-04-08,NA,0.471,NA
-Russia,2022-04-08,NA,1.892,NA
-Rwanda,2022-04-08,NA,0,NA
-Sao Tome and Principe,2022-04-08,NA,0,NA
-Saudi Arabia,2022-04-08,NA,0.028,NA
-Senegal,2022-04-08,NA,0,NA
-Serbia,2022-04-08,NA,1.019,NA
-Seychelles,2022-04-08,NA,0,NA
-Sierra Leone,2022-04-08,NA,0,NA
-Singapore,2022-04-08,NA,1.284,NA
-Slovakia,2022-04-08,NA,4.221,NA
-Slovenia,2022-04-08,NA,1.924,NA
-Solomon Islands,2022-04-08,NA,0,NA
-Somalia,2022-04-08,NA,0,NA
-South Africa,2022-04-08,NA,0.15,NA
-South Korea,2022-04-08,NA,6.588,NA
-South Sudan,2022-04-08,NA,0,NA
-Spain,2022-04-08,NA,0,NA
-Sri Lanka,2022-04-08,NA,0.093,NA
-Sudan,2022-04-08,NA,0,NA
-Suriname,2022-04-08,NA,0,NA
-Sweden,2022-04-08,NA,0,NA
-Switzerland,2022-04-08,NA,0.344,NA
-Syria,2022-04-08,NA,0,NA
-Taiwan,2022-04-08,NA,0,NA
-Tajikistan,2022-04-08,NA,0,NA
-Tanzania,2022-04-08,NA,0,NA
-Thailand,2022-04-08,NA,2.673,NA
-Timor,2022-04-08,NA,0,NA
-Togo,2022-04-08,NA,0,NA
-Trinidad and Tobago,2022-04-08,NA,0.713,NA
-Tunisia,2022-04-08,NA,0,NA
-Turkey,2022-04-08,NA,0.365,NA
-Uganda,2022-04-08,NA,0,NA
-Ukraine,2022-04-08,NA,0,NA
-United Arab Emirates,2022-04-08,NA,0,NA
-United Kingdom,2022-04-08,NA,5.087,NA
-United States,2022-04-08,NA,1.904,NA
-Uruguay,2022-04-08,NA,0.574,NA
-Uzbekistan,2022-04-08,NA,0,NA
-Vanuatu,2022-04-08,NA,0,NA
-Venezuela,2022-04-08,NA,0.035,NA
-Vietnam,2022-04-08,NA,0.357,NA
-Yemen,2022-04-08,NA,0.033,NA
-Zambia,2022-04-08,NA,0,NA
-Zimbabwe,2022-04-08,NA,0.133,NA
+Afghanistan,2022-04-09,NA,0,NA
+Albania,2022-04-09,NA,0,NA
+Algeria,2022-04-09,NA,0,NA
+Angola,2022-04-09,NA,0,NA
+Argentina,2022-04-09,NA,0.066,NA
+Armenia,2022-04-09,NA,0.337,NA
+Australia,2022-04-09,NA,0.465,NA
+Austria,2022-04-09,NA,4.423,NA
+Azerbaijan,2022-04-09,NA,0,NA
+Bahrain,2022-04-09,NA,0,NA
+Bangladesh,2022-04-09,NA,0,NA
+Barbados,2022-04-09,NA,6.951,NA
+Belarus,2022-04-09,NA,0.212,NA
+Belgium,2022-04-09,NA,0,NA
+Benin,2022-04-09,NA,0,NA
+Bhutan,2022-04-09,NA,1.282,NA
+Bolivia,2022-04-09,NA,0,NA
+Bosnia and Herzegovina,2022-04-09,NA,0,NA
+Botswana,2022-04-09,NA,0,NA
+Brazil,2022-04-09,NA,0.458,NA
+Bulgaria,2022-04-09,NA,1.015,NA
+Burkina Faso,2022-04-09,NA,0,NA
+Burundi,2022-04-09,NA,0,NA
+Cambodia,2022-04-09,NA,0,NA
+Cameroon,2022-04-09,NA,0,NA
+Canada,2022-04-09,NA,1.629,NA
+Cape Verde,2022-04-09,NA,0,NA
+Central African Republic,2022-04-09,NA,0,NA
+Chad,2022-04-09,NA,0,NA
+Chile,2022-04-09,NA,2.186,NA
+China,2022-04-09,NA,0,NA
+Colombia,2022-04-09,NA,0.195,NA
+Comoros,2022-04-09,NA,0,NA
+Congo,2022-04-09,NA,0,NA
+Costa Rica,2022-04-09,NA,0,NA
+Cote d'Ivoire,2022-04-09,NA,0,NA
+Croatia,2022-04-09,NA,3.675,NA
+Cuba,2022-04-09,NA,0,NA
+Cyprus,2022-04-09,NA,1.116,NA
+Czechia,2022-04-09,NA,0.746,NA
+Democratic Republic of Congo,2022-04-09,NA,0,NA
+Denmark,2022-04-09,NA,4.128,NA
+Djibouti,2022-04-09,NA,0,NA
+Dominican Republic,2022-04-09,NA,0,NA
+Ecuador,2022-04-09,NA,0,NA
+Egypt,2022-04-09,NA,0,NA
+El Salvador,2022-04-09,NA,0,NA
+Equatorial Guinea,2022-04-09,NA,0,NA
+Eritrea,2022-04-09,NA,0,NA
+Estonia,2022-04-09,NA,3.018,NA
+Eswatini,2022-04-09,NA,0,NA
+Ethiopia,2022-04-09,NA,0.008,NA
+Fiji,2022-04-09,NA,0,NA
+Finland,2022-04-09,NA,0,NA
+France,2022-04-09,NA,1.29,NA
+Gabon,2022-04-09,NA,0,NA
+Gambia,2022-04-09,NA,0,NA
+Georgia,2022-04-09,NA,1.005,NA
+Germany,2022-04-09,NA,0.429,NA
+Ghana,2022-04-09,NA,0,NA
+Greece,2022-04-09,NA,4.918,NA
+Guatemala,2022-04-09,NA,0.329,NA
+Guinea,2022-04-09,NA,0,NA
+Guinea-Bissau,2022-04-09,NA,0,NA
+Guyana,2022-04-09,NA,0,NA
+Haiti,2022-04-09,NA,0.087,NA
+Honduras,2022-04-09,NA,0,NA
+Hong Kong,2022-04-09,NA,8.209,NA
+Hungary,2022-04-09,NA,0,NA
+Iceland,2022-04-09,NA,0,NA
+India,2022-04-09,NA,0.021,NA
+Indonesia,2022-04-09,NA,0.148,NA
+Iran,2022-04-09,NA,0.576,NA
+Iraq,2022-04-09,NA,0,NA
+Ireland,2022-04-09,NA,0,NA
+Israel,2022-04-09,NA,0,NA
+Italy,2022-04-09,NA,1.855,NA
+Jamaica,2022-04-09,NA,0,NA
+Japan,2022-04-09,NA,0.389,NA
+Jordan,2022-04-09,NA,0,NA
+Kazakhstan,2022-04-09,NA,0,NA
+Kenya,2022-04-09,NA,0,NA
+Kuwait,2022-04-09,NA,0,NA
+Kyrgyzstan,2022-04-09,NA,0,NA
+Laos,2022-04-09,NA,0.271,NA
+Latvia,2022-04-09,NA,2.678,NA
+Lebanon,2022-04-09,NA,0.591,NA
+Lesotho,2022-04-09,NA,0,NA
+Liberia,2022-04-09,NA,0,NA
+Libya,2022-04-09,NA,0.862,NA
+Lithuania,2022-04-09,NA,2.602,NA
+Luxembourg,2022-04-09,NA,0,NA
+Madagascar,2022-04-09,NA,0,NA
+Malawi,2022-04-09,NA,0,NA
+Malaysia,2022-04-09,NA,0.641,NA
+Maldives,2022-04-09,NA,0,NA
+Mali,2022-04-09,NA,0,NA
+Malta,2022-04-09,NA,5.813,NA
+Mauritania,2022-04-09,NA,0,NA
+Mauritius,2022-04-09,NA,0,NA
+Mexico,2022-04-09,NA,0,NA
+Moldova,2022-04-09,NA,0.249,NA
+Mongolia,2022-04-09,NA,0,NA
+Montenegro,2022-04-09,NA,0,NA
+Morocco,2022-04-09,NA,0,NA
+Mozambique,2022-04-09,NA,0,NA
+Myanmar,2022-04-09,NA,0,NA
+Namibia,2022-04-09,NA,0,NA
+Nepal,2022-04-09,NA,0,NA
+Netherlands,2022-04-09,NA,0,NA
+New Zealand,2022-04-09,NA,2.341,NA
+Nicaragua,2022-04-09,NA,0,NA
+Niger,2022-04-09,NA,0,NA
+Nigeria,2022-04-09,NA,0,NA
+North Macedonia,2022-04-09,NA,1.921,NA
+Norway,2022-04-09,NA,0,NA
+Oman,2022-04-09,NA,0,NA
+Pakistan,2022-04-09,NA,0,NA
+Palestine,2022-04-09,NA,0,NA
+Panama,2022-04-09,NA,0,NA
+Papua New Guinea,2022-04-09,NA,0,NA
+Paraguay,2022-04-09,NA,0,NA
+Peru,2022-04-09,NA,0,NA
+Philippines,2022-04-09,NA,0.63,NA
+Poland,2022-04-09,NA,1.085,NA
+Portugal,2022-04-09,NA,0,NA
+Qatar,2022-04-09,NA,0,NA
+Romania,2022-04-09,NA,0.993,NA
+Russia,2022-04-09,NA,1.919,NA
+Rwanda,2022-04-09,NA,0,NA
+Sao Tome and Principe,2022-04-09,NA,0,NA
+Saudi Arabia,2022-04-09,NA,0,NA
+Senegal,2022-04-09,NA,0,NA
+Serbia,2022-04-09,NA,1.164,NA
+Seychelles,2022-04-09,NA,0,NA
+Sierra Leone,2022-04-09,NA,0,NA
+Singapore,2022-04-09,NA,0.367,NA
+Slovakia,2022-04-09,NA,4.771,NA
+Slovenia,2022-04-09,NA,1.924,NA
+Solomon Islands,2022-04-09,NA,0,NA
+Somalia,2022-04-09,NA,0,NA
+South Africa,2022-04-09,NA,0.2,NA
+South Korea,2022-04-09,NA,6.413,NA
+South Sudan,2022-04-09,NA,0,NA
+Spain,2022-04-09,NA,0,NA
+Sri Lanka,2022-04-09,NA,0,NA
+Sudan,2022-04-09,NA,0,NA
+Suriname,2022-04-09,NA,0,NA
+Sweden,2022-04-09,NA,0,NA
+Switzerland,2022-04-09,NA,0,NA
+Syria,2022-04-09,NA,0,NA
+Taiwan,2022-04-09,NA,0.042,NA
+Tajikistan,2022-04-09,NA,0,NA
+Tanzania,2022-04-09,NA,0,NA
+Thailand,2022-04-09,NA,1.544,NA
+Timor,2022-04-09,NA,0,NA
+Togo,2022-04-09,NA,0,NA
+Trinidad and Tobago,2022-04-09,NA,0,NA
+Tunisia,2022-04-09,NA,0,NA
+Turkey,2022-04-09,NA,0.412,NA
+Uganda,2022-04-09,NA,0,NA
+Ukraine,2022-04-09,NA,0,NA
+United Arab Emirates,2022-04-09,NA,0,NA
+United Kingdom,2022-04-09,NA,0,NA
+United States,2022-04-09,NA,0.832,NA
+Uruguay,2022-04-09,NA,0,NA
+Uzbekistan,2022-04-09,NA,0,NA
+Vanuatu,2022-04-09,NA,3.18,NA
+Venezuela,2022-04-09,NA,0.035,NA
+Vietnam,2022-04-09,NA,0.265,NA
+Yemen,2022-04-09,NA,0.033,NA
+Zambia,2022-04-09,NA,0,NA
+Zimbabwe,2022-04-09,NA,0,NA
