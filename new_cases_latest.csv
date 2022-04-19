@@ -1,10 +1,8 @@
 date,location,iso_a3,new_cases
 2022-04-18,Afghanistan,AFG,NA
 2022-04-18,Algeria,DZA,NA
-2022-04-18,Argentina,ARG,NA
 2022-04-18,Australia,AUS,NA
 2022-04-18,Austria,AUT,NA
-2022-04-18,Azerbaijan,AZE,NA
 2022-04-18,Bahrain,BHR,NA
 2022-04-18,Bangladesh,BGD,NA
 2022-04-18,Belarus,BLR,NA
@@ -16,16 +14,19 @@ date,location,iso_a3,new_cases
 2022-04-18,Central African Republic,CAF,NA
 2022-04-18,Chad,TCD,NA
 2022-04-18,Chile,CHL,NA
+2022-04-18,China,CHN,NA
 2022-04-18,Cote d'Ivoire,CIV,NA
 2022-04-18,Croatia,HRV,NA
 2022-04-18,Czechia,CZE,NA
 2022-04-18,Djibouti,DJI,NA
 2022-04-18,El Salvador,SLV,NA
+2022-04-18,Estonia,EST,NA
 2022-04-18,Eswatini,SWZ,NA
 2022-04-18,Ethiopia,ETH,NA
 2022-04-18,Fiji,FJI,NA
 2022-04-18,France,FRA,NA
 2022-04-18,Gabon,GAB,NA
+2022-04-18,Georgia,GEO,NA
 2022-04-18,Germany,DEU,NA
 2022-04-18,Ghana,GHA,NA
 2022-04-18,Greece,GRC,NA
@@ -38,6 +39,7 @@ date,location,iso_a3,new_cases
 2022-04-18,Italy,ITA,NA
 2022-04-18,Jamaica,JAM,NA
 2022-04-18,Japan,JPN,NA
+2022-04-18,Jordan,JOR,NA
 2022-04-18,Kazakhstan,KAZ,NA
 2022-04-18,Kenya,KEN,NA
 2022-04-18,Kuwait,KWT,NA
@@ -52,7 +54,6 @@ date,location,iso_a3,new_cases
 2022-04-18,Mali,MLI,NA
 2022-04-18,Malta,MLT,NA
 2022-04-18,Mauritania,MRT,NA
-2022-04-18,Moldova,MDA,NA
 2022-04-18,Mongolia,MNG,NA
 2022-04-18,Montenegro,MNE,NA
 2022-04-18,Morocco,MAR,NA
@@ -63,15 +64,18 @@ date,location,iso_a3,new_cases
 2022-04-18,Niger,NER,NA
 2022-04-18,Nigeria,NGA,NA
 2022-04-18,North Macedonia,MKD,NA
+2022-04-18,Norway,NOR,NA
 2022-04-18,Pakistan,PAK,NA
 2022-04-18,Papua New Guinea,PNG,NA
 2022-04-18,Philippines,PHL,NA
-2022-04-18,Qatar,QAT,NA
+2022-04-18,Poland,POL,NA
+2022-04-18,Romania,ROU,NA
 2022-04-18,Russia,RUS,NA
 2022-04-18,Rwanda,RWA,NA
 2022-04-18,Saudi Arabia,SAU,NA
 2022-04-18,Senegal,SEN,NA
 2022-04-18,Serbia,SRB,NA
+2022-04-18,Singapore,SGP,NA
 2022-04-18,Slovenia,SVN,NA
 2022-04-18,Solomon Islands,SLB,NA
 2022-04-18,South Africa,ZAF,NA
