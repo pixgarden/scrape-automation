@@ -1,10 +1,15 @@
 date,location,iso_a3,new_cases
+2022-04-18,Afghanistan,AFG,NA
 2022-04-18,Algeria,DZA,NA
+2022-04-18,Argentina,ARG,NA
 2022-04-18,Australia,AUS,NA
 2022-04-18,Austria,AUT,NA
+2022-04-18,Azerbaijan,AZE,NA
 2022-04-18,Bahrain,BHR,NA
 2022-04-18,Bangladesh,BGD,NA
 2022-04-18,Belarus,BLR,NA
+2022-04-18,Brazil,BRA,NA
+2022-04-18,Bulgaria,BGR,NA
 2022-04-18,Burundi,BDI,NA
 2022-04-18,Cambodia,KHM,NA
 2022-04-18,Cameroon,CMR,NA
@@ -15,25 +20,42 @@ date,location,iso_a3,new_cases
 2022-04-18,Croatia,HRV,NA
 2022-04-18,Czechia,CZE,NA
 2022-04-18,Djibouti,DJI,NA
+2022-04-18,El Salvador,SLV,NA
 2022-04-18,Eswatini,SWZ,NA
 2022-04-18,Ethiopia,ETH,NA
+2022-04-18,Fiji,FJI,NA
 2022-04-18,France,FRA,NA
 2022-04-18,Gabon,GAB,NA
 2022-04-18,Germany,DEU,NA
 2022-04-18,Ghana,GHA,NA
 2022-04-18,Greece,GRC,NA
 2022-04-18,Guinea-Bissau,GNB,NA
+2022-04-18,Hungary,HUN,NA
+2022-04-18,India,IND,NA
+2022-04-18,Indonesia,IDN,NA
 2022-04-18,Iran,IRN,NA
+2022-04-18,Israel,ISR,NA
 2022-04-18,Italy,ITA,NA
+2022-04-18,Jamaica,JAM,NA
+2022-04-18,Japan,JPN,NA
+2022-04-18,Kazakhstan,KAZ,NA
 2022-04-18,Kenya,KEN,NA
+2022-04-18,Kuwait,KWT,NA
+2022-04-18,Kyrgyzstan,KGZ,NA
 2022-04-18,Laos,LAO,NA
 2022-04-18,Latvia,LVA,NA
+2022-04-18,Lebanon,LBN,NA
 2022-04-18,Lesotho,LSO,NA
+2022-04-18,Lithuania,LTU,NA
 2022-04-18,Malawi,MWI,NA
 2022-04-18,Malaysia,MYS,NA
 2022-04-18,Mali,MLI,NA
 2022-04-18,Malta,MLT,NA
 2022-04-18,Mauritania,MRT,NA
+2022-04-18,Moldova,MDA,NA
+2022-04-18,Mongolia,MNG,NA
+2022-04-18,Montenegro,MNE,NA
+2022-04-18,Morocco,MAR,NA
 2022-04-18,Mozambique,MOZ,NA
 2022-04-18,Namibia,"NAM",NA
 2022-04-18,Nepal,NPL,NA
@@ -42,12 +64,25 @@ date,location,iso_a3,new_cases
 2022-04-18,Nigeria,NGA,NA
 2022-04-18,North Macedonia,MKD,NA
 2022-04-18,Pakistan,PAK,NA
+2022-04-18,Papua New Guinea,PNG,NA
+2022-04-18,Philippines,PHL,NA
+2022-04-18,Qatar,QAT,NA
 2022-04-18,Russia,RUS,NA
 2022-04-18,Rwanda,RWA,NA
+2022-04-18,Saudi Arabia,SAU,NA
 2022-04-18,Senegal,SEN,NA
 2022-04-18,Serbia,SRB,NA
+2022-04-18,Slovenia,SVN,NA
+2022-04-18,Solomon Islands,SLB,NA
+2022-04-18,South Africa,ZAF,NA
+2022-04-18,South Korea,KOR,NA
 2022-04-18,South Sudan,SSD,NA
+2022-04-18,Taiwan,TWN,NA
+2022-04-18,Thailand,THA,NA
 2022-04-18,Togo,TGO,NA
+2022-04-18,Turkey,TUR,NA
 2022-04-18,Uganda,UGA,NA
 2022-04-18,United Arab Emirates,ARE,NA
+2022-04-18,Uruguay,URY,NA
+2022-04-18,Zambia,ZMB,NA
 2022-04-18,Zimbabwe,ZWE,NA

@@ -1,10 +1,15 @@
 location,variable,value
+Afghanistan,share_cases,NA
 Algeria,share_cases,NA
+Argentina,share_cases,NA
 Australia,share_cases,NA
 Austria,share_cases,NA
+Azerbaijan,share_cases,NA
 Bahrain,share_cases,NA
 Bangladesh,share_cases,NA
 Belarus,share_cases,NA
+Brazil,share_cases,NA
+Bulgaria,share_cases,NA
 Burundi,share_cases,NA
 Cambodia,share_cases,NA
 Cameroon,share_cases,NA
@@ -15,25 +20,42 @@ Cote d'Ivoire,share_cases,NA
 Croatia,share_cases,NA
 Czechia,share_cases,NA
 Djibouti,share_cases,NA
+El Salvador,share_cases,NA
 Eswatini,share_cases,NA
 Ethiopia,share_cases,NA
+Fiji,share_cases,NA
 France,share_cases,NA
 Gabon,share_cases,NA
 Germany,share_cases,NA
 Ghana,share_cases,NA
 Greece,share_cases,NA
 Guinea-Bissau,share_cases,NA
+Hungary,share_cases,NA
+India,share_cases,NA
+Indonesia,share_cases,NA
 Iran,share_cases,NA
+Israel,share_cases,NA
 Italy,share_cases,NA
+Jamaica,share_cases,NA
+Japan,share_cases,NA
+Kazakhstan,share_cases,NA
 Kenya,share_cases,NA
+Kuwait,share_cases,NA
+Kyrgyzstan,share_cases,NA
 Laos,share_cases,NA
 Latvia,share_cases,NA
+Lebanon,share_cases,NA
 Lesotho,share_cases,NA
+Lithuania,share_cases,NA
 Malawi,share_cases,NA
 Malaysia,share_cases,NA
 Mali,share_cases,NA
 Malta,share_cases,NA
 Mauritania,share_cases,NA
+Moldova,share_cases,NA
+Mongolia,share_cases,NA
+Montenegro,share_cases,NA
+Morocco,share_cases,NA
 Mozambique,share_cases,NA
 Namibia,share_cases,NA
 Nepal,share_cases,NA
@@ -42,21 +64,39 @@ Niger,share_cases,NA
 Nigeria,share_cases,NA
 North Macedonia,share_cases,NA
 Pakistan,share_cases,NA
+Papua New Guinea,share_cases,NA
+Philippines,share_cases,NA
+Qatar,share_cases,NA
 Russia,share_cases,NA
 Rwanda,share_cases,NA
+Saudi Arabia,share_cases,NA
 Senegal,share_cases,NA
 Serbia,share_cases,NA
+Slovenia,share_cases,NA
+Solomon Islands,share_cases,NA
+South Africa,share_cases,NA
+South Korea,share_cases,NA
 South Sudan,share_cases,NA
+Taiwan,share_cases,NA
+Thailand,share_cases,NA
 Togo,share_cases,NA
+Turkey,share_cases,NA
 Uganda,share_cases,NA
 United Arab Emirates,share_cases,NA
+Uruguay,share_cases,NA
+Zambia,share_cases,NA
 Zimbabwe,share_cases,NA
+Afghanistan,share_deaths,NA
 Algeria,share_deaths,NA
+Argentina,share_deaths,NA
 Australia,share_deaths,NA
 Austria,share_deaths,NA
+Azerbaijan,share_deaths,NA
 Bahrain,share_deaths,NA
 Bangladesh,share_deaths,NA
 Belarus,share_deaths,NA
+Brazil,share_deaths,NA
+Bulgaria,share_deaths,NA
 Burundi,share_deaths,NA
 Cambodia,share_deaths,NA
 Cameroon,share_deaths,NA
@@ -67,25 +107,42 @@ Cote d'Ivoire,share_deaths,NA
 Croatia,share_deaths,NA
 Czechia,share_deaths,NA
 Djibouti,share_deaths,NA
+El Salvador,share_deaths,NA
 Eswatini,share_deaths,NA
 Ethiopia,share_deaths,NA
+Fiji,share_deaths,NA
 France,share_deaths,NA
 Gabon,share_deaths,NA
 Germany,share_deaths,NA
 Ghana,share_deaths,NA
 Greece,share_deaths,NA
 Guinea-Bissau,share_deaths,NA
+Hungary,share_deaths,NA
+India,share_deaths,NA
+Indonesia,share_deaths,NA
 Iran,share_deaths,NA
+Israel,share_deaths,NA
 Italy,share_deaths,NA
+Jamaica,share_deaths,NA
+Japan,share_deaths,NA
+Kazakhstan,share_deaths,NA
 Kenya,share_deaths,NA
+Kuwait,share_deaths,NA
+Kyrgyzstan,share_deaths,NA
 Laos,share_deaths,NA
 Latvia,share_deaths,NA
+Lebanon,share_deaths,NA
 Lesotho,share_deaths,NA
+Lithuania,share_deaths,NA
 Malawi,share_deaths,NA
 Malaysia,share_deaths,NA
 Mali,share_deaths,NA
 Malta,share_deaths,NA
 Mauritania,share_deaths,NA
+Moldova,share_deaths,NA
+Mongolia,share_deaths,NA
+Montenegro,share_deaths,NA
+Morocco,share_deaths,NA
 Mozambique,share_deaths,NA
 Namibia,share_deaths,NA
 Nepal,share_deaths,NA
@@ -94,12 +151,25 @@ Niger,share_deaths,NA
 Nigeria,share_deaths,NA
 North Macedonia,share_deaths,NA
 Pakistan,share_deaths,NA
+Papua New Guinea,share_deaths,NA
+Philippines,share_deaths,NA
+Qatar,share_deaths,NA
 Russia,share_deaths,NA
 Rwanda,share_deaths,NA
+Saudi Arabia,share_deaths,NA
 Senegal,share_deaths,NA
 Serbia,share_deaths,NA
+Slovenia,share_deaths,NA
+Solomon Islands,share_deaths,NA
+South Africa,share_deaths,NA
+South Korea,share_deaths,NA
 South Sudan,share_deaths,NA
+Taiwan,share_deaths,NA
+Thailand,share_deaths,NA
 Togo,share_deaths,NA
+Turkey,share_deaths,NA
 Uganda,share_deaths,NA
 United Arab Emirates,share_deaths,NA
+Uruguay,share_deaths,NA
+Zambia,share_deaths,NA
 Zimbabwe,share_deaths,NA
