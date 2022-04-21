@@ -1,12 +1,12 @@
 date,location,iso_a3,variable,value,tooltip
 2022-04-19,Afghanistan,AFG,20-days average,-0.1,Afghanistan -0.1
 2022-04-19,Albania,ALB,20-days average,-3.2,Albania -3.2
-2022-04-19,Algeria,DZA,20-days average,-0.3,Algeria -0.3
+2022-04-20,Algeria,DZA,20-days average,-0.45,Algeria -0.45
 2022-04-19,Angola,AGO,20-days average,4.65,Angola 4.65
 2022-04-19,Argentina,ARG,20-days average,-148.25,Argentina -148.2
 2022-04-19,Armenia,ARM,20-days average,0,Armenia 0
-2022-04-19,Australia,AUS,20-days average,-482.95,Australia -482.9
-2022-04-19,Austria,AUT,20-days average,-1467.4,"Austria -1,467"
+2022-04-20,Australia,AUS,20-days average,-3269.25,"Australia -3,269"
+2022-04-20,Austria,AUT,20-days average,-1294.65,"Austria -1,295"
 2022-04-19,Azerbaijan,AZE,20-days average,-1.8,Azerbaijan -1.8
 2022-04-19,Bahrain,BHR,20-days average,-13.4,Bahrain -13.4
 2022-04-19,Bangladesh,BGD,20-days average,-1.1,Bangladesh -1.1
@@ -24,11 +24,11 @@ date,location,iso_a3,variable,value,tooltip
 2022-04-19,Burundi,BDI,20-days average,4.1,Burundi 4.1
 2022-04-19,Cambodia,KHM,20-days average,-0.95,Cambodia -0.95
 2022-04-19,Cameroon,CMR,20-days average,0,Cameroon 0
-2022-04-19,Canada,CAN,20-days average,-154.15,Canada -154.2
+2022-04-20,Canada,CAN,20-days average,-439.55,Canada -439.6
 2022-04-19,Cape Verde,CPV,20-days average,0.1,Cape Verde 0.1
 2022-04-19,Central African Republic,CAF,20-days average,0,Central African Republic 0
 2022-04-19,Chad,TCD,20-days average,0,Chad 0
-2022-04-19,Chile,CHL,20-days average,-240.3,Chile -240.3
+2022-04-20,Chile,CHL,20-days average,-325.55,Chile -325.6
 2022-04-19,China,CHN,20-days average,1188.6,"China 1,189"
 2022-04-19,Colombia,COL,20-days average,-5.2,Colombia -5.2
 2022-04-19,Comoros,COM,20-days average,0.1,Comoros 0.1
@@ -38,9 +38,9 @@ date,location,iso_a3,variable,value,tooltip
 2022-04-19,Croatia,HRV,20-days average,-108.9,Croatia -108.9
 2022-04-19,Cuba,CUB,20-days average,-28.75,Cuba -28.75
 2022-04-19,Cyprus,CYP,20-days average,-167.65,Cyprus -167.7
-2022-04-19,Czechia,CZE,20-days average,-191.45,Czechia -191.4
+2022-04-20,Czechia,CZE,20-days average,-325.45,Czechia -325.4
 2022-04-19,Democratic Republic of Congo,COD,20-days average,-1.65,Democratic Republic of Congo -1.65
-2022-04-19,Denmark,DNK,20-days average,-69.8,Denmark -69.8
+2022-04-20,Denmark,DNK,20-days average,-196.55,Denmark -196.6
 2022-04-19,Djibouti,DJI,20-days average,0,Djibouti 0
 2022-04-19,Dominican Republic,DOM,20-days average,-5.5,Dominican Republic -5.5
 2022-04-19,Ecuador,ECU,20-days average,-32.1,Ecuador -32.1
@@ -52,12 +52,12 @@ date,location,iso_a3,variable,value,tooltip
 2022-04-19,Eswatini,SWZ,20-days average,-1.15,Eswatini -1.15
 2022-04-19,Ethiopia,ETH,20-days average,-0.4,Ethiopia -0.4
 2022-04-19,Fiji,FJI,20-days average,-0.5,Fiji -0.5
-2022-04-19,Finland,FIN,20-days average,-466,Finland -466
-2022-04-19,France,FRA,20-days average,-7177.95,"France -7,178"
+2022-04-20,Finland,FIN,20-days average,-477.05,Finland -477.1
+2022-04-20,France,FRA,20-days average,-8484.85,"France -8,485"
 2022-04-19,Gabon,GAB,20-days average,0,Gabon 0
 2022-04-19,Gambia,GMB,20-days average,0,Gambia 0
 2022-04-19,Georgia,GEO,20-days average,-10.55,Georgia -10.55
-2022-04-19,Germany,DEU,20-days average,-3494.7,"Germany -3,495"
+2022-04-20,Germany,DEU,20-days average,-26374.35,Germany -2.637e+04
 2022-04-19,Ghana,GHA,20-days average,0.65,Ghana 0.65
 2022-04-19,Greece,GRC,20-days average,-612,Greece -612
 2022-04-19,Guatemala,GTM,20-days average,-31.25,Guatemala -31.25
@@ -75,7 +75,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-04-19,Iraq,IRQ,20-days average,-6,Iraq -6
 2022-04-19,Ireland,IRL,20-days average,68.2,Ireland 68.2
 2022-04-19,Israel,ISR,20-days average,-295.2,Israel -295.2
-2022-04-19,Italy,ITA,20-days average,-2204.25,"Italy -2,204"
+2022-04-20,Italy,ITA,20-days average,-3718.2,"Italy -3,718"
 2022-04-19,Jamaica,JAM,20-days average,1.15,Jamaica 1.15
 2022-04-19,Japan,JPN,20-days average,-639.15,Japan -639.1
 2022-04-19,Jordan,JOR,20-days average,23.75,Jordan 23.75
@@ -93,7 +93,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-04-19,Luxembourg,LUX,20-days average,-1.45,Luxembourg -1.45
 2022-04-19,Madagascar,MDG,20-days average,0,Madagascar 0
 2022-04-19,Malawi,MWI,20-days average,-0.3,Malawi -0.3
-2022-04-19,Malaysia,MYS,20-days average,-493.6,Malaysia -493.6
+2022-04-20,Malaysia,MYS,20-days average,-928,Malaysia -928
 2022-04-19,Maldives,MDV,20-days average,28.15,Maldives 28.15
 2022-04-19,Mali,MLI,20-days average,0.25,Mali 0.25
 2022-04-19,Malta,MLT,20-days average,-69.75,Malta -69.75
@@ -108,7 +108,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-04-19,Myanmar,MMR,20-days average,-5.85,Myanmar -5.85
 2022-04-19,Namibia,"NAM",20-days average,1.9,Namibia 1.9
 2022-04-19,Nepal,NPL,20-days average,-0.75,Nepal -0.75
-2022-04-19,Netherlands,NLD,20-days average,-844.3,Netherlands -844.3
+2022-04-20,Netherlands,NLD,20-days average,-1272.2,"Netherlands -1,272"
 2022-04-19,New Zealand,NZL,20-days average,214.9,New Zealand 214.9
 2022-04-19,Nicaragua,NIC,20-days average,0,Nicaragua 0
 2022-04-19,Niger,NER,20-days average,0.5,Niger 0.5
@@ -127,12 +127,12 @@ date,location,iso_a3,variable,value,tooltip
 2022-04-19,Portugal,PRT,20-days average,1304.2,"Portugal 1,304"
 2022-04-19,Qatar,QAT,20-days average,-1.15,Qatar -1.15
 2022-04-19,Romania,ROU,20-days average,-102.95,Romania -103
-2022-04-19,Russia,RUS,20-days average,-562.2,Russia -562.2
+2022-04-20,Russia,RUS,20-days average,-946.25,Russia -946.2
 2022-04-19,Rwanda,RWA,20-days average,0.25,Rwanda 0.25
 2022-04-19,Sao Tome and Principe,STP,20-days average,0,Sao Tome and Principe 0
 2022-04-19,Saudi Arabia,SAU,20-days average,1.25,Saudi Arabia 1.25
 2022-04-19,Senegal,SEN,20-days average,-0.25,Senegal -0.25
-2022-04-19,Serbia,SRB,20-days average,-45.25,Serbia -45.25
+2022-04-20,Serbia,SRB,20-days average,-95.75,Serbia -95.75
 2022-04-19,Seychelles,SYC,20-days average,-10.6,Seychelles -10.6
 2022-04-19,Sierra Leone,SLE,20-days average,0,Sierra Leone 0
 2022-04-19,Singapore,SGP,20-days average,-50.55,Singapore -50.55
