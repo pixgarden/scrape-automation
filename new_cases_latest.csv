@@ -1,11 +1,16 @@
 date,location,iso_a3,new_cases
 2022-04-29,Algeria,DZA,NA
+2022-04-29,Argentina,ARG,NA
 2022-04-29,Australia,AUS,NA
 2022-04-29,Austria,AUT,NA
+2022-04-29,Azerbaijan,AZE,NA
 2022-04-29,Bahrain,BHR,NA
 2022-04-29,Belarus,BLR,NA
+2022-04-29,Brazil,BRA,NA
+2022-04-29,Bulgaria,BGR,NA
 2022-04-29,Cambodia,KHM,NA
 2022-04-29,Chile,CHL,NA
+2022-04-29,China,CHN,NA
 2022-04-29,Croatia,HRV,NA
 2022-04-29,Czechia,CZE,NA
 2022-04-29,Denmark,DNK,NA
@@ -13,18 +18,40 @@ date,location,iso_a3,new_cases
 2022-04-29,France,FRA,NA
 2022-04-29,Germany,DEU,NA
 2022-04-29,Greece,GRC,NA
+2022-04-29,Guatemala,GTM,NA
+2022-04-29,Guyana,GUY,NA
 2022-04-29,India,IND,NA
+2022-04-29,Indonesia,IDN,NA
 2022-04-29,Ireland,IRL,NA
 2022-04-29,Israel,ISR,NA
 2022-04-29,Italy,ITA,NA
+2022-04-29,Jamaica,JAM,NA
+2022-04-29,Kazakhstan,KAZ,NA
+2022-04-29,Kyrgyzstan,KGZ,NA
 2022-04-29,Laos,LAO,NA
 2022-04-29,Latvia,LVA,NA
+2022-04-29,Lithuania,LTU,NA
 2022-04-29,Malaysia,MYS,NA
 2022-04-29,Malta,MLT,NA
+2022-04-29,Mongolia,MNG,NA
+2022-04-29,Montenegro,MNE,NA
 2022-04-29,Nepal,NPL,NA
 2022-04-29,Netherlands,NLD,NA
 2022-04-29,New Zealand,NZL,NA
+2022-04-29,Nicaragua,NIC,NA
 2022-04-29,Pakistan,PAK,NA
+2022-04-29,Panama,PAN,NA
+2022-04-29,Qatar,QAT,NA
 2022-04-29,Russia,RUS,NA
 2022-04-29,Serbia,SRB,NA
+2022-04-29,Slovenia,SVN,NA
+2022-04-29,South Africa,ZAF,NA
+2022-04-29,South Korea,KOR,NA
+2022-04-29,Taiwan,TWN,NA
+2022-04-29,Thailand,THA,NA
+2022-04-29,Trinidad and Tobago,TTO,NA
+2022-04-29,Turkey,TUR,NA
 2022-04-29,United Arab Emirates,ARE,NA
+2022-04-29,Uruguay,URY,NA
+2022-04-29,Zambia,ZMB,NA
+2022-04-29,Zimbabwe,ZWE,NA
