@@ -1,2 +1,28 @@
 country_text_id,country_name,year,v2x_libdem,v2x_regime,Regime,date,location,total_cases_per_million,label
+ARE,United Arab Emirates,2020,0.091,0,Closed autocracy,2022-04-30,United Arab Emirates,NA,United Arab Emirates:NA
+AUS,Australia,2020,0.787,3,Liberal democracy,2022-04-30,Australia,NA,Australia:NA
+AZE,Azerbaijan,2020,0.066,1,Electoral autocracy,2022-04-30,Azerbaijan,NA,Azerbaijan:NA
+BGR,Bulgaria,2020,0.491,2,Electoral democracy,2022-04-30,Bulgaria,NA,Bulgaria:NA
 DEU,Germany,2020,0.833,3,Liberal democracy,2022-04-30,Germany,NA,Germany:NA
+GEO,Georgia,2020,0.506,2,Electoral democracy,2022-04-30,Georgia,NA,Georgia:NA
+GRC,Greece,2020,0.744,3,Liberal democracy,2022-04-30,Greece,NA,Greece:NA
+IDN,Indonesia,2020,0.448,2,Electoral democracy,2022-04-30,Indonesia,NA,Indonesia:NA
+IND,India,2020,0.34,1,Electoral autocracy,2022-04-30,India,NA,India:NA
+IRN,Iran,2020,0.142,1,Electoral autocracy,2022-04-30,Iran,NA,Iran:NA
+ISR,Israel,2020,0.648,3,Liberal democracy,2022-04-30,Israel,NA,Israel:NA
+ITA,Italy,2020,0.785,3,Liberal democracy,2022-04-30,Italy,NA,Italy:NA
+KGZ,Kyrgyzstan,2020,0.291,1,Electoral autocracy,2022-04-30,Kyrgyzstan,NA,Kyrgyzstan:NA
+KOR,South Korea,2020,0.792,3,Liberal democracy,2022-04-30,South Korea,NA,South Korea:NA
+MNE,Montenegro,2020,0.347,1,Electoral autocracy,2022-04-30,Montenegro,NA,Montenegro:NA
+MYS,Malaysia,2020,0.284,1,Electoral autocracy,2022-04-30,Malaysia,NA,Malaysia:NA
+NPL,Nepal,2020,0.446,2,Electoral democracy,2022-04-30,Nepal,NA,Nepal:NA
+PAK,Pakistan,2020,0.25,1,Electoral autocracy,2022-04-30,Pakistan,NA,Pakistan:NA
+QAT,Qatar,2020,0.095,0,Closed autocracy,2022-04-30,Qatar,NA,Qatar:NA
+RUS,Russia,2020,0.104,1,Electoral autocracy,2022-04-30,Russia,NA,Russia:NA
+SVN,Slovenia,2020,0.651,2,Electoral democracy,2022-04-30,Slovenia,NA,Slovenia:NA
+THA,Thailand,2020,0.175,0,Closed autocracy,2022-04-30,Thailand,NA,Thailand:NA
+TTO,Trinidad and Tobago,2020,0.643,2,Electoral democracy,2022-04-30,Trinidad and Tobago,NA,Trinidad and Tobago:NA
+TUR,Turkey,2020,0.111,1,Electoral autocracy,2022-04-30,Turkey,NA,Turkey:NA
+URY,Uruguay,2020,0.795,3,Liberal democracy,2022-04-30,Uruguay,NA,Uruguay:NA
+ZAF,South Africa,2020,0.577,2,Electoral democracy,2022-04-30,South Africa,NA,South Africa:NA
+ZWE,Zimbabwe,2020,0.192,1,Electoral autocracy,2022-04-30,Zimbabwe,NA,Zimbabwe:NA
