@@ -1,6 +1,6 @@
 location,iso_code,date,total_boosters_per_hundred
 Afghanistan,AFG,2022-05-08,0
-Albania,ALB,2022-05-08,10.11
+Albania,ALB,2022-05-08,10.13
 Algeria,DZA,2022-05-08,1.15
 Angola,AGO,2022-05-08,1.09
 Argentina,ARG,2022-05-08,47.03
@@ -76,7 +76,7 @@ Iraq,IRQ,2022-05-08,0.41
 Ireland,IRL,2022-05-08,60.23
 Israel,ISR,2022-05-08,56.97
 Italy,ITA,2022-05-08,66.1
-Jamaica,JAM,2022-05-08,1.26
+Jamaica,JAM,2022-05-08,1.27
 Japan,JPN,2022-05-08,53.9
 Jordan,JOR,2022-05-08,6.37
 Kazakhstan,KAZ,2022-05-08,13.24
@@ -161,7 +161,7 @@ Tunisia,TUN,2022-05-08,10.28
 Turkey,TUR,2022-05-08,43.13
 Uganda,UGA,2022-05-08,0.12
 Ukraine,UKR,2022-05-08,1.71
-United Arab Emirates,ARE,2022-05-08,51.6
+United Arab Emirates,ARE,2022-05-08,51.53
 United Kingdom,GBR,2022-05-08,57.55
 United States,USA,2022-05-08,30.49
 Uruguay,URY,2022-05-08,67.17
