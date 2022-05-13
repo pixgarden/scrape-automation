@@ -1,8 +1,8 @@
 country,country_code,year_week,source,new_cases,number_sequenced,percent_cases_sequenced,valid_denominator,variant,number_detections_variant,number_sequenced_known_variant,percent_variant,Variant
-Austria,AT,2022-17,TESSy,41105,22064,53.7,Yes,B.1.1.529,21968,22064,99.6,Omicron
-Austria,AT,2022-17,TESSy,41105,22064,53.7,Yes,B.1.617.2,6,22064,0,Delta
-Austria,AT,2022-17,TESSy,41105,22064,53.7,Yes,Other,88,22064,0.4,Other
-Austria,AT,2022-17,TESSy,41105,22064,53.7,Yes,P.1,2,22064,0,Gamma
+Austria,AT,2022-17,TESSy,73062,22064,30.2,Yes,B.1.1.529,21968,22064,99.6,Omicron
+Austria,AT,2022-17,TESSy,73062,22064,30.2,Yes,B.1.617.2,6,22064,0,Delta
+Austria,AT,2022-17,TESSy,73062,22064,30.2,Yes,Other,88,22064,0.4,Other
+Austria,AT,2022-17,TESSy,73062,22064,30.2,Yes,P.1,2,22064,0,Gamma
 Belgium,BE,2022-17,TESSy,32642,256,0.8,Yes,B.1.1.529,249,250,99.6,Omicron
 Belgium,BE,2022-17,TESSy,32642,256,0.8,Yes,Other,1,250,0.4,Other
 Belgium,BE,2022-17,TESSy,32642,256,0.8,Yes,UNK,6,NA,0,Other
@@ -31,7 +31,7 @@ Latvia,LV,2022-16,TESSy,4140,606,14.6,Yes,B.1.1.529,606,606,100,Omicron
 Liechtenstein,LI,2022-01,TESSy,480,267,55.6,Yes,B.1.1.529,267,267,100,Omicron
 Lithuania,LT,2022-16,TESSy,6018,515,8.6,Yes,B.1.1.529,512,515,99.4,Omicron
 Lithuania,LT,2022-16,TESSy,6018,515,8.6,Yes,Other,3,515,0.6,Other
-Luxembourg,LU,2022-17,TESSy,8492,1574,18.5,Yes,B.1.1.529,1574,1574,100,Omicron
+Luxembourg,LU,2022-17,TESSy,4246,844,19.9,Yes,B.1.1.529,844,844,100,Omicron
 Malta,MT,2022-11,TESSy,1906,43,2.3,Yes,B.1.1.529,43,43,100,Omicron
 Netherlands,NL,2022-16,TESSy,17323,691,4,Yes,B.1.1.529,685,691,99.1,Omicron
 Netherlands,NL,2022-16,TESSy,17323,691,4,Yes,Other,6,691,0.9,Other
