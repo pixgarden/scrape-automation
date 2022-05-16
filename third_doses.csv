@@ -1,6 +1,6 @@
 location,iso_code,date,total_boosters_per_hundred
 Afghanistan,AFG,2022-05-15,0
-Albania,ALB,2022-05-15,10.13
+Albania,ALB,2022-05-15,10.29
 Algeria,DZA,2022-05-15,1.15
 Angola,AGO,2022-05-15,1.09
 Argentina,ARG,2022-05-15,49.19
@@ -22,9 +22,9 @@ Brazil,BRA,2022-05-15,43.08
 Bulgaria,BGR,2022-05-15,10.92
 Burkina Faso,BFA,2022-05-15,0
 Burundi,BDI,2022-05-15,0
-Cambodia,KHM,2022-05-15,50.77
+Cambodia,KHM,2022-05-15,50.67
 Cameroon,CMR,2022-05-15,0.19
-Canada,CAN,2022-05-15,53.87
+Canada,CAN,2022-05-15,54.17
 Cape Verde,CPV,2022-05-15,0.01
 Central African Republic,CAF,2022-05-15,0
 Chad,TCD,2022-05-15,0
@@ -51,7 +51,7 @@ Eritrea,ERI,2022-05-15,0
 Estonia,EST,2022-05-15,35.4
 Eswatini,SWZ,2022-05-15,5.66
 Ethiopia,ETH,2022-05-15,0.29
-Fiji,FJI,2022-05-15,13.89
+Fiji,FJI,2022-05-15,14.06
 Finland,FIN,2022-05-15,52.9
 France,FRA,2022-05-15,56.16
 Gabon,GAB,2022-05-15,0.09
@@ -121,7 +121,7 @@ Pakistan,PAK,2022-05-15,3.27
 Palestine,PSE,2022-05-15,6.27
 Panama,PAN,2022-05-15,35.98
 Papua New Guinea,PNG,2022-05-15,0
-Paraguay,PRY,2022-05-15,17.92
+Paraguay,PRY,2022-05-15,18.91
 Peru,PER,2022-05-15,51.45
 Philippines,PHL,2022-05-15,12.17
 Poland,POL,2022-05-15,31.77
@@ -139,7 +139,7 @@ Sierra Leone,SLE,2022-05-15,0.07
 Singapore,SGP,2022-05-15,73.88
 Slovakia,SVK,2022-05-15,30.26
 Slovenia,SVN,2022-05-15,31.37
-Solomon Islands,SLB,2022-05-15,0
+Solomon Islands,SLB,2022-05-15,0.33
 Somalia,SOM,2022-05-15,0
 South Africa,ZAF,2022-05-15,4.93
 South Korea,KOR,2022-05-15,71.52
@@ -167,7 +167,7 @@ United Kingdom,GBR,2022-05-15,57.69
 United States,USA,2022-05-15,30.79
 Uruguay,URY,2022-05-15,69.08
 Uzbekistan,UZB,2022-05-15,13.47
-Vanuatu,VUT,2022-05-15,0
+Vanuatu,VUT,2022-05-15,3.37
 Venezuela,VEN,2022-05-15,2.27
 Vietnam,VNM,2022-05-15,46.29
 Yemen,YEM,2022-05-15,0
