@@ -1,10 +1,35 @@
 location,iso_code,date,total_boosters_per_hundred
+Argentina,ARG,2022-05-15,49.19
 Australia,AUS,2022-05-15,52.49
 Austria,AUT,2022-05-15,57.78
+Brazil,BRA,2022-05-15,43.08
+Bulgaria,BGR,2022-05-15,10.92
 Chile,CHL,2022-05-15,100.45
+China,CHN,2022-05-15,52.82
 Czechia,CZE,2022-05-15,39.01
+Georgia,GEO,2022-05-15,2.03
 Germany,DEU,2022-05-15,64.47
-Israel,ISR,2022-05-15,57.01
-Italy,ITA,2022-05-15,66.48
+Greece,GRC,2022-05-15,57.84
+Hong Kong,HKG,2022-05-15,46.76
+India,IND,2022-05-15,2.12
+Indonesia,IDN,2022-05-15,13.55
+Iran,IRN,2022-05-15,32.13
+Israel,ISR,2022-05-15,57.02
+Italy,ITA,2022-05-15,66.49
+Japan,JPN,2022-05-15,56.3
+Kyrgyzstan,KGZ,2022-05-15,0
 Malaysia,MYS,2022-05-15,49.01
+Nepal,NPL,2022-05-15,12.57
+New Zealand,NZL,2022-05-15,52.23
+Pakistan,PAK,2022-05-15,3.27
+Qatar,QAT,2022-05-15,53.57
 Russia,RUS,2022-05-15,9.73
+Slovenia,SVN,2022-05-15,31.37
+South Africa,ZAF,2022-05-15,4.93
+South Korea,KOR,2022-05-15,71.52
+Taiwan,TWN,2022-05-15,62.27
+Thailand,THA,2022-05-15,38.34
+Trinidad and Tobago,TTO,2022-05-15,10.89
+Turkey,TUR,2022-05-15,43.21
+United Arab Emirates,ARE,2022-05-15,52.02
+Zimbabwe,ZWE,2022-05-15,6.1
