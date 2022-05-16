@@ -1,6 +1,8 @@
 location,date,people_vaccinated_per_hundred,new_deaths_per_million,vaxx_lag
+Australia,2022-05-15,86.46,0,86.39
 Austria,2022-05-15,75.47,0,75.46
 Chile,2022-05-15,93.34,0,93.25
+Czechia,2022-05-15,64.9,0,64.88
 Germany,2022-05-15,76.9,0,76.88
 Israel,2022-05-15,72.2,0,72.19
 Italy,2022-05-15,84.11,0,84.09

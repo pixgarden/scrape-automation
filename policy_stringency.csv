@@ -1,6 +1,8 @@
 location,date,stringency_index,new_deaths_per_million,stringency_lag
+Australia,2022-05-15,43.06,0,43.06
 Austria,2022-05-15,37.96,0,37.96
 Chile,2022-05-15,27.31,0,27.31
+Czechia,2022-05-15,14.81,0,23.15
 Germany,2022-05-15,26.85,0,26.85
 Israel,2022-05-15,17.59,0,17.59
 Italy,2022-05-15,38.89,0,53.7
