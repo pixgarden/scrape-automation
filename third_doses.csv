@@ -1,20 +1,20 @@
 location,iso_code,date,total_boosters_per_hundred
 Afghanistan,AFG,2022-05-19,0
-Albania,ALB,2022-05-19,10.29
+Albania,ALB,2022-05-19,10.54
 Algeria,DZA,2022-05-19,1.15
 Angola,AGO,2022-05-19,1.09
 Argentina,ARG,2022-05-19,50.08
-Armenia,ARM,2022-05-19,1.41
+Armenia,ARM,2022-05-19,1.36
 Australia,AUS,2022-05-19,52.74
 Austria,AUT,2022-05-19,57.92
 Azerbaijan,AZE,2022-05-19,31.92
 Bahrain,BHR,2022-05-19,56.3
 Bangladesh,BGD,2022-05-19,8.39
 Barbados,BRB,2022-05-19,0
-Belarus,BLR,2022-05-19,7.32
+Belarus,BLR,2022-05-19,7.54
 Belgium,BEL,2022-05-19,63.47
 Benin,BEN,2022-05-19,0
-Bhutan,BTN,2022-05-19,69.59
+Bhutan,BTN,2022-05-19,69.63
 Bolivia,BOL,2022-05-19,12.07
 Bosnia and Herzegovina,BIH,2022-05-19,3.69
 Botswana,BWA,2022-05-19,13.67
@@ -30,7 +30,7 @@ Central African Republic,CAF,2022-05-19,0
 Chad,TCD,2022-05-19,0
 Chile,CHL,2022-05-19,104.64
 China,CHN,2022-05-19,52.82
-Colombia,COL,2022-05-19,22.62
+Colombia,COL,2022-05-19,23.54
 Comoros,COM,2022-05-19,0
 Congo,COG,2022-05-19,0
 Costa Rica,CRI,2022-05-19,44.02
@@ -94,7 +94,7 @@ Luxembourg,LUX,2022-05-19,59.47
 Madagascar,MDG,2022-05-19,0.09
 Malawi,MWI,2022-05-19,0.03
 Malaysia,MYS,2022-05-19,49.05
-Maldives,MDV,2022-05-19,29.25
+Maldives,MDV,2022-05-19,29.34
 Mali,MLI,2022-05-19,0
 Malta,MLT,2022-05-19,73.55
 Mauritania,MRT,2022-05-19,1.13
@@ -114,7 +114,7 @@ Nicaragua,NIC,2022-05-19,0
 Niger,NER,2022-05-19,0
 Nigeria,NGA,2022-05-19,0.45
 North Korea,PRK,2022-05-19,0
-North Macedonia,MKD,2022-05-19,7.55
+North Macedonia,MKD,2022-05-19,7.57
 Norway,NOR,2022-05-19,53.79
 Oman,OMN,2022-05-19,14.32
 Pakistan,PAK,2022-05-19,3.35
@@ -145,17 +145,17 @@ South Africa,ZAF,2022-05-19,5.04
 South Korea,KOR,2022-05-19,72.03
 South Sudan,SSD,2022-05-19,0
 Spain,ESP,2022-05-19,53.25
-Sri Lanka,LKA,2022-05-19,37.08
+Sri Lanka,LKA,2022-05-19,37.09
 Sudan,SDN,2022-05-19,0.09
 Suriname,SUR,2022-05-19,8.19
 Sweden,SWE,2022-05-19,52.56
 Switzerland,CHE,2022-05-19,42.91
 Syria,SYR,2022-05-19,0.09
 Taiwan,TWN,2022-05-19,62.94
-Tajikistan,TJK,2022-05-19,21.85
+Tajikistan,TJK,2022-05-19,23.98
 Tanzania,TZA,2022-05-19,0
 Thailand,THA,2022-05-19,38.75
-Timor,TLS,2022-05-19,5.11
+Timor,TLS,2022-05-19,5.74
 Togo,TGO,2022-05-19,0.99
 Trinidad and Tobago,TTO,2022-05-19,10.93
 Tunisia,TUN,2022-05-19,10.42
@@ -164,9 +164,9 @@ Uganda,UGA,2022-05-19,0.14
 Ukraine,UKR,2022-05-19,1.71
 United Arab Emirates,ARE,2022-05-19,52.19
 United Kingdom,GBR,2022-05-19,57.87
-United States,USA,2022-05-19,30.88
+United States,USA,2022-05-19,30.9
 Uruguay,URY,2022-05-19,69.7
-Uzbekistan,UZB,2022-05-19,13.47
+Uzbekistan,UZB,2022-05-19,18.22
 Vanuatu,VUT,2022-05-19,3.37
 Venezuela,VEN,2022-05-19,2.27
 Vietnam,VNM,2022-05-19,56.43
