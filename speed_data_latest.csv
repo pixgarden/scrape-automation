@@ -29,7 +29,7 @@ date,location,iso_code,variable,value
 2022-05-24,Central African Republic,CAF,20-days average,0
 2022-05-24,Chad,TCD,20-days average,0
 2022-05-24,Chile,CHL,20-days average,59.1
-2022-05-24,China,CHN,20-days average,-522.9
+2022-05-24,China,CHN,20-days average,-519.75
 2022-05-24,Colombia,COL,20-days average,0
 2022-05-24,Comoros,COM,20-days average,0
 2022-05-24,Congo,COG,20-days average,0
@@ -53,7 +53,7 @@ date,location,iso_code,variable,value
 2022-05-24,Ethiopia,ETH,20-days average,3.3
 2022-05-24,Fiji,FJI,20-days average,0
 2022-05-24,Finland,FIN,20-days average,0
-2022-05-24,France,FRA,20-days average,-789.95
+2022-05-24,France,FRA,20-days average,-794.8
 2022-05-24,Gabon,GAB,20-days average,0
 2022-05-24,Gambia,GMB,20-days average,0.15
 2022-05-24,Georgia,GEO,20-days average,0
@@ -66,7 +66,7 @@ date,location,iso_code,variable,value
 2022-05-24,Guyana,GUY,20-days average,0.9
 2022-05-24,Haiti,HTI,20-days average,1.45
 2022-05-24,Honduras,HND,20-days average,-0.95
-2022-05-22,Hong Kong,HKG,20-days average,0
+2022-05-24,Hong Kong,HKG,20-days average,-3.15
 2022-05-24,Hungary,HUN,20-days average,0
 2022-05-24,Iceland,ISL,20-days average,20.1
 2022-05-24,India,IND,20-days average,-57.55
@@ -108,8 +108,8 @@ date,location,iso_code,variable,value
 2022-05-24,Myanmar,MMR,20-days average,-0.8
 2022-05-24,Namibia,"NAM",20-days average,4.9
 2022-05-24,Nepal,NPL,20-days average,-0.4
-2022-05-24,Netherlands,NLD,20-days average,-36.7
-2022-05-24,New Zealand,NZL,20-days average,-21.15
+2022-05-24,Netherlands,NLD,20-days average,-24.65
+2022-05-24,New Zealand,NZL,20-days average,-22.5
 2022-05-24,Nicaragua,NIC,20-days average,0
 2022-05-24,Niger,NER,20-days average,-0.15
 2022-05-24,Nigeria,NGA,20-days average,1.75
@@ -164,7 +164,7 @@ date,location,iso_code,variable,value
 2022-05-24,Uganda,UGA,20-days average,8.9
 2022-05-24,Ukraine,UKR,20-days average,0
 2022-05-24,United Arab Emirates,ARE,20-days average,5.9
-2022-05-24,United Kingdom,GBR,20-days average,-579.85
+2022-05-24,United Kingdom,GBR,20-days average,-524.1
 2022-05-24,United States,USA,20-days average,-57.95
 2022-05-24,Uruguay,URY,20-days average,415.5
 2022-05-24,Uzbekistan,UZB,20-days average,-0.15

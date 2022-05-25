@@ -29,7 +29,7 @@ date,location,iso_a3,new_cases
 2022-05-24,Central African Republic,CAF,0
 2022-05-24,Chad,TCD,0
 2022-05-24,Chile,CHL,3715
-2022-05-24,China,CHN,4586
+2022-05-24,China,CHN,4336
 2022-05-24,Colombia,COL,NA
 2022-05-24,Comoros,COM,0
 2022-05-24,Congo,COG,0
@@ -53,7 +53,7 @@ date,location,iso_a3,new_cases
 2022-05-24,Ethiopia,ETH,104
 2022-05-24,Fiji,FJI,0
 2022-05-24,Finland,FIN,NA
-2022-05-24,France,FRA,32281
+2022-05-24,France,FRA,32029
 2022-05-24,Gabon,GAB,0
 2022-05-24,Gambia,GMB,3
 2022-05-24,Georgia,GEO,0
@@ -66,6 +66,7 @@ date,location,iso_a3,new_cases
 2022-05-24,Guyana,GUY,45
 2022-05-24,Haiti,HTI,35
 2022-05-24,Honduras,HND,0
+2022-05-24,Hong Kong,HKG,250
 2022-05-24,Hungary,HUN,NA
 2022-05-24,Iceland,ISL,402
 2022-05-24,India,IND,2124
@@ -108,7 +109,7 @@ date,location,iso_a3,new_cases
 2022-05-24,Namibia,"NAM",164
 2022-05-24,Nepal,NPL,11
 2022-05-24,Netherlands,NLD,1187
-2022-05-24,New Zealand,NZL,8303
+2022-05-24,New Zealand,NZL,8247
 2022-05-24,Nicaragua,NIC,0
 2022-05-24,Niger,NER,0
 2022-05-24,Nigeria,NGA,35
@@ -162,7 +163,7 @@ date,location,iso_a3,new_cases
 2022-05-24,Uganda,UGA,178
 2022-05-24,Ukraine,UKR,0
 2022-05-24,United Arab Emirates,ARE,317
-2022-05-24,United Kingdom,GBR,6538
+2022-05-24,United Kingdom,GBR,6442
 2022-05-24,United States,USA,110870
 2022-05-24,Uruguay,URY,8310
 2022-05-24,Uzbekistan,UZB,5
