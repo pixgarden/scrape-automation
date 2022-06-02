@@ -1,10 +1,14 @@
 country_text_id,country_name,year,v2x_libdem,v2x_regime,Regime,date,location,total_cases_per_million,label
+AUS,Australia,2020,0.787,3,Liberal democracy,2022-06-01,Australia,NA,Australia:NA
 AUT,Austria,2020,0.758,3,Liberal democracy,2022-06-01,Austria,NA,Austria:NA
 CHL,Chile,2020,0.758,2,Electoral democracy,2022-06-01,Chile,NA,Chile:NA
+CZE,Czech Republic,2020,0.708,2,Electoral democracy,2022-06-01,Czechia,NA,Czechia:NA
 DEU,Germany,2020,0.833,3,Liberal democracy,2022-06-01,Germany,NA,Germany:NA
 DNK,Denmark,2020,0.878,3,Liberal democracy,2022-06-01,Denmark,NA,Denmark:NA
+FRA,France,2020,0.796,3,Liberal democracy,2022-06-01,France,NA,France:NA
 ISR,Israel,2020,0.648,3,Liberal democracy,2022-06-01,Israel,NA,Israel:NA
 ITA,Italy,2020,0.785,3,Liberal democracy,2022-06-01,Italy,NA,Italy:NA
+MYS,Malaysia,2020,0.284,1,Electoral autocracy,2022-06-01,Malaysia,NA,Malaysia:NA
 NLD,Netherlands,2020,0.825,3,Liberal democracy,2022-06-01,Netherlands,NA,Netherlands:NA
 RUS,Russia,2020,0.104,1,Electoral autocracy,2022-06-01,Russia,NA,Russia:NA
 SRB,Serbia,2020,0.239,1,Electoral autocracy,2022-06-01,Serbia,NA,Serbia:NA
