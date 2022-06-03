@@ -69,7 +69,7 @@ date,location,iso_a3,new_cases
 2022-06-02,Hong Kong,HKG,489
 2022-06-02,Hungary,HUN,NA
 2022-06-02,Iceland,ISL,NA
-2022-06-02,India,IND,NA
+2022-06-02,India,IND,4041
 2022-06-02,Indonesia,IDN,304
 2022-06-02,Iran,IRN,175
 2022-06-02,Iraq,IRQ,105
@@ -117,7 +117,7 @@ date,location,iso_a3,new_cases
 2022-06-02,North Macedonia,MKD,75
 2022-06-02,Norway,NOR,287
 2022-06-02,Oman,OMN,0
-2022-06-02,Pakistan,PAK,0
+2022-06-02,Pakistan,PAK,36
 2022-06-02,Palestine,PSE,NA
 2022-06-02,Panama,PAN,3789
 2022-06-02,Papua New Guinea,PNG,71
