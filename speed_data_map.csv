@@ -99,7 +99,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-06-06,Malta,MLT,20-days average,-2.4,Malta -2.4
 2022-06-06,Mauritania,MRT,20-days average,-1.6,Mauritania -1.6
 2022-06-06,Mauritius,MUS,20-days average,0,Mauritius 0
-2022-06-06,Mexico,MEX,20-days average,0,Mexico 0
+2022-06-06,Mexico,MEX,20-days average,51.75,Mexico 51.75
 2022-06-06,Moldova,MDA,20-days average,1.7,Moldova 1.7
 2022-06-06,Mongolia,MNG,20-days average,0,Mongolia 0
 2022-06-06,Montenegro,MNE,20-days average,-3.25,Montenegro -3.25
@@ -117,7 +117,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-06-06,North Macedonia,MKD,20-days average,2.6,North Macedonia 2.6
 2022-06-06,Norway,NOR,20-days average,2.4,Norway 2.4
 2022-06-06,Oman,OMN,20-days average,-1,Oman -1
-2022-06-06,Pakistan,PAK,20-days average,-11,Pakistan -11
+2022-06-06,Pakistan,PAK,20-days average,-8.5,Pakistan -8.5
 2022-06-06,Palestine,PSE,20-days average,-6.35,Palestine -6.35
 2022-06-06,Panama,PAN,20-days average,84.6,Panama 84.6
 2022-06-06,Papua New Guinea,PNG,20-days average,-5.7,Papua New Guinea -5.7

@@ -99,7 +99,7 @@ date,location,iso_a3,new_cases
 2022-06-06,Malta,MLT,62
 2022-06-06,Mauritania,MRT,6
 2022-06-06,Mauritius,MUS,NA
-2022-06-06,Mexico,MEX,NA
+2022-06-06,Mexico,MEX,1035
 2022-06-06,Moldova,MDA,34
 2022-06-06,Mongolia,MNG,NA
 2022-06-06,Montenegro,MNE,29
@@ -117,7 +117,7 @@ date,location,iso_a3,new_cases
 2022-06-06,North Macedonia,MKD,135
 2022-06-06,Norway,NOR,97
 2022-06-06,Oman,OMN,0
-2022-06-06,Pakistan,PAK,NA
+2022-06-06,Pakistan,PAK,50
 2022-06-06,Palestine,PSE,NA
 2022-06-06,Panama,PAN,1692
 2022-06-06,Papua New Guinea,PNG,4
