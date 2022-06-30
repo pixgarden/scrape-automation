@@ -6,7 +6,7 @@ date,location,iso_code,variable,value
 2022-06-28,Argentina,ARG,20-days average,0
 2022-06-28,Armenia,ARM,20-days average,0
 2022-06-28,Australia,AUS,20-days average,-414.8
-2022-06-28,Austria,AUT,20-days average,275.6
+2022-06-29,Austria,AUT,20-days average,-151.7
 2022-06-28,Azerbaijan,AZE,20-days average,0
 2022-06-28,Bahrain,BHR,20-days average,47.5
 2022-06-28,Bangladesh,BGD,20-days average,101.45
@@ -28,7 +28,7 @@ date,location,iso_code,variable,value
 2022-06-28,Cape Verde,CPV,20-days average,0.7
 2022-06-28,Central African Republic,CAF,20-days average,0
 2022-06-28,Chad,TCD,20-days average,0
-2022-06-28,Chile,CHL,20-days average,-255.05
+2022-06-29,Chile,CHL,20-days average,-621.8
 2022-06-28,China,CHN,20-days average,-5.6
 2022-06-28,Colombia,COL,20-days average,0
 2022-06-28,Comoros,COM,20-days average,0.15
@@ -40,7 +40,7 @@ date,location,iso_code,variable,value
 2022-06-28,Cyprus,CYP,20-days average,0
 2022-06-28,Czechia,CZE,20-days average,59.3
 2022-06-28,Democratic Republic of Congo,COD,20-days average,0
-2022-06-28,Denmark,DNK,20-days average,96.3
+2022-06-29,Denmark,DNK,20-days average,-45.6
 2022-06-28,Djibouti,DJI,20-days average,-0.55
 2022-06-28,Dominican Republic,DOM,20-days average,-28.5
 2022-06-28,Ecuador,ECU,20-days average,-45.25
@@ -57,7 +57,7 @@ date,location,iso_code,variable,value
 2022-06-28,Gabon,GAB,20-days average,0
 2022-06-28,Gambia,GMB,20-days average,0
 2022-06-28,Georgia,GEO,20-days average,0
-2022-06-28,Germany,DEU,20-days average,2815.7
+2022-06-29,Germany,DEU,20-days average,-3893.9
 2022-06-28,Ghana,GHA,20-days average,0
 2022-06-28,Greece,GRC,20-days average,791.85
 2022-06-28,Guatemala,GTM,20-days average,121.85
@@ -74,8 +74,8 @@ date,location,iso_code,variable,value
 2022-06-28,Iran,IRN,20-days average,12.75
 2022-06-28,Iraq,IRQ,20-days average,103.05
 2022-06-28,Ireland,IRL,20-days average,-227.45
-2022-06-28,Israel,ISR,20-days average,382.1
-2022-06-28,Italy,ITA,20-days average,3061.8
+2022-06-29,Israel,ISR,20-days average,-242.8
+2022-06-29,Italy,ITA,20-days average,-1176.7
 2022-06-28,Jamaica,JAM,20-days average,-9.25
 2022-06-28,Japan,JPN,20-days average,48.55
 2022-06-28,Jordan,JOR,20-days average,0
@@ -93,7 +93,7 @@ date,location,iso_code,variable,value
 2022-06-28,Luxembourg,LUX,20-days average,103.8
 2022-06-28,Madagascar,MDG,20-days average,0
 2022-06-28,Malawi,MWI,20-days average,1.55
-2022-06-28,Malaysia,MYS,20-days average,25.35
+2022-06-29,Malaysia,MYS,20-days average,-94.35
 2022-06-28,Maldives,MDV,20-days average,0
 2022-06-28,Mali,MLI,20-days average,-0.05
 2022-06-28,Malta,MLT,20-days average,23.4
@@ -108,7 +108,7 @@ date,location,iso_code,variable,value
 2022-06-28,Myanmar,MMR,20-days average,0.05
 2022-06-28,Namibia,"NAM",20-days average,0
 2022-06-28,Nepal,NPL,20-days average,1.4
-2022-06-28,Netherlands,NLD,20-days average,200.05
+2022-06-29,Netherlands,NLD,20-days average,-121.45
 2022-06-28,New Zealand,NZL,20-days average,-5.8
 2022-06-28,Nicaragua,NIC,20-days average,-1.95
 2022-06-28,Niger,NER,20-days average,0
@@ -128,12 +128,12 @@ date,location,iso_code,variable,value
 2022-06-28,Portugal,PRT,20-days average,-1655.75
 2022-06-28,Qatar,QAT,20-days average,18.3
 2022-06-28,Romania,ROU,20-days average,-18.3
-2022-06-28,Russia,RUS,20-days average,-54.1
+2022-06-29,Russia,RUS,20-days average,-185.65
 2022-06-28,Rwanda,RWA,20-days average,0.9
 2022-06-28,Sao Tome and Principe,STP,20-days average,0
 2022-06-28,Saudi Arabia,SAU,20-days average,-8
 2022-06-28,Senegal,SEN,20-days average,0.05
-2022-06-28,Serbia,SRB,20-days average,27.6
+2022-06-29,Serbia,SRB,20-days average,-13.85
 2022-06-28,Seychelles,SYC,20-days average,0
 2022-06-28,Sierra Leone,SLE,20-days average,0
 2022-06-28,Singapore,SGP,20-days average,395.1
@@ -142,7 +142,7 @@ date,location,iso_code,variable,value
 2022-06-28,Solomon Islands,SLB,20-days average,0
 2022-06-28,Somalia,SOM,20-days average,0
 2022-06-28,South Africa,ZAF,20-days average,-87.5
-2022-06-28,South Korea,KOR,20-days average,-85.45
+2022-06-29,South Korea,KOR,20-days average,-465.2
 2022-06-28,South Sudan,SSD,20-days average,1.25
 2022-06-28,Spain,ESP,20-days average,2610.9
 2022-06-28,Sri Lanka,LKA,20-days average,0.1
