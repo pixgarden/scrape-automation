@@ -57,7 +57,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-07-10,Gabon,GAB,20-days average,0,Gabon 0
 2022-07-10,Gambia,GMB,20-days average,0,Gambia 0
 2022-07-10,Georgia,GEO,20-days average,0,Georgia 0
-2022-07-10,Germany,DEU,20-days average,-5980.1,"Germany -5,980"
+2022-07-11,Germany,DEU,20-days average,-5961.6,"Germany -5,962"
 2022-07-10,Ghana,GHA,20-days average,-24.9,Ghana -24.9
 2022-07-10,Greece,GRC,20-days average,423.7,Greece 423.7
 2022-07-10,Guatemala,GTM,20-days average,111.55,Guatemala 111.5
@@ -74,7 +74,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-07-10,Iran,IRN,20-days average,107.2,Iran 107.2
 2022-07-10,Iraq,IRQ,20-days average,93.4,Iraq 93.4
 2022-07-10,Ireland,IRL,20-days average,0,Ireland 0
-2022-07-10,Israel,ISR,20-days average,-166.2,Israel -166.2
+2022-07-11,Israel,ISR,20-days average,-533.45,Israel -533.5
 2022-07-10,Italy,ITA,20-days average,3232.9,"Italy 3,233"
 2022-07-10,Jamaica,JAM,20-days average,-14.85,Jamaica -14.85
 2022-07-10,Japan,JPN,20-days average,2314.1,"Japan 2,314"
@@ -128,7 +128,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-07-10,Portugal,PRT,20-days average,-2838.45,"Portugal -2,838"
 2022-07-10,Qatar,QAT,20-days average,-10,Qatar -10
 2022-07-10,Romania,ROU,20-days average,-130.45,Romania -130.4
-2022-07-10,Russia,RUS,20-days average,36.4,Russia 36.4
+2022-07-11,Russia,RUS,20-days average,-123.7,Russia -123.7
 2022-07-10,Rwanda,RWA,20-days average,-0.1,Rwanda -0.1
 2022-07-10,Sao Tome and Principe,STP,20-days average,-0.65,Sao Tome and Principe -0.65
 2022-07-10,Saudi Arabia,SAU,20-days average,-46.65,Saudi Arabia -46.65
