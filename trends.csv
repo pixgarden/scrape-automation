@@ -868,6 +868,7 @@ Brazil,2022-07-10,32896464,New cases
 Brazil,2022-07-11,32940507,New cases
 Brazil,2022-07-12,33004555,New cases
 Brazil,2022-07-13,33076779,New cases
+Brazil,2022-07-14,33142158,New cases
 France,2020-01-24,2,New cases
 France,2020-01-25,3,New cases
 France,2020-01-26,3,New cases
@@ -1770,6 +1771,7 @@ France,2022-07-10,32176376,New cases
 France,2022-07-11,32427713,New cases
 France,2022-07-12,32609987,New cases
 France,2022-07-13,32737629,New cases
+France,2022-07-14,32737629,New cases
 Germany,2020-01-27,1,New cases
 Germany,2020-01-28,4,New cases
 Germany,2020-01-29,4,New cases
@@ -2669,6 +2671,7 @@ Germany,2022-07-10,29025760,New cases
 Germany,2022-07-11,29180489,New cases
 Germany,2022-07-12,29308100,New cases
 Germany,2022-07-13,29460249,New cases
+Germany,2022-07-14,29569943,New cases
 India,2020-01-30,1,New cases
 India,2020-01-31,1,New cases
 India,2020-02-01,1,New cases
@@ -3565,6 +3568,7 @@ India,2022-07-10,43639329,New cases
 India,2022-07-11,43652944,New cases
 India,2022-07-12,43669850,New cases
 India,2022-07-13,43689989,New cases
+India,2022-07-14,43710027,New cases
 Italy,2020-01-31,2,New cases
 Italy,2020-02-01,2,New cases
 Italy,2020-02-02,2,New cases
@@ -4460,6 +4464,7 @@ Italy,2022-07-10,19439501,New cases
 Italy,2022-07-11,19523262,New cases
 Italy,2022-07-12,19667320,New cases
 Italy,2022-07-13,19778911,New cases
+Italy,2022-07-14,19887543,New cases
 Russia,2020-01-31,2,New cases
 Russia,2020-02-01,2,New cases
 Russia,2020-02-02,2,New cases
@@ -5355,6 +5360,7 @@ Russia,2022-07-10,18192863,New cases
 Russia,2022-07-11,18195924,New cases
 Russia,2022-07-12,18198890,New cases
 Russia,2022-07-13,18202785,New cases
+Russia,2022-07-14,18206982,New cases
 South Korea,2020-01-22,1,New cases
 South Korea,2020-01-23,1,New cases
 South Korea,2020-01-24,2,New cases
@@ -6259,6 +6265,7 @@ South Korea,2022-07-10,18524538,New cases
 South Korea,2022-07-11,18561861,New cases
 South Korea,2022-07-12,18602109,New cases
 South Korea,2022-07-13,18641278,New cases
+South Korea,2022-07-14,18680142,New cases
 Turkey,2020-03-11,1,New cases
 Turkey,2020-03-12,1,New cases
 Turkey,2020-03-13,5,New cases
@@ -7114,6 +7121,7 @@ Turkey,2022-07-10,15180444,New cases
 Turkey,2022-07-11,15180444,New cases
 Turkey,2022-07-12,15180444,New cases
 Turkey,2022-07-13,15297539,New cases
+Turkey,2022-07-14,15297539,New cases
 United Kingdom,2020-01-31,2,New cases
 United Kingdom,2020-02-01,2,New cases
 United Kingdom,2020-02-02,2,New cases
@@ -8009,6 +8017,7 @@ United Kingdom,2022-07-10,22967566,New cases
 United Kingdom,2022-07-11,22967566,New cases
 United Kingdom,2022-07-12,22967566,New cases
 United Kingdom,2022-07-13,23159426,New cases
+United Kingdom,2022-07-14,23159426,New cases
 United States,2020-01-22,1,New cases
 United States,2020-01-23,1,New cases
 United States,2020-01-24,2,New cases
@@ -8128,100 +8137,100 @@ United States,2020-05-16,1469597,New cases
 United States,2020-05-17,1488326,New cases
 United States,2020-05-18,1510634,New cases
 United States,2020-05-19,1531137,New cases
-United States,2020-05-20,1553964,New cases
-United States,2020-05-21,1579116,New cases
-United States,2020-05-22,1602945,New cases
-United States,2020-05-23,1623134,New cases
-United States,2020-05-24,1643308,New cases
-United States,2020-05-25,1662402,New cases
-United States,2020-05-26,1681128,New cases
-United States,2020-05-27,1699891,New cases
-United States,2020-05-28,1721158,New cases
-United States,2020-05-29,1746240,New cases
-United States,2020-05-30,1769320,New cases
-United States,2020-05-31,1788239,New cases
-United States,2020-06-01,1806079,New cases
-United States,2020-06-02,1826169,New cases
-United States,2020-06-03,1845325,New cases
-United States,2020-06-04,1873259,New cases
-United States,2020-06-05,1899699,New cases
-United States,2020-06-06,1919968,New cases
-United States,2020-06-07,1937794,New cases
-United States,2020-06-08,1954694,New cases
-United States,2020-06-09,1975015,New cases
-United States,2020-06-10,1996733,New cases
-United States,2020-06-11,2019011,New cases
-United States,2020-06-12,2044569,New cases
-United States,2020-06-13,2068726,New cases
-United States,2020-06-14,2087627,New cases
-United States,2020-06-15,2108626,New cases
-United States,2020-06-16,2133175,New cases
-United States,2020-06-17,2160225,New cases
-United States,2020-06-18,2188452,New cases
-United States,2020-06-19,2219506,New cases
-United States,2020-06-20,2251332,New cases
-United States,2020-06-21,2277168,New cases
-United States,2020-06-22,2306969,New cases
-United States,2020-06-23,2345698,New cases
-United States,2020-06-24,2381949,New cases
-United States,2020-06-25,2421248,New cases
-United States,2020-06-26,2470294,New cases
-United States,2020-06-27,2511048,New cases
-United States,2020-06-28,2553973,New cases
-United States,2020-06-29,2595270,New cases
-United States,2020-06-30,2645095,New cases
-United States,2020-07-01,2694218,New cases
-United States,2020-07-02,2749161,New cases
-United States,2020-07-03,2800665,New cases
-United States,2020-07-04,2846611,New cases
-United States,2020-07-05,2900339,New cases
-United States,2020-07-06,2943504,New cases
-United States,2020-07-07,3000735,New cases
-United States,2020-07-08,3061041,New cases
-United States,2020-07-09,3120697,New cases
-United States,2020-07-10,3189556,New cases
-United States,2020-07-11,3249995,New cases
-United States,2020-07-12,3310127,New cases
-United States,2020-07-13,3369491,New cases
-United States,2020-07-14,3435153,New cases
-United States,2020-07-15,3501179,New cases
-United States,2020-07-16,3571993,New cases
-United States,2020-07-17,3638465,New cases
-United States,2020-07-18,3702787,New cases
-United States,2020-07-19,3761719,New cases
-United States,2020-07-20,3822382,New cases
-United States,2020-07-21,3890576,New cases
-United States,2020-07-22,3958121,New cases
-United States,2020-07-23,4026007,New cases
-United States,2020-07-24,4101154,New cases
-United States,2020-07-25,4165354,New cases
-United States,2020-07-26,4221193,New cases
-United States,2020-07-27,4280917,New cases
-United States,2020-07-28,4345748,New cases
-United States,2020-07-29,4409877,New cases
-United States,2020-07-30,4479118,New cases
-United States,2020-07-31,4543694,New cases
-United States,2020-08-01,4601272,New cases
-United States,2020-08-02,4648381,New cases
-United States,2020-08-03,4690065,New cases
-United States,2020-08-04,4751722,New cases
-United States,2020-08-05,4806070,New cases
-United States,2020-08-06,4866249,New cases
-United States,2020-08-07,4926836,New cases
-United States,2020-08-08,4990769,New cases
-United States,2020-08-09,5045036,New cases
-United States,2020-08-10,5096653,New cases
-United States,2020-08-11,5153608,New cases
-United States,2020-08-12,5208852,New cases
-United States,2020-08-13,5260508,New cases
-United States,2020-08-14,5330633,New cases
-United States,2020-08-15,5383027,New cases
-United States,2020-08-16,5417689,New cases
-United States,2020-08-17,5455538,New cases
-United States,2020-08-18,5500440,New cases
-United States,2020-08-19,5546324,New cases
-United States,2020-08-20,5591452,New cases
-United States,2020-08-21,5639043,New cases
+United States,2020-05-20,1553965,New cases
+United States,2020-05-21,1579117,New cases
+United States,2020-05-22,1602946,New cases
+United States,2020-05-23,1623135,New cases
+United States,2020-05-24,1643309,New cases
+United States,2020-05-25,1662403,New cases
+United States,2020-05-26,1681129,New cases
+United States,2020-05-27,1699892,New cases
+United States,2020-05-28,1721159,New cases
+United States,2020-05-29,1746241,New cases
+United States,2020-05-30,1769321,New cases
+United States,2020-05-31,1788240,New cases
+United States,2020-06-01,1806080,New cases
+United States,2020-06-02,1826170,New cases
+United States,2020-06-03,1845326,New cases
+United States,2020-06-04,1873260,New cases
+United States,2020-06-05,1899700,New cases
+United States,2020-06-06,1919969,New cases
+United States,2020-06-07,1937795,New cases
+United States,2020-06-08,1954695,New cases
+United States,2020-06-09,1975016,New cases
+United States,2020-06-10,1996734,New cases
+United States,2020-06-11,2019012,New cases
+United States,2020-06-12,2044570,New cases
+United States,2020-06-13,2068727,New cases
+United States,2020-06-14,2087628,New cases
+United States,2020-06-15,2108627,New cases
+United States,2020-06-16,2133176,New cases
+United States,2020-06-17,2160226,New cases
+United States,2020-06-18,2188453,New cases
+United States,2020-06-19,2219507,New cases
+United States,2020-06-20,2251333,New cases
+United States,2020-06-21,2277169,New cases
+United States,2020-06-22,2306970,New cases
+United States,2020-06-23,2345699,New cases
+United States,2020-06-24,2381950,New cases
+United States,2020-06-25,2421249,New cases
+United States,2020-06-26,2470295,New cases
+United States,2020-06-27,2511049,New cases
+United States,2020-06-28,2553974,New cases
+United States,2020-06-29,2595271,New cases
+United States,2020-06-30,2645096,New cases
+United States,2020-07-01,2694219,New cases
+United States,2020-07-02,2749162,New cases
+United States,2020-07-03,2800666,New cases
+United States,2020-07-04,2846612,New cases
+United States,2020-07-05,2900340,New cases
+United States,2020-07-06,2943505,New cases
+United States,2020-07-07,3000736,New cases
+United States,2020-07-08,3061042,New cases
+United States,2020-07-09,3120698,New cases
+United States,2020-07-10,3189557,New cases
+United States,2020-07-11,3249996,New cases
+United States,2020-07-12,3310128,New cases
+United States,2020-07-13,3369492,New cases
+United States,2020-07-14,3435154,New cases
+United States,2020-07-15,3501180,New cases
+United States,2020-07-16,3571994,New cases
+United States,2020-07-17,3638466,New cases
+United States,2020-07-18,3702788,New cases
+United States,2020-07-19,3761720,New cases
+United States,2020-07-20,3822383,New cases
+United States,2020-07-21,3890577,New cases
+United States,2020-07-22,3958122,New cases
+United States,2020-07-23,4026008,New cases
+United States,2020-07-24,4101155,New cases
+United States,2020-07-25,4165355,New cases
+United States,2020-07-26,4221194,New cases
+United States,2020-07-27,4280918,New cases
+United States,2020-07-28,4345749,New cases
+United States,2020-07-29,4409878,New cases
+United States,2020-07-30,4479119,New cases
+United States,2020-07-31,4543695,New cases
+United States,2020-08-01,4601273,New cases
+United States,2020-08-02,4648382,New cases
+United States,2020-08-03,4690066,New cases
+United States,2020-08-04,4751723,New cases
+United States,2020-08-05,4806071,New cases
+United States,2020-08-06,4866250,New cases
+United States,2020-08-07,4926837,New cases
+United States,2020-08-08,4990770,New cases
+United States,2020-08-09,5045037,New cases
+United States,2020-08-10,5096654,New cases
+United States,2020-08-11,5153609,New cases
+United States,2020-08-12,5208853,New cases
+United States,2020-08-13,5260509,New cases
+United States,2020-08-14,5330634,New cases
+United States,2020-08-15,5383028,New cases
+United States,2020-08-16,5417690,New cases
+United States,2020-08-17,5455539,New cases
+United States,2020-08-18,5500441,New cases
+United States,2020-08-19,5546325,New cases
+United States,2020-08-20,5591453,New cases
+United States,2020-08-21,5639044,New cases
 United States,2020-08-22,5684716,New cases
 United States,2020-08-23,5716627,New cases
 United States,2020-08-24,5750550,New cases
@@ -8240,679 +8249,680 @@ United States,2020-09-05,6261918,New cases
 United States,2020-09-06,6291037,New cases
 United States,2020-09-07,6315600,New cases
 United States,2020-09-08,6342344,New cases
-United States,2020-09-09,6375983,New cases
-United States,2020-09-10,6415431,New cases
-United States,2020-09-11,6460054,New cases
-United States,2020-09-12,6505637,New cases
-United States,2020-09-13,6545928,New cases
-United States,2020-09-14,6578492,New cases
-United States,2020-09-15,6615670,New cases
-United States,2020-09-16,6653962,New cases
-United States,2020-09-17,6699280,New cases
-United States,2020-09-18,6749463,New cases
-United States,2020-09-19,6795241,New cases
-United States,2020-09-20,6836851,New cases
-United States,2020-09-21,6868894,New cases
-United States,2020-09-22,6907165,New cases
-United States,2020-09-23,6948285,New cases
-United States,2020-09-24,6997168,New cases
-United States,2020-09-25,7044304,New cases
-United States,2020-09-26,7087851,New cases
-United States,2020-09-27,7121630,New cases
-United States,2020-09-28,7159370,New cases
-United States,2020-09-29,7201402,New cases
-United States,2020-09-30,7240034,New cases
-United States,2020-10-01,7286277,New cases
-United States,2020-10-02,7339720,New cases
-United States,2020-10-03,7389001,New cases
-United States,2020-10-04,7422132,New cases
-United States,2020-10-05,7459489,New cases
-United States,2020-10-06,7504035,New cases
-United States,2020-10-07,7553172,New cases
-United States,2020-10-08,7611062,New cases
-United States,2020-10-09,7666141,New cases
-United States,2020-10-10,7721508,New cases
-United States,2020-10-11,7768408,New cases
-United States,2020-10-12,7810488,New cases
-United States,2020-10-13,7860611,New cases
-United States,2020-10-14,7919053,New cases
-United States,2020-10-15,7982590,New cases
-United States,2020-10-16,8052764,New cases
-United States,2020-10-17,8107596,New cases
-United States,2020-10-18,8159766,New cases
-United States,2020-10-19,8227648,New cases
-United States,2020-10-20,8289385,New cases
-United States,2020-10-21,8350091,New cases
-United States,2020-10-22,8429712,New cases
-United States,2020-10-23,8511371,New cases
-United States,2020-10-24,8589746,New cases
-United States,2020-10-25,8650721,New cases
-United States,2020-10-26,8715285,New cases
-United States,2020-10-27,8792508,New cases
-United States,2020-10-28,8878985,New cases
-United States,2020-10-29,8970278,New cases
-United States,2020-10-30,9070127,New cases
-United States,2020-10-31,9157470,New cases
-United States,2020-11-01,9235300,New cases
-United States,2020-11-02,9317106,New cases
-United States,2020-11-03,9441872,New cases
-United States,2020-11-04,9542133,New cases
-United States,2020-11-05,9670214,New cases
-United States,2020-11-06,9797270,New cases
-United States,2020-11-07,9924334,New cases
-United States,2020-11-08,10044007,New cases
-United States,2020-11-09,10160962,New cases
-United States,2020-11-10,10297515,New cases
-United States,2020-11-11,10445197,New cases
-United States,2020-11-12,10603992,New cases
-United States,2020-11-13,10783511,New cases
-United States,2020-11-14,10947561,New cases
-United States,2020-11-15,11087276,New cases
-United States,2020-11-16,11240364,New cases
-United States,2020-11-17,11405012,New cases
-United States,2020-11-18,11576981,New cases
-United States,2020-11-19,11769281,New cases
-United States,2020-11-20,11970949,New cases
-United States,2020-11-21,12150768,New cases
-United States,2020-11-22,12297355,New cases
-United States,2020-11-23,12478866,New cases
-United States,2020-11-24,12652428,New cases
-United States,2020-11-25,12832640,New cases
-United States,2020-11-26,12949889,New cases
-United States,2020-11-27,13164523,New cases
-United States,2020-11-28,13332747,New cases
-United States,2020-11-29,13473098,New cases
-United States,2020-11-30,13628011,New cases
-United States,2020-12-01,13825127,New cases
-United States,2020-12-02,14021290,New cases
-United States,2020-12-03,14241509,New cases
-United States,2020-12-04,14476879,New cases
-United States,2020-12-05,14698889,New cases
-United States,2020-12-06,14878214,New cases
-United States,2020-12-07,15073674,New cases
-United States,2020-12-08,15300731,New cases
-United States,2020-12-09,15516737,New cases
-United States,2020-12-10,15753682,New cases
-United States,2020-12-11,15992583,New cases
-United States,2020-12-12,16217120,New cases
-United States,2020-12-13,16408714,New cases
-United States,2020-12-14,16618538,New cases
-United States,2020-12-15,16844853,New cases
-United States,2020-12-16,17079657,New cases
-United States,2020-12-17,17319903,New cases
-United States,2020-12-18,17567850,New cases
-United States,2020-12-19,17773702,New cases
-United States,2020-12-20,17960897,New cases
-United States,2020-12-21,18157753,New cases
-United States,2020-12-22,18363684,New cases
-United States,2020-12-23,18585122,New cases
-United States,2020-12-24,18798071,New cases
-United States,2020-12-25,18925250,New cases
-United States,2020-12-26,19142688,New cases
-United States,2020-12-27,19278651,New cases
-United States,2020-12-28,19451951,New cases
-United States,2020-12-29,19657924,New cases
-United States,2020-12-30,19876219,New cases
-United States,2020-12-31,20191305,New cases
-United States,2021-01-01,20370203,New cases
-United States,2021-01-02,20642481,New cases
-United States,2021-01-03,20845882,New cases
-United States,2021-01-04,21031381,New cases
-United States,2021-01-05,21264242,New cases
-United States,2021-01-06,21524002,New cases
-United States,2021-01-07,21810245,New cases
-United States,2021-01-08,22114309,New cases
-United States,2021-01-09,22379043,New cases
-United States,2021-01-10,22589883,New cases
-United States,2021-01-11,22793847,New cases
-United States,2021-01-12,23015660,New cases
-United States,2021-01-13,23244990,New cases
-United States,2021-01-14,23480568,New cases
-United States,2021-01-15,23725565,New cases
-United States,2021-01-16,23943253,New cases
-United States,2021-01-17,24119807,New cases
-United States,2021-01-18,24260635,New cases
-United States,2021-01-19,24417529,New cases
-United States,2021-01-20,24604911,New cases
-United States,2021-01-21,24797464,New cases
-United States,2021-01-22,24989236,New cases
-United States,2021-01-23,25167411,New cases
-United States,2021-01-24,25307554,New cases
-United States,2021-01-25,25437154,New cases
-United States,2021-01-26,25588160,New cases
-United States,2021-01-27,25743616,New cases
-United States,2021-01-28,25910375,New cases
-United States,2021-01-29,26074117,New cases
-United States,2021-01-30,26225056,New cases
-United States,2021-01-31,26337914,New cases
-United States,2021-02-01,26463228,New cases
-United States,2021-02-02,26580258,New cases
-United States,2021-02-03,26704628,New cases
-United States,2021-02-04,26829657,New cases
-United States,2021-02-05,26960767,New cases
-United States,2021-02-06,27077625,New cases
-United States,2021-02-07,27167054,New cases
-United States,2021-02-08,27249853,New cases
-United States,2021-02-09,27345234,New cases
-United States,2021-02-10,27440517,New cases
-United States,2021-02-11,27547289,New cases
-United States,2021-02-12,27647869,New cases
-United States,2021-02-13,27738626,New cases
-United States,2021-02-14,27806934,New cases
-United States,2021-02-15,27862382,New cases
-United States,2021-02-16,27921603,New cases
-United States,2021-02-17,27990449,New cases
-United States,2021-02-18,28063029,New cases
-United States,2021-02-19,28138187,New cases
-United States,2021-02-20,28211969,New cases
-United States,2021-02-21,28267234,New cases
-United States,2021-02-22,28322716,New cases
-United States,2021-02-23,28396576,New cases
-United States,2021-02-24,28471601,New cases
-United States,2021-02-25,28548880,New cases
-United States,2021-02-26,28624299,New cases
-United States,2021-02-27,28695588,New cases
-United States,2021-02-28,28747352,New cases
-United States,2021-03-01,28797792,New cases
-United States,2021-03-02,28856210,New cases
-United States,2021-03-03,28923260,New cases
-United States,2021-03-04,28992201,New cases
-United States,2021-03-05,29060079,New cases
-United States,2021-03-06,29121109,New cases
-United States,2021-03-07,29162718,New cases
-United States,2021-03-08,29206809,New cases
-United States,2021-03-09,29262311,New cases
-United States,2021-03-10,29320083,New cases
-United States,2021-03-11,29381872,New cases
-United States,2021-03-12,29444473,New cases
-United States,2021-03-13,29501293,New cases
-United States,2021-03-14,29540567,New cases
-United States,2021-03-15,29591599,New cases
-United States,2021-03-16,29645666,New cases
-United States,2021-03-17,29704940,New cases
-United States,2021-03-18,29767330,New cases
-United States,2021-03-19,29828962,New cases
-United States,2021-03-20,29887829,New cases
-United States,2021-03-21,29923207,New cases
-United States,2021-03-22,29970631,New cases
-United States,2021-03-23,30023489,New cases
-United States,2021-03-24,30111247,New cases
-United States,2021-03-25,30178874,New cases
-United States,2021-03-26,30255245,New cases
-United States,2021-03-27,30319300,New cases
-United States,2021-03-28,30365620,New cases
-United States,2021-03-29,30431492,New cases
-United States,2021-03-30,30493181,New cases
-United States,2021-03-31,30562711,New cases
-United States,2021-04-01,30639567,New cases
-United States,2021-04-02,30713590,New cases
-United States,2021-04-03,30778470,New cases
-United States,2021-04-04,30816393,New cases
-United States,2021-04-05,30883480,New cases
-United States,2021-04-06,30946306,New cases
-United States,2021-04-07,31022082,New cases
-United States,2021-04-08,31102148,New cases
-United States,2021-04-09,31186901,New cases
-United States,2021-04-10,31257436,New cases
-United States,2021-04-11,31304892,New cases
-United States,2021-04-12,31367075,New cases
-United States,2021-04-13,31447916,New cases
-United States,2021-04-14,31523520,New cases
-United States,2021-04-15,31597502,New cases
-United States,2021-04-16,31680975,New cases
-United States,2021-04-17,31736462,New cases
-United States,2021-04-18,31780289,New cases
-United States,2021-04-19,31838835,New cases
-United States,2021-04-20,31901275,New cases
-United States,2021-04-21,31965621,New cases
-United States,2021-04-22,32032340,New cases
-United States,2021-04-23,32095235,New cases
-United States,2021-04-24,32150206,New cases
-United States,2021-04-25,32184974,New cases
-United States,2021-04-26,32227261,New cases
-United States,2021-04-27,32279543,New cases
-United States,2021-04-28,32334729,New cases
-United States,2021-04-29,32393555,New cases
-United States,2021-04-30,32451657,New cases
-United States,2021-05-01,32500433,New cases
-United States,2021-05-02,32530989,New cases
-United States,2021-05-03,32575611,New cases
-United States,2021-05-04,32618506,New cases
-United States,2021-05-05,32664549,New cases
-United States,2021-05-06,32710728,New cases
-United States,2021-05-07,32759143,New cases
-United States,2021-05-08,32794797,New cases
-United States,2021-05-09,32817667,New cases
-United States,2021-05-10,32850043,New cases
-United States,2021-05-11,32885521,New cases
-United States,2021-05-12,32921672,New cases
-United States,2021-05-13,32960408,New cases
-United States,2021-05-14,33002625,New cases
-United States,2021-05-15,33033382,New cases
-United States,2021-05-16,33051074,New cases
-United States,2021-05-17,33076316,New cases
-United States,2021-05-18,33105231,New cases
-United States,2021-05-19,33134835,New cases
-United States,2021-05-20,33165051,New cases
-United States,2021-05-21,33193876,New cases
-United States,2021-05-22,33215089,New cases
-United States,2021-05-23,33228874,New cases
-United States,2021-05-24,33250746,New cases
-United States,2021-05-25,33275336,New cases
-United States,2021-05-26,33299932,New cases
-United States,2021-05-27,33326773,New cases
-United States,2021-05-28,33349015,New cases
-United States,2021-05-29,33362326,New cases
-United States,2021-05-30,33369680,New cases
-United States,2021-05-31,33375954,New cases
-United States,2021-06-01,33396807,New cases
-United States,2021-06-02,33413520,New cases
-United States,2021-06-03,33431916,New cases
-United States,2021-06-04,33449781,New cases
-United States,2021-06-05,33465385,New cases
-United States,2021-06-06,33471401,New cases
-United States,2021-06-07,33485471,New cases
-United States,2021-06-08,33498511,New cases
-United States,2021-06-09,33517076,New cases
-United States,2021-06-10,33531857,New cases
-United States,2021-06-11,33557008,New cases
-United States,2021-06-12,33566168,New cases
-United States,2021-06-13,33571438,New cases
-United States,2021-06-14,33583224,New cases
-United States,2021-06-15,33593954,New cases
-United States,2021-06-16,33605862,New cases
-United States,2021-06-17,33617625,New cases
-United States,2021-06-18,33638807,New cases
-United States,2021-06-19,33647859,New cases
-United States,2021-06-20,33652817,New cases
-United States,2021-06-21,33663371,New cases
-United States,2021-06-22,33674167,New cases
-United States,2021-06-23,33686832,New cases
-United States,2021-06-24,33701308,New cases
-United States,2021-06-25,33725910,New cases
-United States,2021-06-26,33735279,New cases
-United States,2021-06-27,33739902,New cases
-United States,2021-06-28,33753485,New cases
-United States,2021-06-29,33760962,New cases
-United States,2021-06-30,33776314,New cases
-United States,2021-07-01,33791433,New cases
-United States,2021-07-02,33821190,New cases
-United States,2021-07-03,33826604,New cases
-United States,2021-07-04,33830888,New cases
-United States,2021-07-05,33839790,New cases
-United States,2021-07-06,33862072,New cases
-United States,2021-07-07,33882248,New cases
-United States,2021-07-08,33903113,New cases
-United States,2021-07-09,33950705,New cases
-United States,2021-07-10,33960824,New cases
-United States,2021-07-11,33972571,New cases
-United States,2021-07-12,34001993,New cases
-United States,2021-07-13,34028524,New cases
-United States,2021-07-14,34059649,New cases
-United States,2021-07-15,34091610,New cases
-United States,2021-07-16,34169719,New cases
-United States,2021-07-17,34183821,New cases
-United States,2021-07-18,34204150,New cases
-United States,2021-07-19,34252993,New cases
-United States,2021-07-20,34292719,New cases
-United States,2021-07-21,34340455,New cases
-United States,2021-07-22,34396981,New cases
-United States,2021-07-23,34517782,New cases
-United States,2021-07-24,34546526,New cases
-United States,2021-07-25,34574496,New cases
-United States,2021-07-26,34653868,New cases
-United States,2021-07-27,34718870,New cases
-United States,2021-07-28,34792446,New cases
-United States,2021-07-29,34864991,New cases
-United States,2021-07-30,35056433,New cases
-United States,2021-07-31,35100324,New cases
-United States,2021-08-01,35144892,New cases
-United States,2021-08-02,35253252,New cases
-United States,2021-08-03,35351005,New cases
-United States,2021-08-04,35453451,New cases
-United States,2021-08-05,35563139,New cases
-United States,2021-08-06,35815034,New cases
-United States,2021-08-07,35878039,New cases
-United States,2021-08-08,35912915,New cases
-United States,2021-08-09,36072701,New cases
-United States,2021-08-10,36190501,New cases
-United States,2021-08-11,36344952,New cases
-United States,2021-08-12,36489036,New cases
-United States,2021-08-13,36715842,New cases
-United States,2021-08-14,36788909,New cases
-United States,2021-08-15,36835697,New cases
-United States,2021-08-16,37030052,New cases
-United States,2021-08-17,37180643,New cases
-United States,2021-08-18,37348244,New cases
-United States,2021-08-19,37503465,New cases
-United States,2021-08-20,37742539,New cases
-United States,2021-08-21,37834735,New cases
-United States,2021-08-22,37878937,New cases
-United States,2021-08-23,38087160,New cases
-United States,2021-08-24,38241623,New cases
-United States,2021-08-25,38420605,New cases
-United States,2021-08-26,38604375,New cases
-United States,2021-08-27,38843047,New cases
-United States,2021-08-28,38921935,New cases
-United States,2021-08-29,38973945,New cases
-United States,2021-08-30,39203156,New cases
-United States,2021-08-31,39383116,New cases
-United States,2021-09-01,39573633,New cases
-United States,2021-09-02,39752769,New cases
-United States,2021-09-03,39988211,New cases
-United States,2021-09-04,40074119,New cases
-United States,2021-09-05,40137621,New cases
-United States,2021-09-06,40231352,New cases
-United States,2021-09-07,40440520,New cases
-United States,2021-09-08,40617446,New cases
-United States,2021-09-09,40783862,New cases
-United States,2021-09-10,41025871,New cases
-United States,2021-09-11,41115001,New cases
-United States,2021-09-12,41163352,New cases
-United States,2021-09-13,41374127,New cases
-United States,2021-09-14,41519527,New cases
-United States,2021-09-15,41692777,New cases
-United States,2021-09-16,41851554,New cases
-United States,2021-09-17,42062414,New cases
-United States,2021-09-18,42137385,New cases
-United States,2021-09-19,42182255,New cases
-United States,2021-09-20,42354055,New cases
-United States,2021-09-21,42475791,New cases
-United States,2021-09-22,42607143,New cases
-United States,2021-09-23,42736311,New cases
-United States,2021-09-24,42911075,New cases
-United States,2021-09-25,42971571,New cases
-United States,2021-09-26,43025887,New cases
-United States,2021-09-27,43181832,New cases
-United States,2021-09-28,43294581,New cases
-United States,2021-09-29,43415970,New cases
-United States,2021-09-30,43526355,New cases
-United States,2021-10-01,43681184,New cases
-United States,2021-10-02,43729388,New cases
-United States,2021-10-03,43774166,New cases
-United States,2021-10-04,43917075,New cases
-United States,2021-10-05,44012308,New cases
-United States,2021-10-06,44124480,New cases
-United States,2021-10-07,44226005,New cases
-United States,2021-10-08,44357420,New cases
-United States,2021-10-09,44396248,New cases
-United States,2021-10-10,44435916,New cases
-United States,2021-10-11,44531979,New cases
-United States,2021-10-12,44642583,New cases
-United States,2021-10-13,44751046,New cases
-United States,2021-10-14,44837994,New cases
-United States,2021-10-15,44947474,New cases
-United States,2021-10-16,44987258,New cases
-United States,2021-10-17,45018915,New cases
-United States,2021-10-18,45117866,New cases
-United States,2021-10-19,45199781,New cases
-United States,2021-10-20,45291402,New cases
-United States,2021-10-21,45369483,New cases
-United States,2021-10-22,45465435,New cases
-United States,2021-10-23,45497855,New cases
-United States,2021-10-24,45517025,New cases
-United States,2021-10-25,45629594,New cases
-United States,2021-10-26,45696250,New cases
-United States,2021-10-27,45798813,New cases
-United States,2021-10-28,45873910,New cases
-United States,2021-10-29,45969013,New cases
-United States,2021-10-30,46003308,New cases
-United States,2021-10-31,46035632,New cases
-United States,2021-11-01,46148887,New cases
-United States,2021-11-02,46217633,New cases
-United States,2021-11-03,46303227,New cases
-United States,2021-11-04,46384663,New cases
-United States,2021-11-05,46481521,New cases
-United States,2021-11-06,46516382,New cases
-United States,2021-11-07,46553209,New cases
-United States,2021-11-08,46663958,New cases
-United States,2021-11-09,46742314,New cases
-United States,2021-11-10,46837383,New cases
-United States,2021-11-11,46895027,New cases
-United States,2021-11-12,47038538,New cases
-United States,2021-11-13,47082490,New cases
-United States,2021-11-14,47114402,New cases
-United States,2021-11-15,47248437,New cases
-United States,2021-11-16,47335708,New cases
-United States,2021-11-17,47448552,New cases
-United States,2021-11-18,47558378,New cases
-United States,2021-11-19,47685254,New cases
-United States,2021-11-20,47730614,New cases
-United States,2021-11-21,47770446,New cases
-United States,2021-11-22,47915062,New cases
-United States,2021-11-23,48006406,New cases
-United States,2021-11-24,48117984,New cases
-United States,2021-11-25,48157302,New cases
-United States,2021-11-26,48210723,New cases
-United States,2021-11-27,48237262,New cases
-United States,2021-11-28,48280411,New cases
-United States,2021-11-29,48466705,New cases
-United States,2021-11-30,48583813,New cases
-United States,2021-12-01,48720927,New cases
-United States,2021-12-02,48859779,New cases
-United States,2021-12-03,49018387,New cases
-United States,2021-12-04,49084728,New cases
-United States,2021-12-05,49139912,New cases
-United States,2021-12-06,49317599,New cases
-United States,2021-12-07,49430860,New cases
-United States,2021-12-08,49580769,New cases
-United States,2021-12-09,49705299,New cases
-United States,2021-12-10,49863511,New cases
-United States,2021-12-11,49920098,New cases
-United States,2021-12-12,49972407,New cases
-United States,2021-12-13,50157892,New cases
-United States,2021-12-14,50270712,New cases
-United States,2021-12-15,50416558,New cases
-United States,2021-12-16,50558287,New cases
-United States,2021-12-17,50750938,New cases
-United States,2021-12-18,50830696,New cases
-United States,2021-12-19,50919894,New cases
-United States,2021-12-20,51159936,New cases
-United States,2021-12-21,51339351,New cases
-United States,2021-12-22,51583090,New cases
-United States,2021-12-23,51852853,New cases
-United States,2021-12-24,52101376,New cases
-United States,2021-12-25,52188038,New cases
-United States,2021-12-26,52366427,New cases
-United States,2021-12-27,52866990,New cases
-United States,2021-12-28,53229020,New cases
-United States,2021-12-29,53731129,New cases
-United States,2021-12-30,54321832,New cases
-United States,2021-12-31,54835460,New cases
-United States,2022-01-01,55024228,New cases
-United States,2022-01-02,55310194,New cases
-United States,2022-01-03,56355162,New cases
-United States,2022-01-04,57167388,New cases
-United States,2022-01-05,57830024,New cases
-United States,2022-01-06,58665028,New cases
-United States,2022-01-07,59534781,New cases
-United States,2022-01-08,59932471,New cases
-United States,2022-01-09,60417491,New cases
-United States,2022-01-10,61801381,New cases
-United States,2022-01-11,62588764,New cases
-United States,2022-01-12,63437393,New cases
-United States,2022-01-13,64298725,New cases
-United States,2022-01-14,65178766,New cases
-United States,2022-01-15,65587076,New cases
-United States,2022-01-16,66066860,New cases
-United States,2022-01-17,66741984,New cases
-United States,2022-01-18,67871468,New cases
-United States,2022-01-19,68779597,New cases
-United States,2022-01-20,69512175,New cases
-United States,2022-01-21,70353241,New cases
-United States,2022-01-22,70655732,New cases
-United States,2022-01-23,71021177,New cases
-United States,2022-01-24,71943319,New cases
-United States,2022-01-25,72436397,New cases
-United States,2022-01-26,73113514,New cases
-United States,2022-01-27,73620704,New cases
-United States,2022-01-28,74235599,New cases
-United States,2022-01-29,74414211,New cases
-United States,2022-01-30,74612169,New cases
-United States,2022-01-31,75155653,New cases
-United States,2022-02-01,75481559,New cases
-United States,2022-02-02,75811690,New cases
-United States,2022-02-03,76087160,New cases
-United States,2022-02-04,76443108,New cases
-United States,2022-02-05,76529531,New cases
-United States,2022-02-06,76613005,New cases
-United States,2022-02-07,76960348,New cases
-United States,2022-02-08,77175003,New cases
-United States,2022-02-09,77363675,New cases
-United States,2022-02-10,77535439,New cases
-United States,2022-02-11,77745169,New cases
-United States,2022-02-12,77797034,New cases
-United States,2022-02-13,77855356,New cases
-United States,2022-02-14,78025947,New cases
-United States,2022-02-15,78137299,New cases
-United States,2022-02-16,78252293,New cases
-United States,2022-02-17,78354227,New cases
-United States,2022-02-18,78499547,New cases
-United States,2022-02-19,78530952,New cases
-United States,2022-02-20,78553955,New cases
-United States,2022-02-21,78637067,New cases
-United States,2022-02-22,78726598,New cases
-United States,2022-02-23,78811857,New cases
-United States,2022-02-24,78879030,New cases
-United States,2022-02-25,78953489,New cases
-United States,2022-02-26,79000900,New cases
-United States,2022-02-27,79019122,New cases
-United States,2022-02-28,79118035,New cases
-United States,2022-03-01,79164739,New cases
-United States,2022-03-02,79218335,New cases
-United States,2022-03-03,79267013,New cases
-United States,2022-03-04,79318330,New cases
-United States,2022-03-05,79333249,New cases
-United States,2022-03-06,79345646,New cases
-United States,2022-03-07,79409796,New cases
-United States,2022-03-08,79439604,New cases
-United States,2022-03-09,79477351,New cases
-United States,2022-03-10,79523966,New cases
-United States,2022-03-11,79573686,New cases
-United States,2022-03-12,79583904,New cases
-United States,2022-03-13,79594955,New cases
-United States,2022-03-14,79630388,New cases
-United States,2022-03-15,79654780,New cases
-United States,2022-03-16,79700931,New cases
-United States,2022-03-17,79754127,New cases
-United States,2022-03-18,79785509,New cases
-United States,2022-03-19,79796386,New cases
-United States,2022-03-20,79807835,New cases
-United States,2022-03-21,79850142,New cases
-United States,2022-03-22,79874720,New cases
-United States,2022-03-23,79915742,New cases
-United States,2022-03-24,79958747,New cases
-United States,2022-03-25,80005198,New cases
-United States,2022-03-26,80014632,New cases
-United States,2022-03-27,80026423,New cases
-United States,2022-03-28,80065424,New cases
-United States,2022-03-29,80089613,New cases
-United States,2022-03-30,80128811,New cases
-United States,2022-03-31,80174479,New cases
-United States,2022-04-01,80206716,New cases
-United States,2022-04-02,80218519,New cases
-United States,2022-04-03,80223274,New cases
-United States,2022-04-04,80252225,New cases
-United States,2022-04-05,80277895,New cases
-United States,2022-04-06,80318875,New cases
-United States,2022-04-07,80369532,New cases
-United States,2022-04-08,80444584,New cases
-United States,2022-04-09,80457303,New cases
-United States,2022-04-10,80466838,New cases
-United States,2022-04-11,80507226,New cases
-United States,2022-04-12,80543004,New cases
-United States,2022-04-13,80598444,New cases
-United States,2022-04-14,80649176,New cases
-United States,2022-04-15,80684627,New cases
-United States,2022-04-16,80696973,New cases
-United States,2022-04-17,80704481,New cases
-United States,2022-04-18,80765981,New cases
-United States,2022-04-19,80805292,New cases
-United States,2022-04-20,80874278,New cases
-United States,2022-04-21,80936036,New cases
-United States,2022-04-22,81026130,New cases
-United States,2022-04-23,81045874,New cases
-United States,2022-04-24,81059377,New cases
-United States,2022-04-25,81129682,New cases
-United States,2022-04-26,81175104,New cases
-United States,2022-04-27,81265199,New cases
-United States,2022-04-28,81342626,New cases
-United States,2022-04-29,81403903,New cases
-United States,2022-04-30,81427913,New cases
-United States,2022-05-01,81444634,New cases
-United States,2022-05-02,81539462,New cases
-United States,2022-05-03,81589170,New cases
-United States,2022-05-04,81701304,New cases
-United States,2022-05-05,81789999,New cases
-United States,2022-05-06,81918902,New cases
-United States,2022-05-07,81946756,New cases
-United States,2022-05-08,81952548,New cases
-United States,2022-05-09,82082792,New cases
-United States,2022-05-10,82153203,New cases
-United States,2022-05-11,82313560,New cases
-United States,2022-05-12,82427734,New cases
-United States,2022-05-13,82515271,New cases
-United States,2022-05-14,82532374,New cases
-United States,2022-05-15,82564513,New cases
-United States,2022-05-16,82743444,New cases
-United States,2022-05-17,82828196,New cases
-United States,2022-05-18,83032126,New cases
-United States,2022-05-19,83167483,New cases
-United States,2022-05-20,83316726,New cases
-United States,2022-05-21,83343666,New cases
-United States,2022-05-22,83363266,New cases
-United States,2022-05-23,83505971,New cases
-United States,2022-05-24,83589181,New cases
-United States,2022-05-25,83799453,New cases
-United States,2022-05-26,83945165,New cases
-United States,2022-05-27,84053411,New cases
-United States,2022-05-28,84066156,New cases
-United States,2022-05-29,84071974,New cases
-United States,2022-05-30,84132905,New cases
-United States,2022-05-31,84303482,New cases
-United States,2022-06-01,84531164,New cases
-United States,2022-06-02,84653097,New cases
-United States,2022-06-03,84810906,New cases
-United States,2022-06-04,84837372,New cases
-United States,2022-06-05,84852264,New cases
-United States,2022-06-06,85015234,New cases
-United States,2022-06-07,85102113,New cases
-United States,2022-06-08,85301529,New cases
-United States,2022-06-09,85444671,New cases
-United States,2022-06-10,85552459,New cases
-United States,2022-06-11,85586465,New cases
-United States,2022-06-12,85603049,New cases
-United States,2022-06-13,85757722,New cases
-United States,2022-06-14,85847885,New cases
-United States,2022-06-15,86032845,New cases
-United States,2022-06-16,86163042,New cases
-United States,2022-06-17,86302438,New cases
-United States,2022-06-18,86318908,New cases
-United States,2022-06-19,86335834,New cases
-United States,2022-06-20,86432581,New cases
-United States,2022-06-21,86544404,New cases
-United States,2022-06-22,86729841,New cases
-United States,2022-06-23,86879112,New cases
-United States,2022-06-24,86996675,New cases
-United States,2022-06-25,87036034,New cases
-United States,2022-06-26,87056733,New cases
-United States,2022-06-27,87219453,New cases
-United States,2022-06-28,87315592,New cases
-United States,2022-06-29,87504916,New cases
-United States,2022-06-30,87671443,New cases
-United States,2022-07-01,87827175,New cases
-United States,2022-07-02,87845415,New cases
-United States,2022-07-03,87843275,New cases
-United States,2022-07-04,87921849,New cases
-United States,2022-07-05,88065902,New cases
-United States,2022-07-06,88262908,New cases
-United States,2022-07-07,88381589,New cases
-United States,2022-07-08,88548601,New cases
-United States,2022-07-09,88573526,New cases
-United States,2022-07-10,88594594,New cases
-United States,2022-07-11,88754821,New cases
-United States,2022-07-12,88946276,New cases
-United States,2022-07-13,89149655,New cases
+United States,2020-09-09,6375982,New cases
+United States,2020-09-10,6415430,New cases
+United States,2020-09-11,6460053,New cases
+United States,2020-09-12,6505636,New cases
+United States,2020-09-13,6545927,New cases
+United States,2020-09-14,6578491,New cases
+United States,2020-09-15,6615669,New cases
+United States,2020-09-16,6653961,New cases
+United States,2020-09-17,6699279,New cases
+United States,2020-09-18,6749462,New cases
+United States,2020-09-19,6795240,New cases
+United States,2020-09-20,6836850,New cases
+United States,2020-09-21,6868893,New cases
+United States,2020-09-22,6907164,New cases
+United States,2020-09-23,6948284,New cases
+United States,2020-09-24,6997167,New cases
+United States,2020-09-25,7044303,New cases
+United States,2020-09-26,7087850,New cases
+United States,2020-09-27,7121629,New cases
+United States,2020-09-28,7159369,New cases
+United States,2020-09-29,7201401,New cases
+United States,2020-09-30,7240033,New cases
+United States,2020-10-01,7286276,New cases
+United States,2020-10-02,7339719,New cases
+United States,2020-10-03,7389000,New cases
+United States,2020-10-04,7422130,New cases
+United States,2020-10-05,7459487,New cases
+United States,2020-10-06,7504033,New cases
+United States,2020-10-07,7553170,New cases
+United States,2020-10-08,7611060,New cases
+United States,2020-10-09,7666139,New cases
+United States,2020-10-10,7721506,New cases
+United States,2020-10-11,7768406,New cases
+United States,2020-10-12,7810486,New cases
+United States,2020-10-13,7860609,New cases
+United States,2020-10-14,7919051,New cases
+United States,2020-10-15,7982589,New cases
+United States,2020-10-16,8052763,New cases
+United States,2020-10-17,8107595,New cases
+United States,2020-10-18,8159765,New cases
+United States,2020-10-19,8227647,New cases
+United States,2020-10-20,8289384,New cases
+United States,2020-10-21,8350090,New cases
+United States,2020-10-22,8429711,New cases
+United States,2020-10-23,8511370,New cases
+United States,2020-10-24,8589745,New cases
+United States,2020-10-25,8650720,New cases
+United States,2020-10-26,8715284,New cases
+United States,2020-10-27,8792507,New cases
+United States,2020-10-28,8878984,New cases
+United States,2020-10-29,8970277,New cases
+United States,2020-10-30,9070125,New cases
+United States,2020-10-31,9157468,New cases
+United States,2020-11-01,9235298,New cases
+United States,2020-11-02,9317104,New cases
+United States,2020-11-03,9441870,New cases
+United States,2020-11-04,9542131,New cases
+United States,2020-11-05,9670212,New cases
+United States,2020-11-06,9797268,New cases
+United States,2020-11-07,9924332,New cases
+United States,2020-11-08,10044005,New cases
+United States,2020-11-09,10160960,New cases
+United States,2020-11-10,10297514,New cases
+United States,2020-11-11,10445196,New cases
+United States,2020-11-12,10603991,New cases
+United States,2020-11-13,10783510,New cases
+United States,2020-11-14,10947560,New cases
+United States,2020-11-15,11087275,New cases
+United States,2020-11-16,11240363,New cases
+United States,2020-11-17,11405011,New cases
+United States,2020-11-18,11576980,New cases
+United States,2020-11-19,11769280,New cases
+United States,2020-11-20,11970948,New cases
+United States,2020-11-21,12150767,New cases
+United States,2020-11-22,12297354,New cases
+United States,2020-11-23,12478865,New cases
+United States,2020-11-24,12652427,New cases
+United States,2020-11-25,12832639,New cases
+United States,2020-11-26,12949888,New cases
+United States,2020-11-27,13164522,New cases
+United States,2020-11-28,13332746,New cases
+United States,2020-11-29,13473097,New cases
+United States,2020-11-30,13628010,New cases
+United States,2020-12-01,13825126,New cases
+United States,2020-12-02,14021287,New cases
+United States,2020-12-03,14241506,New cases
+United States,2020-12-04,14476875,New cases
+United States,2020-12-05,14698883,New cases
+United States,2020-12-06,14878208,New cases
+United States,2020-12-07,15073667,New cases
+United States,2020-12-08,15300724,New cases
+United States,2020-12-09,15516730,New cases
+United States,2020-12-10,15753675,New cases
+United States,2020-12-11,15992576,New cases
+United States,2020-12-12,16217113,New cases
+United States,2020-12-13,16408706,New cases
+United States,2020-12-14,16618529,New cases
+United States,2020-12-15,16844843,New cases
+United States,2020-12-16,17079647,New cases
+United States,2020-12-17,17319893,New cases
+United States,2020-12-18,17567840,New cases
+United States,2020-12-19,17773692,New cases
+United States,2020-12-20,17960887,New cases
+United States,2020-12-21,18157741,New cases
+United States,2020-12-22,18363672,New cases
+United States,2020-12-23,18585109,New cases
+United States,2020-12-24,18798058,New cases
+United States,2020-12-25,18925237,New cases
+United States,2020-12-26,19142675,New cases
+United States,2020-12-27,19278638,New cases
+United States,2020-12-28,19451938,New cases
+United States,2020-12-29,19657912,New cases
+United States,2020-12-30,19876207,New cases
+United States,2020-12-31,20191295,New cases
+United States,2021-01-01,20370192,New cases
+United States,2021-01-02,20642471,New cases
+United States,2021-01-03,20845873,New cases
+United States,2021-01-04,21031375,New cases
+United States,2021-01-05,21264235,New cases
+United States,2021-01-06,21523996,New cases
+United States,2021-01-07,21810239,New cases
+United States,2021-01-08,22114302,New cases
+United States,2021-01-09,22379034,New cases
+United States,2021-01-10,22589876,New cases
+United States,2021-01-11,22793839,New cases
+United States,2021-01-12,23015653,New cases
+United States,2021-01-13,23244985,New cases
+United States,2021-01-14,23480558,New cases
+United States,2021-01-15,23725560,New cases
+United States,2021-01-16,23943250,New cases
+United States,2021-01-17,24119805,New cases
+United States,2021-01-18,24260628,New cases
+United States,2021-01-19,24417517,New cases
+United States,2021-01-20,24604897,New cases
+United States,2021-01-21,24797448,New cases
+United States,2021-01-22,24989217,New cases
+United States,2021-01-23,25167390,New cases
+United States,2021-01-24,25307533,New cases
+United States,2021-01-25,25437133,New cases
+United States,2021-01-26,25588139,New cases
+United States,2021-01-27,25743596,New cases
+United States,2021-01-28,25910355,New cases
+United States,2021-01-29,26074096,New cases
+United States,2021-01-30,26225035,New cases
+United States,2021-01-31,26337892,New cases
+United States,2021-02-01,26463206,New cases
+United States,2021-02-02,26580236,New cases
+United States,2021-02-03,26704606,New cases
+United States,2021-02-04,26829635,New cases
+United States,2021-02-05,26960744,New cases
+United States,2021-02-06,27077602,New cases
+United States,2021-02-07,27167030,New cases
+United States,2021-02-08,27249828,New cases
+United States,2021-02-09,27345209,New cases
+United States,2021-02-10,27440492,New cases
+United States,2021-02-11,27547264,New cases
+United States,2021-02-12,27647844,New cases
+United States,2021-02-13,27738600,New cases
+United States,2021-02-14,27806908,New cases
+United States,2021-02-15,27862356,New cases
+United States,2021-02-16,27921577,New cases
+United States,2021-02-17,27990423,New cases
+United States,2021-02-18,28063003,New cases
+United States,2021-02-19,28138161,New cases
+United States,2021-02-20,28211943,New cases
+United States,2021-02-21,28267208,New cases
+United States,2021-02-22,28322690,New cases
+United States,2021-02-23,28396549,New cases
+United States,2021-02-24,28471574,New cases
+United States,2021-02-25,28548853,New cases
+United States,2021-02-26,28624271,New cases
+United States,2021-02-27,28695560,New cases
+United States,2021-02-28,28747324,New cases
+United States,2021-03-01,28797764,New cases
+United States,2021-03-02,28856182,New cases
+United States,2021-03-03,28923232,New cases
+United States,2021-03-04,28992173,New cases
+United States,2021-03-05,29060051,New cases
+United States,2021-03-06,29121080,New cases
+United States,2021-03-07,29162689,New cases
+United States,2021-03-08,29206780,New cases
+United States,2021-03-09,29262282,New cases
+United States,2021-03-10,29320054,New cases
+United States,2021-03-11,29381842,New cases
+United States,2021-03-12,29444443,New cases
+United States,2021-03-13,29501263,New cases
+United States,2021-03-14,29540537,New cases
+United States,2021-03-15,29591569,New cases
+United States,2021-03-16,29645636,New cases
+United States,2021-03-17,29704910,New cases
+United States,2021-03-18,29767300,New cases
+United States,2021-03-19,29828932,New cases
+United States,2021-03-20,29887799,New cases
+United States,2021-03-21,29923177,New cases
+United States,2021-03-22,29970601,New cases
+United States,2021-03-23,30023459,New cases
+United States,2021-03-24,30111217,New cases
+United States,2021-03-25,30178843,New cases
+United States,2021-03-26,30255213,New cases
+United States,2021-03-27,30319268,New cases
+United States,2021-03-28,30365588,New cases
+United States,2021-03-29,30431460,New cases
+United States,2021-03-30,30493149,New cases
+United States,2021-03-31,30562679,New cases
+United States,2021-04-01,30639535,New cases
+United States,2021-04-02,30713558,New cases
+United States,2021-04-03,30778438,New cases
+United States,2021-04-04,30816361,New cases
+United States,2021-04-05,30883448,New cases
+United States,2021-04-06,30946274,New cases
+United States,2021-04-07,31022050,New cases
+United States,2021-04-08,31102116,New cases
+United States,2021-04-09,31186869,New cases
+United States,2021-04-10,31257404,New cases
+United States,2021-04-11,31304860,New cases
+United States,2021-04-12,31367043,New cases
+United States,2021-04-13,31447883,New cases
+United States,2021-04-14,31523487,New cases
+United States,2021-04-15,31597469,New cases
+United States,2021-04-16,31680941,New cases
+United States,2021-04-17,31736428,New cases
+United States,2021-04-18,31780254,New cases
+United States,2021-04-19,31838800,New cases
+United States,2021-04-20,31901240,New cases
+United States,2021-04-21,31965586,New cases
+United States,2021-04-22,32032305,New cases
+United States,2021-04-23,32095200,New cases
+United States,2021-04-24,32150171,New cases
+United States,2021-04-25,32184939,New cases
+United States,2021-04-26,32227226,New cases
+United States,2021-04-27,32279508,New cases
+United States,2021-04-28,32334694,New cases
+United States,2021-04-29,32393520,New cases
+United States,2021-04-30,32451622,New cases
+United States,2021-05-01,32500398,New cases
+United States,2021-05-02,32530954,New cases
+United States,2021-05-03,32575576,New cases
+United States,2021-05-04,32618471,New cases
+United States,2021-05-05,32664514,New cases
+United States,2021-05-06,32710693,New cases
+United States,2021-05-07,32759108,New cases
+United States,2021-05-08,32794762,New cases
+United States,2021-05-09,32817632,New cases
+United States,2021-05-10,32850008,New cases
+United States,2021-05-11,32885485,New cases
+United States,2021-05-12,32921636,New cases
+United States,2021-05-13,32960372,New cases
+United States,2021-05-14,33002589,New cases
+United States,2021-05-15,33033346,New cases
+United States,2021-05-16,33051038,New cases
+United States,2021-05-17,33076280,New cases
+United States,2021-05-18,33105195,New cases
+United States,2021-05-19,33134799,New cases
+United States,2021-05-20,33165015,New cases
+United States,2021-05-21,33193840,New cases
+United States,2021-05-22,33215053,New cases
+United States,2021-05-23,33228838,New cases
+United States,2021-05-24,33250710,New cases
+United States,2021-05-25,33275300,New cases
+United States,2021-05-26,33299896,New cases
+United States,2021-05-27,33326737,New cases
+United States,2021-05-28,33348979,New cases
+United States,2021-05-29,33362290,New cases
+United States,2021-05-30,33369644,New cases
+United States,2021-05-31,33375918,New cases
+United States,2021-06-01,33396771,New cases
+United States,2021-06-02,33413484,New cases
+United States,2021-06-03,33431880,New cases
+United States,2021-06-04,33449745,New cases
+United States,2021-06-05,33465349,New cases
+United States,2021-06-06,33471365,New cases
+United States,2021-06-07,33485435,New cases
+United States,2021-06-08,33498475,New cases
+United States,2021-06-09,33517040,New cases
+United States,2021-06-10,33531821,New cases
+United States,2021-06-11,33556972,New cases
+United States,2021-06-12,33566132,New cases
+United States,2021-06-13,33571402,New cases
+United States,2021-06-14,33583188,New cases
+United States,2021-06-15,33593918,New cases
+United States,2021-06-16,33605826,New cases
+United States,2021-06-17,33617589,New cases
+United States,2021-06-18,33638771,New cases
+United States,2021-06-19,33647823,New cases
+United States,2021-06-20,33652780,New cases
+United States,2021-06-21,33663335,New cases
+United States,2021-06-22,33674131,New cases
+United States,2021-06-23,33686796,New cases
+United States,2021-06-24,33701272,New cases
+United States,2021-06-25,33725874,New cases
+United States,2021-06-26,33735243,New cases
+United States,2021-06-27,33739867,New cases
+United States,2021-06-28,33753450,New cases
+United States,2021-06-29,33760927,New cases
+United States,2021-06-30,33776279,New cases
+United States,2021-07-01,33791398,New cases
+United States,2021-07-02,33821155,New cases
+United States,2021-07-03,33826569,New cases
+United States,2021-07-04,33830853,New cases
+United States,2021-07-05,33839755,New cases
+United States,2021-07-06,33862037,New cases
+United States,2021-07-07,33882213,New cases
+United States,2021-07-08,33903077,New cases
+United States,2021-07-09,33950669,New cases
+United States,2021-07-10,33960788,New cases
+United States,2021-07-11,33972535,New cases
+United States,2021-07-12,34001957,New cases
+United States,2021-07-13,34028488,New cases
+United States,2021-07-14,34059613,New cases
+United States,2021-07-15,34091573,New cases
+United States,2021-07-16,34169682,New cases
+United States,2021-07-17,34183784,New cases
+United States,2021-07-18,34204113,New cases
+United States,2021-07-19,34252956,New cases
+United States,2021-07-20,34292682,New cases
+United States,2021-07-21,34340418,New cases
+United States,2021-07-22,34396943,New cases
+United States,2021-07-23,34517744,New cases
+United States,2021-07-24,34546488,New cases
+United States,2021-07-25,34574459,New cases
+United States,2021-07-26,34653832,New cases
+United States,2021-07-27,34718831,New cases
+United States,2021-07-28,34792406,New cases
+United States,2021-07-29,34864950,New cases
+United States,2021-07-30,35056392,New cases
+United States,2021-07-31,35100283,New cases
+United States,2021-08-01,35144850,New cases
+United States,2021-08-02,35253210,New cases
+United States,2021-08-03,35350963,New cases
+United States,2021-08-04,35453408,New cases
+United States,2021-08-05,35563095,New cases
+United States,2021-08-06,35814990,New cases
+United States,2021-08-07,35877994,New cases
+United States,2021-08-08,35912870,New cases
+United States,2021-08-09,36072656,New cases
+United States,2021-08-10,36190455,New cases
+United States,2021-08-11,36344906,New cases
+United States,2021-08-12,36488990,New cases
+United States,2021-08-13,36715796,New cases
+United States,2021-08-14,36788862,New cases
+United States,2021-08-15,36835649,New cases
+United States,2021-08-16,37030004,New cases
+United States,2021-08-17,37180594,New cases
+United States,2021-08-18,37348193,New cases
+United States,2021-08-19,37503413,New cases
+United States,2021-08-20,37742486,New cases
+United States,2021-08-21,37834682,New cases
+United States,2021-08-22,37878883,New cases
+United States,2021-08-23,38087106,New cases
+United States,2021-08-24,38241569,New cases
+United States,2021-08-25,38420550,New cases
+United States,2021-08-26,38604317,New cases
+United States,2021-08-27,38842990,New cases
+United States,2021-08-28,38921877,New cases
+United States,2021-08-29,38973886,New cases
+United States,2021-08-30,39203097,New cases
+United States,2021-08-31,39383057,New cases
+United States,2021-09-01,39573574,New cases
+United States,2021-09-02,39752711,New cases
+United States,2021-09-03,39988152,New cases
+United States,2021-09-04,40074060,New cases
+United States,2021-09-05,40137562,New cases
+United States,2021-09-06,40231292,New cases
+United States,2021-09-07,40440460,New cases
+United States,2021-09-08,40617385,New cases
+United States,2021-09-09,40783803,New cases
+United States,2021-09-10,41025812,New cases
+United States,2021-09-11,41114940,New cases
+United States,2021-09-12,41163291,New cases
+United States,2021-09-13,41374066,New cases
+United States,2021-09-14,41519467,New cases
+United States,2021-09-15,41692717,New cases
+United States,2021-09-16,41851493,New cases
+United States,2021-09-17,42062352,New cases
+United States,2021-09-18,42137322,New cases
+United States,2021-09-19,42182192,New cases
+United States,2021-09-20,42353991,New cases
+United States,2021-09-21,42475727,New cases
+United States,2021-09-22,42607079,New cases
+United States,2021-09-23,42736246,New cases
+United States,2021-09-24,42911010,New cases
+United States,2021-09-25,42971505,New cases
+United States,2021-09-26,43025819,New cases
+United States,2021-09-27,43181764,New cases
+United States,2021-09-28,43294512,New cases
+United States,2021-09-29,43415900,New cases
+United States,2021-09-30,43526285,New cases
+United States,2021-10-01,43681114,New cases
+United States,2021-10-02,43729317,New cases
+United States,2021-10-03,43774095,New cases
+United States,2021-10-04,43917003,New cases
+United States,2021-10-05,44012236,New cases
+United States,2021-10-06,44124409,New cases
+United States,2021-10-07,44225934,New cases
+United States,2021-10-08,44357348,New cases
+United States,2021-10-09,44396175,New cases
+United States,2021-10-10,44435845,New cases
+United States,2021-10-11,44531909,New cases
+United States,2021-10-12,44642513,New cases
+United States,2021-10-13,44750975,New cases
+United States,2021-10-14,44837923,New cases
+United States,2021-10-15,44947402,New cases
+United States,2021-10-16,44987186,New cases
+United States,2021-10-17,45018844,New cases
+United States,2021-10-18,45117797,New cases
+United States,2021-10-19,45199712,New cases
+United States,2021-10-20,45291330,New cases
+United States,2021-10-21,45369410,New cases
+United States,2021-10-22,45465362,New cases
+United States,2021-10-23,45497783,New cases
+United States,2021-10-24,45516952,New cases
+United States,2021-10-25,45629521,New cases
+United States,2021-10-26,45696177,New cases
+United States,2021-10-27,45798739,New cases
+United States,2021-10-28,45873836,New cases
+United States,2021-10-29,45968940,New cases
+United States,2021-10-30,46003235,New cases
+United States,2021-10-31,46035559,New cases
+United States,2021-11-01,46148815,New cases
+United States,2021-11-02,46217561,New cases
+United States,2021-11-03,46303154,New cases
+United States,2021-11-04,46384590,New cases
+United States,2021-11-05,46481449,New cases
+United States,2021-11-06,46516310,New cases
+United States,2021-11-07,46553137,New cases
+United States,2021-11-08,46663887,New cases
+United States,2021-11-09,46742243,New cases
+United States,2021-11-10,46837312,New cases
+United States,2021-11-11,46894955,New cases
+United States,2021-11-12,47038466,New cases
+United States,2021-11-13,47082418,New cases
+United States,2021-11-14,47114330,New cases
+United States,2021-11-15,47248366,New cases
+United States,2021-11-16,47335637,New cases
+United States,2021-11-17,47448481,New cases
+United States,2021-11-18,47558307,New cases
+United States,2021-11-19,47685183,New cases
+United States,2021-11-20,47730543,New cases
+United States,2021-11-21,47770375,New cases
+United States,2021-11-22,47914991,New cases
+United States,2021-11-23,48006335,New cases
+United States,2021-11-24,48117913,New cases
+United States,2021-11-25,48157231,New cases
+United States,2021-11-26,48210652,New cases
+United States,2021-11-27,48237191,New cases
+United States,2021-11-28,48280340,New cases
+United States,2021-11-29,48466634,New cases
+United States,2021-11-30,48583742,New cases
+United States,2021-12-01,48720855,New cases
+United States,2021-12-02,48859707,New cases
+United States,2021-12-03,49018315,New cases
+United States,2021-12-04,49084656,New cases
+United States,2021-12-05,49139840,New cases
+United States,2021-12-06,49317527,New cases
+United States,2021-12-07,49430788,New cases
+United States,2021-12-08,49580697,New cases
+United States,2021-12-09,49705227,New cases
+United States,2021-12-10,49863439,New cases
+United States,2021-12-11,49920026,New cases
+United States,2021-12-12,49972335,New cases
+United States,2021-12-13,50157819,New cases
+United States,2021-12-14,50270639,New cases
+United States,2021-12-15,50416488,New cases
+United States,2021-12-16,50558217,New cases
+United States,2021-12-17,50750868,New cases
+United States,2021-12-18,50830627,New cases
+United States,2021-12-19,50919827,New cases
+United States,2021-12-20,51159869,New cases
+United States,2021-12-21,51339284,New cases
+United States,2021-12-22,51583026,New cases
+United States,2021-12-23,51852788,New cases
+United States,2021-12-24,52101311,New cases
+United States,2021-12-25,52187976,New cases
+United States,2021-12-26,52366366,New cases
+United States,2021-12-27,52866932,New cases
+United States,2021-12-28,53228962,New cases
+United States,2021-12-29,53731072,New cases
+United States,2021-12-30,54321774,New cases
+United States,2021-12-31,54835403,New cases
+United States,2022-01-01,55024174,New cases
+United States,2022-01-02,55310140,New cases
+United States,2022-01-03,56355115,New cases
+United States,2022-01-04,57167346,New cases
+United States,2022-01-05,57829979,New cases
+United States,2022-01-06,58664989,New cases
+United States,2022-01-07,59534741,New cases
+United States,2022-01-08,59932432,New cases
+United States,2022-01-09,60417455,New cases
+United States,2022-01-10,61801344,New cases
+United States,2022-01-11,62588724,New cases
+United States,2022-01-12,63437348,New cases
+United States,2022-01-13,64298678,New cases
+United States,2022-01-14,65178714,New cases
+United States,2022-01-15,65587023,New cases
+United States,2022-01-16,66066806,New cases
+United States,2022-01-17,66741933,New cases
+United States,2022-01-18,67871413,New cases
+United States,2022-01-19,68779540,New cases
+United States,2022-01-20,69512114,New cases
+United States,2022-01-21,70353177,New cases
+United States,2022-01-22,70655667,New cases
+United States,2022-01-23,71021111,New cases
+United States,2022-01-24,71943248,New cases
+United States,2022-01-25,72436322,New cases
+United States,2022-01-26,73113437,New cases
+United States,2022-01-27,73620626,New cases
+United States,2022-01-28,74235516,New cases
+United States,2022-01-29,74414128,New cases
+United States,2022-01-30,74612084,New cases
+United States,2022-01-31,75155568,New cases
+United States,2022-02-01,75481475,New cases
+United States,2022-02-02,75811604,New cases
+United States,2022-02-03,76087074,New cases
+United States,2022-02-04,76443021,New cases
+United States,2022-02-05,76529444,New cases
+United States,2022-02-06,76612918,New cases
+United States,2022-02-07,76960262,New cases
+United States,2022-02-08,77174919,New cases
+United States,2022-02-09,77363590,New cases
+United States,2022-02-10,77535353,New cases
+United States,2022-02-11,77745082,New cases
+United States,2022-02-12,77796948,New cases
+United States,2022-02-13,77855271,New cases
+United States,2022-02-14,78025862,New cases
+United States,2022-02-15,78137214,New cases
+United States,2022-02-16,78252209,New cases
+United States,2022-02-17,78354142,New cases
+United States,2022-02-18,78499462,New cases
+United States,2022-02-19,78530867,New cases
+United States,2022-02-20,78553870,New cases
+United States,2022-02-21,78636982,New cases
+United States,2022-02-22,78726512,New cases
+United States,2022-02-23,78811770,New cases
+United States,2022-02-24,78878943,New cases
+United States,2022-02-25,78953401,New cases
+United States,2022-02-26,79000812,New cases
+United States,2022-02-27,79019034,New cases
+United States,2022-02-28,79117948,New cases
+United States,2022-03-01,79164652,New cases
+United States,2022-03-02,79218248,New cases
+United States,2022-03-03,79266926,New cases
+United States,2022-03-04,79318243,New cases
+United States,2022-03-05,79333162,New cases
+United States,2022-03-06,79345559,New cases
+United States,2022-03-07,79409709,New cases
+United States,2022-03-08,79439517,New cases
+United States,2022-03-09,79477264,New cases
+United States,2022-03-10,79523879,New cases
+United States,2022-03-11,79573599,New cases
+United States,2022-03-12,79583817,New cases
+United States,2022-03-13,79594868,New cases
+United States,2022-03-14,79630301,New cases
+United States,2022-03-15,79654693,New cases
+United States,2022-03-16,79700844,New cases
+United States,2022-03-17,79754039,New cases
+United States,2022-03-18,79785422,New cases
+United States,2022-03-19,79796299,New cases
+United States,2022-03-20,79807748,New cases
+United States,2022-03-21,79850055,New cases
+United States,2022-03-22,79874633,New cases
+United States,2022-03-23,79915661,New cases
+United States,2022-03-24,79958666,New cases
+United States,2022-03-25,80005118,New cases
+United States,2022-03-26,80014552,New cases
+United States,2022-03-27,80026342,New cases
+United States,2022-03-28,80065342,New cases
+United States,2022-03-29,80089531,New cases
+United States,2022-03-30,80128729,New cases
+United States,2022-03-31,80174397,New cases
+United States,2022-04-01,80206632,New cases
+United States,2022-04-02,80218433,New cases
+United States,2022-04-03,80223188,New cases
+United States,2022-04-04,80252139,New cases
+United States,2022-04-05,80277808,New cases
+United States,2022-04-06,80318788,New cases
+United States,2022-04-07,80369444,New cases
+United States,2022-04-08,80444496,New cases
+United States,2022-04-09,80457215,New cases
+United States,2022-04-10,80466749,New cases
+United States,2022-04-11,80507137,New cases
+United States,2022-04-12,80542915,New cases
+United States,2022-04-13,80598355,New cases
+United States,2022-04-14,80649087,New cases
+United States,2022-04-15,80684538,New cases
+United States,2022-04-16,80696883,New cases
+United States,2022-04-17,80704390,New cases
+United States,2022-04-18,80765888,New cases
+United States,2022-04-19,80805200,New cases
+United States,2022-04-20,80874187,New cases
+United States,2022-04-21,80935945,New cases
+United States,2022-04-22,81026040,New cases
+United States,2022-04-23,81045788,New cases
+United States,2022-04-24,81059293,New cases
+United States,2022-04-25,81129599,New cases
+United States,2022-04-26,81175021,New cases
+United States,2022-04-27,81265114,New cases
+United States,2022-04-28,81342541,New cases
+United States,2022-04-29,81403817,New cases
+United States,2022-04-30,81427827,New cases
+United States,2022-05-01,81444548,New cases
+United States,2022-05-02,81539374,New cases
+United States,2022-05-03,81589081,New cases
+United States,2022-05-04,81701215,New cases
+United States,2022-05-05,81789908,New cases
+United States,2022-05-06,81918809,New cases
+United States,2022-05-07,81946663,New cases
+United States,2022-05-08,81952454,New cases
+United States,2022-05-09,82082694,New cases
+United States,2022-05-10,82153106,New cases
+United States,2022-05-11,82313460,New cases
+United States,2022-05-12,82427632,New cases
+United States,2022-05-13,82515165,New cases
+United States,2022-05-14,82532268,New cases
+United States,2022-05-15,82564407,New cases
+United States,2022-05-16,82743343,New cases
+United States,2022-05-17,82828096,New cases
+United States,2022-05-18,83032028,New cases
+United States,2022-05-19,83167386,New cases
+United States,2022-05-20,83316627,New cases
+United States,2022-05-21,83343567,New cases
+United States,2022-05-22,83363168,New cases
+United States,2022-05-23,83505871,New cases
+United States,2022-05-24,83589082,New cases
+United States,2022-05-25,83799351,New cases
+United States,2022-05-26,83945060,New cases
+United States,2022-05-27,84053305,New cases
+United States,2022-05-28,84066052,New cases
+United States,2022-05-29,84071871,New cases
+United States,2022-05-30,84132802,New cases
+United States,2022-05-31,84303370,New cases
+United States,2022-06-01,84531041,New cases
+United States,2022-06-02,84652966,New cases
+United States,2022-06-03,84810774,New cases
+United States,2022-06-04,84837243,New cases
+United States,2022-06-05,84852142,New cases
+United States,2022-06-06,85015112,New cases
+United States,2022-06-07,85101976,New cases
+United States,2022-06-08,85301379,New cases
+United States,2022-06-09,85444511,New cases
+United States,2022-06-10,85552283,New cases
+United States,2022-06-11,85586289,New cases
+United States,2022-06-12,85602867,New cases
+United States,2022-06-13,85757505,New cases
+United States,2022-06-14,85847642,New cases
+United States,2022-06-15,86032579,New cases
+United States,2022-06-16,86162762,New cases
+United States,2022-06-17,86302169,New cases
+United States,2022-06-18,86318658,New cases
+United States,2022-06-19,86335595,New cases
+United States,2022-06-20,86432397,New cases
+United States,2022-06-21,86544290,New cases
+United States,2022-06-22,86729821,New cases
+United States,2022-06-23,86879205,New cases
+United States,2022-06-24,86997039,New cases
+United States,2022-06-25,87036686,New cases
+United States,2022-06-26,87057758,New cases
+United States,2022-06-27,87221786,New cases
+United States,2022-06-28,87319006,New cases
+United States,2022-06-29,87509285,New cases
+United States,2022-06-30,87676882,New cases
+United States,2022-07-01,87833792,New cases
+United States,2022-07-02,87852555,New cases
+United States,2022-07-03,87859482,New cases
+United States,2022-07-04,87939375,New cases
+United States,2022-07-05,88077776,New cases
+United States,2022-07-06,88277062,New cases
+United States,2022-07-07,88417922,New cases
+United States,2022-07-08,88554920,New cases
+United States,2022-07-09,88581772,New cases
+United States,2022-07-10,88594245,New cases
+United States,2022-07-11,88795972,New cases
+United States,2022-07-12,88946104,New cases
+United States,2022-07-13,89149141,New cases
+United States,2022-07-14,89294234,New cases
 Brazil,2020-02-26,NA,Deaths
 Brazil,2020-02-27,NA,Deaths
 Brazil,2020-02-28,NA,Deaths
@@ -9782,6 +9792,7 @@ Brazil,2022-07-10,673610,Deaths
 Brazil,2022-07-11,673758,Deaths
 Brazil,2022-07-12,674102,Deaths
 Brazil,2022-07-13,674482,Deaths
+Brazil,2022-07-14,674779,Deaths
 France,2020-01-24,NA,Deaths
 France,2020-01-25,NA,Deaths
 France,2020-01-26,NA,Deaths
@@ -10684,6 +10695,7 @@ France,2022-07-10,150086,Deaths
 France,2022-07-11,150248,Deaths
 France,2022-07-12,150374,Deaths
 France,2022-07-13,150483,Deaths
+France,2022-07-14,150483,Deaths
 India,2020-01-30,NA,Deaths
 India,2020-01-31,NA,Deaths
 India,2020-02-01,NA,Deaths
@@ -11580,6 +11592,7 @@ India,2022-07-10,525454,Deaths
 India,2022-07-11,525474,Deaths
 India,2022-07-12,525519,Deaths
 India,2022-07-13,525557,Deaths
+India,2022-07-14,525604,Deaths
 Indonesia,2020-03-02,NA,Deaths
 Indonesia,2020-03-03,NA,Deaths
 Indonesia,2020-03-04,NA,Deaths
@@ -12444,6 +12457,7 @@ Indonesia,2022-07-10,156791,Deaths
 Indonesia,2022-07-11,156798,Deaths
 Indonesia,2022-07-12,156806,Deaths
 Indonesia,2022-07-13,156818,Deaths
+Indonesia,2022-07-14,156827,Deaths
 Italy,2020-01-31,NA,Deaths
 Italy,2020-02-01,NA,Deaths
 Italy,2020-02-02,NA,Deaths
@@ -13339,6 +13353,7 @@ Italy,2022-07-10,169106,Deaths
 Italy,2022-07-11,169233,Deaths
 Italy,2022-07-12,169390,Deaths
 Italy,2022-07-13,169496,Deaths
+Italy,2022-07-14,169601,Deaths
 Mexico,2020-01-01,NA,Deaths
 Mexico,2020-01-02,NA,Deaths
 Mexico,2020-01-03,NA,Deaths
@@ -14264,6 +14279,7 @@ Mexico,2022-07-10,326085,Deaths
 Mexico,2022-07-11,326097,Deaths
 Mexico,2022-07-12,326189,Deaths
 Mexico,2022-07-13,326261,Deaths
+Mexico,2022-07-14,326335,Deaths
 Peru,2020-03-06,1,Deaths
 Peru,2020-03-07,1,Deaths
 Peru,2020-03-08,2,Deaths
@@ -15124,6 +15140,7 @@ Peru,2022-07-10,213685,Deaths
 Peru,2022-07-11,213695,Deaths
 Peru,2022-07-12,213714,Deaths
 Peru,2022-07-13,213731,Deaths
+Peru,2022-07-14,213731,Deaths
 Russia,2020-01-31,NA,Deaths
 Russia,2020-02-01,NA,Deaths
 Russia,2020-02-02,NA,Deaths
@@ -16019,6 +16036,7 @@ Russia,2022-07-10,373859,Deaths
 Russia,2022-07-11,373896,Deaths
 Russia,2022-07-12,373942,Deaths
 Russia,2022-07-13,373983,Deaths
+Russia,2022-07-14,374024,Deaths
 United Kingdom,2020-01-31,NA,Deaths
 United Kingdom,2020-02-01,NA,Deaths
 United Kingdom,2020-02-02,NA,Deaths
@@ -16914,6 +16932,7 @@ United Kingdom,2022-07-10,180898,Deaths
 United Kingdom,2022-07-11,180898,Deaths
 United Kingdom,2022-07-12,180898,Deaths
 United Kingdom,2022-07-13,181761,Deaths
+United Kingdom,2022-07-14,181761,Deaths
 United States,2020-01-22,NA,Deaths
 United States,2020-01-23,NA,Deaths
 United States,2020-01-24,NA,Deaths
@@ -17613,8 +17632,8 @@ United States,2021-12-17,804941,Deaths
 United States,2021-12-18,805602,Deaths
 United States,2021-12-19,805901,Deaths
 United States,2021-12-20,807483,Deaths
-United States,2021-12-21,809455,Deaths
-United States,2021-12-22,813654,Deaths
+United States,2021-12-21,809454,Deaths
+United States,2021-12-22,813653,Deaths
 United States,2021-12-23,815056,Deaths
 United States,2021-12-24,815763,Deaths
 United States,2021-12-25,815994,Deaths
@@ -17629,192 +17648,193 @@ United States,2022-01-02,825848,Deaths
 United States,2022-01-03,827692,Deaths
 United States,2022-01-04,830014,Deaths
 United States,2022-01-05,832215,Deaths
-United States,2022-01-06,834298,Deaths
-United States,2022-01-07,836710,Deaths
-United States,2022-01-08,837550,Deaths
-United States,2022-01-09,838141,Deaths
-United States,2022-01-10,840155,Deaths
-United States,2022-01-11,842673,Deaths
-United States,2022-01-12,845502,Deaths
-United States,2022-01-13,848034,Deaths
-United States,2022-01-14,850798,Deaths
-United States,2022-01-15,851796,Deaths
-United States,2022-01-16,852537,Deaths
-United States,2022-01-17,853562,Deaths
-United States,2022-01-18,856248,Deaths
-United States,2022-01-19,859755,Deaths
-United States,2022-01-20,862693,Deaths
-United States,2022-01-21,866079,Deaths
-United States,2022-01-22,867077,Deaths
-United States,2022-01-23,867786,Deaths
-United States,2022-01-24,869951,Deaths
-United States,2022-01-25,873166,Deaths
-United States,2022-01-26,877020,Deaths
-United States,2022-01-27,879653,Deaths
-United States,2022-01-28,883771,Deaths
-United States,2022-01-29,884957,Deaths
-United States,2022-01-30,885428,Deaths
-United States,2022-01-31,888051,Deaths
-United States,2022-02-01,891433,Deaths
-United States,2022-02-02,895025,Deaths
-United States,2022-02-03,897500,Deaths
-United States,2022-02-04,901605,Deaths
-United States,2022-02-05,902507,Deaths
-United States,2022-02-06,902965,Deaths
-United States,2022-02-07,906031,Deaths
-United States,2022-02-08,909028,Deaths
-United States,2022-02-09,912471,Deaths
-United States,2022-02-10,915751,Deaths
-United States,2022-02-11,918456,Deaths
-United States,2022-02-12,919270,Deaths
-United States,2022-02-13,919842,Deaths
-United States,2022-02-14,923044,Deaths
-United States,2022-02-15,925655,Deaths
-United States,2022-02-16,928843,Deaths
-United States,2022-02-17,931800,Deaths
-United States,2022-02-18,934303,Deaths
-United States,2022-02-19,934986,Deaths
-United States,2022-02-20,935424,Deaths
-United States,2022-02-21,936342,Deaths
-United States,2022-02-22,938515,Deaths
-United States,2022-02-23,941630,Deaths
-United States,2022-02-24,944599,Deaths
-United States,2022-02-25,946681,Deaths
-United States,2022-02-26,947440,Deaths
-United States,2022-02-27,947663,Deaths
-United States,2022-02-28,949815,Deaths
-United States,2022-03-01,951602,Deaths
-United States,2022-03-02,953696,Deaths
-United States,2022-03-03,955411,Deaths
-United States,2022-03-04,957147,Deaths
-United States,2022-03-05,957453,Deaths
-United States,2022-03-06,957665,Deaths
-United States,2022-03-07,959373,Deaths
-United States,2022-03-08,960791,Deaths
-United States,2022-03-09,962818,Deaths
-United States,2022-03-10,964592,Deaths
-United States,2022-03-11,966249,Deaths
-United States,2022-03-12,966524,Deaths
-United States,2022-03-13,966717,Deaths
-United States,2022-03-14,968043,Deaths
-United States,2022-03-15,969131,Deaths
-United States,2022-03-16,970979,Deaths
-United States,2022-03-17,972490,Deaths
-United States,2022-03-18,973304,Deaths
-United States,2022-03-19,973588,Deaths
-United States,2022-03-20,973674,Deaths
-United States,2022-03-21,975206,Deaths
-United States,2022-03-22,975772,Deaths
-United States,2022-03-23,977421,Deaths
-United States,2022-03-24,978285,Deaths
-United States,2022-03-25,978908,Deaths
-United States,2022-03-26,979059,Deaths
-United States,2022-03-27,979119,Deaths
-United States,2022-03-28,980151,Deaths
-United States,2022-03-29,981137,Deaths
-United States,2022-03-30,982305,Deaths
-United States,2022-03-31,982826,Deaths
-United States,2022-04-01,983660,Deaths
-United States,2022-04-02,983818,Deaths
-United States,2022-04-03,983877,Deaths
-United States,2022-04-04,984467,Deaths
-United States,2022-04-05,984981,Deaths
-United States,2022-04-06,986109,Deaths
-United States,2022-04-07,986938,Deaths
-United States,2022-04-08,987581,Deaths
-United States,2022-04-09,987726,Deaths
-United States,2022-04-10,987751,Deaths
-United States,2022-04-11,988090,Deaths
-United States,2022-04-12,988706,Deaths
-United States,2022-04-13,989656,Deaths
-United States,2022-04-14,990361,Deaths
-United States,2022-04-15,990823,Deaths
-United States,2022-04-16,990877,Deaths
-United States,2022-04-17,990888,Deaths
-United States,2022-04-18,991149,Deaths
-United States,2022-04-19,991593,Deaths
-United States,2022-04-20,992490,Deaths
-United States,2022-04-21,992920,Deaths
-United States,2022-04-22,993479,Deaths
-United States,2022-04-23,993530,Deaths
-United States,2022-04-24,993562,Deaths
-United States,2022-04-25,993850,Deaths
-United States,2022-04-26,994179,Deaths
-United States,2022-04-27,994983,Deaths
-United States,2022-04-28,995394,Deaths
-United States,2022-04-29,995824,Deaths
-United States,2022-04-30,995939,Deaths
-United States,2022-05-01,995962,Deaths
-United States,2022-05-02,996253,Deaths
-United States,2022-05-03,997007,Deaths
-United States,2022-05-04,998959,Deaths
-United States,2022-05-05,999268,Deaths
-United States,2022-05-06,999648,Deaths
-United States,2022-05-07,999834,Deaths
-United States,2022-05-08,999861,Deaths
-United States,2022-05-09,1000111,Deaths
-United States,2022-05-10,1000443,Deaths
-United States,2022-05-11,1001372,Deaths
-United States,2022-05-12,1001432,Deaths
-United States,2022-05-13,1001635,Deaths
-United States,2022-05-14,1001693,Deaths
-United States,2022-05-15,1001729,Deaths
-United States,2022-05-16,1001974,Deaths
-United States,2022-05-17,1002366,Deaths
-United States,2022-05-18,1003329,Deaths
-United States,2022-05-19,1003659,Deaths
-United States,2022-05-20,1004075,Deaths
-United States,2022-05-21,1004149,Deaths
-United States,2022-05-22,1004191,Deaths
-United States,2022-05-23,1004425,Deaths
-United States,2022-05-24,1004772,Deaths
-United States,2022-05-25,1005844,Deaths
-United States,2022-05-26,1006189,Deaths
-United States,2022-05-27,1006750,Deaths
-United States,2022-05-28,1006787,Deaths
-United States,2022-05-29,1006799,Deaths
-United States,2022-05-30,1006834,Deaths
-United States,2022-05-31,1007187,Deaths
-United States,2022-06-01,1007852,Deaths
-United States,2022-06-02,1008179,Deaths
-United States,2022-06-03,1008575,Deaths
-United States,2022-06-04,1008728,Deaths
-United States,2022-06-05,1008753,Deaths
-United States,2022-06-06,1009031,Deaths
-United States,2022-06-07,1009517,Deaths
-United States,2022-06-08,1010718,Deaths
-United States,2022-06-09,1011015,Deaths
-United States,2022-06-10,1011385,Deaths
-United States,2022-06-11,1011492,Deaths
-United States,2022-06-12,1011516,Deaths
-United States,2022-06-13,1011793,Deaths
-United States,2022-06-14,1012152,Deaths
-United States,2022-06-15,1012861,Deaths
-United States,2022-06-16,1013303,Deaths
-United States,2022-06-17,1013626,Deaths
-United States,2022-06-18,1013653,Deaths
-United States,2022-06-19,1013699,Deaths
-United States,2022-06-20,1013784,Deaths
-United States,2022-06-21,1014231,Deaths
-United States,2022-06-22,1015092,Deaths
-United States,2022-06-23,1015484,Deaths
-United States,2022-06-24,1015931,Deaths
-United States,2022-06-25,1016075,Deaths
-United States,2022-06-26,1016083,Deaths
-United States,2022-06-27,1016379,Deaths
-United States,2022-06-28,1016945,Deaths
-United States,2022-06-29,1017675,Deaths
-United States,2022-06-30,1017394,Deaths
-United States,2022-07-01,1017893,Deaths
-United States,2022-07-02,1017922,Deaths
-United States,2022-07-03,1017916,Deaths
-United States,2022-07-04,1017983,Deaths
-United States,2022-07-05,1018417,Deaths
-United States,2022-07-06,1019151,Deaths
-United States,2022-07-07,1020262,Deaths
-United States,2022-07-08,1020817,Deaths
-United States,2022-07-09,1020853,Deaths
-United States,2022-07-10,1020862,Deaths
-United States,2022-07-11,1021306,Deaths
-United States,2022-07-12,1021838,Deaths
-United States,2022-07-13,1022824,Deaths
+United States,2022-01-06,834299,Deaths
+United States,2022-01-07,836711,Deaths
+United States,2022-01-08,837551,Deaths
+United States,2022-01-09,838142,Deaths
+United States,2022-01-10,840156,Deaths
+United States,2022-01-11,842674,Deaths
+United States,2022-01-12,845503,Deaths
+United States,2022-01-13,848035,Deaths
+United States,2022-01-14,850799,Deaths
+United States,2022-01-15,851797,Deaths
+United States,2022-01-16,852538,Deaths
+United States,2022-01-17,853563,Deaths
+United States,2022-01-18,856249,Deaths
+United States,2022-01-19,859756,Deaths
+United States,2022-01-20,862694,Deaths
+United States,2022-01-21,866080,Deaths
+United States,2022-01-22,867078,Deaths
+United States,2022-01-23,867787,Deaths
+United States,2022-01-24,869953,Deaths
+United States,2022-01-25,873168,Deaths
+United States,2022-01-26,877022,Deaths
+United States,2022-01-27,879656,Deaths
+United States,2022-01-28,883774,Deaths
+United States,2022-01-29,884960,Deaths
+United States,2022-01-30,885431,Deaths
+United States,2022-01-31,888054,Deaths
+United States,2022-02-01,891436,Deaths
+United States,2022-02-02,895028,Deaths
+United States,2022-02-03,897504,Deaths
+United States,2022-02-04,901609,Deaths
+United States,2022-02-05,902511,Deaths
+United States,2022-02-06,902969,Deaths
+United States,2022-02-07,906035,Deaths
+United States,2022-02-08,909032,Deaths
+United States,2022-02-09,912475,Deaths
+United States,2022-02-10,915755,Deaths
+United States,2022-02-11,918460,Deaths
+United States,2022-02-12,919274,Deaths
+United States,2022-02-13,919846,Deaths
+United States,2022-02-14,923048,Deaths
+United States,2022-02-15,925659,Deaths
+United States,2022-02-16,928847,Deaths
+United States,2022-02-17,931805,Deaths
+United States,2022-02-18,934308,Deaths
+United States,2022-02-19,934991,Deaths
+United States,2022-02-20,935429,Deaths
+United States,2022-02-21,936348,Deaths
+United States,2022-02-22,938521,Deaths
+United States,2022-02-23,941636,Deaths
+United States,2022-02-24,944605,Deaths
+United States,2022-02-25,946688,Deaths
+United States,2022-02-26,947447,Deaths
+United States,2022-02-27,947670,Deaths
+United States,2022-02-28,949822,Deaths
+United States,2022-03-01,951609,Deaths
+United States,2022-03-02,953703,Deaths
+United States,2022-03-03,955418,Deaths
+United States,2022-03-04,957154,Deaths
+United States,2022-03-05,957460,Deaths
+United States,2022-03-06,957672,Deaths
+United States,2022-03-07,959380,Deaths
+United States,2022-03-08,960798,Deaths
+United States,2022-03-09,962825,Deaths
+United States,2022-03-10,964599,Deaths
+United States,2022-03-11,966256,Deaths
+United States,2022-03-12,966531,Deaths
+United States,2022-03-13,966724,Deaths
+United States,2022-03-14,968050,Deaths
+United States,2022-03-15,969138,Deaths
+United States,2022-03-16,970986,Deaths
+United States,2022-03-17,972497,Deaths
+United States,2022-03-18,973311,Deaths
+United States,2022-03-19,973595,Deaths
+United States,2022-03-20,973681,Deaths
+United States,2022-03-21,975213,Deaths
+United States,2022-03-22,975779,Deaths
+United States,2022-03-23,977428,Deaths
+United States,2022-03-24,978292,Deaths
+United States,2022-03-25,978915,Deaths
+United States,2022-03-26,979066,Deaths
+United States,2022-03-27,979126,Deaths
+United States,2022-03-28,980158,Deaths
+United States,2022-03-29,981144,Deaths
+United States,2022-03-30,982312,Deaths
+United States,2022-03-31,982833,Deaths
+United States,2022-04-01,983667,Deaths
+United States,2022-04-02,983825,Deaths
+United States,2022-04-03,983884,Deaths
+United States,2022-04-04,984474,Deaths
+United States,2022-04-05,984988,Deaths
+United States,2022-04-06,986116,Deaths
+United States,2022-04-07,986945,Deaths
+United States,2022-04-08,987588,Deaths
+United States,2022-04-09,987733,Deaths
+United States,2022-04-10,987758,Deaths
+United States,2022-04-11,988096,Deaths
+United States,2022-04-12,988712,Deaths
+United States,2022-04-13,989662,Deaths
+United States,2022-04-14,990367,Deaths
+United States,2022-04-15,990829,Deaths
+United States,2022-04-16,990883,Deaths
+United States,2022-04-17,990894,Deaths
+United States,2022-04-18,991155,Deaths
+United States,2022-04-19,991599,Deaths
+United States,2022-04-20,992496,Deaths
+United States,2022-04-21,992926,Deaths
+United States,2022-04-22,993485,Deaths
+United States,2022-04-23,993536,Deaths
+United States,2022-04-24,993567,Deaths
+United States,2022-04-25,993855,Deaths
+United States,2022-04-26,994185,Deaths
+United States,2022-04-27,994989,Deaths
+United States,2022-04-28,995399,Deaths
+United States,2022-04-29,995829,Deaths
+United States,2022-04-30,995944,Deaths
+United States,2022-05-01,995967,Deaths
+United States,2022-05-02,996258,Deaths
+United States,2022-05-03,997012,Deaths
+United States,2022-05-04,998964,Deaths
+United States,2022-05-05,999273,Deaths
+United States,2022-05-06,999653,Deaths
+United States,2022-05-07,999839,Deaths
+United States,2022-05-08,999866,Deaths
+United States,2022-05-09,1000116,Deaths
+United States,2022-05-10,1000448,Deaths
+United States,2022-05-11,1001377,Deaths
+United States,2022-05-12,1001436,Deaths
+United States,2022-05-13,1001639,Deaths
+United States,2022-05-14,1001697,Deaths
+United States,2022-05-15,1001733,Deaths
+United States,2022-05-16,1001978,Deaths
+United States,2022-05-17,1002370,Deaths
+United States,2022-05-18,1003333,Deaths
+United States,2022-05-19,1003662,Deaths
+United States,2022-05-20,1004078,Deaths
+United States,2022-05-21,1004152,Deaths
+United States,2022-05-22,1004194,Deaths
+United States,2022-05-23,1004428,Deaths
+United States,2022-05-24,1004776,Deaths
+United States,2022-05-25,1005848,Deaths
+United States,2022-05-26,1006193,Deaths
+United States,2022-05-27,1006754,Deaths
+United States,2022-05-28,1006791,Deaths
+United States,2022-05-29,1006803,Deaths
+United States,2022-05-30,1006838,Deaths
+United States,2022-05-31,1007191,Deaths
+United States,2022-06-01,1007856,Deaths
+United States,2022-06-02,1008183,Deaths
+United States,2022-06-03,1008579,Deaths
+United States,2022-06-04,1008732,Deaths
+United States,2022-06-05,1008757,Deaths
+United States,2022-06-06,1009036,Deaths
+United States,2022-06-07,1009521,Deaths
+United States,2022-06-08,1010722,Deaths
+United States,2022-06-09,1011020,Deaths
+United States,2022-06-10,1011390,Deaths
+United States,2022-06-11,1011496,Deaths
+United States,2022-06-12,1011521,Deaths
+United States,2022-06-13,1011798,Deaths
+United States,2022-06-14,1012159,Deaths
+United States,2022-06-15,1012869,Deaths
+United States,2022-06-16,1013315,Deaths
+United States,2022-06-17,1013640,Deaths
+United States,2022-06-18,1013667,Deaths
+United States,2022-06-19,1013714,Deaths
+United States,2022-06-20,1013799,Deaths
+United States,2022-06-21,1014248,Deaths
+United States,2022-06-22,1015110,Deaths
+United States,2022-06-23,1015503,Deaths
+United States,2022-06-24,1015950,Deaths
+United States,2022-06-25,1016096,Deaths
+United States,2022-06-26,1016106,Deaths
+United States,2022-06-27,1016404,Deaths
+United States,2022-06-28,1016971,Deaths
+United States,2022-06-29,1017701,Deaths
+United States,2022-06-30,1017421,Deaths
+United States,2022-07-01,1017920,Deaths
+United States,2022-07-02,1017953,Deaths
+United States,2022-07-03,1017955,Deaths
+United States,2022-07-04,1018028,Deaths
+United States,2022-07-05,1018469,Deaths
+United States,2022-07-06,1019230,Deaths
+United States,2022-07-07,1020331,Deaths
+United States,2022-07-08,1020861,Deaths
+United States,2022-07-09,1020897,Deaths
+United States,2022-07-10,1020901,Deaths
+United States,2022-07-11,1021345,Deaths
+United States,2022-07-12,1021877,Deaths
+United States,2022-07-13,1022863,Deaths
+United States,2022-07-14,1023256,Deaths
