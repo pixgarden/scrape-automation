@@ -74,7 +74,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-07-17,Iran,IRN,20-days average,269.95,Iran 269.9
 2022-07-17,Iraq,IRQ,20-days average,48.5,Iraq 48.5
 2022-07-17,Ireland,IRL,20-days average,0,Ireland 0
-2022-07-17,Israel,ISR,20-days average,-208.75,Israel -208.8
+2022-07-18,Israel,ISR,20-days average,-626.35,Israel -626.4
 2022-07-17,Italy,ITA,20-days average,2198.85,"Italy 2,199"
 2022-07-17,Jamaica,JAM,20-days average,1.6,Jamaica 1.6
 2022-07-17,Japan,JPN,20-days average,4799.2,"Japan 4,799"
@@ -128,7 +128,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-07-17,Portugal,PRT,20-days average,-884.45,Portugal -884.5
 2022-07-17,Qatar,QAT,20-days average,27.45,Qatar 27.45
 2022-07-17,Romania,ROU,20-days average,-90.45,Romania -90.45
-2022-07-17,Russia,RUS,20-days average,98.25,Russia 98.25
+2022-07-18,Russia,RUS,20-days average,-125.65,Russia -125.7
 2022-07-17,Rwanda,RWA,20-days average,-0.85,Rwanda -0.85
 2022-07-17,Sao Tome and Principe,STP,20-days average,-1,Sao Tome and Principe -1
 2022-07-17,Saudi Arabia,SAU,20-days average,-23.5,Saudi Arabia -23.5
@@ -142,7 +142,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-07-17,Solomon Islands,SLB,20-days average,0,Solomon Islands 0
 2022-07-17,Somalia,SOM,20-days average,-2.75,Somalia -2.75
 2022-07-17,South Africa,ZAF,20-days average,-10.6,South Africa -10.6
-2022-07-17,South Korea,KOR,20-days average,821.4,South Korea 821.4
+2022-07-18,South Korea,KOR,20-days average,-521.85,South Korea -521.9
 2022-07-17,South Sudan,SSD,20-days average,0,South Sudan 0
 2022-07-17,Spain,ESP,20-days average,0,Spain 0
 2022-07-17,Sri Lanka,LKA,20-days average,1.2,Sri Lanka 1.2
@@ -165,7 +165,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-07-17,Ukraine,UKR,20-days average,-48.25,Ukraine -48.25
 2022-07-17,United Arab Emirates,ARE,20-days average,-16.75,United Arab Emirates -16.75
 2022-07-17,United Kingdom,GBR,20-days average,-2365.15,"United Kingdom -2,365"
-2022-07-17,United States,USA,20-days average,-7146.85,"United States -7,147"
+2022-07-17,United States,USA,20-days average,-6858,"United States -6,858"
 2022-07-17,Uruguay,URY,20-days average,-284.05,Uruguay -284.1
 2022-07-17,Uzbekistan,UZB,20-days average,-6.65,Uzbekistan -6.65
 2022-07-17,Vanuatu,VUT,20-days average,-0.05,Vanuatu -0.05
