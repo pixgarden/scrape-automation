@@ -69,7 +69,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-07-21,Hong Kong,HKG,20-days average,102.85,Hong Kong 102.8
 2022-07-21,Hungary,HUN,20-days average,0,Hungary 0
 2022-07-21,Iceland,ISL,20-days average,-63.6,Iceland -63.6
-2022-07-21,India,IND,20-days average,-831.75,India -831.8
+2022-07-21,India,IND,20-days average,262.25,India 262.2
 2022-07-21,Indonesia,IDN,20-days average,168.05,Indonesia 168.1
 2022-07-21,Iran,IRN,20-days average,372.6,Iran 372.6
 2022-07-21,Iraq,IRQ,20-days average,52.25,Iraq 52.25
@@ -117,7 +117,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-07-21,North Macedonia,MKD,20-days average,29.75,North Macedonia 29.75
 2022-07-21,Norway,NOR,20-days average,-17.2,Norway -17.2
 2022-07-21,Oman,OMN,20-days average,0,Oman 0
-2022-07-21,Pakistan,PAK,20-days average,0,Pakistan 0
+2022-07-21,Pakistan,PAK,20-days average,33.95,Pakistan 33.95
 2022-07-21,Palestine,PSE,20-days average,0,Palestine 0
 2022-07-21,Panama,PAN,20-days average,-81.3,Panama -81.3
 2022-07-21,Papua New Guinea,PNG,20-days average,-0.25,Papua New Guinea -0.25
