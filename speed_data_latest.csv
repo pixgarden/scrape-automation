@@ -6,7 +6,7 @@ date,location,iso_code,variable,value
 2022-07-20,Argentina,ARG,20-days average,0
 2022-07-20,Armenia,ARM,20-days average,0
 2022-07-20,Australia,AUS,20-days average,1062.15
-2022-07-20,Austria,AUT,20-days average,-34.1
+2022-07-21,Austria,AUT,20-days average,-569.25
 2022-07-20,Azerbaijan,AZE,20-days average,13.85
 2022-07-20,Bahrain,BHR,20-days average,-28.7
 2022-07-20,Bangladesh,BGD,20-days average,-54.15
@@ -40,7 +40,7 @@ date,location,iso_code,variable,value
 2022-07-20,Cyprus,CYP,20-days average,0
 2022-07-20,Czechia,CZE,20-days average,87.6
 2022-07-20,Democratic Republic of Congo,COD,20-days average,0
-2022-07-20,Denmark,DNK,20-days average,2.95
+2022-07-21,Denmark,DNK,20-days average,-89.5
 2022-07-20,Djibouti,DJI,20-days average,0
 2022-07-20,Dominican Republic,DOM,20-days average,53.1
 2022-07-20,Ecuador,ECU,20-days average,197.6
@@ -57,7 +57,7 @@ date,location,iso_code,variable,value
 2022-07-20,Gabon,GAB,20-days average,-5.75
 2022-07-20,Gambia,GMB,20-days average,0
 2022-07-20,Georgia,GEO,20-days average,0
-2022-07-20,Germany,DEU,20-days average,1176.25
+2022-07-21,Germany,DEU,20-days average,-4933.45
 2022-07-20,Ghana,GHA,20-days average,0
 2022-07-20,Greece,GRC,20-days average,-774.9
 2022-07-20,Guatemala,GTM,20-days average,82.55
@@ -74,7 +74,7 @@ date,location,iso_code,variable,value
 2022-07-20,Iran,IRN,20-days average,328.2
 2022-07-20,Iraq,IRQ,20-days average,73.9
 2022-07-20,Ireland,IRL,20-days average,535.7
-2022-07-20,Israel,ISR,20-days average,-404.8
+2022-07-21,Israel,ISR,20-days average,-384.3
 2022-07-20,Italy,ITA,20-days average,128.35
 2022-07-20,Jamaica,JAM,20-days average,-2.8
 2022-07-20,Japan,JPN,20-days average,6457.05
@@ -108,7 +108,7 @@ date,location,iso_code,variable,value
 2022-07-20,Myanmar,MMR,20-days average,0.15
 2022-07-20,Namibia,"NAM",20-days average,-5.15
 2022-07-20,Nepal,NPL,20-days average,15.2
-2022-07-20,Netherlands,NLD,20-days average,-100.45
+2022-07-21,Netherlands,NLD,20-days average,-303.8
 2022-07-20,New Zealand,NZL,20-days average,151.4
 2022-07-20,Nicaragua,NIC,20-days average,1.3
 2022-07-20,Niger,NER,20-days average,0
@@ -128,7 +128,7 @@ date,location,iso_code,variable,value
 2022-07-20,Portugal,PRT,20-days average,-226.15
 2022-07-20,Qatar,QAT,20-days average,22.65
 2022-07-20,Romania,ROU,20-days average,338.95
-2022-07-20,Russia,RUS,20-days average,127.8
+2022-07-21,Russia,RUS,20-days average,-155.5
 2022-07-20,Rwanda,RWA,20-days average,-3.15
 2022-07-20,Sao Tome and Principe,STP,20-days average,0
 2022-07-20,Saudi Arabia,SAU,20-days average,-4.8
