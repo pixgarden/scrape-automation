@@ -57,7 +57,7 @@ date,location,iso_code,variable,value
 2022-07-21,Gabon,GAB,20-days average,0
 2022-07-21,Gambia,GMB,20-days average,0
 2022-07-21,Georgia,GEO,20-days average,390.6
-2022-07-21,Germany,DEU,20-days average,457.5
+2022-07-22,Germany,DEU,20-days average,-0.05
 2022-07-21,Ghana,GHA,20-days average,0
 2022-07-21,Greece,GRC,20-days average,-793.45
 2022-07-21,Guatemala,GTM,20-days average,86.2
@@ -74,7 +74,7 @@ date,location,iso_code,variable,value
 2022-07-21,Iran,IRN,20-days average,372.6
 2022-07-21,Iraq,IRQ,20-days average,52.25
 2022-07-21,Ireland,IRL,20-days average,0
-2022-07-21,Israel,ISR,20-days average,-73.45
+2022-07-22,Israel,ISR,20-days average,-384
 2022-07-21,Italy,ITA,20-days average,-268.25
 2022-07-21,Jamaica,JAM,20-days average,2.6
 2022-07-21,Japan,JPN,20-days average,8151.55
@@ -128,7 +128,7 @@ date,location,iso_code,variable,value
 2022-07-21,Portugal,PRT,20-days average,270.6
 2022-07-21,Qatar,QAT,20-days average,16.9
 2022-07-21,Romania,ROU,20-days average,356.45
-2022-07-21,Russia,RUS,20-days average,160.2
+2022-07-22,Russia,RUS,20-days average,-162.75
 2022-07-21,Rwanda,RWA,20-days average,-2.15
 2022-07-21,Sao Tome and Principe,STP,20-days average,0
 2022-07-21,Saudi Arabia,SAU,20-days average,-5.15
