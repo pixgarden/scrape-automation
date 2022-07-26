@@ -1,7 +1,7 @@
 country_text_id,country_name,year,v2x_libdem,v2x_regime,Regime,date,location,total_cases_per_million,label
 AFG,Afghanistan,2020,0.192,1,Electoral autocracy,2022-07-25,Afghanistan,4609.014,"Afghanistan:  4,609.0"
 AGO,Angola,2020,0.212,1,Electoral autocracy,2022-07-25,Angola,2964.922,"Angola:  2,964.9"
-ALB,Albania,2020,0.403,2,Electoral democracy,2022-07-25,Albania,102958.619,"Albania:102,958.6"
+ALB,Albania,2020,0.403,2,Electoral democracy,2022-07-25,Albania,106884.062,"Albania:106,884.1"
 ARE,United Arab Emirates,2020,0.091,0,Closed autocracy,2022-07-25,United Arab Emirates,105098.971,"United Arab Emirates:105,099.0"
 ARG,Argentina,2020,0.67,2,Electoral democracy,2022-07-25,Argentina,209987.592,"Argentina:209,987.6"
 ARM,Armenia,2020,0.597,1,Electoral autocracy,2022-07-25,Armenia,152407.367,"Armenia:152,407.4"

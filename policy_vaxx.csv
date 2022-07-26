@@ -1,6 +1,6 @@
 location,date,people_vaccinated_per_hundred,new_deaths_per_million,vaxx_lag
 Afghanistan,2022-07-25,14.89,0,14.35
-Albania,2022-07-25,46.54,0,46.54
+Albania,2022-07-25,46.54,0.701,46.54
 Algeria,2022-07-25,18.59,0,18.59
 Angola,2022-07-25,39.15,0,38.47
 Argentina,2022-07-25,90.98,0,90.95
