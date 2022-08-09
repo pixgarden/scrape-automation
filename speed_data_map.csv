@@ -122,7 +122,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-08-08,Panama,PAN,20-days average,296.55,Panama 296.6
 2022-08-08,Papua New Guinea,PNG,20-days average,0,Papua New Guinea 0
 2022-08-08,Paraguay,PRY,20-days average,0,Paraguay 0
-2022-08-08,Peru,PER,20-days average,-614.4,Peru -614.4
+2022-08-08,Peru,PER,20-days average,-442.5,Peru -442.5
 2022-08-08,Philippines,PHL,20-days average,118.1,Philippines 118.1
 2022-08-08,Poland,POL,20-days average,-132.45,Poland -132.4
 2022-08-08,Portugal,PRT,20-days average,-348.7,Portugal -348.7
@@ -154,7 +154,7 @@ date,location,iso_a3,variable,value,tooltip
 2022-08-08,Taiwan,TWN,20-days average,-586,Taiwan -586
 2022-08-08,Tajikistan,TJK,20-days average,0,Tajikistan 0
 2022-08-08,Tanzania,TZA,20-days average,0,Tanzania 0
-2022-08-08,Thailand,THA,20-days average,-144.3,Thailand -144.3
+2022-08-08,Thailand,THA,20-days average,-46.55,Thailand -46.55
 2022-08-08,Timor,TLS,20-days average,0.2,Timor 0.2
 2022-08-08,Togo,TGO,20-days average,-1,Togo -1
 2022-08-08,Trinidad and Tobago,TTO,20-days average,0.05,Trinidad and Tobago 0.05
