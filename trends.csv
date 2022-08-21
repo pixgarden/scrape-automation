@@ -904,6 +904,8 @@ Brazil,2022-08-15,34178240,New cases
 Brazil,2022-08-16,34201280,New cases
 Brazil,2022-08-17,34223207,New cases
 Brazil,2022-08-18,34245374,New cases
+Brazil,2022-08-19,34264237,New cases
+Brazil,2022-08-20,34264237,New cases
 France,2020-01-24,2,New cases
 France,2020-01-25,3,New cases
 France,2020-01-26,3,New cases
@@ -1842,6 +1844,8 @@ France,2022-08-15,34253845,New cases
 France,2022-08-16,34302376,New cases
 France,2022-08-17,34338121,New cases
 France,2022-08-18,34361726,New cases
+France,2022-08-19,34381962,New cases
+France,2022-08-20,34381962,New cases
 Germany,2020-01-27,1,New cases
 Germany,2020-01-28,4,New cases
 Germany,2020-01-29,4,New cases
@@ -2777,6 +2781,8 @@ Germany,2022-08-15,31599085,New cases
 Germany,2022-08-16,31666475,New cases
 Germany,2022-08-17,31725160,New cases
 Germany,2022-08-18,31771884,New cases
+Germany,2022-08-19,31808179,New cases
+Germany,2022-08-20,31808179,New cases
 India,2020-01-30,1,New cases
 India,2020-01-31,1,New cases
 India,2020-02-01,1,New cases
@@ -3709,6 +3715,8 @@ India,2022-08-15,44277711,New cases
 India,2022-08-16,44286256,New cases
 India,2022-08-17,44298864,New cases
 India,2022-08-18,44314618,New cases
+India,2022-08-19,44327890,New cases
+India,2022-08-20,44339429,New cases
 Italy,2020-01-31,2,New cases
 Italy,2020-02-01,2,New cases
 Italy,2020-02-02,2,New cases
@@ -4640,6 +4648,950 @@ Italy,2022-08-15,21509424,New cases
 Italy,2022-08-16,21518365,New cases
 Italy,2022-08-17,21554626,New cases
 Italy,2022-08-18,21581917,New cases
+Italy,2022-08-19,21606606,New cases
+Italy,2022-08-20,21630998,New cases
+Japan,2020-01-22,2,New cases
+Japan,2020-01-23,2,New cases
+Japan,2020-01-24,2,New cases
+Japan,2020-01-25,2,New cases
+Japan,2020-01-26,4,New cases
+Japan,2020-01-27,4,New cases
+Japan,2020-01-28,7,New cases
+Japan,2020-01-29,7,New cases
+Japan,2020-01-30,11,New cases
+Japan,2020-01-31,15,New cases
+Japan,2020-02-01,20,New cases
+Japan,2020-02-02,20,New cases
+Japan,2020-02-03,20,New cases
+Japan,2020-02-04,22,New cases
+Japan,2020-02-05,23,New cases
+Japan,2020-02-06,23,New cases
+Japan,2020-02-07,23,New cases
+Japan,2020-02-08,24,New cases
+Japan,2020-02-09,24,New cases
+Japan,2020-02-10,26,New cases
+Japan,2020-02-11,27,New cases
+Japan,2020-02-12,28,New cases
+Japan,2020-02-13,33,New cases
+Japan,2020-02-14,43,New cases
+Japan,2020-02-15,54,New cases
+Japan,2020-02-16,60,New cases
+Japan,2020-02-17,67,New cases
+Japan,2020-02-18,79,New cases
+Japan,2020-02-19,85,New cases
+Japan,2020-02-20,95,New cases
+Japan,2020-02-21,112,New cases
+Japan,2020-02-22,137,New cases
+Japan,2020-02-23,149,New cases
+Japan,2020-02-24,160,New cases
+Japan,2020-02-25,173,New cases
+Japan,2020-02-26,192,New cases
+Japan,2020-02-27,218,New cases
+Japan,2020-02-28,236,New cases
+Japan,2020-02-29,245,New cases
+Japan,2020-03-01,259,New cases
+Japan,2020-03-02,278,New cases
+Japan,2020-03-03,298,New cases
+Japan,2020-03-04,333,New cases
+Japan,2020-03-05,365,New cases
+Japan,2020-03-06,420,New cases
+Japan,2020-03-07,466,New cases
+Japan,2020-03-08,499,New cases
+Japan,2020-03-09,527,New cases
+Japan,2020-03-10,585,New cases
+Japan,2020-03-11,640,New cases
+Japan,2020-03-12,696,New cases
+Japan,2020-03-13,733,New cases
+Japan,2020-03-14,795,New cases
+Japan,2020-03-15,826,New cases
+Japan,2020-03-16,843,New cases
+Japan,2020-03-17,893,New cases
+Japan,2020-03-18,928,New cases
+Japan,2020-03-19,968,New cases
+Japan,2020-03-20,1022,New cases
+Japan,2020-03-21,1059,New cases
+Japan,2020-03-22,1104,New cases
+Japan,2020-03-23,1144,New cases
+Japan,2020-03-24,1217,New cases
+Japan,2020-03-25,1314,New cases
+Japan,2020-03-26,1416,New cases
+Japan,2020-03-27,1530,New cases
+Japan,2020-03-28,1728,New cases
+Japan,2020-03-29,1907,New cases
+Japan,2020-03-30,2001,New cases
+Japan,2020-03-31,2255,New cases
+Japan,2020-04-01,2535,New cases
+Japan,2020-04-02,2818,New cases
+Japan,2020-04-03,3154,New cases
+Japan,2020-04-04,3525,New cases
+Japan,2020-04-05,3876,New cases
+Japan,2020-04-06,4110,New cases
+Japan,2020-04-07,4485,New cases
+Japan,2020-04-08,5020,New cases
+Japan,2020-04-09,5614,New cases
+Japan,2020-04-10,6250,New cases
+Japan,2020-04-11,6951,New cases
+Japan,2020-04-12,7473,New cases
+Japan,2020-04-13,7773,New cases
+Japan,2020-04-14,8277,New cases
+Japan,2020-04-15,8835,New cases
+Japan,2020-04-16,9398,New cases
+Japan,2020-04-17,9958,New cases
+Japan,2020-04-18,10548,New cases
+Japan,2020-04-19,10914,New cases
+Japan,2020-04-20,11258,New cases
+Japan,2020-04-21,11641,New cases
+Japan,2020-04-22,12037,New cases
+Japan,2020-04-23,12469,New cases
+Japan,2020-04-24,12854,New cases
+Japan,2020-04-25,13186,New cases
+Japan,2020-04-26,13405,New cases
+Japan,2020-04-27,13576,New cases
+Japan,2020-04-28,13860,New cases
+Japan,2020-04-29,14076,New cases
+Japan,2020-04-30,14284,New cases
+Japan,2020-05-01,14558,New cases
+Japan,2020-05-02,14861,New cases
+Japan,2020-05-03,15061,New cases
+Japan,2020-05-04,15229,New cases
+Japan,2020-05-05,15354,New cases
+Japan,2020-05-06,15455,New cases
+Japan,2020-05-07,15553,New cases
+Japan,2020-05-08,15640,New cases
+Japan,2020-05-09,15755,New cases
+Japan,2020-05-10,15824,New cases
+Japan,2020-05-11,15861,New cases
+Japan,2020-05-12,15948,New cases
+Japan,2020-05-13,15998,New cases
+Japan,2020-05-14,16096,New cases
+Japan,2020-05-15,16148,New cases
+Japan,2020-05-16,16202,New cases
+Japan,2020-05-17,16226,New cases
+Japan,2020-05-18,16259,New cases
+Japan,2020-05-19,16287,New cases
+Japan,2020-05-20,16321,New cases
+Japan,2020-05-21,16362,New cases
+Japan,2020-05-22,16385,New cases
+Japan,2020-05-23,16410,New cases
+Japan,2020-05-24,16451,New cases
+Japan,2020-05-25,16472,New cases
+Japan,2020-05-26,16502,New cases
+Japan,2020-05-27,16528,New cases
+Japan,2020-05-28,16588,New cases
+Japan,2020-05-29,16661,New cases
+Japan,2020-05-30,16706,New cases
+Japan,2020-05-31,16741,New cases
+Japan,2020-06-01,16778,New cases
+Japan,2020-06-02,16829,New cases
+Japan,2020-06-03,16858,New cases
+Japan,2020-06-04,16902,New cases
+Japan,2020-06-05,16949,New cases
+Japan,2020-06-06,16995,New cases
+Japan,2020-06-07,17033,New cases
+Japan,2020-06-08,17054,New cases
+Japan,2020-06-09,17099,New cases
+Japan,2020-06-10,17135,New cases
+Japan,2020-06-11,17179,New cases
+Japan,2020-06-12,17240,New cases
+Japan,2020-06-13,17285,New cases
+Japan,2020-06-14,17360,New cases
+Japan,2020-06-15,17432,New cases
+Japan,2020-06-16,17474,New cases
+Japan,2020-06-17,17520,New cases
+Japan,2020-06-18,17589,New cases
+Japan,2020-06-19,17650,New cases
+Japan,2020-06-20,17714,New cases
+Japan,2020-06-21,17769,New cases
+Japan,2020-06-22,17812,New cases
+Japan,2020-06-23,17869,New cases
+Japan,2020-06-24,17965,New cases
+Japan,2020-06-25,18047,New cases
+Japan,2020-06-26,18152,New cases
+Japan,2020-06-27,18244,New cases
+Japan,2020-06-28,18357,New cases
+Japan,2020-06-29,18467,New cases
+Japan,2020-06-30,18605,New cases
+Japan,2020-07-01,18732,New cases
+Japan,2020-07-02,18926,New cases
+Japan,2020-07-03,19176,New cases
+Japan,2020-07-04,19450,New cases
+Japan,2020-07-05,19658,New cases
+Japan,2020-07-06,19834,New cases
+Japan,2020-07-07,20042,New cases
+Japan,2020-07-08,20249,New cases
+Japan,2020-07-09,20604,New cases
+Japan,2020-07-10,21034,New cases
+Japan,2020-07-11,21420,New cases
+Japan,2020-07-12,21827,New cases
+Japan,2020-07-13,22086,New cases
+Japan,2020-07-14,22419,New cases
+Japan,2020-07-15,22869,New cases
+Japan,2020-07-16,23493,New cases
+Japan,2020-07-17,24090,New cases
+Japan,2020-07-18,24751,New cases
+Japan,2020-07-19,25262,New cases
+Japan,2020-07-20,25680,New cases
+Japan,2020-07-21,26312,New cases
+Japan,2020-07-22,27107,New cases
+Japan,2020-07-23,28088,New cases
+Japan,2020-07-24,28867,New cases
+Japan,2020-07-25,29668,New cases
+Japan,2020-07-26,30507,New cases
+Japan,2020-07-27,31107,New cases
+Japan,2020-07-28,32092,New cases
+Japan,2020-07-29,33362,New cases
+Japan,2020-07-30,34670,New cases
+Japan,2020-07-31,36256,New cases
+Japan,2020-08-01,37790,New cases
+Japan,2020-08-02,39121,New cases
+Japan,2020-08-03,40086,New cases
+Japan,2020-08-04,41332,New cases
+Japan,2020-08-05,42687,New cases
+Japan,2020-08-06,44172,New cases
+Japan,2020-08-07,45777,New cases
+Japan,2020-08-08,47348,New cases
+Japan,2020-08-09,48789,New cases
+Japan,2020-08-10,49627,New cases
+Japan,2020-08-11,50324,New cases
+Japan,2020-08-12,51303,New cases
+Japan,2020-08-13,52475,New cases
+Japan,2020-08-14,53831,New cases
+Japan,2020-08-15,55062,New cases
+Japan,2020-08-16,56079,New cases
+Japan,2020-08-17,56726,New cases
+Japan,2020-08-18,57642,New cases
+Japan,2020-08-19,58712,New cases
+Japan,2020-08-20,59890,New cases
+Japan,2020-08-21,60927,New cases
+Japan,2020-08-22,61911,New cases
+Japan,2020-08-23,62655,New cases
+Japan,2020-08-24,63148,New cases
+Japan,2020-08-25,63863,New cases
+Japan,2020-08-26,64766,New cases
+Japan,2020-08-27,65629,New cases
+Japan,2020-08-28,66505,New cases
+Japan,2020-08-29,67349,New cases
+Japan,2020-08-30,67949,New cases
+Japan,2020-08-31,68385,New cases
+Japan,2020-09-01,69018,New cases
+Japan,2020-09-02,69610,New cases
+Japan,2020-09-03,70267,New cases
+Japan,2020-09-04,70854,New cases
+Japan,2020-09-05,71452,New cases
+Japan,2020-09-06,71903,New cases
+Japan,2020-09-07,72194,New cases
+Japan,2020-09-08,72703,New cases
+Japan,2020-09-09,73211,New cases
+Japan,2020-09-10,73923,New cases
+Japan,2020-09-11,74565,New cases
+Japan,2020-09-12,75211,New cases
+Japan,2020-09-13,75650,New cases
+Japan,2020-09-14,75916,New cases
+Japan,2020-09-15,76447,New cases
+Japan,2020-09-16,76998,New cases
+Japan,2020-09-17,77487,New cases
+Japan,2020-09-18,78059,New cases
+Japan,2020-09-19,78655,New cases
+Japan,2020-09-20,79135,New cases
+Japan,2020-09-21,79445,New cases
+Japan,2020-09-22,79776,New cases
+Japan,2020-09-23,79995,New cases
+Japan,2020-09-24,80477,New cases
+Japan,2020-09-25,81050,New cases
+Japan,2020-09-26,81689,New cases
+Japan,2020-09-27,82174,New cases
+Japan,2020-09-28,82476,New cases
+Japan,2020-09-29,83003,New cases
+Japan,2020-09-30,83579,New cases
+Japan,2020-10-01,84212,New cases
+Japan,2020-10-02,84754,New cases
+Japan,2020-10-03,85328,New cases
+Japan,2020-10-04,85728,New cases
+Japan,2020-10-05,86007,New cases
+Japan,2020-10-06,86507,New cases
+Japan,2020-10-07,87013,New cases
+Japan,2020-10-08,87640,New cases
+Japan,2020-10-09,88243,New cases
+Japan,2020-10-10,88921,New cases
+Japan,2020-10-11,89357,New cases
+Japan,2020-10-12,89635,New cases
+Japan,2020-10-13,90133,New cases
+Japan,2020-10-14,90685,New cases
+Japan,2020-10-15,91393,New cases
+Japan,2020-10-16,92032,New cases
+Japan,2020-10-17,92655,New cases
+Japan,2020-10-18,93085,New cases
+Japan,2020-10-19,93401,New cases
+Japan,2020-10-20,93882,New cases
+Japan,2020-10-21,94497,New cases
+Japan,2020-10-22,95113,New cases
+Japan,2020-10-23,95858,New cases
+Japan,2020-10-24,96584,New cases
+Japan,2020-10-25,97077,New cases
+Japan,2020-10-26,97487,New cases
+Japan,2020-10-27,98133,New cases
+Japan,2020-10-28,98864,New cases
+Japan,2020-10-29,99672,New cases
+Japan,2020-10-30,100446,New cases
+Japan,2020-10-31,101323,New cases
+Japan,2020-11-01,101936,New cases
+Japan,2020-11-02,102423,New cases
+Japan,2020-11-03,103288,New cases
+Japan,2020-11-04,103912,New cases
+Japan,2020-11-05,104960,New cases
+Japan,2020-11-06,106103,New cases
+Japan,2020-11-07,107436,New cases
+Japan,2020-11-08,108386,New cases
+Japan,2020-11-09,109166,New cases
+Japan,2020-11-10,110449,New cases
+Japan,2020-11-11,111993,New cases
+Japan,2020-11-12,113652,New cases
+Japan,2020-11-13,115356,New cases
+Japan,2020-11-14,117091,New cases
+Japan,2020-11-15,118530,New cases
+Japan,2020-11-16,119480,New cases
+Japan,2020-11-17,121180,New cases
+Japan,2020-11-18,123374,New cases
+Japan,2020-11-19,125759,New cases
+Japan,2020-11-20,128180,New cases
+Japan,2020-11-21,130772,New cases
+Japan,2020-11-22,132931,New cases
+Japan,2020-11-23,134449,New cases
+Japan,2020-11-24,135678,New cases
+Japan,2020-11-25,137620,New cases
+Japan,2020-11-26,140120,New cases
+Japan,2020-11-27,142651,New cases
+Japan,2020-11-28,145326,New cases
+Japan,2020-11-29,147388,New cases
+Japan,2020-11-30,148824,New cases
+Japan,2020-12-01,150857,New cases
+Japan,2020-12-02,153289,New cases
+Japan,2020-12-03,155806,New cases
+Japan,2020-12-04,158258,New cases
+Japan,2020-12-05,160766,New cases
+Japan,2020-12-06,162804,New cases
+Japan,2020-12-07,164335,New cases
+Japan,2020-12-08,166511,New cases
+Japan,2020-12-09,169321,New cases
+Japan,2020-12-10,172290,New cases
+Japan,2020-12-11,175085,New cases
+Japan,2020-12-12,178122,New cases
+Japan,2020-12-13,180505,New cases
+Japan,2020-12-14,182186,New cases
+Japan,2020-12-15,184612,New cases
+Japan,2020-12-16,187608,New cases
+Japan,2020-12-17,190817,New cases
+Japan,2020-12-18,193654,New cases
+Japan,2020-12-19,196643,New cases
+Japan,2020-12-20,199134,New cases
+Japan,2020-12-21,200945,New cases
+Japan,2020-12-22,203639,New cases
+Japan,2020-12-23,206915,New cases
+Japan,2020-12-24,210661,New cases
+Japan,2020-12-25,214493,New cases
+Japan,2020-12-26,218378,New cases
+Japan,2020-12-27,221322,New cases
+Japan,2020-12-28,223719,New cases
+Japan,2020-12-29,227346,New cases
+Japan,2020-12-30,231217,New cases
+Japan,2020-12-31,235749,New cases
+Japan,2021-01-01,239005,New cases
+Japan,2021-01-02,242076,New cases
+Japan,2021-01-03,245242,New cases
+Japan,2021-01-04,248585,New cases
+Japan,2021-01-05,253534,New cases
+Japan,2021-01-06,259583,New cases
+Japan,2021-01-07,267225,New cases
+Japan,2021-01-08,275182,New cases
+Japan,2021-01-09,283036,New cases
+Japan,2021-01-10,289144,New cases
+Japan,2021-01-11,294050,New cases
+Japan,2021-01-12,298647,New cases
+Japan,2021-01-13,304564,New cases
+Japan,2021-01-14,311220,New cases
+Japan,2021-01-15,318393,New cases
+Japan,2021-01-16,325435,New cases
+Japan,2021-01-17,331195,New cases
+Japan,2021-01-18,336132,New cases
+Japan,2021-01-19,341467,New cases
+Japan,2021-01-20,347029,New cases
+Japan,2021-01-21,352693,New cases
+Japan,2021-01-22,357750,New cases
+Japan,2021-01-23,362476,New cases
+Japan,2021-01-24,366466,New cases
+Japan,2021-01-25,369229,New cases
+Japan,2021-01-26,373082,New cases
+Japan,2021-01-27,377056,New cases
+Japan,2021-01-28,381187,New cases
+Japan,2021-01-29,384725,New cases
+Japan,2021-01-30,388067,New cases
+Japan,2021-01-31,390740,New cases
+Japan,2021-02-01,392533,New cases
+Japan,2021-02-02,394857,New cases
+Japan,2021-02-03,397491,New cases
+Japan,2021-02-04,400069,New cases
+Japan,2021-02-05,402439,New cases
+Japan,2021-02-06,404716,New cases
+Japan,2021-02-07,406346,New cases
+Japan,2021-02-08,407563,New cases
+Japan,2021-02-09,409131,New cases
+Japan,2021-02-10,411017,New cases
+Japan,2021-02-11,412707,New cases
+Japan,2021-02-12,414007,New cases
+Japan,2021-02-13,415367,New cases
+Japan,2021-02-14,416729,New cases
+Japan,2021-02-15,417694,New cases
+Japan,2021-02-16,419002,New cases
+Japan,2021-02-17,420450,New cases
+Japan,2021-02-18,421986,New cases
+Japan,2021-02-19,423287,New cases
+Japan,2021-02-20,424520,New cases
+Japan,2021-02-21,425552,New cases
+Japan,2021-02-22,426292,New cases
+Japan,2021-02-23,427373,New cases
+Japan,2021-02-24,428294,New cases
+Japan,2021-02-25,429370,New cases
+Japan,2021-02-26,430424,New cases
+Japan,2021-02-27,431637,New cases
+Japan,2021-02-28,432636,New cases
+Japan,2021-03-01,433334,New cases
+Japan,2021-03-02,434222,New cases
+Japan,2021-03-03,435465,New cases
+Japan,2021-03-04,436634,New cases
+Japan,2021-03-05,437782,New cases
+Japan,2021-03-06,438825,New cases
+Japan,2021-03-07,439896,New cases
+Japan,2021-03-08,440496,New cases
+Japan,2021-03-09,441623,New cases
+Japan,2021-03-10,442936,New cases
+Japan,2021-03-11,444253,New cases
+Japan,2021-03-12,445524,New cases
+Japan,2021-03-13,446843,New cases
+Japan,2021-03-14,447830,New cases
+Japan,2021-03-15,448525,New cases
+Japan,2021-03-16,449658,New cases
+Japan,2021-03-17,451191,New cases
+Japan,2021-03-18,452688,New cases
+Japan,2021-03-19,454151,New cases
+Japan,2021-03-20,455667,New cases
+Japan,2021-03-21,456785,New cases
+Japan,2021-03-22,457601,New cases
+Japan,2021-03-23,459101,New cases
+Japan,2021-03-24,461018,New cases
+Japan,2021-03-25,462933,New cases
+Japan,2021-03-26,464958,New cases
+Japan,2021-03-27,467029,New cases
+Japan,2021-03-28,468811,New cases
+Japan,2021-03-29,470156,New cases
+Japan,2021-03-30,472243,New cases
+Japan,2021-03-31,475086,New cases
+Japan,2021-04-01,477691,New cases
+Japan,2021-04-02,480445,New cases
+Japan,2021-04-03,483217,New cases
+Japan,2021-04-04,485684,New cases
+Japan,2021-04-05,487255,New cases
+Japan,2021-04-06,489921,New cases
+Japan,2021-04-07,493369,New cases
+Japan,2021-04-08,496865,New cases
+Japan,2021-04-09,500353,New cases
+Japan,2021-04-10,504118,New cases
+Japan,2021-04-11,506954,New cases
+Japan,2021-04-12,509058,New cases
+Japan,2021-04-13,512510,New cases
+Japan,2021-04-14,516817,New cases
+Japan,2021-04-15,521386,New cases
+Japan,2021-04-16,525910,New cases
+Japan,2021-04-17,530703,New cases
+Japan,2021-04-18,534787,New cases
+Japan,2021-04-19,537690,New cases
+Japan,2021-04-20,542040,New cases
+Japan,2021-04-21,547326,New cases
+Japan,2021-04-22,552818,New cases
+Japan,2021-04-23,557922,New cases
+Japan,2021-04-24,563517,New cases
+Japan,2021-04-25,568116,New cases
+Japan,2021-04-26,571430,New cases
+Japan,2021-04-27,576391,New cases
+Japan,2021-04-28,582174,New cases
+Japan,2021-04-29,588087,New cases
+Japan,2021-04-30,592771,New cases
+Japan,2021-05-01,598754,New cases
+Japan,2021-05-02,604644,New cases
+Japan,2021-05-03,609108,New cases
+Japan,2021-05-04,613298,New cases
+Japan,2021-05-05,617358,New cases
+Japan,2021-05-06,621728,New cases
+Japan,2021-05-07,627778,New cases
+Japan,2021-05-08,635016,New cases
+Japan,2021-05-09,641500,New cases
+Japan,2021-05-10,646440,New cases
+Japan,2021-05-11,652675,New cases
+Japan,2021-05-12,659726,New cases
+Japan,2021-05-13,666600,New cases
+Japan,2021-05-14,672862,New cases
+Japan,2021-05-15,679279,New cases
+Japan,2021-05-16,684535,New cases
+Japan,2021-05-17,688212,New cases
+Japan,2021-05-18,693436,New cases
+Japan,2021-05-19,699227,New cases
+Japan,2021-05-20,704939,New cases
+Japan,2021-05-21,710184,New cases
+Japan,2021-05-22,715219,New cases
+Japan,2021-05-23,719258,New cases
+Japan,2021-05-24,721969,New cases
+Japan,2021-05-25,725861,New cases
+Japan,2021-05-26,730394,New cases
+Japan,2021-05-27,734526,New cases
+Japan,2021-05-28,738229,New cases
+Japan,2021-05-29,741822,New cases
+Japan,2021-05-30,744696,New cases
+Japan,2021-05-31,746487,New cases
+Japan,2021-06-01,749126,New cases
+Japan,2021-06-02,752160,New cases
+Japan,2021-06-03,754991,New cases
+Japan,2021-06-04,757583,New cases
+Japan,2021-06-05,760233,New cases
+Japan,2021-06-06,762253,New cases
+Japan,2021-06-07,763533,New cases
+Japan,2021-06-08,765414,New cases
+Japan,2021-06-09,767652,New cases
+Japan,2021-06-10,769694,New cases
+Japan,2021-06-11,771628,New cases
+Japan,2021-06-12,773569,New cases
+Japan,2021-06-13,774951,New cases
+Japan,2021-06-14,775884,New cases
+Japan,2021-06-15,777301,New cases
+Japan,2021-06-16,779008,New cases
+Japan,2021-06-17,780558,New cases
+Japan,2021-06-18,782178,New cases
+Japan,2021-06-19,783696,New cases
+Japan,2021-06-20,785002,New cases
+Japan,2021-06-21,785870,New cases
+Japan,2021-06-22,787305,New cases
+Japan,2021-06-23,789085,New cases
+Japan,2021-06-24,790759,New cases
+Japan,2021-06-25,792469,New cases
+Japan,2021-06-26,794100,New cases
+Japan,2021-06-27,795382,New cases
+Japan,2021-06-28,796383,New cases
+Japan,2021-06-29,797763,New cases
+Japan,2021-06-30,799583,New cases
+Japan,2021-07-01,801337,New cases
+Japan,2021-07-02,803112,New cases
+Japan,2021-07-03,804990,New cases
+Japan,2021-07-04,806475,New cases
+Japan,2021-07-05,807504,New cases
+Japan,2021-07-06,809172,New cases
+Japan,2021-07-07,811361,New cases
+Japan,2021-07-08,813607,New cases
+Japan,2021-07-09,815883,New cases
+Japan,2021-07-10,818341,New cases
+Japan,2021-07-11,820371,New cases
+Japan,2021-07-12,821876,New cases
+Japan,2021-07-13,824260,New cases
+Japan,2021-07-14,827452,New cases
+Japan,2021-07-15,830870,New cases
+Japan,2021-07-16,834303,New cases
+Japan,2021-07-17,838189,New cases
+Japan,2021-07-18,841290,New cases
+Japan,2021-07-19,843618,New cases
+Japan,2021-07-20,847377,New cases
+Japan,2021-07-21,852326,New cases
+Japan,2021-07-22,857725,New cases
+Japan,2021-07-23,861959,New cases
+Japan,2021-07-24,865553,New cases
+Japan,2021-07-25,870592,New cases
+Japan,2021-07-26,875301,New cases
+Japan,2021-07-27,882971,New cases
+Japan,2021-07-28,892599,New cases
+Japan,2021-07-29,903351,New cases
+Japan,2021-07-30,914182,New cases
+Japan,2021-07-31,926604,New cases
+Japan,2021-08-01,936852,New cases
+Japan,2021-08-02,945330,New cases
+Japan,2021-08-03,957431,New cases
+Japan,2021-08-04,971743,New cases
+Japan,2021-08-05,987060,New cases
+Japan,2021-08-06,1002867,New cases
+Japan,2021-08-07,1018688,New cases
+Japan,2021-08-08,1033214,New cases
+Japan,2021-08-09,1045392,New cases
+Japan,2021-08-10,1056125,New cases
+Japan,2021-08-11,1072153,New cases
+Japan,2021-08-12,1091187,New cases
+Japan,2021-08-13,1111683,New cases
+Japan,2021-08-14,1131986,New cases
+Japan,2021-08-15,1149874,New cases
+Japan,2021-08-16,1164881,New cases
+Japan,2021-08-17,1184986,New cases
+Japan,2021-08-18,1209082,New cases
+Japan,2021-08-19,1234423,New cases
+Japan,2021-08-20,1260415,New cases
+Japan,2021-08-21,1286077,New cases
+Japan,2021-08-22,1308422,New cases
+Japan,2021-08-23,1325346,New cases
+Japan,2021-08-24,1347015,New cases
+Japan,2021-08-25,1371426,New cases
+Japan,2021-08-26,1396464,New cases
+Japan,2021-08-27,1420783,New cases
+Japan,2021-08-28,1443642,New cases
+Japan,2021-08-29,1462979,New cases
+Japan,2021-08-30,1476653,New cases
+Japan,2021-08-31,1494372,New cases
+Japan,2021-09-01,1514400,New cases
+Japan,2021-09-02,1532616,New cases
+Japan,2021-09-03,1549337,New cases
+Japan,2021-09-04,1565351,New cases
+Japan,2021-09-05,1578258,New cases
+Japan,2021-09-06,1586482,New cases
+Japan,2021-09-07,1597089,New cases
+Japan,2021-09-08,1609477,New cases
+Japan,2021-09-09,1619873,New cases
+Japan,2021-09-10,1628732,New cases
+Japan,2021-09-11,1637534,New cases
+Japan,2021-09-12,1644747,New cases
+Japan,2021-09-13,1648920,New cases
+Japan,2021-09-14,1655199,New cases
+Japan,2021-09-15,1662008,New cases
+Japan,2021-09-16,1667699,New cases
+Japan,2021-09-17,1672812,New cases
+Japan,2021-09-18,1677512,New cases
+Japan,2021-09-19,1680908,New cases
+Japan,2021-09-20,1683129,New cases
+Japan,2021-09-21,1684899,New cases
+Japan,2021-09-22,1688142,New cases
+Japan,2021-09-23,1691743,New cases
+Japan,2021-09-24,1693838,New cases
+Japan,2021-09-25,1696508,New cases
+Japan,2021-09-26,1698644,New cases
+Japan,2021-09-27,1699792,New cases
+Japan,2021-09-28,1701514,New cases
+Japan,2021-09-29,1703497,New cases
+Japan,2021-09-30,1705072,New cases
+Japan,2021-10-01,1706516,New cases
+Japan,2021-10-02,1707759,New cases
+Japan,2021-10-03,1708726,New cases
+Japan,2021-10-04,1709325,New cases
+Japan,2021-10-05,1710304,New cases
+Japan,2021-10-06,1711429,New cases
+Japan,2021-10-07,1712401,New cases
+Japan,2021-10-08,1713228,New cases
+Japan,2021-10-09,1714002,New cases
+Japan,2021-10-10,1714555,New cases
+Japan,2021-10-11,1714924,New cases
+Japan,2021-10-12,1715531,New cases
+Japan,2021-10-13,1716262,New cases
+Japan,2021-10-14,1716879,New cases
+Japan,2021-10-15,1717396,New cases
+Japan,2021-10-16,1717896,New cases
+Japan,2021-10-17,1718324,New cases
+Japan,2021-10-18,1718554,New cases
+Japan,2021-10-19,1718925,New cases
+Japan,2021-10-20,1719313,New cases
+Japan,2021-10-21,1719656,New cases
+Japan,2021-10-22,1719980,New cases
+Japan,2021-10-23,1720263,New cases
+Japan,2021-10-24,1720495,New cases
+Japan,2021-10-25,1720646,New cases
+Japan,2021-10-26,1720956,New cases
+Japan,2021-10-27,1721266,New cases
+Japan,2021-10-28,1721539,New cases
+Japan,2021-10-29,1721831,New cases
+Japan,2021-10-30,1722115,New cases
+Japan,2021-10-31,1722343,New cases
+Japan,2021-11-01,1722427,New cases
+Japan,2021-11-02,1722648,New cases
+Japan,2021-11-03,1722912,New cases
+Japan,2021-11-04,1723070,New cases
+Japan,2021-11-05,1723295,New cases
+Japan,2021-11-06,1723525,New cases
+Japan,2021-11-07,1723682,New cases
+Japan,2021-11-08,1723782,New cases
+Japan,2021-11-09,1723976,New cases
+Japan,2021-11-10,1724172,New cases
+Japan,2021-11-11,1724379,New cases
+Japan,2021-11-12,1724573,New cases
+Japan,2021-11-13,1724767,New cases
+Japan,2021-11-14,1724893,New cases
+Japan,2021-11-15,1724967,New cases
+Japan,2021-11-16,1725111,New cases
+Japan,2021-11-17,1725310,New cases
+Japan,2021-11-18,1725458,New cases
+Japan,2021-11-19,1725611,New cases
+Japan,2021-11-20,1725715,New cases
+Japan,2021-11-21,1725850,New cases
+Japan,2021-11-22,1725894,New cases
+Japan,2021-11-23,1726001,New cases
+Japan,2021-11-24,1726074,New cases
+Japan,2021-11-25,1726186,New cases
+Japan,2021-11-26,1726299,New cases
+Japan,2021-11-27,1726419,New cases
+Japan,2021-11-28,1726479,New cases
+Japan,2021-11-29,1726555,New cases
+Japan,2021-11-30,1726636,New cases
+Japan,2021-12-01,1726751,New cases
+Japan,2021-12-02,1726864,New cases
+Japan,2021-12-03,1727005,New cases
+Japan,2021-12-04,1727125,New cases
+Japan,2021-12-05,1727229,New cases
+Japan,2021-12-06,1727283,New cases
+Japan,2021-12-07,1727382,New cases
+Japan,2021-12-08,1727504,New cases
+Japan,2021-12-09,1727658,New cases
+Japan,2021-12-10,1727794,New cases
+Japan,2021-12-11,1727925,New cases
+Japan,2021-12-12,1728023,New cases
+Japan,2021-12-13,1728090,New cases
+Japan,2021-12-14,1728218,New cases
+Japan,2021-12-15,1728377,New cases
+Japan,2021-12-16,1728540,New cases
+Japan,2021-12-17,1728701,New cases
+Japan,2021-12-18,1728880,New cases
+Japan,2021-12-19,1729030,New cases
+Japan,2021-12-20,1729139,New cases
+Japan,2021-12-21,1729357,New cases
+Japan,2021-12-22,1729577,New cases
+Japan,2021-12-23,1729824,New cases
+Japan,2021-12-24,1730084,New cases
+Japan,2021-12-25,1730347,New cases
+Japan,2021-12-26,1730572,New cases
+Japan,2021-12-27,1730735,New cases
+Japan,2021-12-28,1731048,New cases
+Japan,2021-12-29,1731446,New cases
+Japan,2021-12-30,1731878,New cases
+Japan,2021-12-31,1732296,New cases
+Japan,2022-01-01,1732752,New cases
+Japan,2022-01-02,1733229,New cases
+Japan,2022-01-03,1733901,New cases
+Japan,2022-01-04,1735050,New cases
+Japan,2022-01-05,1737540,New cases
+Japan,2022-01-06,1741837,New cases
+Japan,2022-01-07,1747907,New cases
+Japan,2022-01-08,1756209,New cases
+Japan,2022-01-09,1764280,New cases
+Japan,2022-01-10,1770545,New cases
+Japan,2022-01-11,1776780,New cases
+Japan,2022-01-12,1789824,New cases
+Japan,2022-01-13,1808501,New cases
+Japan,2022-01-14,1830381,New cases
+Japan,2022-01-15,1856002,New cases
+Japan,2022-01-16,1881481,New cases
+Japan,2022-01-17,1902304,New cases
+Japan,2022-01-18,1934391,New cases
+Japan,2022-01-19,1975761,New cases
+Japan,2022-01-20,2021758,New cases
+Japan,2022-01-21,2071471,New cases
+Japan,2022-01-22,2125882,New cases
+Japan,2022-01-23,2175719,New cases
+Japan,2022-01-24,2220382,New cases
+Japan,2022-01-25,2282871,New cases
+Japan,2022-01-26,2354358,New cases
+Japan,2022-01-27,2433094,New cases
+Japan,2022-01-28,2514804,New cases
+Japan,2022-01-29,2599599,New cases
+Japan,2022-01-30,2677602,New cases
+Japan,2022-01-31,2738460,New cases
+Japan,2022-02-01,2820053,New cases
+Japan,2022-02-02,2914824,New cases
+Japan,2022-02-03,3019169,New cases
+Japan,2022-02-04,3117346,New cases
+Japan,2022-02-05,3219621,New cases
+Japan,2022-02-06,3309439,New cases
+Japan,2022-02-07,3377378,New cases
+Japan,2022-02-08,3478462,New cases
+Japan,2022-02-09,3576261,New cases
+Japan,2022-02-10,3675865,New cases
+Japan,2022-02-11,3774164,New cases
+Japan,2022-02-12,3842551,New cases
+Japan,2022-02-13,3919931,New cases
+Japan,2022-02-14,3979984,New cases
+Japan,2022-02-15,4064142,New cases
+Japan,2022-02-16,4155027,New cases
+Japan,2022-02-17,4250142,New cases
+Japan,2022-02-18,4337780,New cases
+Japan,2022-02-19,4419254,New cases
+Japan,2022-02-20,4490748,New cases
+Japan,2022-02-21,4542657,New cases
+Japan,2022-02-22,4612104,New cases
+Japan,2022-02-23,4692406,New cases
+Japan,2022-02-24,4753558,New cases
+Japan,2022-02-25,4819151,New cases
+Japan,2022-02-26,4891242,New cases
+Japan,2022-02-27,4954865,New cases
+Japan,2022-02-28,5005881,New cases
+Japan,2022-03-01,5071249,New cases
+Japan,2022-03-02,5143818,New cases
+Japan,2022-03-03,5214086,New cases
+Japan,2022-03-04,5277655,New cases
+Japan,2022-03-05,5341246,New cases
+Japan,2022-03-06,5395143,New cases
+Japan,2022-03-07,5432145,New cases
+Japan,2022-03-08,5486083,New cases
+Japan,2022-03-09,5549755,New cases
+Japan,2022-03-10,5610818,New cases
+Japan,2022-03-11,5666630,New cases
+Japan,2022-03-12,5721856,New cases
+Japan,2022-03-13,5772715,New cases
+Japan,2022-03-14,5805074,New cases
+Japan,2022-03-15,5855769,New cases
+Japan,2022-03-16,5913591,New cases
+Japan,2022-03-17,5967069,New cases
+Japan,2022-03-18,6016178,New cases
+Japan,2022-03-19,6060771,New cases
+Japan,2022-03-20,6100331,New cases
+Japan,2022-03-21,6127897,New cases
+Japan,2022-03-22,6148049,New cases
+Japan,2022-03-23,6188977,New cases
+Japan,2022-03-24,6238527,New cases
+Japan,2022-03-25,6285894,New cases
+Japan,2022-03-26,6333118,New cases
+Japan,2022-03-27,6376338,New cases
+Japan,2022-03-28,6406058,New cases
+Japan,2022-03-29,6450423,New cases
+Japan,2022-03-30,6504032,New cases
+Japan,2022-03-31,6555585,New cases
+Japan,2022-04-01,6604726,New cases
+Japan,2022-04-02,6653421,New cases
+Japan,2022-04-03,6700637,New cases
+Japan,2022-04-04,6730654,New cases
+Japan,2022-04-05,6776236,New cases
+Japan,2022-04-06,6830997,New cases
+Japan,2022-04-07,6885876,New cases
+Japan,2022-04-08,6937720,New cases
+Japan,2022-04-09,6990349,New cases
+Japan,2022-04-10,7039397,New cases
+Japan,2022-04-11,7072493,New cases
+Japan,2022-04-12,7122173,New cases
+Japan,2022-04-13,7179839,New cases
+Japan,2022-04-14,7235040,New cases
+Japan,2022-04-15,7284737,New cases
+Japan,2022-04-16,7332261,New cases
+Japan,2022-04-17,7371466,New cases
+Japan,2022-04-18,7395608,New cases
+Japan,2022-04-19,7436434,New cases
+Japan,2022-04-20,7484263,New cases
+Japan,2022-04-21,7531317,New cases
+Japan,2022-04-22,7574215,New cases
+Japan,2022-04-23,7618107,New cases
+Japan,2022-04-24,7656600,New cases
+Japan,2022-04-25,7681363,New cases
+Japan,2022-04-26,7721795,New cases
+Japan,2022-04-27,7767997,New cases
+Japan,2022-04-28,7809668,New cases
+Japan,2022-04-29,7846274,New cases
+Japan,2022-04-30,7871253,New cases
+Japan,2022-05-01,7898133,New cases
+Japan,2022-05-02,7917391,New cases
+Japan,2022-05-03,7947818,New cases
+Japan,2022-05-04,7974232,New cases
+Japan,2022-05-05,7994944,New cases
+Japan,2022-05-06,8016485,New cases
+Japan,2022-05-07,8055713,New cases
+Japan,2022-05-08,8098119,New cases
+Japan,2022-05-09,8126472,New cases
+Japan,2022-05-10,8168462,New cases
+Japan,2022-05-11,8214311,New cases
+Japan,2022-05-12,8255959,New cases
+Japan,2022-05-13,8295529,New cases
+Japan,2022-05-14,8334859,New cases
+Japan,2022-05-15,8369751,New cases
+Japan,2022-05-16,8391424,New cases
+Japan,2022-05-17,8428219,New cases
+Japan,2022-05-18,8470287,New cases
+Japan,2022-05-19,8509857,New cases
+Japan,2022-05-20,8547200,New cases
+Japan,2022-05-21,8583048,New cases
+Japan,2022-05-22,8614387,New cases
+Japan,2022-05-23,8632778,New cases
+Japan,2022-05-24,8665068,New cases
+Japan,2022-05-25,8700168,New cases
+Japan,2022-05-26,8731080,New cases
+Japan,2022-05-27,8758532,New cases
+Japan,2022-05-28,8784188,New cases
+Japan,2022-05-29,8804886,New cases
+Japan,2022-05-30,8816943,New cases
+Japan,2022-05-31,8838747,New cases
+Japan,2022-06-01,8861405,New cases
+Japan,2022-06-02,8881491,New cases
+Japan,2022-06-03,8900748,New cases
+Japan,2022-06-04,8918984,New cases
+Japan,2022-06-05,8934078,New cases
+Japan,2022-06-06,8943156,New cases
+Japan,2022-06-07,8960177,New cases
+Japan,2022-06-08,8978571,New cases
+Japan,2022-06-09,8995359,New cases
+Japan,2022-06-10,9010943,New cases
+Japan,2022-06-11,9026281,New cases
+Japan,2022-06-12,9039662,New cases
+Japan,2022-06-13,9047604,New cases
+Japan,2022-06-14,9062918,New cases
+Japan,2022-06-15,9079462,New cases
+Japan,2022-06-16,9094948,New cases
+Japan,2022-06-17,9109632,New cases
+Japan,2022-06-18,9124454,New cases
+Japan,2022-06-19,9137595,New cases
+Japan,2022-06-20,9145373,New cases
+Japan,2022-06-21,9160740,New cases
+Japan,2022-06-22,9178003,New cases
+Japan,2022-06-23,9194660,New cases
+Japan,2022-06-24,9210607,New cases
+Japan,2022-06-25,9227180,New cases
+Japan,2022-06-26,9241386,New cases
+Japan,2022-06-27,9250940,New cases
+Japan,2022-06-28,9270305,New cases
+Japan,2022-06-29,9293629,New cases
+Japan,2022-06-30,9316954,New cases
+Japan,2022-07-01,9340079,New cases
+Japan,2022-07-02,9364954,New cases
+Japan,2022-07-03,9388222,New cases
+Japan,2022-07-04,9405007,New cases
+Japan,2022-07-05,9441171,New cases
+Japan,2022-07-06,9486965,New cases
+Japan,2022-07-07,9534908,New cases
+Japan,2022-07-08,9584835,New cases
+Japan,2022-07-09,9639819,New cases
+Japan,2022-07-10,9693879,New cases
+Japan,2022-07-11,9730993,New cases
+Japan,2022-07-12,9806971,New cases
+Japan,2022-07-13,9901424,New cases
+Japan,2022-07-14,9999181,New cases
+Japan,2022-07-15,10102454,New cases
+Japan,2022-07-16,10213101,New cases
+Japan,2022-07-17,10318639,New cases
+Japan,2022-07-18,10394789,New cases
+Japan,2022-07-19,10461481,New cases
+Japan,2022-07-20,10613947,New cases
+Japan,2022-07-21,10800103,New cases
+Japan,2022-07-22,10995193,New cases
+Japan,2022-07-23,11196063,New cases
+Japan,2022-07-24,11372555,New cases
+Japan,2022-07-25,11499018,New cases
+Japan,2022-07-26,11695380,New cases
+Japan,2022-07-27,11904980,New cases
+Japan,2022-07-28,12137977,New cases
+Japan,2022-07-29,12359275,New cases
+Japan,2022-07-30,12581505,New cases
+Japan,2022-07-31,12779171,New cases
+Japan,2022-08-01,12918780,New cases
+Japan,2022-08-02,13129678,New cases
+Japan,2022-08-03,13379386,New cases
+Japan,2022-08-04,13618037,New cases
+Japan,2022-08-05,13851692,New cases
+Japan,2022-08-06,14079172,New cases
+Japan,2022-08-07,14285593,New cases
+Japan,2022-08-08,14423315,New cases
+Japan,2022-08-09,14635748,New cases
+Japan,2022-08-10,14886036,New cases
+Japan,2022-08-11,15126145,New cases
+Japan,2022-08-12,15294863,New cases
+Japan,2022-08-13,15478389,New cases
+Japan,2022-08-14,15656681,New cases
+Japan,2022-08-15,15795156,New cases
+Japan,2022-08-16,15961249,New cases
+Japan,2022-08-17,16192610,New cases
+Japan,2022-08-18,16448037,New cases
+Japan,2022-08-19,16708985,New cases
+Japan,2022-08-20,16962177,New cases
 Russia,2020-01-31,2,New cases
 Russia,2020-02-01,2,New cases
 Russia,2020-02-02,2,New cases
@@ -5571,6 +6523,8 @@ Russia,2022-08-15,18632165,New cases
 Russia,2022-08-16,18655654,New cases
 Russia,2022-08-17,18688416,New cases
 Russia,2022-08-18,18723731,New cases
+Russia,2022-08-19,18760762,New cases
+Russia,2022-08-20,18800180,New cases
 South Korea,2020-01-22,1,New cases
 South Korea,2020-01-23,1,New cases
 South Korea,2020-01-24,2,New cases
@@ -6511,897 +7465,8 @@ South Korea,2022-08-15,21502164,New cases
 South Korea,2022-08-16,21682816,New cases
 South Korea,2022-08-17,21861296,New cases
 South Korea,2022-08-18,22000037,New cases
-Turkey,2020-03-11,1,New cases
-Turkey,2020-03-12,1,New cases
-Turkey,2020-03-13,5,New cases
-Turkey,2020-03-14,5,New cases
-Turkey,2020-03-15,6,New cases
-Turkey,2020-03-16,18,New cases
-Turkey,2020-03-17,47,New cases
-Turkey,2020-03-18,98,New cases
-Turkey,2020-03-19,192,New cases
-Turkey,2020-03-20,359,New cases
-Turkey,2020-03-21,670,New cases
-Turkey,2020-03-22,1236,New cases
-Turkey,2020-03-23,1529,New cases
-Turkey,2020-03-24,1872,New cases
-Turkey,2020-03-25,2433,New cases
-Turkey,2020-03-26,3629,New cases
-Turkey,2020-03-27,5698,New cases
-Turkey,2020-03-28,7402,New cases
-Turkey,2020-03-29,9217,New cases
-Turkey,2020-03-30,10827,New cases
-Turkey,2020-03-31,13531,New cases
-Turkey,2020-04-01,15679,New cases
-Turkey,2020-04-02,18135,New cases
-Turkey,2020-04-03,20921,New cases
-Turkey,2020-04-04,23934,New cases
-Turkey,2020-04-05,27069,New cases
-Turkey,2020-04-06,30217,New cases
-Turkey,2020-04-07,34109,New cases
-Turkey,2020-04-08,38226,New cases
-Turkey,2020-04-09,42282,New cases
-Turkey,2020-04-10,47029,New cases
-Turkey,2020-04-11,52167,New cases
-Turkey,2020-04-12,56956,New cases
-Turkey,2020-04-13,61049,New cases
-Turkey,2020-04-14,65111,New cases
-Turkey,2020-04-15,69392,New cases
-Turkey,2020-04-16,74193,New cases
-Turkey,2020-04-17,78546,New cases
-Turkey,2020-04-18,82329,New cases
-Turkey,2020-04-19,86306,New cases
-Turkey,2020-04-20,90980,New cases
-Turkey,2020-04-21,95591,New cases
-Turkey,2020-04-22,98674,New cases
-Turkey,2020-04-23,101790,New cases
-Turkey,2020-04-24,104912,New cases
-Turkey,2020-04-25,107773,New cases
-Turkey,2020-04-26,110130,New cases
-Turkey,2020-04-27,112261,New cases
-Turkey,2020-04-28,114653,New cases
-Turkey,2020-04-29,117589,New cases
-Turkey,2020-04-30,120204,New cases
-Turkey,2020-05-01,122392,New cases
-Turkey,2020-05-02,124375,New cases
-Turkey,2020-05-03,126045,New cases
-Turkey,2020-05-04,127659,New cases
-Turkey,2020-05-05,129491,New cases
-Turkey,2020-05-06,131744,New cases
-Turkey,2020-05-07,133721,New cases
-Turkey,2020-05-08,135569,New cases
-Turkey,2020-05-09,137115,New cases
-Turkey,2020-05-10,138657,New cases
-Turkey,2020-05-11,139771,New cases
-Turkey,2020-05-12,141475,New cases
-Turkey,2020-05-13,143114,New cases
-Turkey,2020-05-14,144749,New cases
-Turkey,2020-05-15,146457,New cases
-Turkey,2020-05-16,148067,New cases
-Turkey,2020-05-17,149435,New cases
-Turkey,2020-05-18,150593,New cases
-Turkey,2020-05-19,151615,New cases
-Turkey,2020-05-20,152587,New cases
-Turkey,2020-05-21,153548,New cases
-Turkey,2020-05-22,154500,New cases
-Turkey,2020-05-23,155686,New cases
-Turkey,2020-05-24,156827,New cases
-Turkey,2020-05-25,157814,New cases
-Turkey,2020-05-26,158762,New cases
-Turkey,2020-05-27,159797,New cases
-Turkey,2020-05-28,160979,New cases
-Turkey,2020-05-29,162120,New cases
-Turkey,2020-05-30,163103,New cases
-Turkey,2020-05-31,163942,New cases
-Turkey,2020-06-01,164769,New cases
-Turkey,2020-06-02,165555,New cases
-Turkey,2020-06-03,166422,New cases
-Turkey,2020-06-04,167410,New cases
-Turkey,2020-06-05,168340,New cases
-Turkey,2020-06-06,169218,New cases
-Turkey,2020-06-07,170132,New cases
-Turkey,2020-06-08,171121,New cases
-Turkey,2020-06-09,172114,New cases
-Turkey,2020-06-10,173036,New cases
-Turkey,2020-06-11,174023,New cases
-Turkey,2020-06-12,175218,New cases
-Turkey,2020-06-13,176677,New cases
-Turkey,2020-06-14,178239,New cases
-Turkey,2020-06-15,179831,New cases
-Turkey,2020-06-16,181298,New cases
-Turkey,2020-06-17,182727,New cases
-Turkey,2020-06-18,184031,New cases
-Turkey,2020-06-19,185245,New cases
-Turkey,2020-06-20,186493,New cases
-Turkey,2020-06-21,187685,New cases
-Turkey,2020-06-22,188897,New cases
-Turkey,2020-06-23,190165,New cases
-Turkey,2020-06-24,191657,New cases
-Turkey,2020-06-25,193115,New cases
-Turkey,2020-06-26,194511,New cases
-Turkey,2020-06-27,195883,New cases
-Turkey,2020-06-28,197239,New cases
-Turkey,2020-06-29,198613,New cases
-Turkey,2020-06-30,199906,New cases
-Turkey,2020-07-01,201098,New cases
-Turkey,2020-07-02,202284,New cases
-Turkey,2020-07-03,203456,New cases
-Turkey,2020-07-04,204610,New cases
-Turkey,2020-07-05,205758,New cases
-Turkey,2020-07-06,206844,New cases
-Turkey,2020-07-07,207897,New cases
-Turkey,2020-07-08,208938,New cases
-Turkey,2020-07-09,209962,New cases
-Turkey,2020-07-10,210965,New cases
-Turkey,2020-07-11,211981,New cases
-Turkey,2020-07-12,212993,New cases
-Turkey,2020-07-13,214001,New cases
-Turkey,2020-07-14,214993,New cases
-Turkey,2020-07-15,215940,New cases
-Turkey,2020-07-16,216873,New cases
-Turkey,2020-07-17,217799,New cases
-Turkey,2020-07-18,218717,New cases
-Turkey,2020-07-19,219641,New cases
-Turkey,2020-07-20,220572,New cases
-Turkey,2020-07-21,221500,New cases
-Turkey,2020-07-22,222402,New cases
-Turkey,2020-07-23,223315,New cases
-Turkey,2020-07-24,224252,New cases
-Turkey,2020-07-25,225173,New cases
-Turkey,2020-07-26,226100,New cases
-Turkey,2020-07-27,227019,New cases
-Turkey,2020-07-28,227982,New cases
-Turkey,2020-07-29,228924,New cases
-Turkey,2020-07-30,229891,New cases
-Turkey,2020-07-31,230873,New cases
-Turkey,2020-08-01,231869,New cases
-Turkey,2020-08-02,232856,New cases
-Turkey,2020-08-03,233851,New cases
-Turkey,2020-08-04,234934,New cases
-Turkey,2020-08-05,236112,New cases
-Turkey,2020-08-06,237265,New cases
-Turkey,2020-08-07,238450,New cases
-Turkey,2020-08-08,239622,New cases
-Turkey,2020-08-09,240804,New cases
-Turkey,2020-08-10,241997,New cases
-Turkey,2020-08-11,243180,New cases
-Turkey,2020-08-12,244392,New cases
-Turkey,2020-08-13,245635,New cases
-Turkey,2020-08-14,246861,New cases
-Turkey,2020-08-15,248117,New cases
-Turkey,2020-08-16,249309,New cases
-Turkey,2020-08-17,250542,New cases
-Turkey,2020-08-18,251805,New cases
-Turkey,2020-08-19,253108,New cases
-Turkey,2020-08-20,254520,New cases
-Turkey,2020-08-21,255723,New cases
-Turkey,2020-08-22,257032,New cases
-Turkey,2020-08-23,258249,New cases
-Turkey,2020-08-24,259692,New cases
-Turkey,2020-08-25,261194,New cases
-Turkey,2020-08-26,262507,New cases
-Turkey,2020-08-27,263998,New cases
-Turkey,2020-08-28,265515,New cases
-Turkey,2020-08-29,267064,New cases
-Turkey,2020-08-30,268546,New cases
-Turkey,2020-08-31,270133,New cases
-Turkey,2020-09-01,271705,New cases
-Turkey,2020-09-02,273301,New cases
-Turkey,2020-09-03,274943,New cases
-Turkey,2020-09-04,276555,New cases
-Turkey,2020-09-05,278228,New cases
-Turkey,2020-09-06,279806,New cases
-Turkey,2020-09-07,281509,New cases
-Turkey,2020-09-08,283270,New cases
-Turkey,2020-09-09,284943,New cases
-Turkey,2020-09-10,286455,New cases
-Turkey,2020-09-11,288126,New cases
-Turkey,2020-09-12,289635,New cases
-Turkey,2020-09-13,291162,New cases
-Turkey,2020-09-14,292878,New cases
-Turkey,2020-09-15,294620,New cases
-Turkey,2020-09-16,296391,New cases
-Turkey,2020-09-17,298039,New cases
-Turkey,2020-09-18,299810,New cases
-Turkey,2020-09-19,301348,New cases
-Turkey,2020-09-20,302867,New cases
-Turkey,2020-09-21,304610,New cases
-Turkey,2020-09-22,306302,New cases
-Turkey,2020-09-23,308069,New cases
-Turkey,2020-09-24,309790,New cases
-Turkey,2020-09-25,311455,New cases
-Turkey,2020-09-26,312966,New cases
-Turkey,2020-09-27,314433,New cases
-Turkey,2020-09-28,315845,New cases
-Turkey,2020-09-29,317272,New cases
-Turkey,2020-09-30,318663,New cases
-Turkey,2020-10-01,320070,New cases
-Turkey,2020-10-02,321512,New cases
-Turkey,2020-10-03,323014,New cases
-Turkey,2020-10-04,324443,New cases
-Turkey,2020-10-05,326046,New cases
-Turkey,2020-10-06,327557,New cases
-Turkey,2020-10-07,329138,New cases
-Turkey,2020-10-08,330753,New cases
-Turkey,2020-10-09,332382,New cases
-Turkey,2020-10-10,334031,New cases
-Turkey,2020-10-11,335533,New cases
-Turkey,2020-10-12,337147,New cases
-Turkey,2020-10-13,338779,New cases
-Turkey,2020-10-14,340450,New cases
-Turkey,2020-10-15,342143,New cases
-Turkey,2020-10-16,343955,New cases
-Turkey,2020-10-17,345678,New cases
-Turkey,2020-10-18,347493,New cases
-Turkey,2020-10-19,349519,New cases
-Turkey,2020-10-20,351413,New cases
-Turkey,2020-10-21,353426,New cases
-Turkey,2020-10-22,355528,New cases
-Turkey,2020-10-23,357693,New cases
-Turkey,2020-10-24,359784,New cases
-Turkey,2020-10-25,361801,New cases
-Turkey,2020-10-26,363999,New cases
-Turkey,2020-10-27,366208,New cases
-Turkey,2020-10-28,368513,New cases
-Turkey,2020-10-29,370832,New cases
-Turkey,2020-10-30,373154,New cases
-Turkey,2020-10-31,375367,New cases
-Turkey,2020-11-01,377473,New cases
-Turkey,2020-11-02,379775,New cases
-Turkey,2020-11-03,382118,New cases
-Turkey,2020-11-04,384509,New cases
-Turkey,2020-11-05,386820,New cases
-Turkey,2020-11-06,389256,New cases
-Turkey,2020-11-07,391739,New cases
-Turkey,2020-11-08,394255,New cases
-Turkey,2020-11-09,396831,New cases
-Turkey,2020-11-10,399360,New cases
-Turkey,2020-11-11,402053,New cases
-Turkey,2020-11-12,404894,New cases
-Turkey,2020-11-13,407939,New cases
-Turkey,2020-11-14,411055,New cases
-Turkey,2020-11-15,414278,New cases
-Turkey,2020-11-16,417594,New cases
-Turkey,2020-11-17,421413,New cases
-Turkey,2020-11-18,425628,New cases
-Turkey,2020-11-19,430170,New cases
-Turkey,2020-11-20,435273,New cases
-Turkey,2020-11-21,440805,New cases
-Turkey,2020-11-22,446822,New cases
-Turkey,2020-11-23,453535,New cases
-Turkey,2020-11-24,460916,New cases
-Turkey,2020-11-25,467730,New cases
-Turkey,2020-11-26,503738,New cases
-Turkey,2020-11-27,548244,New cases
-Turkey,2020-11-28,578347,New cases
-Turkey,2020-11-29,607628,New cases
-Turkey,2020-11-30,638847,New cases
-Turkey,2020-12-01,668957,New cases
-Turkey,2020-12-02,700880,New cases
-Turkey,2020-12-03,733261,New cases
-Turkey,2020-12-04,765997,New cases
-Turkey,2020-12-05,797893,New cases
-Turkey,2020-12-06,828295,New cases
-Turkey,2020-12-07,860432,New cases
-Turkey,2020-12-08,893630,New cases
-Turkey,2020-12-09,925342,New cases
-Turkey,2020-12-10,1748567,New cases
-Turkey,2020-12-11,1780673,New cases
-Turkey,2020-12-12,1809809,New cases
-Turkey,2020-12-13,1836728,New cases
-Turkey,2020-12-14,1866345,New cases
-Turkey,2020-12-15,1898447,New cases
-Turkey,2020-12-16,1928165,New cases
-Turkey,2020-12-17,1955680,New cases
-Turkey,2020-12-18,1982090,New cases
-Turkey,2020-12-19,2004285,New cases
-Turkey,2020-12-20,2024601,New cases
-Turkey,2020-12-21,2043704,New cases
-Turkey,2020-12-22,2062960,New cases
-Turkey,2020-12-23,2082610,New cases
-Turkey,2020-12-24,2100712,New cases
-Turkey,2020-12-25,2118255,New cases
-Turkey,2020-12-26,2133373,New cases
-Turkey,2020-12-27,2147578,New cases
-Turkey,2020-12-28,2162775,New cases
-Turkey,2020-12-29,2178580,New cases
-Turkey,2020-12-30,2194272,New cases
-Turkey,2020-12-31,2208652,New cases
-Turkey,2021-01-01,2220855,New cases
-Turkey,2021-01-02,2232035,New cases
-Turkey,2021-01-03,2241912,New cases
-Turkey,2021-01-04,2255607,New cases
-Turkey,2021-01-05,2270101,New cases
-Turkey,2021-01-06,2283931,New cases
-Turkey,2021-01-07,2296102,New cases
-Turkey,2021-01-08,2307581,New cases
-Turkey,2021-01-09,2317118,New cases
-Turkey,2021-01-10,2326256,New cases
-Turkey,2021-01-11,2336476,New cases
-Turkey,2021-01-12,2346285,New cases
-Turkey,2021-01-13,2355839,New cases
-Turkey,2021-01-14,2364801,New cases
-Turkey,2021-01-15,2373115,New cases
-Turkey,2021-01-16,2380665,New cases
-Turkey,2021-01-17,2387101,New cases
-Turkey,2021-01-18,2392963,New cases
-Turkey,2021-01-19,2399781,New cases
-Turkey,2021-01-20,2406216,New cases
-Turkey,2021-01-21,2412505,New cases
-Turkey,2021-01-22,2418472,New cases
-Turkey,2021-01-23,2424328,New cases
-Turkey,2021-01-24,2429605,New cases
-Turkey,2021-01-25,2435247,New cases
-Turkey,2021-01-26,2442350,New cases
-Turkey,2021-01-27,2449839,New cases
-Turkey,2021-01-28,2457118,New cases
-Turkey,2021-01-29,2464030,New cases
-Turkey,2021-01-30,2470901,New cases
-Turkey,2021-01-31,2477463,New cases
-Turkey,2021-02-01,2485182,New cases
-Turkey,2021-02-02,2492977,New cases
-Turkey,2021-02-03,2501079,New cases
-Turkey,2021-02-04,2508988,New cases
-Turkey,2021-02-05,2516889,New cases
-Turkey,2021-02-06,2524786,New cases
-Turkey,2021-02-07,2531456,New cases
-Turkey,2021-02-08,2539559,New cases
-Turkey,2021-02-09,2548195,New cases
-Turkey,2021-02-10,2556837,New cases
-Turkey,2021-02-11,2564427,New cases
-Turkey,2021-02-12,2572190,New cases
-Turkey,2021-02-13,2579896,New cases
-Turkey,2021-02-14,2586183,New cases
-Turkey,2021-02-15,2594128,New cases
-Turkey,2021-02-16,2602034,New cases
-Turkey,2021-02-17,2609359,New cases
-Turkey,2021-02-18,2616600,New cases
-Turkey,2021-02-19,2624019,New cases
-Turkey,2021-02-20,2631876,New cases
-Turkey,2021-02-21,2638422,New cases
-Turkey,2021-02-22,2646526,New cases
-Turkey,2021-02-23,2655633,New cases
-Turkey,2021-02-24,2665194,New cases
-Turkey,2021-02-25,2674766,New cases
-Turkey,2021-02-26,2683971,New cases
-Turkey,2021-02-27,2693164,New cases
-Turkey,2021-02-28,2701588,New cases
-Turkey,2021-03-01,2711479,New cases
-Turkey,2021-03-02,2723316,New cases
-Turkey,2021-03-03,2734836,New cases
-Turkey,2021-03-04,2746158,New cases
-Turkey,2021-03-05,2757460,New cases
-Turkey,2021-03-06,2769230,New cases
-Turkey,2021-03-07,2780417,New cases
-Turkey,2021-03-08,2793632,New cases
-Turkey,2021-03-09,2807387,New cases
-Turkey,2021-03-10,2821943,New cases
-Turkey,2021-03-11,2835989,New cases
-Turkey,2021-03-12,2850930,New cases
-Turkey,2021-03-13,2866012,New cases
-Turkey,2021-03-14,2879390,New cases
-Turkey,2021-03-15,2894893,New cases
-Turkey,2021-03-16,2911642,New cases
-Turkey,2021-03-17,2930554,New cases
-Turkey,2021-03-18,2950603,New cases
-Turkey,2021-03-19,2971633,New cases
-Turkey,2021-03-20,2992694,New cases
-Turkey,2021-03-21,3013122,New cases
-Turkey,2021-03-22,3035338,New cases
-Turkey,2021-03-23,3061520,New cases
-Turkey,2021-03-24,3091282,New cases
-Turkey,2021-03-25,3120013,New cases
-Turkey,2021-03-26,3149094,New cases
-Turkey,2021-03-27,3179115,New cases
-Turkey,2021-03-28,3208173,New cases
-Turkey,2021-03-29,3240577,New cases
-Turkey,2021-03-30,3277880,New cases
-Turkey,2021-03-31,3317182,New cases
-Turkey,2021-04-01,3357988,New cases
-Turkey,2021-04-02,3400296,New cases
-Turkey,2021-04-03,3445052,New cases
-Turkey,2021-04-04,3487050,New cases
-Turkey,2021-04-05,3529601,New cases
-Turkey,2021-04-06,3579185,New cases
-Turkey,2021-04-07,3633925,New cases
-Turkey,2021-04-08,3689866,New cases
-Turkey,2021-04-09,3745657,New cases
-Turkey,2021-04-10,3798333,New cases
-Turkey,2021-04-11,3849011,New cases
-Turkey,2021-04-12,3903573,New cases
-Turkey,2021-04-13,3962760,New cases
-Turkey,2021-04-14,4025557,New cases
-Turkey,2021-04-15,4086957,New cases
-Turkey,2021-04-16,4150039,New cases
-Turkey,2021-04-17,4212645,New cases
-Turkey,2021-04-18,4268447,New cases
-Turkey,2021-04-19,4323596,New cases
-Turkey,2021-04-20,4384624,New cases
-Turkey,2021-04-21,4446591,New cases
-Turkey,2021-04-22,4501382,New cases
-Turkey,2021-04-23,4550820,New cases
-Turkey,2021-04-24,4591416,New cases
-Turkey,2021-04-25,4629969,New cases
-Turkey,2021-04-26,4667281,New cases
-Turkey,2021-04-27,4710582,New cases
-Turkey,2021-04-28,4751026,New cases
-Turkey,2021-04-29,4788700,New cases
-Turkey,2021-04-30,4820591,New cases
-Turkey,2021-05-01,4849408,New cases
-Turkey,2021-05-02,4875388,New cases
-Turkey,2021-05-03,4900121,New cases
-Turkey,2021-05-04,4929118,New cases
-Turkey,2021-05-05,4955594,New cases
-Turkey,2021-05-06,4977982,New cases
-Turkey,2021-05-07,4998089,New cases
-Turkey,2021-05-08,5016141,New cases
-Turkey,2021-05-09,5031332,New cases
-Turkey,2021-05-10,5044936,New cases
-Turkey,2021-05-11,5059433,New cases
-Turkey,2021-05-12,5072462,New cases
-Turkey,2021-05-13,5083996,New cases
-Turkey,2021-05-14,5095390,New cases
-Turkey,2021-05-15,5106862,New cases
-Turkey,2021-05-16,5117374,New cases
-Turkey,2021-05-17,5127548,New cases
-Turkey,2021-05-18,5139485,New cases
-Turkey,2021-05-19,5151038,New cases
-Turkey,2021-05-20,5160423,New cases
-Turkey,2021-05-21,5169951,New cases
-Turkey,2021-05-22,5178648,New cases
-Turkey,2021-05-23,5186487,New cases
-Turkey,2021-05-24,5194010,New cases
-Turkey,2021-05-25,5203385,New cases
-Turkey,2021-05-26,5212123,New cases
-Turkey,2021-05-27,5220549,New cases
-Turkey,2021-05-28,5228322,New cases
-Turkey,2021-05-29,5235978,New cases
-Turkey,2021-05-30,5242911,New cases
-Turkey,2021-05-31,5249404,New cases
-Turkey,2021-06-01,5256516,New cases
-Turkey,2021-06-02,5263697,New cases
-Turkey,2021-06-03,5270299,New cases
-Turkey,2021-06-04,5276468,New cases
-Turkey,2021-06-05,5282594,New cases
-Turkey,2021-06-06,5287980,New cases
-Turkey,2021-06-07,5293627,New cases
-Turkey,2021-06-08,5300236,New cases
-Turkey,2021-06-09,5306690,New cases
-Turkey,2021-06-10,5313098,New cases
-Turkey,2021-06-11,5319359,New cases
-Turkey,2021-06-12,5325435,New cases
-Turkey,2021-06-13,5330447,New cases
-Turkey,2021-06-14,5336073,New cases
-Turkey,2021-06-15,5342028,New cases
-Turkey,2021-06-16,5348249,New cases
-Turkey,2021-06-17,5354153,New cases
-Turkey,2021-06-18,5359728,New cases
-Turkey,2021-06-19,5365208,New cases
-Turkey,2021-06-20,5370299,New cases
-Turkey,2021-06-21,5375593,New cases
-Turkey,2021-06-22,5381736,New cases
-Turkey,2021-06-23,5387545,New cases
-Turkey,2021-06-24,5393248,New cases
-Turkey,2021-06-25,5398878,New cases
-Turkey,2021-06-26,5404144,New cases
-Turkey,2021-06-27,5409027,New cases
-Turkey,2021-06-28,5414310,New cases
-Turkey,2021-06-29,5420156,New cases
-Turkey,2021-06-30,5425652,New cases
-Turkey,2021-07-01,5430940,New cases
-Turkey,2021-07-02,5435831,New cases
-Turkey,2021-07-03,5440368,New cases
-Turkey,2021-07-04,5444786,New cases
-Turkey,2021-07-05,5449464,New cases
-Turkey,2021-07-06,5454763,New cases
-Turkey,2021-07-07,5459923,New cases
-Turkey,2021-07-08,5465094,New cases
-Turkey,2021-07-09,5470764,New cases
-Turkey,2021-07-10,5476294,New cases
-Turkey,2021-07-11,5481555,New cases
-Turkey,2021-07-12,5486959,New cases
-Turkey,2021-07-13,5493244,New cases
-Turkey,2021-07-14,5500151,New cases
-Turkey,2021-07-15,5507455,New cases
-Turkey,2021-07-16,5514373,New cases
-Turkey,2021-07-17,5522039,New cases
-Turkey,2021-07-18,5529719,New cases
-Turkey,2021-07-19,5537386,New cases
-Turkey,2021-07-20,5546166,New cases
-Turkey,2021-07-21,5554317,New cases
-Turkey,2021-07-22,5563903,New cases
-Turkey,2021-07-23,5574997,New cases
-Turkey,2021-07-24,5587378,New cases
-Turkey,2021-07-25,5601608,New cases
-Turkey,2021-07-26,5618417,New cases
-Turkey,2021-07-27,5638178,New cases
-Turkey,2021-07-28,5660469,New cases
-Turkey,2021-07-29,5682630,New cases
-Turkey,2021-07-30,5704713,New cases
-Turkey,2021-07-31,5727045,New cases
-Turkey,2021-08-01,5747935,New cases
-Turkey,2021-08-02,5770833,New cases
-Turkey,2021-08-03,5795665,New cases
-Turkey,2021-08-04,5822487,New cases
-Turkey,2021-08-05,5846784,New cases
-Turkey,2021-08-06,5870741,New cases
-Turkey,2021-08-07,5895841,New cases
-Turkey,2021-08-08,5918540,New cases
-Turkey,2021-08-09,5942271,New cases
-Turkey,2021-08-10,5968868,New cases
-Turkey,2021-08-11,5996224,New cases
-Turkey,2021-08-12,6018485,New cases
-Turkey,2021-08-13,6039857,New cases
-Turkey,2021-08-14,6059806,New cases
-Turkey,2021-08-15,6078653,New cases
-Turkey,2021-08-16,6096816,New cases
-Turkey,2021-08-17,6118508,New cases
-Turkey,2021-08-18,6138452,New cases
-Turkey,2021-08-19,6157772,New cases
-Turkey,2021-08-20,6177690,New cases
-Turkey,2021-08-21,6197041,New cases
-Turkey,2021-08-22,6215663,New cases
-Turkey,2021-08-23,6234520,New cases
-Turkey,2021-08-24,6253711,New cases
-Turkey,2021-08-25,6273681,New cases
-Turkey,2021-08-26,6293297,New cases
-Turkey,2021-08-27,6311637,New cases
-Turkey,2021-08-28,6329549,New cases
-Turkey,2021-08-29,6346881,New cases
-Turkey,2021-08-30,6366438,New cases
-Turkey,2021-08-31,6388331,New cases
-Turkey,2021-09-01,6412277,New cases
-Turkey,2021-09-02,6435773,New cases
-Turkey,2021-09-03,6458630,New cases
-Turkey,2021-09-04,6478663,New cases
-Turkey,2021-09-05,6498054,New cases
-Turkey,2021-09-06,6519016,New cases
-Turkey,2021-09-07,6542654,New cases
-Turkey,2021-09-08,6566568,New cases
-Turkey,2021-09-09,6590414,New cases
-Turkey,2021-09-10,6613976,New cases
-Turkey,2021-09-11,6636899,New cases
-Turkey,2021-09-12,6658251,New cases
-Turkey,2021-09-13,6682864,New cases
-Turkey,2021-09-14,6710666,New cases
-Turkey,2021-09-15,6738890,New cases
-Turkey,2021-09-16,6767008,New cases
-Turkey,2021-09-17,6794700,New cases
-Turkey,2021-09-18,6820861,New cases
-Turkey,2021-09-19,6847259,New cases
-Turkey,2021-09-20,6874947,New cases
-Turkey,2021-09-21,6904285,New cases
-Turkey,2021-09-22,6932453,New cases
-Turkey,2021-09-23,6960297,New cases
-Turkey,2021-09-24,6987494,New cases
-Turkey,2021-09-25,7013639,New cases
-Turkey,2021-09-26,7039500,New cases
-Turkey,2021-09-27,7066688,New cases
-Turkey,2021-09-28,7095580,New cases
-Turkey,2021-09-29,7124966,New cases
-Turkey,2021-09-30,7154070,New cases
-Turkey,2021-10-01,7182943,New cases
-Turkey,2021-10-02,7210916,New cases
-Turkey,2021-10-03,7238267,New cases
-Turkey,2021-10-04,7267077,New cases
-Turkey,2021-10-05,7296879,New cases
-Turkey,2021-10-06,7327317,New cases
-Turkey,2021-10-07,7357336,New cases
-Turkey,2021-10-08,7387537,New cases
-Turkey,2021-10-09,7416182,New cases
-Turkey,2021-10-10,7444552,New cases
-Turkey,2021-10-11,7475115,New cases
-Turkey,2021-10-12,7508975,New cases
-Turkey,2021-10-13,7540223,New cases
-Turkey,2021-10-14,7570932,New cases
-Turkey,2021-10-15,7601626,New cases
-Turkey,2021-10-16,7630163,New cases
-Turkey,2021-10-17,7654277,New cases
-Turkey,2021-10-18,7683517,New cases
-Turkey,2021-10-19,7714379,New cases
-Turkey,2021-10-20,7744139,New cases
-Turkey,2021-10-21,7772604,New cases
-Turkey,2021-10-22,7800796,New cases
-Turkey,2021-10-23,7827013,New cases
-Turkey,2021-10-24,7851805,New cases
-Turkey,2021-10-25,7879468,New cases
-Turkey,2021-10-26,7909111,New cases
-Turkey,2021-10-27,7936007,New cases
-Turkey,2021-10-28,7961535,New cases
-Turkey,2021-10-29,7985944,New cases
-Turkey,2021-10-30,8009040,New cases
-Turkey,2021-10-31,8032988,New cases
-Turkey,2021-11-01,8061666,New cases
-Turkey,2021-11-02,8091462,New cases
-Turkey,2021-11-03,8121226,New cases
-Turkey,2021-11-04,8150708,New cases
-Turkey,2021-11-05,8178901,New cases
-Turkey,2021-11-06,8206375,New cases
-Turkey,2021-11-07,8231679,New cases
-Turkey,2021-11-08,8259503,New cases
-Turkey,2021-11-09,8288165,New cases
-Turkey,2021-11-10,8315424,New cases
-Turkey,2021-11-11,8340322,New cases
-Turkey,2021-11-12,8363959,New cases
-Turkey,2021-11-13,8386542,New cases
-Turkey,2021-11-14,8408166,New cases
-Turkey,2021-11-15,8432018,New cases
-Turkey,2021-11-16,8457119,New cases
-Turkey,2021-11-17,8480986,New cases
-Turkey,2021-11-18,8503220,New cases
-Turkey,2021-11-19,8527030,New cases
-Turkey,2021-11-20,8550377,New cases
-Turkey,2021-11-21,8571554,New cases
-Turkey,2021-11-22,8596410,New cases
-Turkey,2021-11-23,8624580,New cases
-Turkey,2021-11-24,8652172,New cases
-Turkey,2021-11-25,8676639,New cases
-Turkey,2021-11-26,8700641,New cases
-Turkey,2021-11-27,8724400,New cases
-Turkey,2021-11-28,8746055,New cases
-Turkey,2021-11-29,8770372,New cases
-Turkey,2021-11-30,8795588,New cases
-Turkey,2021-12-01,8818144,New cases
-Turkey,2021-12-02,8839891,New cases
-Turkey,2021-12-03,8861386,New cases
-Turkey,2021-12-04,8881760,New cases
-Turkey,2021-12-05,8901117,New cases
-Turkey,2021-12-06,8921150,New cases
-Turkey,2021-12-07,8943837,New cases
-Turkey,2021-12-08,8964711,New cases
-Turkey,2021-12-09,8984407,New cases
-Turkey,2021-12-10,9002968,New cases
-Turkey,2021-12-11,9022223,New cases
-Turkey,2021-12-12,9040179,New cases
-Turkey,2021-12-13,9058975,New cases
-Turkey,2021-12-14,9080452,New cases
-Turkey,2021-12-15,9100324,New cases
-Turkey,2021-12-16,9118424,New cases
-Turkey,2021-12-17,9136565,New cases
-Turkey,2021-12-18,9154209,New cases
-Turkey,2021-12-19,9171119,New cases
-Turkey,2021-12-20,9189881,New cases
-Turkey,2021-12-21,9209740,New cases
-Turkey,2021-12-22,9228835,New cases
-Turkey,2021-12-23,9247606,New cases
-Turkey,2021-12-24,9266516,New cases
-Turkey,2021-12-25,9286986,New cases
-Turkey,2021-12-26,9307124,New cases
-Turkey,2021-12-27,9333223,New cases
-Turkey,2021-12-28,9365399,New cases
-Turkey,2021-12-29,9402083,New cases
-Turkey,2021-12-30,9441764,New cases
-Turkey,2021-12-31,9482550,New cases
-Turkey,2022-01-01,9519281,New cases
-Turkey,2022-01-02,9552801,New cases
-Turkey,2022-01-03,9597670,New cases
-Turkey,2022-01-04,9652394,New cases
-Turkey,2022-01-05,9718861,New cases
-Turkey,2022-01-06,9787274,New cases
-Turkey,2022-01-07,9850488,New cases
-Turkey,2022-01-08,9916725,New cases
-Turkey,2022-01-09,9978452,New cases
-Turkey,2022-01-10,10043688,New cases
-Turkey,2022-01-11,10117954,New cases
-Turkey,2022-01-12,10195676,New cases
-Turkey,2022-01-13,10271240,New cases
-Turkey,2022-01-14,10339097,New cases
-Turkey,2022-01-15,10403064,New cases
-Turkey,2022-01-16,10457164,New cases
-Turkey,2022-01-17,10522099,New cases
-Turkey,2022-01-18,10591757,New cases
-Turkey,2022-01-19,10664372,New cases
-Turkey,2022-01-20,10736215,New cases
-Turkey,2022-01-21,10808770,New cases
-Turkey,2022-01-22,10881626,New cases
-Turkey,2022-01-23,10947129,New cases
-Turkey,2022-01-24,11014152,New cases
-Turkey,2022-01-25,11090493,New cases
-Turkey,2022-01-26,11167927,New cases
-Turkey,2022-01-27,11250107,New cases
-Turkey,2022-01-28,11343693,New cases
-Turkey,2022-01-29,11438476,New cases
-Turkey,2022-01-30,11526621,New cases
-Turkey,2022-01-31,11619882,New cases
-Turkey,2022-02-01,11722483,New cases
-Turkey,2022-02-02,11833165,New cases
-Turkey,2022-02-03,11940695,New cases
-Turkey,2022-02-04,12051852,New cases
-Turkey,2022-02-05,12150567,New cases
-Turkey,2022-02-06,12238501,New cases
-Turkey,2022-02-07,12335015,New cases
-Turkey,2022-02-08,12446111,New cases
-Turkey,2022-02-09,12554674,New cases
-Turkey,2022-02-10,12653276,New cases
-Turkey,2022-02-11,12748341,New cases
-Turkey,2022-02-12,12834534,New cases
-Turkey,2022-02-13,12908321,New cases
-Turkey,2022-02-14,12984953,New cases
-Turkey,2022-02-15,13079683,New cases
-Turkey,2022-02-16,13173859,New cases
-Turkey,2022-02-17,13266265,New cases
-Turkey,2022-02-18,13353676,New cases
-Turkey,2022-02-19,13434130,New cases
-Turkey,2022-02-20,13504485,New cases
-Turkey,2022-02-21,13589511,New cases
-Turkey,2022-02-22,13675581,New cases
-Turkey,2022-02-23,13762181,New cases
-Turkey,2022-02-24,13841889,New cases
-Turkey,2022-02-25,13913625,New cases
-Turkey,2022-02-26,13975389,New cases
-Turkey,2022-02-27,14025181,New cases
-Turkey,2022-02-28,14089456,New cases
-Turkey,2022-03-01,14149341,New cases
-Turkey,2022-03-02,14206121,New cases
-Turkey,2022-03-03,14255545,New cases
-Turkey,2022-03-04,14293828,New cases
-Turkey,2022-03-05,14326217,New cases
-Turkey,2022-03-06,14353888,New cases
-Turkey,2022-03-07,14388231,New cases
-Turkey,2022-03-08,14425638,New cases
-Turkey,2022-03-09,14458881,New cases
-Turkey,2022-03-10,14488373,New cases
-Turkey,2022-03-11,14513774,New cases
-Turkey,2022-03-12,14534239,New cases
-Turkey,2022-03-13,14551665,New cases
-Turkey,2022-03-14,14576069,New cases
-Turkey,2022-03-15,14600683,New cases
-Turkey,2022-03-16,14623028,New cases
-Turkey,2022-03-17,14644382,New cases
-Turkey,2022-03-18,14663508,New cases
-Turkey,2022-03-19,14680836,New cases
-Turkey,2022-03-20,14693917,New cases
-Turkey,2022-03-21,14708850,New cases
-Turkey,2022-03-22,14726276,New cases
-Turkey,2022-03-23,14743437,New cases
-Turkey,2022-03-24,14760331,New cases
-Turkey,2022-03-25,14775634,New cases
-Turkey,2022-03-26,14789483,New cases
-Turkey,2022-03-27,14800677,New cases
-Turkey,2022-03-28,14815041,New cases
-Turkey,2022-03-29,14831231,New cases
-Turkey,2022-03-30,14846224,New cases
-Turkey,2022-03-31,14860560,New cases
-Turkey,2022-04-01,14873927,New cases
-Turkey,2022-04-02,14885710,New cases
-Turkey,2022-04-03,14894731,New cases
-Turkey,2022-04-04,14907378,New cases
-Turkey,2022-04-05,14919591,New cases
-Turkey,2022-04-06,14929905,New cases
-Turkey,2022-04-07,14939259,New cases
-Turkey,2022-04-08,14946379,New cases
-Turkey,2022-04-09,14953365,New cases
-Turkey,2022-04-10,14958974,New cases
-Turkey,2022-04-11,14965867,New cases
-Turkey,2022-04-12,14972502,New cases
-Turkey,2022-04-13,14978031,New cases
-Turkey,2022-04-14,14983158,New cases
-Turkey,2022-04-15,14987583,New cases
-Turkey,2022-04-16,14991669,New cases
-Turkey,2022-04-17,14994937,New cases
-Turkey,2022-04-18,14999479,New cases
-Turkey,2022-04-19,15003696,New cases
-Turkey,2022-04-20,15007364,New cases
-Turkey,2022-04-21,15010718,New cases
-Turkey,2022-04-22,15013616,New cases
-Turkey,2022-04-23,15016270,New cases
-Turkey,2022-04-24,15018547,New cases
-Turkey,2022-04-25,15021151,New cases
-Turkey,2022-04-26,15023662,New cases
-Turkey,2022-04-27,15026141,New cases
-Turkey,2022-04-28,15028397,New cases
-Turkey,2022-04-29,15030321,New cases
-Turkey,2022-04-30,15032093,New cases
-Turkey,2022-05-01,15033573,New cases
-Turkey,2022-05-02,15034917,New cases
-Turkey,2022-05-03,15036110,New cases
-Turkey,2022-05-04,15037242,New cases
-Turkey,2022-05-05,15038495,New cases
-Turkey,2022-05-06,15040238,New cases
-Turkey,2022-05-07,15041899,New cases
-Turkey,2022-05-08,15043379,New cases
-Turkey,2022-05-09,15044921,New cases
-Turkey,2022-05-10,15046779,New cases
-Turkey,2022-05-11,15048449,New cases
-Turkey,2022-05-12,15050227,New cases
-Turkey,2022-05-13,15051761,New cases
-Turkey,2022-05-14,15053168,New cases
-Turkey,2022-05-15,15054322,New cases
-Turkey,2022-05-16,15055576,New cases
-Turkey,2022-05-17,15057184,New cases
-Turkey,2022-05-18,15058627,New cases
-Turkey,2022-05-19,15060112,New cases
-Turkey,2022-05-20,15060112,New cases
-Turkey,2022-05-21,15062393,New cases
-Turkey,2022-05-22,15063298,New cases
-Turkey,2022-05-23,15064220,New cases
-Turkey,2022-05-24,15065524,New cases
-Turkey,2022-05-25,15066784,New cases
-Turkey,2022-05-26,15068094,New cases
-Turkey,2022-05-27,15069034,New cases
-Turkey,2022-05-28,15070000,New cases
-Turkey,2022-05-29,15070864,New cases
-Turkey,2022-05-30,15071772,New cases
-Turkey,2022-05-31,15072747,New cases
-Turkey,2022-06-01,15072747,New cases
-Turkey,2022-06-02,15072747,New cases
-Turkey,2022-06-03,15072747,New cases
-Turkey,2022-06-04,15072747,New cases
-Turkey,2022-06-05,15078186,New cases
-Turkey,2022-06-06,15078186,New cases
-Turkey,2022-06-07,15078186,New cases
-Turkey,2022-06-08,15078186,New cases
-Turkey,2022-06-09,15078186,New cases
-Turkey,2022-06-10,15078186,New cases
-Turkey,2022-06-11,15078186,New cases
-Turkey,2022-06-12,15078186,New cases
-Turkey,2022-06-13,15078186,New cases
-Turkey,2022-06-14,15085742,New cases
-Turkey,2022-06-15,15085742,New cases
-Turkey,2022-06-16,15085742,New cases
-Turkey,2022-06-17,15085742,New cases
-Turkey,2022-06-18,15085742,New cases
-Turkey,2022-06-19,15085742,New cases
-Turkey,2022-06-20,15085742,New cases
-Turkey,2022-06-21,15085742,New cases
-Turkey,2022-06-22,15085742,New cases
-Turkey,2022-06-23,15085742,New cases
-Turkey,2022-06-24,15085742,New cases
-Turkey,2022-06-25,15085742,New cases
-Turkey,2022-06-26,15085742,New cases
-Turkey,2022-06-27,15096696,New cases
-Turkey,2022-06-28,15096696,New cases
-Turkey,2022-06-29,15123331,New cases
-Turkey,2022-06-30,15123331,New cases
-Turkey,2022-07-01,15123331,New cases
-Turkey,2022-07-02,15123331,New cases
-Turkey,2022-07-03,15123331,New cases
-Turkey,2022-07-04,15180444,New cases
-Turkey,2022-07-05,15180444,New cases
-Turkey,2022-07-06,15180444,New cases
-Turkey,2022-07-07,15180444,New cases
-Turkey,2022-07-08,15180444,New cases
-Turkey,2022-07-09,15180444,New cases
-Turkey,2022-07-10,15180444,New cases
-Turkey,2022-07-11,15180444,New cases
-Turkey,2022-07-12,15180444,New cases
-Turkey,2022-07-13,15297539,New cases
-Turkey,2022-07-14,15297539,New cases
-Turkey,2022-07-15,15297539,New cases
-Turkey,2022-07-16,15297539,New cases
-Turkey,2022-07-17,15297539,New cases
-Turkey,2022-07-18,15297539,New cases
-Turkey,2022-07-19,15297539,New cases
-Turkey,2022-07-20,15524071,New cases
-Turkey,2022-07-21,15524071,New cases
-Turkey,2022-07-22,15524071,New cases
-Turkey,2022-07-23,15524071,New cases
-Turkey,2022-07-24,15524071,New cases
-Turkey,2022-07-25,15524071,New cases
-Turkey,2022-07-26,15524071,New cases
-Turkey,2022-07-27,15524071,New cases
-Turkey,2022-07-28,15524071,New cases
-Turkey,2022-07-29,15889495,New cases
-Turkey,2022-07-30,15889495,New cases
-Turkey,2022-07-31,15889495,New cases
-Turkey,2022-08-01,15889495,New cases
-Turkey,2022-08-02,15889495,New cases
-Turkey,2022-08-03,15889495,New cases
-Turkey,2022-08-04,15889495,New cases
-Turkey,2022-08-05,15889495,New cases
-Turkey,2022-08-06,16295817,New cases
-Turkey,2022-08-07,16295817,New cases
-Turkey,2022-08-08,16295817,New cases
-Turkey,2022-08-09,16295817,New cases
-Turkey,2022-08-10,16295817,New cases
-Turkey,2022-08-11,16295817,New cases
-Turkey,2022-08-12,16295817,New cases
-Turkey,2022-08-13,16295817,New cases
-Turkey,2022-08-14,16295817,New cases
-Turkey,2022-08-15,16528070,New cases
-Turkey,2022-08-16,16671848,New cases
-Turkey,2022-08-17,16671848,New cases
-Turkey,2022-08-18,16671848,New cases
+South Korea,2022-08-19,22129387,New cases
+South Korea,2022-08-20,22240331,New cases
 United Kingdom,2020-01-31,2,New cases
 United Kingdom,2020-02-01,2,New cases
 United Kingdom,2020-02-02,2,New cases
@@ -8333,6 +8398,8 @@ United Kingdom,2022-08-15,23509727,New cases
 United Kingdom,2022-08-16,23509727,New cases
 United Kingdom,2022-08-17,23549842,New cases
 United Kingdom,2022-08-18,23549842,New cases
+United Kingdom,2022-08-19,23549842,New cases
+United Kingdom,2022-08-20,23549842,New cases
 United States,2020-01-22,1,New cases
 United States,2020-01-23,1,New cases
 United States,2020-01-24,2,New cases
@@ -8930,349 +8997,351 @@ United States,2021-09-06,40235582,New cases
 United States,2021-09-07,40445178,New cases
 United States,2021-09-08,40621889,New cases
 United States,2021-09-09,40788305,New cases
-United States,2021-09-10,41030288,New cases
-United States,2021-09-11,41119409,New cases
-United States,2021-09-12,41167756,New cases
-United States,2021-09-13,41378797,New cases
-United States,2021-09-14,41524056,New cases
-United States,2021-09-15,41697300,New cases
-United States,2021-09-16,41856070,New cases
-United States,2021-09-17,42066929,New cases
-United States,2021-09-18,42141819,New cases
-United States,2021-09-19,42186687,New cases
-United States,2021-09-20,42358542,New cases
-United States,2021-09-21,42480297,New cases
-United States,2021-09-22,42611648,New cases
-United States,2021-09-23,42740811,New cases
-United States,2021-09-24,42915602,New cases
-United States,2021-09-25,42976032,New cases
-United States,2021-09-26,43030343,New cases
-United States,2021-09-27,43186329,New cases
-United States,2021-09-28,43299110,New cases
-United States,2021-09-29,43420500,New cases
-United States,2021-09-30,43530875,New cases
-United States,2021-10-01,43685697,New cases
-United States,2021-10-02,43733867,New cases
-United States,2021-10-03,43778643,New cases
-United States,2021-10-04,43921635,New cases
-United States,2021-10-05,44016876,New cases
-United States,2021-10-06,44129062,New cases
-United States,2021-10-07,44230594,New cases
-United States,2021-10-08,44362003,New cases
-United States,2021-10-09,44400802,New cases
-United States,2021-10-10,44440466,New cases
-United States,2021-10-11,44536580,New cases
-United States,2021-10-12,44647204,New cases
-United States,2021-10-13,44755669,New cases
-United States,2021-10-14,44842602,New cases
-United States,2021-10-15,44952082,New cases
-United States,2021-10-16,44991848,New cases
-United States,2021-10-17,45023506,New cases
-United States,2021-10-18,45122462,New cases
-United States,2021-10-19,45204414,New cases
-United States,2021-10-20,45296021,New cases
-United States,2021-10-21,45374102,New cases
-United States,2021-10-22,45470060,New cases
-United States,2021-10-23,45502464,New cases
-United States,2021-10-24,45521631,New cases
-United States,2021-10-25,45634200,New cases
-United States,2021-10-26,45700858,New cases
-United States,2021-10-27,45803409,New cases
-United States,2021-10-28,45878508,New cases
-United States,2021-10-29,45973605,New cases
-United States,2021-10-30,46007884,New cases
-United States,2021-10-31,46040205,New cases
-United States,2021-11-01,46153469,New cases
-United States,2021-11-02,46222209,New cases
-United States,2021-11-03,46307807,New cases
-United States,2021-11-04,46389250,New cases
-United States,2021-11-05,46486112,New cases
-United States,2021-11-06,46520958,New cases
-United States,2021-11-07,46557784,New cases
-United States,2021-11-08,46668568,New cases
-United States,2021-11-09,46746917,New cases
-United States,2021-11-10,46841982,New cases
-United States,2021-11-11,46899607,New cases
-United States,2021-11-12,47043130,New cases
-United States,2021-11-13,47087058,New cases
-United States,2021-11-14,47118970,New cases
-United States,2021-11-15,47253049,New cases
-United States,2021-11-16,47340316,New cases
-United States,2021-11-17,47453160,New cases
-United States,2021-11-18,47562989,New cases
-United States,2021-11-19,47689860,New cases
-United States,2021-11-20,47735207,New cases
-United States,2021-11-21,47775035,New cases
-United States,2021-11-22,47919674,New cases
-United States,2021-11-23,48011006,New cases
-United States,2021-11-24,48122592,New cases
-United States,2021-11-25,48161891,New cases
-United States,2021-11-26,48215309,New cases
-United States,2021-11-27,48241846,New cases
-United States,2021-11-28,48284995,New cases
-United States,2021-11-29,48471277,New cases
-United States,2021-11-30,48588462,New cases
-United States,2021-12-01,48725592,New cases
-United States,2021-12-02,48864444,New cases
-United States,2021-12-03,49023074,New cases
-United States,2021-12-04,49089380,New cases
-United States,2021-12-05,49144548,New cases
-United States,2021-12-06,49322283,New cases
-United States,2021-12-07,49435544,New cases
-United States,2021-12-08,49585458,New cases
-United States,2021-12-09,49709985,New cases
-United States,2021-12-10,49868201,New cases
-United States,2021-12-11,49924772,New cases
-United States,2021-12-12,49977063,New cases
-United States,2021-12-13,50162581,New cases
-United States,2021-12-14,50275405,New cases
-United States,2021-12-15,50421250,New cases
-United States,2021-12-16,50562979,New cases
-United States,2021-12-17,50755632,New cases
-United States,2021-12-18,50835377,New cases
-United States,2021-12-19,50924566,New cases
-United States,2021-12-20,51164626,New cases
-United States,2021-12-21,51344038,New cases
-United States,2021-12-22,51587778,New cases
-United States,2021-12-23,51857490,New cases
-United States,2021-12-24,52105968,New cases
-United States,2021-12-25,52192592,New cases
-United States,2021-12-26,52370922,New cases
-United States,2021-12-27,52871504,New cases
-United States,2021-12-28,53233857,New cases
-United States,2021-12-29,53736066,New cases
-United States,2021-12-30,54326923,New cases
-United States,2021-12-31,54840450,New cases
-United States,2022-01-01,55028965,New cases
-United States,2022-01-02,55314674,New cases
-United States,2022-01-03,56360087,New cases
-United States,2022-01-04,57172450,New cases
-United States,2022-01-05,57835252,New cases
-United States,2022-01-06,58670264,New cases
-United States,2022-01-07,59540164,New cases
-United States,2022-01-08,59937393,New cases
-United States,2022-01-09,60422023,New cases
-United States,2022-01-10,61805940,New cases
-United States,2022-01-11,62594542,New cases
-United States,2022-01-12,63443152,New cases
-United States,2022-01-13,64304246,New cases
-United States,2022-01-14,65184274,New cases
-United States,2022-01-15,65592174,New cases
-United States,2022-01-16,66071457,New cases
-United States,2022-01-17,66746442,New cases
-United States,2022-01-18,67877312,New cases
-United States,2022-01-19,68785087,New cases
-United States,2022-01-20,69517828,New cases
-United States,2022-01-21,70348683,New cases
-United States,2022-01-22,70651120,New cases
-United States,2022-01-23,71016530,New cases
-United States,2022-01-24,71938503,New cases
-United States,2022-01-25,72431430,New cases
-United States,2022-01-26,73108437,New cases
-United States,2022-01-27,73615550,New cases
-United States,2022-01-28,74230359,New cases
-United States,2022-01-29,74408942,New cases
-United States,2022-01-30,74606879,New cases
-United States,2022-01-31,75150258,New cases
-United States,2022-02-01,75476065,New cases
-United States,2022-02-02,75806122,New cases
-United States,2022-02-03,76081511,New cases
-United States,2022-02-04,76437409,New cases
-United States,2022-02-05,76523821,New cases
-United States,2022-02-06,76607274,New cases
-United States,2022-02-07,76954533,New cases
-United States,2022-02-08,77169150,New cases
-United States,2022-02-09,77357777,New cases
-United States,2022-02-10,77529500,New cases
-United States,2022-02-11,77739190,New cases
-United States,2022-02-12,77791044,New cases
-United States,2022-02-13,77849348,New cases
-United States,2022-02-14,78019888,New cases
-United States,2022-02-15,78131209,New cases
-United States,2022-02-16,78246165,New cases
-United States,2022-02-17,78348064,New cases
-United States,2022-02-18,78493364,New cases
-United States,2022-02-19,78524761,New cases
-United States,2022-02-20,78547758,New cases
-United States,2022-02-21,78630854,New cases
-United States,2022-02-22,78720372,New cases
-United States,2022-02-23,78805608,New cases
-United States,2022-02-24,78872764,New cases
-United States,2022-02-25,78947208,New cases
-United States,2022-02-26,78994616,New cases
-United States,2022-02-27,79012834,New cases
-United States,2022-02-28,79111735,New cases
-United States,2022-03-01,79158422,New cases
-United States,2022-03-02,79212007,New cases
-United States,2022-03-03,79260675,New cases
-United States,2022-03-04,79311981,New cases
-United States,2022-03-05,79326894,New cases
-United States,2022-03-06,79339282,New cases
-United States,2022-03-07,79403413,New cases
-United States,2022-03-08,79433205,New cases
-United States,2022-03-09,79470940,New cases
-United States,2022-03-10,79517535,New cases
-United States,2022-03-11,79567241,New cases
-United States,2022-03-12,79577457,New cases
-United States,2022-03-13,79588500,New cases
-United States,2022-03-14,79623916,New cases
-United States,2022-03-15,79648295,New cases
-United States,2022-03-16,79694432,New cases
-United States,2022-03-17,79747616,New cases
-United States,2022-03-18,79778989,New cases
-United States,2022-03-19,79789860,New cases
-United States,2022-03-20,79801307,New cases
-United States,2022-03-21,79843601,New cases
-United States,2022-03-22,79868167,New cases
-United States,2022-03-23,79909121,New cases
-United States,2022-03-24,79952114,New cases
-United States,2022-03-25,79998555,New cases
-United States,2022-03-26,80007983,New cases
-United States,2022-03-27,80019767,New cases
-United States,2022-03-28,80058746,New cases
-United States,2022-03-29,80082915,New cases
-United States,2022-03-30,80122100,New cases
-United States,2022-03-31,80167758,New cases
-United States,2022-04-01,80199999,New cases
-United States,2022-04-02,80211794,New cases
-United States,2022-04-03,80216546,New cases
-United States,2022-04-04,80255806,New cases
-United States,2022-04-05,80281464,New cases
-United States,2022-04-06,80322431,New cases
-United States,2022-04-07,80373070,New cases
-United States,2022-04-08,80448120,New cases
-United States,2022-04-09,80460826,New cases
-United States,2022-04-10,80470358,New cases
-United States,2022-04-11,80510723,New cases
-United States,2022-04-12,80546472,New cases
-United States,2022-04-13,80601888,New cases
-United States,2022-04-14,80652602,New cases
-United States,2022-04-15,80677745,New cases
-United States,2022-04-16,80700377,New cases
-United States,2022-04-17,80707875,New cases
-United States,2022-04-18,80769331,New cases
-United States,2022-04-19,80808613,New cases
-United States,2022-04-20,80877575,New cases
-United States,2022-04-21,80939298,New cases
-United States,2022-04-22,81029397,New cases
-United States,2022-04-23,81049123,New cases
-United States,2022-04-24,81062619,New cases
-United States,2022-04-25,81132888,New cases
-United States,2022-04-26,81178266,New cases
-United States,2022-04-27,81268306,New cases
-United States,2022-04-28,81345677,New cases
-United States,2022-04-29,81406945,New cases
-United States,2022-04-30,81430934,New cases
-United States,2022-05-01,81447634,New cases
-United States,2022-05-02,81542397,New cases
-United States,2022-05-03,81592050,New cases
-United States,2022-05-04,81704130,New cases
-United States,2022-05-05,81792759,New cases
-United States,2022-05-06,81921655,New cases
-United States,2022-05-07,81949471,New cases
-United States,2022-05-08,81955247,New cases
-United States,2022-05-09,82085409,New cases
-United States,2022-05-10,82155754,New cases
-United States,2022-05-11,82316043,New cases
-United States,2022-05-12,82430160,New cases
-United States,2022-05-13,82517670,New cases
-United States,2022-05-14,82534734,New cases
-United States,2022-05-15,82566854,New cases
-United States,2022-05-16,82745678,New cases
-United States,2022-05-17,82830345,New cases
-United States,2022-05-18,83034195,New cases
-United States,2022-05-19,83169480,New cases
-United States,2022-05-20,83318740,New cases
-United States,2022-05-21,83345647,New cases
-United States,2022-05-22,83365221,New cases
-United States,2022-05-23,83507848,New cases
-United States,2022-05-24,83590962,New cases
-United States,2022-05-25,83801118,New cases
-United States,2022-05-26,83946736,New cases
-United States,2022-05-27,84055009,New cases
-United States,2022-05-28,84067733,New cases
-United States,2022-05-29,84073534,New cases
-United States,2022-05-30,84134434,New cases
-United States,2022-05-31,84304825,New cases
-United States,2022-06-01,84532389,New cases
-United States,2022-06-02,84654199,New cases
-United States,2022-06-03,84812024,New cases
-United States,2022-06-04,84838422,New cases
-United States,2022-06-05,84853274,New cases
-United States,2022-06-06,85016106,New cases
-United States,2022-06-07,85102836,New cases
-United States,2022-06-08,85302102,New cases
-United States,2022-06-09,85445136,New cases
-United States,2022-06-10,85552967,New cases
-United States,2022-06-11,85586908,New cases
-United States,2022-06-12,85603426,New cases
-United States,2022-06-13,85757905,New cases
-United States,2022-06-14,85847902,New cases
-United States,2022-06-15,86032711,New cases
-United States,2022-06-16,86162770,New cases
-United States,2022-06-17,86302306,New cases
-United States,2022-06-18,86318699,New cases
-United States,2022-06-19,86335548,New cases
-United States,2022-06-20,86432202,New cases
-United States,2022-06-21,86543936,New cases
-United States,2022-06-22,86729295,New cases
-United States,2022-06-23,86878467,New cases
-United States,2022-06-24,86996489,New cases
-United States,2022-06-25,87036039,New cases
-United States,2022-06-26,87057034,New cases
-United States,2022-06-27,87220911,New cases
-United States,2022-06-28,87317989,New cases
-United States,2022-06-29,87508149,New cases
-United States,2022-06-30,87675646,New cases
-United States,2022-07-01,87833075,New cases
-United States,2022-07-02,87852087,New cases
-United States,2022-07-03,87859351,New cases
-United States,2022-07-04,87939825,New cases
-United States,2022-07-05,88079712,New cases
-United States,2022-07-06,88280168,New cases
-United States,2022-07-07,88422182,New cases
-United States,2022-07-08,88561032,New cases
-United States,2022-07-09,88588583,New cases
-United States,2022-07-10,88611888,New cases
-United States,2022-07-11,88815560,New cases
-United States,2022-07-12,88963959,New cases
-United States,2022-07-13,89168520,New cases
-United States,2022-07-14,89343906,New cases
-United States,2022-07-15,89495796,New cases
-United States,2022-07-16,89536039,New cases
-United States,2022-07-17,89564529,New cases
-United States,2022-07-18,89731909,New cases
-United States,2022-07-19,89849208,New cases
-United States,2022-07-20,90065733,New cases
-United States,2022-07-21,90246480,New cases
-United States,2022-07-22,90379120,New cases
-United States,2022-07-23,90404375,New cases
-United States,2022-07-24,90426556,New cases
-United States,2022-07-25,90616985,New cases
-United States,2022-07-26,90750054,New cases
-United States,2022-07-27,90990027,New cases
-United States,2022-07-28,91167357,New cases
-United States,2022-07-29,91327570,New cases
-United States,2022-07-30,91342609,New cases
-United States,2022-07-31,91354736,New cases
-United States,2022-08-01,91526478,New cases
-United States,2022-08-02,91617548,New cases
-United States,2022-08-03,91818120,New cases
-United States,2022-08-04,92005861,New cases
-United States,2022-08-05,92112706,New cases
-United States,2022-08-06,92126678,New cases
-United States,2022-08-07,92138239,New cases
-United States,2022-08-08,92291402,New cases
-United States,2022-08-09,92390147,New cases
-United States,2022-08-10,92585903,New cases
-United States,2022-08-11,92748423,New cases
-United States,2022-08-12,92844300,New cases
-United States,2022-08-13,92926900,New cases
-United States,2022-08-14,92934254,New cases
-United States,2022-08-15,93052072,New cases
-United States,2022-08-16,93139632,New cases
-United States,2022-08-17,93277721,New cases
-United States,2022-08-18,93403142,New cases
+United States,2021-09-10,41030287,New cases
+United States,2021-09-11,41119408,New cases
+United States,2021-09-12,41167755,New cases
+United States,2021-09-13,41378796,New cases
+United States,2021-09-14,41524055,New cases
+United States,2021-09-15,41697299,New cases
+United States,2021-09-16,41856069,New cases
+United States,2021-09-17,42066928,New cases
+United States,2021-09-18,42141818,New cases
+United States,2021-09-19,42186686,New cases
+United States,2021-09-20,42358541,New cases
+United States,2021-09-21,42480296,New cases
+United States,2021-09-22,42611647,New cases
+United States,2021-09-23,42740810,New cases
+United States,2021-09-24,42915601,New cases
+United States,2021-09-25,42976031,New cases
+United States,2021-09-26,43030342,New cases
+United States,2021-09-27,43186328,New cases
+United States,2021-09-28,43299109,New cases
+United States,2021-09-29,43420499,New cases
+United States,2021-09-30,43530874,New cases
+United States,2021-10-01,43685696,New cases
+United States,2021-10-02,43733866,New cases
+United States,2021-10-03,43778642,New cases
+United States,2021-10-04,43921634,New cases
+United States,2021-10-05,44016875,New cases
+United States,2021-10-06,44129061,New cases
+United States,2021-10-07,44230593,New cases
+United States,2021-10-08,44362002,New cases
+United States,2021-10-09,44400801,New cases
+United States,2021-10-10,44440465,New cases
+United States,2021-10-11,44536579,New cases
+United States,2021-10-12,44647203,New cases
+United States,2021-10-13,44755668,New cases
+United States,2021-10-14,44842601,New cases
+United States,2021-10-15,44952081,New cases
+United States,2021-10-16,44991847,New cases
+United States,2021-10-17,45023505,New cases
+United States,2021-10-18,45122461,New cases
+United States,2021-10-19,45204413,New cases
+United States,2021-10-20,45296019,New cases
+United States,2021-10-21,45374100,New cases
+United States,2021-10-22,45470058,New cases
+United States,2021-10-23,45502462,New cases
+United States,2021-10-24,45521629,New cases
+United States,2021-10-25,45634198,New cases
+United States,2021-10-26,45700856,New cases
+United States,2021-10-27,45803407,New cases
+United States,2021-10-28,45878505,New cases
+United States,2021-10-29,45973602,New cases
+United States,2021-10-30,46007881,New cases
+United States,2021-10-31,46040202,New cases
+United States,2021-11-01,46153466,New cases
+United States,2021-11-02,46222205,New cases
+United States,2021-11-03,46307803,New cases
+United States,2021-11-04,46389246,New cases
+United States,2021-11-05,46486107,New cases
+United States,2021-11-06,46520953,New cases
+United States,2021-11-07,46557779,New cases
+United States,2021-11-08,46668563,New cases
+United States,2021-11-09,46746912,New cases
+United States,2021-11-10,46841977,New cases
+United States,2021-11-11,46899602,New cases
+United States,2021-11-12,47043125,New cases
+United States,2021-11-13,47087053,New cases
+United States,2021-11-14,47118965,New cases
+United States,2021-11-15,47253044,New cases
+United States,2021-11-16,47340311,New cases
+United States,2021-11-17,47453154,New cases
+United States,2021-11-18,47562983,New cases
+United States,2021-11-19,47689854,New cases
+United States,2021-11-20,47735201,New cases
+United States,2021-11-21,47775029,New cases
+United States,2021-11-22,47919668,New cases
+United States,2021-11-23,48011000,New cases
+United States,2021-11-24,48122586,New cases
+United States,2021-11-25,48161885,New cases
+United States,2021-11-26,48215303,New cases
+United States,2021-11-27,48241840,New cases
+United States,2021-11-28,48284989,New cases
+United States,2021-11-29,48471270,New cases
+United States,2021-11-30,48588455,New cases
+United States,2021-12-01,48725585,New cases
+United States,2021-12-02,48864437,New cases
+United States,2021-12-03,49023067,New cases
+United States,2021-12-04,49089373,New cases
+United States,2021-12-05,49144541,New cases
+United States,2021-12-06,49322276,New cases
+United States,2021-12-07,49435537,New cases
+United States,2021-12-08,49585451,New cases
+United States,2021-12-09,49709978,New cases
+United States,2021-12-10,49868194,New cases
+United States,2021-12-11,49924765,New cases
+United States,2021-12-12,49977056,New cases
+United States,2021-12-13,50162574,New cases
+United States,2021-12-14,50275398,New cases
+United States,2021-12-15,50421243,New cases
+United States,2021-12-16,50562972,New cases
+United States,2021-12-17,50755625,New cases
+United States,2021-12-18,50835370,New cases
+United States,2021-12-19,50924559,New cases
+United States,2021-12-20,51164619,New cases
+United States,2021-12-21,51344031,New cases
+United States,2021-12-22,51587771,New cases
+United States,2021-12-23,51857483,New cases
+United States,2021-12-24,52105961,New cases
+United States,2021-12-25,52192585,New cases
+United States,2021-12-26,52370915,New cases
+United States,2021-12-27,52871497,New cases
+United States,2021-12-28,53233850,New cases
+United States,2021-12-29,53736058,New cases
+United States,2021-12-30,54326915,New cases
+United States,2021-12-31,54840442,New cases
+United States,2022-01-01,55028957,New cases
+United States,2022-01-02,55314666,New cases
+United States,2022-01-03,56360079,New cases
+United States,2022-01-04,57172442,New cases
+United States,2022-01-05,57835243,New cases
+United States,2022-01-06,58670255,New cases
+United States,2022-01-07,59540154,New cases
+United States,2022-01-08,59937382,New cases
+United States,2022-01-09,60422012,New cases
+United States,2022-01-10,61805929,New cases
+United States,2022-01-11,62594531,New cases
+United States,2022-01-12,63443141,New cases
+United States,2022-01-13,64304235,New cases
+United States,2022-01-14,65184263,New cases
+United States,2022-01-15,65592162,New cases
+United States,2022-01-16,66071445,New cases
+United States,2022-01-17,66746430,New cases
+United States,2022-01-18,67877300,New cases
+United States,2022-01-19,68785074,New cases
+United States,2022-01-20,69517813,New cases
+United States,2022-01-21,70348667,New cases
+United States,2022-01-22,70651104,New cases
+United States,2022-01-23,71016514,New cases
+United States,2022-01-24,71938487,New cases
+United States,2022-01-25,72431412,New cases
+United States,2022-01-26,73108419,New cases
+United States,2022-01-27,73615531,New cases
+United States,2022-01-28,74230339,New cases
+United States,2022-01-29,74408922,New cases
+United States,2022-01-30,74606859,New cases
+United States,2022-01-31,75150236,New cases
+United States,2022-02-01,75476042,New cases
+United States,2022-02-02,75806099,New cases
+United States,2022-02-03,76081486,New cases
+United States,2022-02-04,76437384,New cases
+United States,2022-02-05,76523795,New cases
+United States,2022-02-06,76607248,New cases
+United States,2022-02-07,76954507,New cases
+United States,2022-02-08,77169123,New cases
+United States,2022-02-09,77357749,New cases
+United States,2022-02-10,77529472,New cases
+United States,2022-02-11,77739162,New cases
+United States,2022-02-12,77791016,New cases
+United States,2022-02-13,77849320,New cases
+United States,2022-02-14,78019860,New cases
+United States,2022-02-15,78131181,New cases
+United States,2022-02-16,78246136,New cases
+United States,2022-02-17,78348035,New cases
+United States,2022-02-18,78493335,New cases
+United States,2022-02-19,78524732,New cases
+United States,2022-02-20,78547729,New cases
+United States,2022-02-21,78630824,New cases
+United States,2022-02-22,78720341,New cases
+United States,2022-02-23,78805576,New cases
+United States,2022-02-24,78872732,New cases
+United States,2022-02-25,78947176,New cases
+United States,2022-02-26,78994584,New cases
+United States,2022-02-27,79012802,New cases
+United States,2022-02-28,79111703,New cases
+United States,2022-03-01,79158390,New cases
+United States,2022-03-02,79211975,New cases
+United States,2022-03-03,79260643,New cases
+United States,2022-03-04,79311949,New cases
+United States,2022-03-05,79326862,New cases
+United States,2022-03-06,79339250,New cases
+United States,2022-03-07,79403381,New cases
+United States,2022-03-08,79433173,New cases
+United States,2022-03-09,79470908,New cases
+United States,2022-03-10,79517503,New cases
+United States,2022-03-11,79567209,New cases
+United States,2022-03-12,79577425,New cases
+United States,2022-03-13,79588468,New cases
+United States,2022-03-14,79623884,New cases
+United States,2022-03-15,79648263,New cases
+United States,2022-03-16,79694400,New cases
+United States,2022-03-17,79747584,New cases
+United States,2022-03-18,79778957,New cases
+United States,2022-03-19,79789828,New cases
+United States,2022-03-20,79801275,New cases
+United States,2022-03-21,79843569,New cases
+United States,2022-03-22,79868135,New cases
+United States,2022-03-23,79909089,New cases
+United States,2022-03-24,79952082,New cases
+United States,2022-03-25,79998523,New cases
+United States,2022-03-26,80007951,New cases
+United States,2022-03-27,80019735,New cases
+United States,2022-03-28,80058714,New cases
+United States,2022-03-29,80082883,New cases
+United States,2022-03-30,80122068,New cases
+United States,2022-03-31,80167726,New cases
+United States,2022-04-01,80199967,New cases
+United States,2022-04-02,80211762,New cases
+United States,2022-04-03,80216514,New cases
+United States,2022-04-04,80255774,New cases
+United States,2022-04-05,80281432,New cases
+United States,2022-04-06,80322399,New cases
+United States,2022-04-07,80373038,New cases
+United States,2022-04-08,80448088,New cases
+United States,2022-04-09,80460794,New cases
+United States,2022-04-10,80470326,New cases
+United States,2022-04-11,80510691,New cases
+United States,2022-04-12,80546440,New cases
+United States,2022-04-13,80601856,New cases
+United States,2022-04-14,80652570,New cases
+United States,2022-04-15,80677713,New cases
+United States,2022-04-16,80700345,New cases
+United States,2022-04-17,80707843,New cases
+United States,2022-04-18,80769299,New cases
+United States,2022-04-19,80808581,New cases
+United States,2022-04-20,80877543,New cases
+United States,2022-04-21,80939266,New cases
+United States,2022-04-22,81029365,New cases
+United States,2022-04-23,81049091,New cases
+United States,2022-04-24,81062587,New cases
+United States,2022-04-25,81132856,New cases
+United States,2022-04-26,81178234,New cases
+United States,2022-04-27,81268274,New cases
+United States,2022-04-28,81345645,New cases
+United States,2022-04-29,81406913,New cases
+United States,2022-04-30,81430902,New cases
+United States,2022-05-01,81447602,New cases
+United States,2022-05-02,81542365,New cases
+United States,2022-05-03,81592018,New cases
+United States,2022-05-04,81704098,New cases
+United States,2022-05-05,81792727,New cases
+United States,2022-05-06,81921623,New cases
+United States,2022-05-07,81949439,New cases
+United States,2022-05-08,81955215,New cases
+United States,2022-05-09,82085377,New cases
+United States,2022-05-10,82155722,New cases
+United States,2022-05-11,82316011,New cases
+United States,2022-05-12,82430128,New cases
+United States,2022-05-13,82517638,New cases
+United States,2022-05-14,82534702,New cases
+United States,2022-05-15,82566822,New cases
+United States,2022-05-16,82745646,New cases
+United States,2022-05-17,82830313,New cases
+United States,2022-05-18,83034163,New cases
+United States,2022-05-19,83169448,New cases
+United States,2022-05-20,83318708,New cases
+United States,2022-05-21,83345615,New cases
+United States,2022-05-22,83365189,New cases
+United States,2022-05-23,83507816,New cases
+United States,2022-05-24,83590930,New cases
+United States,2022-05-25,83801086,New cases
+United States,2022-05-26,83946705,New cases
+United States,2022-05-27,84054978,New cases
+United States,2022-05-28,84067702,New cases
+United States,2022-05-29,84073503,New cases
+United States,2022-05-30,84134403,New cases
+United States,2022-05-31,84304794,New cases
+United States,2022-06-01,84532358,New cases
+United States,2022-06-02,84654166,New cases
+United States,2022-06-03,84811991,New cases
+United States,2022-06-04,84838389,New cases
+United States,2022-06-05,84853241,New cases
+United States,2022-06-06,85016073,New cases
+United States,2022-06-07,85102803,New cases
+United States,2022-06-08,85302069,New cases
+United States,2022-06-09,85445103,New cases
+United States,2022-06-10,85552934,New cases
+United States,2022-06-11,85586875,New cases
+United States,2022-06-12,85603393,New cases
+United States,2022-06-13,85757871,New cases
+United States,2022-06-14,85847868,New cases
+United States,2022-06-15,86032676,New cases
+United States,2022-06-16,86162733,New cases
+United States,2022-06-17,86302269,New cases
+United States,2022-06-18,86318662,New cases
+United States,2022-06-19,86335511,New cases
+United States,2022-06-20,86432165,New cases
+United States,2022-06-21,86543899,New cases
+United States,2022-06-22,86729258,New cases
+United States,2022-06-23,86878430,New cases
+United States,2022-06-24,86996451,New cases
+United States,2022-06-25,87036001,New cases
+United States,2022-06-26,87056996,New cases
+United States,2022-06-27,87220872,New cases
+United States,2022-06-28,87317949,New cases
+United States,2022-06-29,87508109,New cases
+United States,2022-06-30,87675606,New cases
+United States,2022-07-01,87833035,New cases
+United States,2022-07-02,87852047,New cases
+United States,2022-07-03,87859311,New cases
+United States,2022-07-04,87939785,New cases
+United States,2022-07-05,88079671,New cases
+United States,2022-07-06,88280127,New cases
+United States,2022-07-07,88422141,New cases
+United States,2022-07-08,88560991,New cases
+United States,2022-07-09,88588542,New cases
+United States,2022-07-10,88611847,New cases
+United States,2022-07-11,88815519,New cases
+United States,2022-07-12,88963918,New cases
+United States,2022-07-13,89168478,New cases
+United States,2022-07-14,89343863,New cases
+United States,2022-07-15,89495752,New cases
+United States,2022-07-16,89535995,New cases
+United States,2022-07-17,89564485,New cases
+United States,2022-07-18,89731863,New cases
+United States,2022-07-19,89849156,New cases
+United States,2022-07-20,90065681,New cases
+United States,2022-07-21,90246427,New cases
+United States,2022-07-22,90379067,New cases
+United States,2022-07-23,90404322,New cases
+United States,2022-07-24,90426503,New cases
+United States,2022-07-25,90616931,New cases
+United States,2022-07-26,90749999,New cases
+United States,2022-07-27,90989972,New cases
+United States,2022-07-28,91167302,New cases
+United States,2022-07-29,91327514,New cases
+United States,2022-07-30,91342553,New cases
+United States,2022-07-31,91354680,New cases
+United States,2022-08-01,91526421,New cases
+United States,2022-08-02,91617491,New cases
+United States,2022-08-03,91818063,New cases
+United States,2022-08-04,92005804,New cases
+United States,2022-08-05,92112649,New cases
+United States,2022-08-06,92126621,New cases
+United States,2022-08-07,92138182,New cases
+United States,2022-08-08,92291344,New cases
+United States,2022-08-09,92390086,New cases
+United States,2022-08-10,92585841,New cases
+United States,2022-08-11,92748361,New cases
+United States,2022-08-12,92844516,New cases
+United States,2022-08-13,92927176,New cases
+United States,2022-08-14,92934599,New cases
+United States,2022-08-15,93052775,New cases
+United States,2022-08-16,93140225,New cases
+United States,2022-08-17,93278240,New cases
+United States,2022-08-18,93403640,New cases
+United States,2022-08-19,93500945,New cases
+United States,2022-08-20,93634408,New cases
 Brazil,2020-02-26,NA,Deaths
 Brazil,2020-02-27,NA,Deaths
 Brazil,2020-02-28,NA,Deaths
@@ -10178,6 +10247,8 @@ Brazil,2022-08-15,681557,Deaths
 Brazil,2022-08-16,681763,Deaths
 Brazil,2022-08-17,682010,Deaths
 Brazil,2022-08-18,682216,Deaths
+Brazil,2022-08-19,682358,Deaths
+Brazil,2022-08-20,682358,Deaths
 France,2020-01-24,NA,Deaths
 France,2020-01-25,NA,Deaths
 France,2020-01-26,NA,Deaths
@@ -11116,6 +11187,8 @@ France,2022-08-15,153133,Deaths
 France,2022-08-16,153311,Deaths
 France,2022-08-17,153404,Deaths
 France,2022-08-18,153496,Deaths
+France,2022-08-19,153570,Deaths
+France,2022-08-20,153570,Deaths
 India,2020-01-30,NA,Deaths
 India,2020-01-31,NA,Deaths
 India,2020-02-01,NA,Deaths
@@ -12048,6 +12121,8 @@ India,2022-08-15,527098,Deaths
 India,2022-08-16,527134,Deaths
 India,2022-08-17,527206,Deaths
 India,2022-08-18,527253,Deaths
+India,2022-08-19,527289,Deaths
+India,2022-08-20,527332,Deaths
 Indonesia,2020-03-02,NA,Deaths
 Indonesia,2020-03-03,NA,Deaths
 Indonesia,2020-03-04,NA,Deaths
@@ -12948,6 +13023,8 @@ Indonesia,2022-08-15,157252,Deaths
 Indonesia,2022-08-16,157277,Deaths
 Indonesia,2022-08-17,157296,Deaths
 Indonesia,2022-08-18,157317,Deaths
+Indonesia,2022-08-19,157343,Deaths
+Indonesia,2022-08-20,157365,Deaths
 Italy,2020-01-31,NA,Deaths
 Italy,2020-02-01,NA,Deaths
 Italy,2020-02-02,NA,Deaths
@@ -13879,6 +13956,8 @@ Italy,2022-08-15,174102,Deaths
 Italy,2022-08-16,174172,Deaths
 Italy,2022-08-17,174300,Deaths
 Italy,2022-08-18,174447,Deaths
+Italy,2022-08-19,174571,Deaths
+Italy,2022-08-20,174659,Deaths
 Mexico,2020-01-01,NA,Deaths
 Mexico,2020-01-02,NA,Deaths
 Mexico,2020-01-03,NA,Deaths
@@ -14840,6 +14919,8 @@ Mexico,2022-08-15,328736,Deaths
 Mexico,2022-08-16,328798,Deaths
 Mexico,2022-08-17,328871,Deaths
 Mexico,2022-08-18,328871,Deaths
+Mexico,2022-08-19,328871,Deaths
+Mexico,2022-08-20,328871,Deaths
 Peru,2020-03-06,1,Deaths
 Peru,2020-03-07,1,Deaths
 Peru,2020-03-08,2,Deaths
@@ -15736,6 +15817,8 @@ Peru,2022-08-15,215028,Deaths
 Peru,2022-08-16,215088,Deaths
 Peru,2022-08-17,215088,Deaths
 Peru,2022-08-18,215209,Deaths
+Peru,2022-08-19,215209,Deaths
+Peru,2022-08-20,215317,Deaths
 Russia,2020-01-31,NA,Deaths
 Russia,2020-02-01,NA,Deaths
 Russia,2020-02-02,NA,Deaths
@@ -16667,6 +16750,8 @@ Russia,2022-08-15,375413,Deaths
 Russia,2022-08-16,375470,Deaths
 Russia,2022-08-17,375532,Deaths
 Russia,2022-08-18,375594,Deaths
+Russia,2022-08-19,375658,Deaths
+Russia,2022-08-20,375725,Deaths
 United Kingdom,2020-01-31,NA,Deaths
 United Kingdom,2020-02-01,NA,Deaths
 United Kingdom,2020-02-02,NA,Deaths
@@ -17598,6 +17683,8 @@ United Kingdom,2022-08-15,186284,Deaths
 United Kingdom,2022-08-16,186284,Deaths
 United Kingdom,2022-08-17,187215,Deaths
 United Kingdom,2022-08-18,187215,Deaths
+United Kingdom,2022-08-19,187215,Deaths
+United Kingdom,2022-08-20,187215,Deaths
 United States,2020-01-22,NA,Deaths
 United States,2020-01-23,NA,Deaths
 United States,2020-01-24,NA,Deaths
@@ -18538,3 +18625,5 @@ United States,2022-08-15,1037554,Deaths
 United States,2022-08-16,1038023,Deaths
 United States,2022-08-17,1039116,Deaths
 United States,2022-08-18,1039746,Deaths
+United States,2022-08-19,1040355,Deaths
+United States,2022-08-20,1041141,Deaths
