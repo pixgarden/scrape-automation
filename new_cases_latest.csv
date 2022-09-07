@@ -69,7 +69,7 @@ date,location,iso_a3,new_cases
 2022-09-06,Hong Kong,HKG,9373
 2022-09-06,Hungary,HUN,NA
 2022-09-06,Iceland,ISL,292
-2022-09-06,India,IND,NA
+2022-09-06,India,IND,2799
 2022-09-06,Indonesia,IDN,3607
 2022-09-06,Iran,IRN,1090
 2022-09-06,Iraq,IRQ,NA
@@ -99,7 +99,7 @@ date,location,iso_a3,new_cases
 2022-09-06,Malta,MLT,21
 2022-09-06,Mauritania,MRT,1
 2022-09-06,Mauritius,MUS,NA
-2022-09-06,Mexico,MEX,624
+2022-09-06,Mexico,MEX,5039
 2022-09-06,Moldova,MDA,NA
 2022-09-06,Mongolia,MNG,159
 2022-09-06,Montenegro,MNE,196
@@ -164,7 +164,7 @@ date,location,iso_a3,new_cases
 2022-09-06,Ukraine,UKR,16632
 2022-09-06,United Arab Emirates,ARE,411
 2022-09-06,United Kingdom,GBR,NA
-2022-09-06,United States,USA,112523
+2022-09-06,United States,USA,128366
 2022-09-06,Uruguay,URY,NA
 2022-09-06,Uzbekistan,UZB,16
 2022-09-06,Vanuatu,VUT,28
