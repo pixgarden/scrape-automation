@@ -1,4 +1,5 @@
 date,location,iso_a3,new_cases
+2022-09-13,Algeria,DZA,NA
 2022-09-13,Argentina,ARG,NA
 2022-09-13,Austria,AUT,NA
 2022-09-13,Bahrain,BHR,NA
@@ -27,6 +28,7 @@ date,location,iso_a3,new_cases
 2022-09-13,Serbia,SRB,NA
 2022-09-13,South Africa,ZAF,NA
 2022-09-13,South Korea,KOR,NA
+2022-09-13,Spain,ESP,NA
 2022-09-13,Taiwan,TWN,NA
 2022-09-13,Thailand,THA,NA
 2022-09-13,Trinidad and Tobago,TTO,NA

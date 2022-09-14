@@ -1,4 +1,5 @@
 location,variable,value
+Algeria,share_cases,NA
 Argentina,share_cases,NA
 Austria,share_cases,NA
 Bahrain,share_cases,NA
@@ -27,12 +28,14 @@ Russia,share_cases,NA
 Serbia,share_cases,NA
 South Africa,share_cases,NA
 South Korea,share_cases,NA
+Spain,share_cases,NA
 Taiwan,share_cases,NA
 Thailand,share_cases,NA
 Trinidad and Tobago,share_cases,NA
 Turkey,share_cases,NA
 Uruguay,share_cases,NA
 Zambia,share_cases,NA
+Algeria,share_deaths,NA
 Argentina,share_deaths,NA
 Austria,share_deaths,NA
 Bahrain,share_deaths,NA
@@ -61,6 +64,7 @@ Russia,share_deaths,NA
 Serbia,share_deaths,NA
 South Africa,share_deaths,NA
 South Korea,share_deaths,NA
+Spain,share_deaths,NA
 Taiwan,share_deaths,NA
 Thailand,share_deaths,NA
 Trinidad and Tobago,share_deaths,NA

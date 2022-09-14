@@ -1,7 +1,7 @@
 date,location,iso_code,variable,value
 2022-09-12,Afghanistan,AFG,20-days average,2.5
 2022-09-12,Albania,ALB,20-days average,-29.45
-2022-09-12,Algeria,DZA,20-days average,-3.25
+2022-09-13,Algeria,DZA,20-days average,-3.6
 2022-09-12,Angola,AGO,20-days average,0
 2022-09-13,Argentina,ARG,20-days average,0
 2022-09-12,Armenia,ARM,20-days average,128.75
@@ -144,7 +144,7 @@ date,location,iso_code,variable,value
 2022-09-13,South Africa,ZAF,20-days average,-12.3
 2022-09-13,South Korea,KOR,20-days average,-5664.05
 2022-09-12,South Sudan,SSD,20-days average,0
-2022-09-12,Spain,ESP,20-days average,-451
+2022-09-13,Spain,ESP,20-days average,0
 2022-09-12,Sri Lanka,LKA,20-days average,-9.95
 2022-09-12,Sudan,SDN,20-days average,0.2
 2022-09-12,Suriname,SUR,20-days average,-0.75

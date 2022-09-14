@@ -1,4 +1,5 @@
 location,date,stringency_index,new_deaths_per_million,stringency_lag
+Algeria,2022-09-13,45.21,0,45.21
 Argentina,2022-09-13,25,0,13.42
 Austria,2022-09-13,35.19,0,35.19
 Bahrain,2022-09-13,11.11,0,11.11
@@ -27,6 +28,7 @@ Russia,2022-09-13,38.43,0,38.43
 Serbia,2022-09-13,11.11,0,11.11
 South Africa,2022-09-13,11.11,0,11.11
 South Korea,2022-09-13,13.89,0,13.89
+Spain,2022-09-13,23.61,0,23.61
 Taiwan,2022-09-13,26.85,0,26.85
 Thailand,2022-09-13,29.63,0,29.63
 Trinidad and Tobago,2022-09-13,11.11,0,11.11

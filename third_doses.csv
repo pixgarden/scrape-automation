@@ -1,4 +1,5 @@
 location,iso_code,date,total_boosters_per_hundred
+Algeria,DZA,2022-09-13,1.16
 Argentina,ARG,2022-09-13,67.31
 Austria,AUT,2022-09-13,63.48
 Bahrain,BHR,2022-09-13,68.55
@@ -27,6 +28,7 @@ Russia,RUS,2022-09-13,11.7
 Serbia,SRB,2022-09-13,27.69
 South Africa,ZAF,2022-09-13,6.25
 South Korea,KOR,2022-09-13,78.88
+Spain,ESP,2022-09-13,54.59
 Taiwan,TWN,2022-09-13,81.2
 Thailand,THA,2022-09-13,44.52
 Trinidad and Tobago,TTO,2022-09-13,11.04

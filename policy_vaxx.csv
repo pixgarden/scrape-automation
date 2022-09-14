@@ -1,4 +1,5 @@
 location,date,people_vaccinated_per_hundred,new_deaths_per_million,vaxx_lag
+Algeria,2022-09-13,18.59,0,18.59
 Argentina,2022-09-13,91.17,0,91.14
 Austria,2022-09-13,77.17,0,77.15
 Bahrain,2022-09-13,84.77,0,84.75
@@ -27,6 +28,7 @@ Russia,2022-09-13,58.09,0,57.54
 Serbia,2022-09-13,48.81,0,48.81
 South Africa,2022-09-13,37.53,0,37.46
 South Korea,2022-09-13,87.03,0,87.03
+Spain,2022-09-13,86.96,0,86.95
 Taiwan,2022-09-13,90.64,0,90.09
 Thailand,2022-09-13,79.57,0,79.52
 Trinidad and Tobago,2022-09-13,49.38,0,49.35
