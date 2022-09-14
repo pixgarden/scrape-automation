@@ -1,7 +1,10 @@
 location,variable,value
 Austria,share_cases,NA
+Canada,share_cases,NA
 Chile,share_cases,NA
+Czechia,share_cases,NA
 Denmark,share_cases,NA
+France,share_cases,NA
 Germany,share_cases,NA
 Israel,share_cases,NA
 Italy,share_cases,NA
@@ -10,8 +13,11 @@ Netherlands,share_cases,NA
 Russia,share_cases,NA
 Serbia,share_cases,NA
 Austria,share_deaths,NA
+Canada,share_deaths,NA
 Chile,share_deaths,NA
+Czechia,share_deaths,NA
 Denmark,share_deaths,NA
+France,share_deaths,NA
 Germany,share_deaths,NA
 Israel,share_deaths,NA
 Italy,share_deaths,NA

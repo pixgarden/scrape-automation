@@ -1,7 +1,10 @@
 location,date,people_vaccinated_per_hundred,new_deaths_per_million,vaxx_lag
 Austria,2022-09-13,77.17,0,77.15
+Canada,2022-09-13,86.89,0,86.55
 Chile,2022-09-13,92.67,0,92.63
+Czechia,2022-09-13,66.35,0,66.34
 Denmark,2022-09-13,82.28,0,82.28
+France,2022-09-13,80.92,0,80.91
 Germany,2022-09-13,77.66,0,77.65
 Israel,2022-09-13,72.3,0,72.3
 Italy,2022-09-13,85.81,0,85.8
