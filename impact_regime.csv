@@ -1,37 +1,11 @@
 country_text_id,country_name,year,v2x_libdem,v2x_regime,Regime,date,location,total_cases_per_million,label
-ARG,Argentina,2020,0.67,2,Electoral democracy,2022-09-13,Argentina,NA,Argentina:NA
-AUT,Austria,2020,0.758,3,Liberal democracy,2022-09-13,Austria,NA,Austria:NA
-BGR,Bulgaria,2020,0.491,2,Electoral democracy,2022-09-13,Bulgaria,NA,Bulgaria:NA
-BHR,Bahrain,2020,0.048,0,Closed autocracy,2022-09-13,Bahrain,NA,Bahrain:NA
-BRA,Brazil,2020,0.511,2,Electoral democracy,2022-09-13,Brazil,NA,Brazil:NA
-CAN,Canada,2020,0.736,3,Liberal democracy,2022-09-13,Canada,NA,Canada:NA
-CHL,Chile,2020,0.758,2,Electoral democracy,2022-09-13,Chile,NA,Chile:NA
-CHN,China,2020,0.043,0,Closed autocracy,2022-09-13,China,NA,China:NA
-CZE,Czech Republic,2020,0.708,2,Electoral democracy,2022-09-13,Czechia,NA,Czechia:NA
-DEU,Germany,2020,0.833,3,Liberal democracy,2022-09-13,Germany,NA,Germany:NA
-DNK,Denmark,2020,0.878,3,Liberal democracy,2022-09-13,Denmark,NA,Denmark:NA
-DZA,Algeria,2020,0.147,1,Electoral autocracy,2022-09-13,Algeria,NA,Algeria:NA
-ESP,Spain,2020,0.8,3,Liberal democracy,2022-09-13,Spain,NA,Spain:NA
-FRA,France,2020,0.796,3,Liberal democracy,2022-09-13,France,NA,France:NA
-GRC,Greece,2020,0.744,3,Liberal democracy,2022-09-13,Greece,NA,Greece:NA
-HUN,Hungary,2020,0.368,1,Electoral autocracy,2022-09-13,Hungary,NA,Hungary:NA
-IND,India,2020,0.34,1,Electoral autocracy,2022-09-13,India,NA,India:NA
-ISR,Israel,2020,0.648,3,Liberal democracy,2022-09-13,Israel,NA,Israel:NA
-ITA,Italy,2020,0.785,3,Liberal democracy,2022-09-13,Italy,NA,Italy:NA
-KAZ,Kazakhstan,2020,0.129,1,Electoral autocracy,2022-09-13,Kazakhstan,NA,Kazakhstan:NA
-KGZ,Kyrgyzstan,2020,0.291,1,Electoral autocracy,2022-09-13,Kyrgyzstan,NA,Kyrgyzstan:NA
-KOR,South Korea,2020,0.792,3,Liberal democracy,2022-09-13,South Korea,NA,South Korea:NA
-LTU,Lithuania,2020,0.76,2,Electoral democracy,2022-09-13,Lithuania,NA,Lithuania:NA
-MYS,Malaysia,2020,0.284,1,Electoral autocracy,2022-09-13,Malaysia,NA,Malaysia:NA
-NLD,Netherlands,2020,0.825,3,Liberal democracy,2022-09-13,Netherlands,NA,Netherlands:NA
-NZL,New Zealand,2020,0.846,3,Liberal democracy,2022-09-13,New Zealand,NA,New Zealand:NA
-PAK,Pakistan,2020,0.25,1,Electoral autocracy,2022-09-13,Pakistan,NA,Pakistan:NA
-RUS,Russia,2020,0.104,1,Electoral autocracy,2022-09-13,Russia,NA,Russia:NA
-SRB,Serbia,2020,0.239,1,Electoral autocracy,2022-09-13,Serbia,NA,Serbia:NA
-THA,Thailand,2020,0.175,0,Closed autocracy,2022-09-13,Thailand,NA,Thailand:NA
-TTO,Trinidad and Tobago,2020,0.643,2,Electoral democracy,2022-09-13,Trinidad and Tobago,NA,Trinidad and Tobago:NA
-TUR,Turkey,2020,0.111,1,Electoral autocracy,2022-09-13,Turkey,NA,Turkey:NA
-TWN,Taiwan,2020,0.718,3,Liberal democracy,2022-09-13,Taiwan,NA,Taiwan:NA
-URY,Uruguay,2020,0.795,3,Liberal democracy,2022-09-13,Uruguay,NA,Uruguay:NA
-ZAF,South Africa,2020,0.577,2,Electoral democracy,2022-09-13,South Africa,NA,South Africa:NA
-ZMB,Zambia,2020,0.27,1,Electoral autocracy,2022-09-13,Zambia,NA,Zambia:NA
+AUT,Austria,2020,0.758,3,Liberal democracy,2022-09-14,Austria,NA,Austria:NA
+DEU,Germany,2020,0.833,3,Liberal democracy,2022-09-14,Germany,NA,Germany:NA
+DNK,Denmark,2020,0.878,3,Liberal democracy,2022-09-14,Denmark,NA,Denmark:NA
+FRA,France,2020,0.796,3,Liberal democracy,2022-09-14,France,NA,France:NA
+ISR,Israel,2020,0.648,3,Liberal democracy,2022-09-14,Israel,NA,Israel:NA
+ITA,Italy,2020,0.785,3,Liberal democracy,2022-09-14,Italy,NA,Italy:NA
+MYS,Malaysia,2020,0.284,1,Electoral autocracy,2022-09-14,Malaysia,NA,Malaysia:NA
+NLD,Netherlands,2020,0.825,3,Liberal democracy,2022-09-14,Netherlands,NA,Netherlands:NA
+RUS,Russia,2020,0.104,1,Electoral autocracy,2022-09-14,Russia,NA,Russia:NA
+SRB,Serbia,2020,0.239,1,Electoral autocracy,2022-09-14,Serbia,NA,Serbia:NA
