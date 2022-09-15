@@ -1,5 +1,7 @@
 country_text_id,country_name,year,v2x_libdem,v2x_regime,Regime,date,location,total_cases_per_million,label
 AUT,Austria,2020,0.758,3,Liberal democracy,2022-09-14,Austria,NA,Austria:NA
+CAN,Canada,2020,0.736,3,Liberal democracy,2022-09-14,Canada,NA,Canada:NA
+CZE,Czech Republic,2020,0.708,2,Electoral democracy,2022-09-14,Czechia,NA,Czechia:NA
 DEU,Germany,2020,0.833,3,Liberal democracy,2022-09-14,Germany,NA,Germany:NA
 DNK,Denmark,2020,0.878,3,Liberal democracy,2022-09-14,Denmark,NA,Denmark:NA
 FRA,France,2020,0.796,3,Liberal democracy,2022-09-14,France,NA,France:NA

@@ -1,5 +1,7 @@
 location,date,stringency_index,new_deaths_per_million,stringency_lag
 Austria,2022-09-14,35.19,0,35.19
+Canada,2022-09-14,16.61,0,16.62
+Czechia,2022-09-14,14.81,0,14.81
 Denmark,2022-09-14,11.11,0,11.11
 France,2022-09-14,11.11,0,11.11
 Germany,2022-09-14,14.81,0,14.81
