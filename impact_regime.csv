@@ -1,33 +1,175 @@
 country_text_id,country_name,year,v2x_libdem,v2x_regime,Regime,date,location,total_cases_per_million,label
-AUT,Austria,2020,0.758,3,Liberal democracy,2022-09-14,Austria,NA,Austria:NA
-BGD,Bangladesh,2020,0.097,1,Electoral autocracy,2022-09-14,Bangladesh,NA,Bangladesh:NA
-BGR,Bulgaria,2020,0.491,2,Electoral democracy,2022-09-14,Bulgaria,NA,Bulgaria:NA
-BHR,Bahrain,2020,0.048,0,Closed autocracy,2022-09-14,Bahrain,NA,Bahrain:NA
-BRA,Brazil,2020,0.511,2,Electoral democracy,2022-09-14,Brazil,NA,Brazil:NA
-CAN,Canada,2020,0.736,3,Liberal democracy,2022-09-14,Canada,NA,Canada:NA
-CHN,China,2020,0.043,0,Closed autocracy,2022-09-14,China,NA,China:NA
-CZE,Czech Republic,2020,0.708,2,Electoral democracy,2022-09-14,Czechia,NA,Czechia:NA
-DEU,Germany,2020,0.833,3,Liberal democracy,2022-09-14,Germany,NA,Germany:NA
-DNK,Denmark,2020,0.878,3,Liberal democracy,2022-09-14,Denmark,NA,Denmark:NA
-FIN,Finland,2020,0.837,3,Liberal democracy,2022-09-14,Finland,NA,Finland:NA
-FRA,France,2020,0.796,3,Liberal democracy,2022-09-14,France,NA,France:NA
-GRC,Greece,2020,0.744,3,Liberal democracy,2022-09-14,Greece,NA,Greece:NA
-IND,India,2020,0.34,1,Electoral autocracy,2022-09-14,India,NA,India:NA
-ISR,Israel,2020,0.648,3,Liberal democracy,2022-09-14,Israel,NA,Israel:NA
-ITA,Italy,2020,0.785,3,Liberal democracy,2022-09-14,Italy,NA,Italy:NA
-KAZ,Kazakhstan,2020,0.129,1,Electoral autocracy,2022-09-14,Kazakhstan,NA,Kazakhstan:NA
-KGZ,Kyrgyzstan,2020,0.291,1,Electoral autocracy,2022-09-14,Kyrgyzstan,NA,Kyrgyzstan:NA
-KOR,South Korea,2020,0.792,3,Liberal democracy,2022-09-14,South Korea,NA,South Korea:NA
-LTU,Lithuania,2020,0.76,2,Electoral democracy,2022-09-14,Lithuania,NA,Lithuania:NA
-MYS,Malaysia,2020,0.284,1,Electoral autocracy,2022-09-14,Malaysia,NA,Malaysia:NA
-NLD,Netherlands,2020,0.825,3,Liberal democracy,2022-09-14,Netherlands,NA,Netherlands:NA
-PAK,Pakistan,2020,0.25,1,Electoral autocracy,2022-09-14,Pakistan,NA,Pakistan:NA
-POL,Poland,2020,0.487,2,Electoral democracy,2022-09-14,Poland,NA,Poland:NA
-RUS,Russia,2020,0.104,1,Electoral autocracy,2022-09-14,Russia,NA,Russia:NA
-SRB,Serbia,2020,0.239,1,Electoral autocracy,2022-09-14,Serbia,NA,Serbia:NA
-THA,Thailand,2020,0.175,0,Closed autocracy,2022-09-14,Thailand,NA,Thailand:NA
-TTO,Trinidad and Tobago,2020,0.643,2,Electoral democracy,2022-09-14,Trinidad and Tobago,NA,Trinidad and Tobago:NA
-TUR,Turkey,2020,0.111,1,Electoral autocracy,2022-09-14,Turkey,NA,Turkey:NA
-TWN,Taiwan,2020,0.718,3,Liberal democracy,2022-09-14,Taiwan,NA,Taiwan:NA
-URY,Uruguay,2020,0.795,3,Liberal democracy,2022-09-14,Uruguay,NA,Uruguay:NA
-ZAF,South Africa,2020,0.577,2,Electoral democracy,2022-09-14,South Africa,NA,South Africa:NA
+AFG,Afghanistan,2020,0.192,1,Electoral autocracy,2022-09-14,Afghanistan,4906.575,"Afghanistan:  4,906.6"
+AGO,Angola,2020,0.212,1,Electoral autocracy,2022-09-14,Angola,2988.977,"Angola:  2,989.0"
+ALB,Albania,2020,0.403,2,Electoral democracy,2022-09-14,Albania,116052.068,"Albania:116,052.1"
+ARE,United Arab Emirates,2020,0.091,0,Closed autocracy,2022-09-14,United Arab Emirates,109041.676,"United Arab Emirates:109,041.7"
+ARG,Argentina,2020,0.67,2,Electoral democracy,2022-09-14,Argentina,214188.443,"Argentina:214,188.4"
+ARM,Armenia,2020,0.597,1,Electoral autocracy,2022-09-14,Armenia,157400.965,"Armenia:157,401.0"
+AUS,Australia,2020,0.787,3,Liberal democracy,2022-09-14,Australia,390526.609,"Australia:390,526.6"
+AUT,Austria,2020,0.758,3,Liberal democracy,2022-09-14,Austria,560022.537,"Austria:560,022.5"
+AZE,Azerbaijan,2020,0.066,1,Electoral autocracy,2022-09-14,Azerbaijan,79378.904,"Azerbaijan: 79,378.9"
+BDI,Burundi,2020,0.053,1,Electoral autocracy,2022-09-14,Burundi,3933.484,"Burundi:  3,933.5"
+BEL,Belgium,2020,0.821,3,Liberal democracy,2022-09-14,Belgium,387903.116,"Belgium:387,903.1"
+BEN,Benin,2020,0.295,1,Electoral autocracy,2022-09-14,Benin,2126.508,"Benin:  2,126.5"
+BFA,Burkina Faso,2020,0.506,2,Electoral democracy,2022-09-14,Burkina Faso,955.989,Burkina Faso:    956.0
+BGD,Bangladesh,2020,0.097,1,Electoral autocracy,2022-09-14,Bangladesh,11904.757,"Bangladesh: 11,904.8"
+BGR,Bulgaria,2020,0.491,2,Electoral democracy,2022-09-14,Bulgaria,181567.524,"Bulgaria:181,567.5"
+BHR,Bahrain,2020,0.048,0,Closed autocracy,2022-09-14,Bahrain,461234.978,"Bahrain:461,235.0"
+BIH,Bosnia and Herzegovina,2020,0.34,2,Electoral democracy,2022-09-14,Bosnia and Herzegovina,121555.772,"Bosnia and Herzegovina:121,555.8"
+BLR,Belarus,2020,0.076,1,Electoral autocracy,2022-09-14,Belarus,103781.537,"Belarus:103,781.5"
+BOL,Bolivia,2020,0.23,1,Electoral autocracy,2022-09-14,Bolivia,91604.832,"Bolivia: 91,604.8"
+BRA,Brazil,2020,0.511,2,Electoral democracy,2022-09-14,Brazil,161244.394,"Brazil:161,244.4"
+BRB,Barbados,2020,0.684,3,Liberal democracy,2022-09-14,Barbados,362820.057,"Barbados:362,820.1"
+BTN,Bhutan,2020,0.458,2,Electoral democracy,2022-09-14,Bhutan,78996.921,"Bhutan: 78,996.9"
+BWA,Botswana,2020,0.481,2,Electoral democracy,2022-09-14,Botswana,125994.476,"Botswana:125,994.5"
+CAF,Central African Republic,2020,0.214,1,Electoral autocracy,2022-09-14,Central African Republic,2731.094,"Central African Republic:  2,731.1"
+CAN,Canada,2020,0.736,3,Liberal democracy,2022-09-14,Canada,110891.434,"Canada:110,891.4"
+CHE,Switzerland,2020,0.847,3,Liberal democracy,2022-09-14,Switzerland,468663.873,"Switzerland:468,663.9"
+CHL,Chile,2020,0.758,2,Electoral democracy,2022-09-14,Chile,234363.714,"Chile:234,363.7"
+CHN,China,2020,0.043,0,Closed autocracy,2022-09-14,China,685.333,China:    685.3
+CIV,Ivory Coast,2020,0.312,1,Electoral autocracy,2022-09-14,Cote d'Ivoire,3163.993,"Cote d'Ivoire:  3,164.0"
+CMR,Cameroon,2020,0.124,1,Electoral autocracy,2022-09-14,Cameroon,4472.726,"Cameroon:  4,472.7"
+COD,Democratic Republic of the Congo,2020,0.157,1,Electoral autocracy,2022-09-14,Democratic Republic of Congo,967.223,Democratic Republic of Congo:    967.2
+COG,Republic of the Congo,2020,0.119,1,Electoral autocracy,2022-09-14,Congo,4255.967,"Congo:  4,256.0"
+COL,Colombia,2020,0.447,2,Electoral democracy,2022-09-14,Colombia,122374.568,"Colombia:122,374.6"
+COM,Comoros,2020,0.173,1,Electoral autocracy,2022-09-14,Comoros,10305.175,"Comoros: 10,305.2"
+CPV,Cape Verde,2020,0.69,2,Electoral democracy,2022-09-14,Cape Verde,106050.942,"Cape Verde:106,050.9"
+CRI,Costa Rica,2020,0.849,3,Liberal democracy,2022-09-14,Costa Rica,214552.042,"Costa Rica:214,552.0"
+CUB,Cuba,2020,0.085,0,Closed autocracy,2022-09-14,Cuba,98695.032,"Cuba: 98,695.0"
+CYP,Cyprus,2020,0.724,3,Liberal democracy,2022-09-14,Cyprus,647203.649,"Cyprus:647,203.6"
+CZE,Czech Republic,2020,0.708,2,Electoral democracy,2022-09-14,Czechia,387071.427,"Czechia:387,071.4"
+DEU,Germany,2020,0.833,3,Liberal democracy,2022-09-14,Germany,390907.065,"Germany:390,907.1"
+DJI,Djibouti,2020,0.125,1,Electoral autocracy,2022-09-14,Djibouti,14191.941,"Djibouti: 14,191.9"
+DNK,Denmark,2020,0.878,3,Liberal democracy,2022-09-14,Denmark,560910.725,"Denmark:560,910.7"
+DOM,Dominican Republic,2020,0.344,2,Electoral democracy,2022-09-14,Dominican Republic,57715.801,"Dominican Republic: 57,715.8"
+DZA,Algeria,2020,0.147,1,Electoral autocracy,2022-09-14,Algeria,6124.546,"Algeria:  6,124.5"
+ECU,Ecuador,2020,0.485,2,Electoral democracy,2022-09-14,Ecuador,56198.943,"Ecuador: 56,198.9"
+EGY,Egypt,2020,0.122,1,Electoral autocracy,2022-09-14,Egypt,4719.337,"Egypt:  4,719.3"
+ERI,Eritrea,2020,0.012,0,Closed autocracy,2022-09-14,Eritrea,2807.493,"Eritrea:  2,807.5"
+ESP,Spain,2020,0.8,3,Liberal democracy,2022-09-14,Spain,281637.802,"Spain:281,637.8"
+EST,Estonia,2020,0.832,3,Liberal democracy,2022-09-14,Estonia,451264.807,"Estonia:451,264.8"
+ETH,Ethiopia,2020,0.163,1,Electoral autocracy,2022-09-14,Ethiopia,4101.867,"Ethiopia:  4,101.9"
+FIN,Finland,2020,0.837,3,Liberal democracy,2022-09-14,Finland,229681.69,"Finland:229,681.7"
+FJI,Fiji,2020,0.279,1,Electoral autocracy,2022-09-14,Fiji,73768.4,"Fiji: 73,768.4"
+FRA,France,2020,0.796,3,Liberal democracy,2022-09-14,France,517046.587,"France:517,046.6"
+GAB,Gabon,2020,0.207,1,Electoral autocracy,2022-09-14,Gabon,20787.817,"Gabon: 20,787.8"
+GBR,United Kingdom,2020,0.797,3,Liberal democracy,2022-09-14,United Kingdom,350091.467,"United Kingdom:350,091.5"
+GEO,Georgia,2020,0.506,2,Electoral democracy,2022-09-14,Georgia,468923.73,"Georgia:468,923.7"
+GHA,Ghana,2020,0.596,3,Liberal democracy,2022-09-14,Ghana,5135.56,"Ghana:  5,135.6"
+GIN,Guinea,2020,0.137,1,Electoral autocracy,2022-09-14,Guinea,2782.461,"Guinea:  2,782.5"
+GMB,The Gambia,2020,0.419,2,Electoral democracy,2022-09-14,Gambia,4738.03,"Gambia:  4,738.0"
+GNB,Guinea-Bissau,2020,0.347,2,Electoral democracy,2022-09-14,Guinea-Bissau,4268.409,"Guinea-Bissau:  4,268.4"
+GNQ,Equatorial Guinea,2020,0.056,1,Electoral autocracy,2022-09-14,Equatorial Guinea,10394.832,"Equatorial Guinea: 10,394.8"
+GRC,Greece,2020,0.744,3,Liberal democracy,2022-09-14,Greece,463249.585,"Greece:463,249.6"
+GTM,Guatemala,2020,0.405,2,Electoral democracy,2022-09-14,Guatemala,63257.636,"Guatemala: 63,257.6"
+GUY,Guyana,2020,0.404,2,Electoral democracy,2022-09-14,Guyana,88522.149,"Guyana: 88,522.1"
+HKG,Hong Kong,2020,0.253,0,Closed autocracy,2022-09-14,Hong Kong,223456.077,"Hong Kong:223,456.1"
+HND,Honduras,2020,0.23,1,Electoral autocracy,2022-09-14,Honduras,44332.911,"Honduras: 44,332.9"
+HRV,Croatia,2020,0.641,2,Electoral democracy,2022-09-14,Croatia,300976.938,"Croatia:300,976.9"
+HTI,Haiti,2020,0.235,1,Electoral autocracy,2022-09-14,Haiti,2944.031,"Haiti:  2,944.0"
+HUN,Hungary,2020,0.368,1,Electoral autocracy,2022-09-14,Hungary,213232.609,"Hungary:213,232.6"
+IDN,Indonesia,2020,0.448,2,Electoral democracy,2022-09-14,Indonesia,23378.851,"Indonesia: 23,378.9"
+IND,India,2020,0.34,1,Electoral autocracy,2022-09-14,India,31626.614,"India: 31,626.6"
+IRL,Ireland,2020,0.817,3,Liberal democracy,2022-09-14,Ireland,333024.434,"Ireland:333,024.4"
+IRN,Iran,2020,0.142,1,Electoral autocracy,2022-09-14,Iran,85767.375,"Iran: 85,767.4"
+IRQ,Iraq,2020,0.22,1,Electoral autocracy,2022-09-14,Iraq,56473.837,"Iraq: 56,473.8"
+ISL,Iceland,2020,0.79,3,Liberal democracy,2022-09-14,Iceland,554319.738,"Iceland:554,319.7"
+ISR,Israel,2020,0.648,3,Liberal democracy,2022-09-14,Israel,500088.042,"Israel:500,088.0"
+ITA,Italy,2020,0.785,3,Liberal democracy,2022-09-14,Italy,372996.741,"Italy:372,996.7"
+JAM,Jamaica,2020,0.698,2,Electoral democracy,2022-09-14,Jamaica,53372.465,"Jamaica: 53,372.5"
+JOR,Jordan,2020,0.242,0,Closed autocracy,2022-09-14,Jordan,156280.279,"Jordan:156,280.3"
+JPN,Japan,2020,0.731,3,Liberal democracy,2022-09-14,Japan,163682.721,"Japan:163,682.7"
+KAZ,Kazakhstan,2020,0.129,1,Electoral autocracy,2022-09-14,Kazakhstan,77197.182,"Kazakhstan: 77,197.2"
+KEN,Kenya,2020,0.367,1,Electoral autocracy,2022-09-14,Kenya,6382.494,"Kenya:  6,382.5"
+KGZ,Kyrgyzstan,2020,0.291,1,Electoral autocracy,2022-09-14,Kyrgyzstan,31545.36,"Kyrgyzstan: 31,545.4"
+KHM,Cambodia,2020,0.066,1,Electoral autocracy,2022-09-14,Cambodia,8303.021,"Cambodia:  8,303.0"
+KOR,South Korea,2020,0.792,3,Liberal democracy,2022-09-14,South Korea,468153.674,"South Korea:468,153.7"
+KWT,Kuwait,2020,0.288,0,Closed autocracy,2022-09-14,Kuwait,154759.378,"Kuwait:154,759.4"
+LAO,Laos,2020,0.09,0,Closed autocracy,2022-09-14,Laos,28992.635,"Laos: 28,992.6"
+LBN,Lebanon,2020,0.286,1,Electoral autocracy,2022-09-14,Lebanon,216928.312,"Lebanon:216,928.3"
+LBR,Liberia,2020,0.477,2,Electoral democracy,2022-09-14,Liberia,1526.741,"Liberia:  1,526.7"
+LBY,Libya,2020,0.153,0,Closed autocracy,2022-09-14,Libya,75261.79,"Libya: 75,261.8"
+LKA,Sri Lanka,2020,0.379,2,Electoral democracy,2022-09-14,Sri Lanka,30795.27,"Sri Lanka: 30,795.3"
+LSO,Lesotho,2020,0.497,2,Electoral democracy,2022-09-14,Lesotho,15028.574,"Lesotho: 15,028.6"
+LTU,Lithuania,2020,0.76,2,Electoral democracy,2022-09-14,Lithuania,441671.741,"Lithuania:441,671.7"
+LUX,Luxembourg,2020,0.783,3,Liberal democracy,2022-09-14,Luxembourg,451507.146,"Luxembourg:451,507.1"
+LVA,Latvia,2020,0.736,3,Liberal democracy,2022-09-14,Latvia,485924.418,"Latvia:485,924.4"
+MAR,Morocco,2020,0.257,0,Closed autocracy,2022-09-14,Morocco,34110.775,"Morocco: 34,110.8"
+MDA,Moldova,2020,0.467,2,Electoral democracy,2022-09-14,Moldova,190488.929,"Moldova:190,488.9"
+MDG,Madagascar,2020,0.269,1,Electoral autocracy,2022-09-14,Madagascar,2305.049,"Madagascar:  2,305.0"
+MDV,Maldives,2020,0.439,2,Electoral democracy,2022-09-14,Maldives,354709.296,"Maldives:354,709.3"
+MEX,Mexico,2020,0.407,2,Electoral democracy,2022-09-14,Mexico,55719.414,"Mexico: 55,719.4"
+MKD,North Macedonia,2020,0.428,2,Electoral democracy,2022-09-14,North Macedonia,162546.533,"North Macedonia:162,546.5"
+MLI,Mali,2020,0.317,1,Electoral autocracy,2022-09-14,Mali,1478.431,"Mali:  1,478.4"
+MLT,Malta,2020,0.612,2,Electoral democracy,2022-09-14,Malta,217035.47,"Malta:217,035.5"
+MMR,Burma/Myanmar,2020,0.271,1,Electoral autocracy,2022-09-14,Myanmar,11482.546,"Myanmar: 11,482.5"
+MNE,Montenegro,2020,0.347,1,Electoral autocracy,2022-09-14,Montenegro,442475.142,"Montenegro:442,475.1"
+MNG,Mongolia,2020,0.503,2,Electoral democracy,2022-09-14,Mongolia,293214.433,"Mongolia:293,214.4"
+MOZ,Mozambique,2020,0.254,1,Electoral autocracy,2022-09-14,Mozambique,7175.967,"Mozambique:  7,176.0"
+MRT,Mauritania,2020,0.185,1,Electoral autocracy,2022-09-14,Mauritania,13603.11,"Mauritania: 13,603.1"
+MUS,Mauritius,2020,0.504,2,Electoral democracy,2022-09-14,Mauritius,200896.133,"Mauritius:200,896.1"
+MWI,Malawi,2020,0.449,2,Electoral democracy,2022-09-14,Malawi,4421.676,"Malawi:  4,421.7"
+MYS,Malaysia,2020,0.284,1,Electoral autocracy,2022-09-14,Malaysia,143305.685,"Malaysia:143,305.7"
+"NAM",Namibia,2020,0.524,2,Electoral democracy,2022-09-14,Namibia,66894.426,"Namibia: 66,894.4"
+NER,Niger,2020,0.389,2,Electoral democracy,2022-09-14,Niger,393.265,Niger:    393.3
+NGA,Nigeria,2020,0.359,2,Electoral democracy,2022-09-14,Nigeria,1239.997,"Nigeria:  1,240.0"
+NIC,Nicaragua,2020,0.062,1,Electoral autocracy,2022-09-14,Nicaragua,2188.149,"Nicaragua:  2,188.1"
+NLD,Netherlands,2020,0.825,3,Liberal democracy,2022-09-14,Netherlands,480639.476,"Netherlands:480,639.5"
+NOR,Norway,2020,0.855,3,Liberal democracy,2022-09-14,Norway,270459.064,"Norway:270,459.1"
+NPL,Nepal,2020,0.446,2,Electoral democracy,2022-09-14,Nepal,33262.739,"Nepal: 33,262.7"
+NZL,New Zealand,2020,0.846,3,Liberal democracy,2022-09-14,New Zealand,343527.571,"New Zealand:343,527.6"
+OMN,Oman,2020,0.139,0,Closed autocracy,2022-09-14,Oman,88042.374,"Oman: 88,042.4"
+PAK,Pakistan,2020,0.25,1,Electoral autocracy,2022-09-14,Pakistan,6791.338,"Pakistan:  6,791.3"
+PAN,Panama,2020,0.558,2,Electoral democracy,2022-09-14,Panama,226194.807,"Panama:226,194.8"
+PER,Peru,2020,0.691,2,Electoral democracy,2022-09-14,Peru,122456.539,"Peru:122,456.5"
+PHL,Philippines,2020,0.28,1,Electoral autocracy,2022-09-14,Philippines,34347.346,"Philippines: 34,347.3"
+PNG,Papua New Guinea,2020,0.336,1,Electoral autocracy,2022-09-14,Papua New Guinea,4515.029,"Papua New Guinea:  4,515.0"
+POL,Poland,2020,0.487,2,Electoral democracy,2022-09-14,Poland,162558.827,"Poland:162,558.8"
+PRK,North Korea,2020,0.015,0,Closed autocracy,2022-09-14,North Korea,0.039,North Korea:      0.0
+PRT,Portugal,2020,0.792,2,Electoral democracy,2022-09-14,Portugal,529809.857,"Portugal:529,809.9"
+PRY,Paraguay,2020,0.426,2,Electoral democracy,2022-09-14,Paraguay,106776.173,"Paraguay:106,776.2"
+PSE,Palestine/West Bank,2020,0.164,1,Electoral autocracy,2022-09-14,Palestine,136866.812,"Palestine:136,866.8"
+QAT,Qatar,2020,0.095,0,Closed autocracy,2022-09-14,Qatar,163117.808,"Qatar:163,117.8"
+ROU,Romania,2020,0.552,2,Electoral democracy,2022-09-14,Romania,167996.995,"Romania:167,997.0"
+RUS,Russia,2020,0.104,1,Electoral autocracy,2022-09-14,Russia,137250.323,"Russia:137,250.3"
+RWA,Rwanda,2020,0.107,1,Electoral autocracy,2022-09-14,Rwanda,9840.967,"Rwanda:  9,841.0"
+SAU,Saudi Arabia,2020,0.047,0,Closed autocracy,2022-09-14,Saudi Arabia,22665.369,"Saudi Arabia: 22,665.4"
+SDN,Sudan,2020,0.086,0,Closed autocracy,2022-09-14,Sudan,1385.871,"Sudan:  1,385.9"
+SEN,Senegal,2020,0.583,2,Electoral democracy,2022-09-14,Senegal,5227.912,"Senegal:  5,227.9"
+SGP,Singapore,2020,0.307,1,Electoral autocracy,2022-09-14,Singapore,342373.478,"Singapore:342,373.5"
+SLB,Solomon Islands,2020,0.485,2,Electoral democracy,2022-09-14,Solomon Islands,30435.784,"Solomon Islands: 30,435.8"
+SLE,Sierra Leone,2020,0.435,2,Electoral democracy,2022-09-14,Sierra Leone,920.357,Sierra Leone:    920.4
+SLV,El Salvador,2020,0.383,2,Electoral democracy,2022-09-14,El Salvador,31957.501,"El Salvador: 31,957.5"
+SOM,Somalia,2020,0.097,0,Closed autocracy,2022-09-14,Somalia,1593.676,"Somalia:  1,593.7"
+SRB,Serbia,2020,0.239,1,Electoral autocracy,2022-09-14,Serbia,338310.864,"Serbia:338,310.9"
+SSD,South Sudan,2020,0.07,0,Closed autocracy,2022-09-14,South Sudan,1658.22,"South Sudan:  1,658.2"
+STP,Sao Tome and Principe,2020,0.587,2,Electoral democracy,2022-09-14,Sao Tome and Principe,27757.982,"Sao Tome and Principe: 27,758.0"
+SUR,Suriname,2020,0.595,2,Electoral democracy,2022-09-14,Suriname,132267.726,"Suriname:132,267.7"
+SVK,Slovakia,2020,0.756,2,Electoral democracy,2022-09-14,Slovakia,479912.336,"Slovakia:479,912.3"
+SVN,Slovenia,2020,0.651,2,Electoral democracy,2022-09-14,Slovenia,542303.754,"Slovenia:542,303.8"
+SWE,Sweden,2020,0.873,3,Liberal democracy,2022-09-14,Sweden,245870.273,"Sweden:245,870.3"
+SWZ,Eswatini,2020,0.12,0,Closed autocracy,2022-09-14,Eswatini,61541.378,"Eswatini: 61,541.4"
+SYC,Seychelles,2020,0.471,2,Electoral democracy,2022-09-14,Seychelles,435409.035,"Seychelles:435,409.0"
+SYR,Syria,2020,0.037,0,Closed autocracy,2022-09-14,Syria,2682.237,"Syria:  2,682.2"
+TCD,Chad,2020,0.093,1,Electoral autocracy,2022-09-14,Chad,440.053,Chad:    440.1
+TGO,Togo,2020,0.2,1,Electoral autocracy,2022-09-14,Togo,4474.12,"Togo:  4,474.1"
+THA,Thailand,2020,0.175,0,Closed autocracy,2022-09-14,Thailand,65240.741,"Thailand: 65,240.7"
+TJK,Tajikistan,2020,0.047,1,Electoral autocracy,2022-09-14,Tajikistan,1824.193,"Tajikistan:  1,824.2"
+TLS,Timor-Leste,2020,0.464,2,Electoral democracy,2022-09-14,Timor,17587.449,"Timor: 17,587.4"
+TTO,Trinidad and Tobago,2020,0.643,2,Electoral democracy,2022-09-14,Trinidad and Tobago,119127.881,"Trinidad and Tobago:119,127.9"
+TUN,Tunisia,2020,0.644,2,Electoral democracy,2022-09-14,Tunisia,93384.004,"Tunisia: 93,384.0"
+TUR,Turkey,2020,0.111,1,Electoral autocracy,2022-09-14,Turkey,198788.578,"Turkey:198,788.6"
+TWN,Taiwan,2020,0.718,3,Liberal democracy,2022-09-14,Taiwan,243267.578,"Taiwan:243,267.6"
+TZA,Tanzania,2020,0.327,1,Electoral autocracy,2022-09-14,Tanzania,617.299,Tanzania:    617.3
+UGA,Uganda,2020,0.23,1,Electoral autocracy,2022-09-14,Uganda,3694.265,"Uganda:  3,694.3"
+UKR,Ukraine,2020,0.348,2,Electoral democracy,2022-09-14,Ukraine,123267.533,"Ukraine:123,267.5"
+URY,Uruguay,2020,0.795,3,Liberal democracy,2022-09-14,Uruguay,286856.806,"Uruguay:286,856.8"
+USA,United States of America,2020,0.728,3,Liberal democracy,2022-09-14,United States,283356.582,"United States:283,356.6"
+UZB,Uzbekistan,2020,0.105,0,Closed autocracy,2022-09-14,Uzbekistan,7159.115,"Uzbekistan:  7,159.1"
+VEN,Venezuela,2020,0.073,1,Electoral autocracy,2022-09-14,Venezuela,19288.39,"Venezuela: 19,288.4"
+VNM,Vietnam,2020,0.107,0,Closed autocracy,2022-09-14,Vietnam,117454.249,"Vietnam:117,454.2"
+VUT,Vanuatu,2020,0.64,2,Electoral democracy,2022-09-14,Vanuatu,37382.182,"Vanuatu: 37,382.2"
+YEM,Yemen,2020,0.037,0,Closed autocracy,2022-09-14,Yemen,361.777,Yemen:    361.8
+ZAF,South Africa,2020,0.577,2,Electoral democracy,2022-09-14,South Africa,67601.171,"South Africa: 67,601.2"
+ZMB,Zambia,2020,0.27,1,Electoral autocracy,2022-09-14,Zambia,17116.564,"Zambia: 17,116.6"
+ZWE,Zimbabwe,2020,0.192,1,Electoral autocracy,2022-09-14,Zimbabwe,16065.19,"Zimbabwe: 16,065.2"
