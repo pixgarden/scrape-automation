@@ -122,7 +122,7 @@ date,location,iso_a3,new_cases
 2022-09-15,Panama,PAN,NA
 2022-09-15,Papua New Guinea,PNG,9
 2022-09-15,Paraguay,PRY,NA
-2022-09-15,Peru,PER,NA
+2022-09-15,Peru,PER,1360
 2022-09-15,Philippines,PHL,2049
 2022-09-15,Poland,POL,5858
 2022-09-15,Portugal,PRT,2203
@@ -154,7 +154,7 @@ date,location,iso_a3,new_cases
 2022-09-15,Taiwan,TWN,45405
 2022-09-15,Tajikistan,TJK,0
 2022-09-15,Tanzania,TZA,0
-2022-09-15,Thailand,THA,NA
+2022-09-15,Thailand,THA,837
 2022-09-15,Timor,TLS,5
 2022-09-15,Togo,TGO,0
 2022-09-15,Trinidad and Tobago,TTO,154
