@@ -6,7 +6,7 @@ date,location,iso_code,variable,value
 2022-10-01,Argentina,ARG,20-days average,-395.1
 2022-10-01,Armenia,ARM,20-days average,0
 2022-10-01,Australia,AUS,20-days average,-170.75
-2022-10-01,Austria,AUT,20-days average,629.45
+2022-10-02,Austria,AUT,20-days average,-1104.2
 2022-10-01,Azerbaijan,AZE,20-days average,-8.7
 2022-10-01,Bahrain,BHR,20-days average,-2.85
 2022-10-01,Bangladesh,BGD,20-days average,8.5
@@ -28,7 +28,7 @@ date,location,iso_code,variable,value
 2022-10-01,Cape Verde,CPV,20-days average,-0.15
 2022-10-01,Central African Republic,CAF,20-days average,0
 2022-10-01,Chad,TCD,20-days average,0
-2022-10-01,Chile,CHL,20-days average,-19.5
+2022-10-02,Chile,CHL,20-days average,-137.05
 2022-10-01,China,CHN,20-days average,-23.75
 2022-10-01,Colombia,COL,20-days average,0
 2022-10-01,Comoros,COM,20-days average,0
@@ -57,7 +57,7 @@ date,location,iso_code,variable,value
 2022-10-01,Gabon,GAB,20-days average,0
 2022-10-01,Gambia,GMB,20-days average,0
 2022-10-01,Georgia,GEO,20-days average,0
-2022-10-01,Germany,DEU,20-days average,0
+2022-10-02,Germany,DEU,20-days average,-2746.5
 2022-10-01,Ghana,GHA,20-days average,14.25
 2022-10-01,Greece,GRC,20-days average,0
 2022-10-01,Guatemala,GTM,20-days average,31.35
@@ -74,8 +74,8 @@ date,location,iso_code,variable,value
 2022-10-01,Iran,IRN,20-days average,-7.9
 2022-10-01,Iraq,IRQ,20-days average,0
 2022-10-01,Ireland,IRL,20-days average,0
-2022-10-01,Israel,ISR,20-days average,-34.35
-2022-10-01,Italy,ITA,20-days average,1058.35
+2022-10-02,Israel,ISR,20-days average,-73.3
+2022-10-02,Italy,ITA,20-days average,-362.55
 2022-10-01,Jamaica,JAM,20-days average,0.65
 2022-10-01,Japan,JPN,20-days average,-4073.5
 2022-10-01,Jordan,JOR,20-days average,0
@@ -93,7 +93,7 @@ date,location,iso_code,variable,value
 2022-10-01,Luxembourg,LUX,20-days average,0
 2022-10-01,Madagascar,MDG,20-days average,-0.6
 2022-10-01,Malawi,MWI,20-days average,0
-2022-10-01,Malaysia,MYS,20-days average,169.75
+2022-10-02,Malaysia,MYS,20-days average,-92.35
 2022-10-01,Maldives,MDV,20-days average,0
 2022-10-01,Mali,MLI,20-days average,-2
 2022-10-01,Malta,MLT,20-days average,0.2
@@ -128,7 +128,7 @@ date,location,iso_code,variable,value
 2022-10-01,Portugal,PRT,20-days average,0
 2022-10-01,Qatar,QAT,20-days average,-9.55
 2022-10-01,Romania,ROU,20-days average,1.45
-2022-10-01,Russia,RUS,20-days average,-964
+2022-10-02,Russia,RUS,20-days average,-2295.55
 2022-10-01,Rwanda,RWA,20-days average,0.05
 2022-10-01,Sao Tome and Principe,STP,20-days average,0
 2022-10-01,Saudi Arabia,SAU,20-days average,-1.6
