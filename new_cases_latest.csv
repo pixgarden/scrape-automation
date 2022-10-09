@@ -1,6 +1,175 @@
 date,location,iso_a3,new_cases
-2022-10-08,Czechia,CZE,NA
+2022-10-08,Afghanistan,AFG,72
+2022-10-08,Albania,ALB,29
+2022-10-08,Algeria,DZA,0
+2022-10-08,Angola,AGO,0
+2022-10-08,Argentina,ARG,NA
+2022-10-08,Armenia,ARM,NA
+2022-10-08,Australia,AUS,819
+2022-10-08,Austria,AUT,13664
+2022-10-08,Azerbaijan,AZE,77
+2022-10-08,Bahrain,BHR,195
+2022-10-08,Bangladesh,BGD,299
+2022-10-08,Barbados,BRB,0
+2022-10-08,Belarus,BLR,0
+2022-10-08,Belgium,BEL,NA
+2022-10-08,Benin,BEN,NA
+2022-10-08,Bhutan,BTN,NA
+2022-10-08,Bolivia,BOL,53
+2022-10-08,Bosnia and Herzegovina,BIH,0
+2022-10-08,Botswana,BWA,0
+2022-10-08,Brazil,BRA,NA
+2022-10-08,Bulgaria,BGR,288
+2022-10-08,Burkina Faso,BFA,0
+2022-10-08,Burundi,BDI,0
+2022-10-08,Cambodia,KHM,9
+2022-10-08,Cameroon,CMR,0
+2022-10-08,Canada,CAN,933
+2022-10-08,Cape Verde,CPV,0
+2022-10-08,Central African Republic,CAF,0
+2022-10-08,Chad,TCD,0
+2022-10-08,Chile,CHL,3738
+2022-10-08,China,CHN,3092
+2022-10-08,Colombia,COL,NA
+2022-10-08,Comoros,COM,0
+2022-10-08,Congo,COG,0
+2022-10-08,Costa Rica,CRI,NA
+2022-10-08,Cote d'Ivoire,CIV,34
+2022-10-08,Croatia,HRV,772
+2022-10-08,Cuba,CUB,4
+2022-10-08,Cyprus,CYP,NA
+2022-10-08,Czechia,CZE,575
+2022-10-08,Democratic Republic of Congo,COD,0
+2022-10-08,Denmark,DNK,NA
+2022-10-08,Djibouti,DJI,0
+2022-10-08,Dominican Republic,DOM,NA
+2022-10-08,Ecuador,ECU,NA
+2022-10-08,Egypt,EGY,0
+2022-10-08,El Salvador,SLV,0
+2022-10-08,Equatorial Guinea,GNQ,0
+2022-10-08,Eritrea,ERI,2
+2022-10-08,Estonia,EST,NA
+2022-10-08,Eswatini,SWZ,0
+2022-10-08,Ethiopia,ETH,11
+2022-10-08,Fiji,FJI,0
+2022-10-08,Finland,FIN,NA
+2022-10-08,France,FRA,NA
+2022-10-08,Gabon,GAB,0
+2022-10-08,Gambia,GMB,0
+2022-10-08,Georgia,GEO,0
 2022-10-08,Germany,DEU,NA
-2022-10-08,Italy,ITA,NA
-2022-10-08,Malaysia,MYS,NA
-2022-10-08,Russia,RUS,NA
+2022-10-08,Ghana,GHA,NA
+2022-10-08,Greece,GRC,NA
+2022-10-08,Guatemala,GTM,384
+2022-10-08,Guinea,GIN,0
+2022-10-08,Guinea-Bissau,GNB,0
+2022-10-08,Guyana,GUY,18
+2022-10-08,Haiti,HTI,0
+2022-10-08,Honduras,HND,NA
+2022-10-08,Hong Kong,HKG,4900
+2022-10-08,Hungary,HUN,NA
+2022-10-08,Iceland,ISL,NA
+2022-10-08,India,IND,2756
+2022-10-08,Indonesia,IDN,1325
+2022-10-08,Iran,IRN,335
+2022-10-08,Iraq,IRQ,0
+2022-10-08,Ireland,IRL,NA
+2022-10-08,Israel,ISR,NA
+2022-10-08,Italy,ITA,43716
+2022-10-08,Jamaica,JAM,0
+2022-10-08,Japan,JPN,26785
+2022-10-08,Jordan,JOR,0
+2022-10-08,Kazakhstan,KAZ,0
+2022-10-08,Kenya,KEN,0
+2022-10-08,Kuwait,KWT,0
+2022-10-08,Kyrgyzstan,KGZ,0
+2022-10-08,Laos,LAO,2
+2022-10-08,Latvia,LVA,NA
+2022-10-08,Lebanon,LBN,NA
+2022-10-08,Lesotho,LSO,0
+2022-10-08,Liberia,LBR,0
+2022-10-08,Libya,LBY,0
+2022-10-08,Lithuania,LTU,820
+2022-10-08,Luxembourg,LUX,NA
+2022-10-08,Madagascar,MDG,0
+2022-10-08,Malawi,MWI,4
+2022-10-08,Malaysia,MYS,1627
+2022-10-08,Maldives,MDV,0
+2022-10-08,Mali,MLI,2
+2022-10-08,Malta,MLT,17
+2022-10-08,Mauritania,MRT,14
+2022-10-08,Mauritius,MUS,0
+2022-10-08,Mexico,MEX,NA
+2022-10-08,Moldova,MDA,0
+2022-10-08,Mongolia,MNG,0
+2022-10-08,Montenegro,MNE,91
+2022-10-08,Morocco,MAR,14
+2022-10-08,Mozambique,MOZ,0
+2022-10-08,Myanmar,MMR,389
+2022-10-08,Namibia,NAM,0
+2022-10-08,Nepal,NPL,6
+2022-10-08,Netherlands,NLD,NA
+2022-10-08,New Zealand,NZL,0
+2022-10-08,Nicaragua,NIC,0
+2022-10-08,Niger,NER,0
+2022-10-08,Nigeria,NGA,75
+2022-10-08,North Korea,PRK,0
+2022-10-08,North Macedonia,MKD,0
+2022-10-08,Norway,NOR,37
+2022-10-08,Oman,OMN,0
+2022-10-08,Pakistan,PAK,NA
+2022-10-08,Palestine,PSE,0
+2022-10-08,Panama,PAN,NA
+2022-10-08,Papua New Guinea,PNG,0
+2022-10-08,Paraguay,PRY,NA
+2022-10-08,Peru,PER,NA
+2022-10-08,Philippines,PHL,2199
+2022-10-08,Poland,POL,3732
+2022-10-08,Portugal,PRT,NA
+2022-10-08,Qatar,QAT,448
+2022-10-08,Romania,ROU,669
+2022-10-08,Russia,RUS,20376
+2022-10-08,Rwanda,RWA,3
+2022-10-08,Sao Tome and Principe,STP,0
+2022-10-08,Saudi Arabia,SAU,87
+2022-10-08,Senegal,SEN,29
+2022-10-08,Serbia,SRB,1475
+2022-10-08,Seychelles,SYC,0
+2022-10-08,Sierra Leone,SLE,0
+2022-10-08,Singapore,SGP,6198
+2022-10-08,Slovakia,SVK,922
+2022-10-08,Slovenia,SVN,2386
+2022-10-08,Solomon Islands,SLB,0
+2022-10-08,Somalia,SOM,0
+2022-10-08,South Africa,ZAF,NA
+2022-10-08,South Korea,KOR,17654
+2022-10-08,South Sudan,SSD,0
+2022-10-08,Spain,ESP,NA
+2022-10-08,Sri Lanka,LKA,13
+2022-10-08,Sudan,SDN,0
+2022-10-08,Suriname,SUR,0
+2022-10-08,Sweden,SWE,NA
+2022-10-08,Switzerland,CHE,NA
+2022-10-08,Syria,SYR,0
+2022-10-08,Taiwan,TWN,44325
+2022-10-08,Tajikistan,TJK,0
+2022-10-08,Tanzania,TZA,0
+2022-10-08,Thailand,THA,0
+2022-10-08,Timor,TLS,0
+2022-10-08,Togo,TGO,0
+2022-10-08,Trinidad and Tobago,TTO,NA
+2022-10-08,Tunisia,TUN,NA
+2022-10-08,Turkey,TUR,0
+2022-10-08,Uganda,UGA,0
+2022-10-08,Ukraine,UKR,195
+2022-10-08,United Arab Emirates,ARE,332
+2022-10-08,United Kingdom,GBR,NA
+2022-10-08,United States,USA,7310
+2022-10-08,Uruguay,URY,NA
+2022-10-08,Uzbekistan,UZB,0
+2022-10-08,Vanuatu,VUT,0
+2022-10-08,Venezuela,VEN,29
+2022-10-08,Vietnam,VNM,682
+2022-10-08,Yemen,YEM,0
+2022-10-08,Zambia,ZMB,0
+2022-10-08,Zimbabwe,ZWE,0
